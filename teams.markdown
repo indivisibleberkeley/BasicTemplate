@@ -44,11 +44,11 @@ To join a team, send a blank email to the address in the **Sign Up** link.
 | Partnerships              | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     | [Sign Up](mailto:partnerships+subscribe@indivisibleberkeley.org)   |
 | Training                  | [training+owner@indivisibleberkeley.org](mailto:training+owner@indivisibleberkeley.org)             | [Sign Up](mailto:training+subscribe@indivisibleberkeley.org)       |
 
-## Amplify
+### Amplify
 
 Amplify is the Indivisible app, delivering Indivisible Berkeley actions and events right to your phone. [Learn more and sign up!][amplify]
 
-## Slack
+### Slack
 
 Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.
 If you'd like to learn more, [join our Slack group][slackinvite], watch our [How To Join Slack video tutorial][slackvideo], check out [the Slack tutorial for new users][slacktutorial],
