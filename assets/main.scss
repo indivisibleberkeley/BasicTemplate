@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5.title, .navbar-brand {
 }
 
 h1, .h1 {
-  font-size: $base-font-size * 4;
+  font-size: $base-font-size * 3.5;
   line-height: 85px;
 }
 
@@ -387,7 +387,7 @@ p, h5 {
     display: block;
     top: 0;
     left: 0;
-    background: rgba(0,0,0,.7);
+    background: rgba(0,0,0,.3);
   }
 
 .site-photos:nth-child(2n+1) {
