@@ -2,8 +2,8 @@
 title: 'Phonebank for CA Values Act: Aug 5th 1:00pm'
 date: 2017-08-01 19:11:00 -07:00
 categories:
+- event
 - phonebank
-- action
 event-start-date: 2017-08-05 00:00:00 -07:00
 Location: 1835 San Ramon Ave, Berkeley CA 94707
 RSVP-link: https://actionnetwork.org/events/aug-5-phone-bank-for-california-values-act-sb-54
