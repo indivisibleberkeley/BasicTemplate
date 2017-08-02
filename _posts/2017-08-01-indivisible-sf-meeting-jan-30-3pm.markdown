@@ -7,7 +7,7 @@ tags:
 - meeting
 is featured: false
 main-image: "/uploads/Unknown.jpeg"
-event-start-date: 2017-08-13 11:30:00 -07:00
+event-start-date: 2017-08-13 19:30:00 -07:00
 Location: Finnish Kaleva Hall, 1970 Chestnut Street Berkeley, CA, 94702
 RSVP-link: http://facebook.com/berkeleyindivisible
 layout: post
