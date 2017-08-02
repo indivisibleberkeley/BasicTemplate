@@ -2,6 +2,7 @@
 title: Archive
 position: 2
 layout: default
+nav: false
 ---
 
 <div class="container">
