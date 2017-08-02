@@ -83,7 +83,7 @@ layout: default
               {% if page.event-end-date %} - {{ page.event-end-date | date: "%l:%M %p" }}{% endif %}
             </li>
             {% endif %}
-            {% if page.Location %}<li class="list-group-item">{{ page.Location | escape }}</li>{% endif %}
+            {% if page.Location %}<li class="list-group-item"><a href="https://www.google.com/maps/search/{{ page.Location | escape }}">{{ page.Location | escape }}</a></li>{% endif %}
           </ul>
           {% if page.RSVP-link %}
           <div class="card-block">
