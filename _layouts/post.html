@@ -117,6 +117,22 @@ layout: default
         {% endif %}
 
         {{ content }}
+        
+        <!-- CALENDAR EMBED -->
+        {% if page.embed-code %}
+
+          <div class="clearfix spacer"></div>
+
+          <h5 class="mb-0">Full Calendar</h5>
+          <hr class="mt-2 mb-2">
+
+          <div class="clearfix spacer-sm"></div>
+
+          {{ page.embed-code }}
+
+          <div class="clearfix spacer"></div>
+
+        {% endif %}
 
         {% if page.categories contains 'action' %}
         <div class="row hidden-sm-up">
