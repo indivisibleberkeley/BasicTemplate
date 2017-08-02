@@ -17,3 +17,14 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
 layout: post
 ---
 
+Join us at the Finnish Hall for our next General Assembly! Doors open at 7PM; we'll start promptly at 7:30PM.
+
+We'll have updates from our teams, an invited speaker, and community event announcements, followed by team breakouts and discussions.
+
+Bring snacks to share! Bring friends!
+
+Questions? Email {{ email }}.
+
+### FEATURED SPEAKERS
+
+To be announced!
