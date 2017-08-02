@@ -502,7 +502,7 @@ iframe {
 }
 
 
-// TABLE
+// IB: TABLE
 
 table {
 	border-collapse: collapse;
@@ -518,4 +518,18 @@ tr:nth-child(even) {
 
 td {
     padding: 5px;
+}
+
+// IB: STRIP ACTIONNETWORK FORMS
+
+.can_embed #logo_wrap {
+    display: none;
+}
+
+.can_embed #action_info {
+    display: none;
+}
+
+.can_embed .last-line {
+    display: none;
 }
