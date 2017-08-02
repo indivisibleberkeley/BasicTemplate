@@ -1,6 +1,6 @@
 ---
 title: Indivisible Berkeley
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -57,16 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: Indivisible Berkeley is a part of the national Indivisible Movement.
+email: info@indivisibleberkeley.org
 baseurl: 
-url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: 100
-footer-title: Spread the word. Help build a movement.
+url: https://new.indivisibleberkelye.org
+twitter_username: indivisibleberk
+facebook_username: berkeleyindivisible
+background-image: "/uploads/IB-May2017-flags.jpg"
+member-count: 2000
+footer-title: Let's take action.
 markdown: kramdown
 gems:
 - jekyll-feed
@@ -77,4 +76,4 @@ paginate_path: "/blog/page:num/"
 exclude:
 - Gemfile
 - Gemfile.lock
-google_analytics: 
+google_analytics: UA-91768679-2
