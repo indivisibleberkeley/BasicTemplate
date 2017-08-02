@@ -8,7 +8,7 @@ mailchimp-form-embed: "<link href='https://actionnetwork.org/css/style-embed.css
   this div is the target for our HTML insertion --></div>"
 nav: true
 navbutton: true
-layout: becomeAMember
+layout: join
 ---
 
 Members of our Indivisible Guide chapter are defined by our action and find solidarity in our shared opposition to Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
