@@ -2,7 +2,7 @@
 title: Teams
 date: 2017-08-01 18:15:00 -07:00
 nav: true
-layout: default
+layout: page
 ---
 
 Click on the name of the team you want to join to load up the “subscribe” email address for that team’s mailing list. Sign up for our Slack team to start chatting right now!
