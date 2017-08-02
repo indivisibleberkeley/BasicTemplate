@@ -10,20 +10,6 @@ layout: default
 
     <div class="clearfix spacer"></div>
 
-    <!-- BODY CONTENT -->
-    {% if content %}
-    <div class="row">
-      <div class="col-sm-7 col-md-6 col-lg-5">
-
-        {{ content }}
-
-        <div class="clearfix spacer"></div>
-
-      </div>
-    </div>
-    {% endif %}
-
-
     <div class="row">
 
       <div class="col-sm-8">
@@ -60,6 +46,19 @@ layout: default
 
           <div class="clearfix spacer"></div>
 
+        {% endif %}
+        
+        <!-- BODY CONTENT -->
+        {% if content %}
+        <div class="row">
+          <div class="col-lg-5">
+
+            {{ content }}
+
+            <div class="clearfix spacer"></div>
+
+          </div>
+        </div>
         {% endif %}
 
         <!-- PAST EVENTS -->
