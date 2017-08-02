@@ -23,7 +23,7 @@ We'll have updates from our teams, an invited speaker, and community event annou
 
 Bring snacks to share! Bring friends!
 
-Questions? Email {{ email }}.
+Questions? Email {{ site.email }}.
 
 ### FEATURED SPEAKERS
 
