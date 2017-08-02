@@ -1,5 +1,5 @@
 ---
-title: 'General Assembly: Aug 13th 7:30pm'
+title: Indivisible Berkeley General Assembly
 date: 2017-08-01 23:10:00 -07:00
 categories:
 - event
