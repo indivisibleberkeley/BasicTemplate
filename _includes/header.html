@@ -30,9 +30,9 @@
             {% include icon-facebook.html username=site.facebook_username %}
           </li>
           {% endif %}
-          
+                    
           <li class="nav-item">
-          <a class="nav-link" href="mailto:?subject=Join%20{{ site.title | escape }}&body={{ site.url }}"><i class="material-icons">mail_outline</i></a>
+          <a class="nav-link" href="mailto:{{ site.email }}?subject=Join%20{{ site.title | escape }}&body={{ site.url }}"><i class="material-icons">mail_outline</i></a>
           </li>
 
         </ul>
