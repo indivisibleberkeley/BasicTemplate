@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Indivisible Berkeley is the home of the Berkeley resistance.
+subtitle: Home of the Berkeley Resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
 url: https://new.indivisibleberkeley.org
