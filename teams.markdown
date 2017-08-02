@@ -5,6 +5,68 @@ nav: true
 layout: page
 ---
 
+## Contact Us
+
+**[Sign up for email action alerts](/signup)**
+
+Facebook group: [https://www.facebook.com/groups/indivisibleberkeley/](https://www.facebook.com/groups/indivisibleberkeley/)
+
+Facebook page: [https://www.facebook.com/BerkeleyIndivisible/](https://www.facebook.com/BerkeleyIndivisible/)
+
+Twitter: [@indivisibleberk](https://twitter.com/indivisibleberk)
+
+General email: [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org)
+
+## Issue Teams
+
+We are organizing into teams that will lead the effort to research and plan actions around specific issues that we are passionate about.  Email us to learn more about a team!
+
+To join a team, send a blank email to the address in the **Sign Up** link.
+
+Want to start a new team?  Email [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org) or pitch your idea in the Facebook Group and on the IB Slack! (details below)
+
+| Team Name | Contact Team Leader  | Join the Email List |
+|------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Arts & Media                       | [arts+owner@indivisibleberkeley.org](mailto:arts+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:arts+subscribe@indivisibleberkeley.org)                     |
+| Elections  | [elections+owner@indivisibleberkeley.org](mailto:elections+owner@indivisibleberkeley.org)         | [Sign Up](mailto:elections+subscribe@indivisibleberkeley.org)                |
+| Economic Justice                   | [economics+owner@indivisibleberkeley.org](mailto:economics+owner@indivisibleberkeley.org)         | [Sign Up](mailto:economics+subscribe@indivisibleberkeley.org)                |
+| Education                          | [education+owner@indivisibleberkeley.org](mailto:education+owner@indivisibleberkeley.org)         | [Sign Up](mailto:education+subscribe@indivisibleberkeley.org)  |
+| First Amendment                    | [firstamendment+owner@indivisibleberkeley.org](mailto:firstamendment+owner@indivisibleberkeley.org)         | [Sign Up](mailto:firstamendment+subscribe@indivisibleberkeley.org)                |
+| Foreign Policy                     | [foreignpolicy+owner@indivisibleberkeley.org](mailto:foreignpolicy+owner@indivisibleberkeley.org) | [Sign Up](mailto:foreignpolicy+subscribe@indivisibleberkeley.org)            |
+| Healthcare                         | [healthcare+owner@indivisibleberkeley.org](mailto:healthcare+owner@indivisibleberkeley.org)       | [Sign Up](mailto:healthcare+subscribe@indivisibleberkeley.org)               |
+| Immigration                        | [immigration+owner@indivisibleberkeley.org](mailto:immigration+owner@indivisibleberkeley.org)     | [Sign Up](mailto:immigration+subscribe@indivisibleberkeley.org)              |
+| Racism & Criminal Justice Reform   | [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
+| Science & Environment              | [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)     | [Sign Up](mailto:environment+subscribe@indivisibleberkeley.org)              |
+
+## Internal Teams
+
+We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
+
+To join a team, send a blank email to the address in the **Sign Up** link.
+
+| Team Name | Contact Team Leader  | Join the Email List |
+|-----------|----------------------|---------------------|
+| Big Ideas & Research    | [ideas+owner@indivisibleberkeley.org](mailto:ideas+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:ideas+subscribe@indivisibleberkeley.org)          |
+| Finance                   | [finance+owner@indivisibleberkeley.org](mailto:finance+owner@indivisibleberkeley.org)               |         |
+| IT & Communications       | [communications+owner@indivisibleberkeley.org](mailto:communications+owner@indivisibleberkeley.org) | [Sign Up](mailto:communications+subscribe@indivisibleberkeley.org) |
+| Partnerships              | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     | [Sign Up](mailto:partnerships+subscribe@indivisibleberkeley.org)   |
+| Training                  | [training+owner@indivisibleberkeley.org](mailto:training+owner@indivisibleberkeley.org)             | [Sign Up](mailto:training+subscribe@indivisibleberkeley.org)       |
+
+## Amplify
+
+Amplify is the Indivisible app, delivering Indivisible Berkeley actions and events right to your phone. [Learn more and sign up!][amplify]
+
+## Slack
+
+Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.
+If you'd like to learn more, [join our Slack group][slackinvite], watch our [How To Join Slack video tutorial][slackvideo], check out [the Slack tutorial for new users][slacktutorial],
+and ask questions in our `#_meta` channel.  (If you'd rather not use Slack, no problem—major announcements will always come via email)
+
+[amplify]: /amplify
+[slackinvite]: https://join.slack.com/indivisible-berkeley/shared_invite/MjA5OTM1OTI2MjU2LTE0OTk3MTU3MjgtNzdhNGFlMDBjZA
+[slackvideo]: https://www.youtube.com/watch?v=q1QkCJSxu0g
+[slacktutorial]: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+
 Click on the name of the team you want to join to load up the “subscribe” email address for that team’s mailing list. Sign up for our Slack team to start chatting right now!
 
 ## External Teams
