@@ -1,5 +1,5 @@
 ---
-title: Phonebank for CA Values Act, Aug 5th 1:00pm
+title: 'Phonebank for CA Values Act: Aug 5th 1:00pm'
 date: 2017-08-01 19:11:00 -07:00
 categories:
 - phonebank
