@@ -60,7 +60,7 @@ defaults:
 subtitle: Home of the Berkeley Resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
-url: https://new.indivisibleberkeley.org
+url: http://new.indivisibleberkeley.org
 twitter_username: indivisibleberk
 facebook_username: berkeleyindivisible
 background-image: "/uploads/IB-May2017-flags.jpg"
