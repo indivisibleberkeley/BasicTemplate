@@ -1,5 +1,5 @@
 ---
-title: General Assembly
+title: IB General Assembly
 date: 2017-08-01 23:10:00 -07:00
 categories:
 - event
