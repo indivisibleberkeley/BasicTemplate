@@ -5,19 +5,11 @@ nav: true
 layout: page
 ---
 
-## Contact Us
+**[Sign up for Indivisible Berkeley email action alerts](/signup)**
 
-**[Sign up for email action alerts](/signup)**
+On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) and join our [Group](https://www.facebook.com/groups/indivisibleberkeley/)!
 
-Facebook group: [https://www.facebook.com/groups/indivisibleberkeley/](https://www.facebook.com/groups/indivisibleberkeley/)
-
-Facebook page: [https://www.facebook.com/BerkeleyIndivisible/](https://www.facebook.com/BerkeleyIndivisible/)
-
-Twitter: [@indivisibleberk](https://twitter.com/indivisibleberk)
-
-General email: [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org)
-
-## Issue Teams
+### Issue Teams
 
 We are organizing into teams that will lead the effort to research and plan actions around specific issues that we are passionate about.  Email us to learn more about a team!
 
@@ -38,7 +30,7 @@ Want to start a new team?  Email [info@indivisibleberkeley.org](mailto:info@indi
 | Racism & Criminal Justice Reform   | [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
 | Science & Environment              | [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)     | [Sign Up](mailto:environment+subscribe@indivisibleberkeley.org)              |
 
-## Internal Teams
+### Internal Teams
 
 We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
 
@@ -67,9 +59,9 @@ and ask questions in our `#_meta` channel.  (If you'd rather not use Slack, no p
 [slackvideo]: https://www.youtube.com/watch?v=q1QkCJSxu0g
 [slacktutorial]: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-Click on the name of the team you want to join to load up the “subscribe” email address for that team’s mailing list. Sign up for our Slack team to start chatting right now!
+### Learn More About The Teams
 
-## External Teams
+#### External Teams
 
 **[Elections](mailto:elections+subscribe@indivisibleberkeley.org)**  
 We focus on two main areas. The first is building campaigning capacity: canvassing, voter registration, phone banking, focusing on swing districts. The second is direct action on issue areas: Supreme Court appointment(s), voter suppression, redistricting reform, campaign finance reform, corruption & ethics in government.
@@ -110,7 +102,7 @@ Stop Indivisible Berkeley from reinventing the wheel in any way by forming robus
 **[Training](mailto:training+subscribe@indivisibleberkeley.org)**  
 Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, "Introduction to Activism," to specific, "How to talk to Trump voters."
 
-## Internal Teams
+#### Internal Teams
 
 **[Big Ideas & Research](mailto:ideas+subscribe@indivisibleberkeley.org)**  
 Provides a space for big ideas that are out of the box to be discussed, supported, and piloted.  We test new direct-action tactics which might be replicable and seek creative messaging opportunities.
