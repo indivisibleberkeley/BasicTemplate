@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Indivisible Berkeley is part of the national Indivisible Movement.
+subtitle: Indivisible Berkeley is the home of the Berkeley resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
 url: https://new.indivisibleberkelye.org
@@ -65,7 +65,7 @@ twitter_username: indivisibleberk
 facebook_username: berkeleyindivisible
 background-image: "/uploads/IB-May2017-flags.jpg"
 member-count: 2000+
-footer-title: Let's take action.
+footer-title: Let's take action together.
 markdown: kramdown
 gems:
 - jekyll-feed
