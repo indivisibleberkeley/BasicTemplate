@@ -4,16 +4,13 @@ date: 2017-08-01 19:11:00 -07:00
 categories:
 - event
 - phonebank
-event-start-date: 2017-08-05 00:00:00 -07:00
+event-start-date: 2017-08-05 13:00:00 -07:00
+event-end-date: 2017-08-05 16:00:00 -07:00
 Location: 1835 San Ramon Ave, Berkeley CA 94707
 RSVP-link: https://actionnetwork.org/events/aug-5-phone-bank-for-california-values-act-sb-54
 ---
 
-Let's phonebank for immigration on Saturdays at Don & Madelyn's house in North Berkley!
-
-RSVP here:
-+ [Saturday July 29, 1:00-4:00PM][jul29] (CANCELLED)
-+ [Saturday August 5, 1:00-4:00PM][aug5]
+Let's phonebank for immigration on Saturdays at Don & Madelyn's house in North Berkley! Please RSVP using the link to the left.
 
 **GET STATE AND LOCAL LAW ENFORCEMENT OUT OF THE DEPORTATION BUSINESS.**
 
@@ -26,7 +23,3 @@ _Strong Grassroots support will be needed until the Governor signs this bill int
 **Your work will make an important difference.**
 
 Bring a cell phone with earbuds for comfort (no laptop needed!).
-
-
-[jul29]: https://actionnetwork.org/events/july-29-phone-bank-for-california-values-act-sb-54
-[aug5]: https://actionnetwork.org/events/aug-5-phone-bank-for-california-values-act-sb-54
