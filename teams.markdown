@@ -1,6 +1,8 @@
 ---
 title: Teams
 date: 2017-08-01 18:15:00 -07:00
+nav: true
+layout: default
 ---
 
 Click on the name of the team you want to join to load up the “subscribe” email address for that team’s mailing list. Sign up for our Slack team to start chatting right now!
@@ -46,4 +48,4 @@ Master the flow of information on Action Network and social media platforms, and
 Stop Indivisible Berkeley from reinventing the wheel in any way by forming robust partnerships with experienced and aligned group. 
 
 **[Training](mailto:training+subscribe@indivisibleberkeley.org)**  
-Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, “Introduction to Activism,” to specific, “How to talk to Trump voters.”  |
+Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, "Introduction to Activism," to specific, "How to talk to Trump voters."  |
