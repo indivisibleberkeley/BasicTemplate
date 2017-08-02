@@ -7,9 +7,7 @@ layout: page
 
 Click on the name of the team you want to join to load up the “subscribe” email address for that team’s mailing list. Sign up for our Slack team to start chatting right now!
 
-|   |   |
-|---|---|
-|# External Teams
+## External Teams
 
 **[Elections](mailto:elections+subscribe@indivisibleberkeley.org)**  
 We focus on two main areas. The first is building campaigning capacity: canvassing, voter registration, phone banking, focusing on swing districts. The second is direct action on issue areas: Supreme Court appointment(s), voter suppression, redistricting reform, campaign finance reform, corruption & ethics in government.
@@ -48,4 +46,18 @@ Master the flow of information on Action Network and social media platforms, and
 Stop Indivisible Berkeley from reinventing the wheel in any way by forming robust partnerships with experienced and aligned group. 
 
 **[Training](mailto:training+subscribe@indivisibleberkeley.org)**  
-Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, "Introduction to Activism," to specific, "How to talk to Trump voters."  |
+Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, "Introduction to Activism," to specific, "How to talk to Trump voters."
+
+## Internal Teams
+
+**[Big Ideas & Research](mailto:ideas+subscribe@indivisibleberkeley.org)**  
+Provides a space for big ideas that are out of the box to be discussed, supported, and piloted.  We test new direct-action tactics which might be replicable and seek creative messaging opportunities.
+
+**[Communications & Social Media](mailto:communications+subscribe@indivisibleberkeley.org)**  
+Master the flow of information on Action Network and social media platforms, and amplify the work of external teams to focus the energy of the large group 
+
+**[Partnerships](mailto:partnerships+subscribe@indivisibleberkeley.org)**  
+Stop Indivisible Berkeley from reinventing the wheel in any way by forming robust partnerships with experienced and aligned group. 
+
+**[Training](mailto:training+subscribe@indivisibleberkeley.org)**  
+Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, “Introduction to Activism,” to specific, “How to talk to Trump voters.”
