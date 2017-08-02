@@ -87,4 +87,4 @@ google_analytics: |-
     ga('send', 'pageview');
 
   </script>
-permalink: none
+permalink: "/:categories/:title"
