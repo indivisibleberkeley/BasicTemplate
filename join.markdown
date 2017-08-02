@@ -1,6 +1,6 @@
 ---
-title: Become A Member
-date: 2017-02-16 19:58:00 -08:00
+title: Join Us
+date: 2017-08-01 17:56:00 -07:00
 position: 5
 mailchimp-form-embed: 
 layout: becomeAMember
