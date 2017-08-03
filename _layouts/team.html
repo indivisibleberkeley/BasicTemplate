@@ -25,6 +25,12 @@ layout: default
             {% endif %}
           {% endif %}
         {% endfor %}
+        
+        {% for post in sortedActions %}
+          {% if post.tags contains 'environment' %}
+            {% include event-post-header.html %}
+          {% endif %}
+        {% endfor %}
       
         {{ content }}
 
