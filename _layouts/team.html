@@ -22,10 +22,15 @@ layout: default
             {% if post.tags contains 'environment' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate >= curDate %}
+                {% increment actioncount %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
+          
+          {% if actioncount == 0 %}
+            <p>No posts in this category at this time.  Check back soon!</p>
+          {% endif %}
 
         </div> <!-- END ACTIVE ACTIONS -->
         <hr>
@@ -48,6 +53,10 @@ layout: default
               {% endif %}
             {% endif %}
           {% endfor %}
+                                         
+          {% if actioncount == 0 %}
+            <p>No posts in this category at this time.  Check back soon!</p>
+          {% endif %}
         </div><!-- END PAST ACTIONS -->
         
       </div>
