@@ -86,8 +86,10 @@ layout: default
 
           {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
           {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
+        
+          {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
 
-          {% for successes in featured_successes %}
+          {% for successes in sorted_featured_successes %}
         <!-- BADGE FOR FEATURED SUCCESSES -->
 <!--             <span class="badge badge-danger mb-2">PINNED</span> -->
             {% include success-blurb.html %}
