@@ -1,24 +1,12 @@
 ---
 title: Science & Environment
 date: 2017-08-02 20:43:00 -07:00
-layout: post
+layout: team
 ---
 
 ### Actions
 
 Please join our team in taking action to protect our environment and stand up for science!
-
-{% assign curDate = site.time | date: '%s' %}
-{% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
-{% assign filteredActions = (site.categories.action | sort: 'event-end-date') %}
-{% for post in sortedActions %}
-  {% if post.tags contains 'environment' %}
-    {% assign postEndDate = post.event-end-date | date: '%s' %}
-    {% if postEndDate >= curDate %}
-      {% include event-post-header.html %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
 
 ----
 
