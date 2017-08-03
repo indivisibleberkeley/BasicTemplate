@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-- public comment
+- comment
 is featured: true
 call-script-text: "*Personalize your comment whenever possible with your own experiences,
   knowledge and interests.*\n\nI urge NOAA to maintain all current protections for
