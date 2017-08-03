@@ -46,6 +46,8 @@ Want to start a new team?  Email [info@indivisibleberkeley.org](mailto:info@indi
 | Racism & Criminal Justice Reform   | [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
 | Science & Environment              | [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)     | [Sign Up](mailto:environment+subscribe@indivisibleberkeley.org)              |
 
+----
+
 #### Internal Teams
 
 We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
@@ -59,6 +61,8 @@ To join a team, send a blank email to the address in the **Sign Up** link.
 | IT & Communications       | [communications+owner@indivisibleberkeley.org](mailto:communications+owner@indivisibleberkeley.org) | [Sign Up](mailto:communications+subscribe@indivisibleberkeley.org) |
 | Partnerships              | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     | [Sign Up](mailto:partnerships+subscribe@indivisibleberkeley.org)   |
 | Training                  | [training+owner@indivisibleberkeley.org](mailto:training+owner@indivisibleberkeley.org)             | [Sign Up](mailto:training+subscribe@indivisibleberkeley.org)       |
+
+----
 
 ### Our Tools
 
@@ -76,6 +80,8 @@ and ask questions in our `#_meta` channel.  (If you'd rather not use Slack, no p
 [slackinvite]: https://join.slack.com/indivisible-berkeley/shared_invite/MjA5OTM1OTI2MjU2LTE0OTk3MTU3MjgtNzdhNGFlMDBjZA
 [slackvideo]: https://www.youtube.com/watch?v=q1QkCJSxu0g
 [slacktutorial]: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+
+----
 
 ### Learn More About The Teams
 
