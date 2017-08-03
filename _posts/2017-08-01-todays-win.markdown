@@ -4,7 +4,7 @@ date: 2017-08-01 15:50:00 -07:00
 categories:
 - jekyll
 - update
-is featured: true
+is featured: false
 main-image: "/uploads/oakland.jpg"
 layout: post
 ---
