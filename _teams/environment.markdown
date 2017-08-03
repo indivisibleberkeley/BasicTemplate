@@ -4,8 +4,6 @@ date: 2017-08-02 20:43:00 -07:00
 layout: team
 ---
 
-### Actions
-
 Please join our team in taking action to protect our environment and stand up for science!
 
 ----
