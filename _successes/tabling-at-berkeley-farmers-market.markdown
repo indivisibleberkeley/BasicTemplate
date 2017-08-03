@@ -1,7 +1,7 @@
 ---
 title: Tabling at Berkeley Farmer's Market
 date: 2017-05-01 19:27:00 -07:00
-is featured: true
+is featured: false
 main-image: "/uploads/farmersmarket-tabling.jpg"
 ---
 
