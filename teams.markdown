@@ -7,7 +7,7 @@ layout: page
 ---
 
 {% for team in site.teams %}
-+ [{{ team }}]({{ team.url }})
++ [{{ team.title }}]({{ team.url }})
 {% endfor %}
 
 **[Sign up for Indivisible Berkeley email action alerts](/signup)**
