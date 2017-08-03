@@ -4,12 +4,13 @@ date: 2017-08-02 20:43:00 -07:00
 layout: post
 ---
 
-## Actions
-Please join our team in taking action to protect our environment and stand up for science! [**Click here to see all our current actions.**](https://www.indivisibleberkeley.org/actions/?category=Environment)
+### Actions
+
+Please join our team in taking action to protect our environment and stand up for science! [**Click here to see all our current actions.**](/actions)
 
 ----
 
-## Mission Statement
+### Mission Statement
  
 Our mission is to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society by affecting change through the political system at all levels of government. We care about all aspects of the environment and science, including but not limited to climate change, pollution, science denial, endangered species, and public lands.
  
@@ -17,9 +18,9 @@ Our group focuses on actions. We meet, discuss, conduct research, and inform eac
  
 ----
 
-## Team Information
+### Team Information
  
-Please check the [calendar page](https://indivisibleberkeley.org/calendar) to find the time and location of our next team meeting!
+Please check the [calendar page](/calendar) to find the time and location of our next team meeting!
  
 Join our email list by sending a blank email to [environment+subscribe@indivisibleberkeley.org][mailtoenv] from the address you wish to subscribe.
  
@@ -27,10 +28,9 @@ If you have questions about our team, email [environment+owner@indivisibleberkel
 
 ----
 
-## Attacks on Environmental Regulations
+### Attacks on Environmental Regulations
  
 Please see our **[Overview on Environmental Regulations](https://www.indivisibleberkeley.org/environment/environmentalregs/)** for a summary of what's under attack!
- 
  
  
 [mailtoenv]: mailto:environment+subscribe@indivisibleberkeley.org
@@ -45,9 +45,3 @@ Please see our **[Overview on Environmental Regulations](https://www.indivisible
 [ibslack]: /slack
 [findsenator]: https://www.senate.gov/senators/contact/
 [findrepresentative]: http://www.house.gov/representatives/find/
- 
- 
- 
- 
- 
- 
