@@ -191,7 +191,7 @@ layout: default
 
         <!-- POST TAGS -->
         {% if !page.tags.empty? %}
-          <p class="most-meta small">
+          <p class="post-meta small"> <!-- BC CORRECTED: POST-META -->
             Tagged: {{ page.tags | join: ', ' }}
           </p>
         {% endif %}
