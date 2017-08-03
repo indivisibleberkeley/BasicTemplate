@@ -11,6 +11,9 @@ collections:
   successes:
     title: Successes
     output: true
+  teams:
+    title: Teams
+    output: true
   uploads:
     title: Uploads
     output: true
