@@ -17,6 +17,4 @@ layout: calendar
 
 #### Subscribing
 
-To add these calendars to your calendar app, click `[+]Google Calendar` in the bottom right-hand corner of the calendar.
-
-You can select which ones you want to subscribe to!
+To add these calendars to your calendar app, click `[+]Google Calendar` in the bottom right-hand corner of the calendar.  You can select which ones you want to subscribe to!
