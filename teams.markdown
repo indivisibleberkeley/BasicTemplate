@@ -8,9 +8,11 @@ layout: page
 
 ### Get connected to Indivisible Berkeley!
 
-First: **[sign up for Indivisible Berkeley email action alerts](/signup)**
+First: **[sign up for Indivisible Berkeley email action alerts](/join)**
 
 On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) and join our [Group](https://www.facebook.com/groups/indivisibleberkeley/)!
+
+On Twitter?  [Follow @IndivisibleBerk](https://twitter.com/indivisibleberk)
 
 ----
 
@@ -23,7 +25,7 @@ On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) a
 ----
 
 
-### Issue Teams
+#### Issue Teams
 
 We are organizing into teams that will lead the effort to research and plan actions around specific issues that we are passionate about.  Email us to learn more about a team!
 
@@ -44,7 +46,7 @@ Want to start a new team?  Email [info@indivisibleberkeley.org](mailto:info@indi
 | Racism & Criminal Justice Reform   | [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)                   | [Sign Up](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
 | Science & Environment              | [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)     | [Sign Up](mailto:environment+subscribe@indivisibleberkeley.org)              |
 
-### Internal Teams
+#### Internal Teams
 
 We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
 
@@ -58,11 +60,13 @@ To join a team, send a blank email to the address in the **Sign Up** link.
 | Partnerships              | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     | [Sign Up](mailto:partnerships+subscribe@indivisibleberkeley.org)   |
 | Training                  | [training+owner@indivisibleberkeley.org](mailto:training+owner@indivisibleberkeley.org)             | [Sign Up](mailto:training+subscribe@indivisibleberkeley.org)       |
 
-### Amplify
+### Our Tools
+
+#### Amplify
 
 Amplify is the Indivisible app, delivering Indivisible Berkeley actions and events right to your phone. [Learn more and sign up!][amplify]
 
-### Slack
+#### Slack
 
 Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.
 If you'd like to learn more, [join our Slack group][slackinvite], watch our [How To Join Slack video tutorial][slackvideo], check out [the Slack tutorial for new users][slacktutorial],
