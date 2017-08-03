@@ -16,8 +16,6 @@ RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OW-2017-0203-0001
 
 Comment to tell the EPA not to roll back protections for rivers, lakes, and wetlands.   
 
-[**_Comment Here_**](https://www.regulations.gov/comment?D=EPA-HQ-OW-2017-0203-0001) on the federal register.
-
 ## Background
 The Trump Administration wants to remove Clean Water Act protections from 2 million miles of waterways and millions of acres of wetlands.  Rollback of this rule would put drinking water at risk for 117 million Americans.
 
