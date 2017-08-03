@@ -24,8 +24,6 @@ event-end-date: 2017-08-13 00:00:00 -07:00
 RSVP-link: https://www.regulations.gov/document?D=NOAA-NOS-2017-0066-0001
 ---
 
-## Action
-
 Comment to oppose the administration’s efforts to reduce or eliminate marine sanctuaries and marine national monuments and to open them for energy and mineral exploration and production.   
 
 [**_Comment Here_**](https://www.regulations.gov/document?D=NOAA-NOS-2017-0066-0001) on the federal register. Press the Comment Now button at the top right of the screen.
