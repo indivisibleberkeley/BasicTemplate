@@ -32,23 +32,47 @@ layout: default
 
       <div class="col-sm-8">
 
-        <h5 class="mb-2">Actions</h5>
+        <h5 class="mb-2">Active Actions</h5>
+        
+        <div class="post-list">
 
-            <!-- ACTIONS -->
-
-            {% assign featured_posts = (site.categories.action|where_exp:"post","post['is featured'] == true") %}
-            {% assign not_featured_posts = (site.categories.action|where_exp:"post","post['is featured'] == false") %}
-
-            {% for post in featured_posts %}
-              <hr class="mt-0 mb-2">
-              <span class="badge badge-danger">PINNED</span>
+          {% assign curDate = site.time | date: '%s' %}
+            {% for post in site.categories.action %}
+            {% assign postEndDate = post.event-end-date | date: '%s' %}
+            {% if postEndDate >= curDate %}
               {% include action-post-header.html %}
-            {% endfor %}
+            {% endif %}
+          {% endfor %}
 
-            {% for post in not_featured_posts %}
-              <hr class="mt-0 mb-2">
-              {% include action-post-header.html %}
-            {% endfor %}
+        </div><!-- END ACTIVE ACTIONS -->
+        
+
+        <!-- PAST ACTIONS -->
+
+        <div class="clearfix spacer"></div>
+
+        <h5 class="mb-0">Past Actions</h5>
+
+        {% unless site.categories.action.size > 0 %}
+          <hr class="mt-2 mb-2">
+          <p>No posts in {{ page.title | escape }} at this time.</p>
+        {% endunless %}
+
+        <div class="post-list">
+
+        {% assign curDate = site.time | date: '%s' %}
+        {% for post in site.categories.action %}
+          {% assign postEndDate = post.event-end-date | date: '%s' %}
+          {% if postEndDate <= curDate %}
+
+            {% include action-post-header.html %}
+
+          {% endif %}
+
+        {% endfor %}
+
+        </div><!-- END PAST ACTIONS -->
+
 
           </div>
 
