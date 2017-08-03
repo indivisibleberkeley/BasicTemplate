@@ -15,8 +15,11 @@ nav: false
 
   <div class="row">
     <div class="col-sm-10 col-lg-9">
+    
+    
+    {% assign sorted_posts = (site.posts | sort: 'date') | reverse %}
 
-      {% for post in site.posts %}
+      {% for post in sorted_posts %}
         <hr class="mt-0 mb-2">
         {% include post-list.html %}
       {% endfor %}
