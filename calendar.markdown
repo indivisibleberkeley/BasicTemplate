@@ -8,15 +8,14 @@ nav: true
 layout: calendar
 ---
 
-### Event Color Code
+#### Event Color Code
 
 + **Red** - Indivisible Berkeley meetings, including General Assembly and team meetings
 + **Green** - advertised events that may have an organized [#indivisibleberkeley](https://twitter.com/hashtag/indivisibleberkeley) presence
 + **Blue** - other community activism events
 + **Yellow** - events for planners, including educational events (activism panels, lectures, and workshops) and opportunities for action (MoC and state/local representative town halls and fundraisers)
 
-
-### Subscribing
+#### Subscribing
 
 To add these calendars to your calendar app, click `[+]Google Calendar` in the bottom right-hand corner of the calendar.
 
