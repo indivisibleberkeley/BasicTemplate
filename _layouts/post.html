@@ -133,23 +133,35 @@ layout: default
         <div class="row hidden-sm-up">
           <div class="col-12">
             <div class="card">
+              
+              {% if page.tags contains 'call' %}
 
-              <!-- A list of all representatives contact numbers -->
-              <ul class="list-group list-group-flush representative">
-              {% for representatives in site.representatives %}
-                    <li class="list-group-item bg-medium"><strong>{{ representatives.title }}</strong></li>
-                    {% for phone-numbers in representatives.phone-numbers %}
-                      <li class="list-group-item">
-                        <small>{{ phone-numbers[0] }}</small><br><strong>{{ phone-numbers[1] }}</strong>
-                      </li>
-                    {% endfor %}
-              {% endfor %}
-              </ul>
-              <!-- END list -->
+                <!-- A list of all representatives contact numbers -->
+                <ul class="list-group list-group-flush representative">
+                {% for representatives in site.representatives %}
+                      <li class="list-group-item bg-medium"><strong>{{ representatives.title }}</strong></li>
+                      {% for phone-numbers in representatives.phone-numbers %}
+                        <li class="list-group-item">
+                          <small>{{ phone-numbers[0] }}</small><br><strong>{{ phone-numbers[1] }}</strong>
+                        </li>
+                      {% endfor %}
+                {% endfor %}
+                </ul>
+                <!-- END list -->
 
-              <div class="card-footer">
-                <p class="card-text"><a href="http://www.house.gov/representatives/find/">Find your representative</a></p>
-              </div>
+                <div class="card-footer">
+                  <p class="card-text"><a href="http://www.house.gov/representatives/find/">Find your representative</a></p>
+                </div>
+              
+              {% endif %}
+              
+              {% if page.tags contains 'comment' %}
+                <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Comment Now &rarr;</a>
+              {% endif %}
+              
+              {% if page.tags contains 'donate' %}
+                <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Donate Now &rarr;</a>
+              {% endif %}
 
             </div>
             <div class="clearfix spacer visibile-xs-down"></div>
