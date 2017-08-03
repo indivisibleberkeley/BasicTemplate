@@ -4,8 +4,8 @@ date: 2017-08-02 18:40:00 -07:00
 categories:
 - action
 tags:
-- public comment
 - environment
+- comment
 call-script-text: I oppose the EPA's planned rollback of the Waters of the United
   States Rule.  Ensuring clean water for all Americans is a national priority that
   requires federal support, and it is irresponsible to end a rule that protects 1
