@@ -15,7 +15,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
   div is the target for our HTML insertion --></div>"
 ---
 
-**Let's keep the pressure on!**  
+### Let's keep the pressure on! 
 
 Mitch McConnell and Senate Republicans are working overtime trying to make deals with “holdouts.” They plan to move toward a vote on the cruel Trumpcare bill, as soon as they think they have enough support. Now more than ever, we need your help to keep the pressure on and undercut their efforts.
 
@@ -29,10 +29,9 @@ Take the elevator from the Ashby BART directly to the Ed Roberts Campus. Please 
 
 BART strongly encouraged. Parking available at the ERC, or Ashby BART lot.
 
-## About The Venue
+#### About The Venue
 
 The Ed Roberts Campus is a national and international model dedicated to disability rights and universal access. The Ed Roberts Campus commemorates the life and work of Edward V Roberts and early leader in the independent living movement of persons with disabilities. Ed Believed in the strength of collaborative efforts: He called it "working toward our preferred future."
-
 
 
 [1]: https://goo.gl/maps/T49UkMYQwnt
