@@ -3,7 +3,7 @@ title: Teams
 date: 2017-08-01 18:15:00 -07:00
 nav: true
 main-image: "/uploads/ib-womensmarch.jpg"
-layout: teams
+layout: page
 ---
 
 {% for team in site.teams %}
