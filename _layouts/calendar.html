@@ -18,9 +18,11 @@ layout: default
         <h5 class="mb-0">Upcoming Events</h5>
 
         <div class="post-list">
+          
 
           {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.posts %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
+            {% for post in sortedEvents %}
             {% assign postStartDate = post.event-start-date | date: '%s' %}
             {% if postStartDate >= curDate %}
               {% include event-post-header.html %}
@@ -73,9 +75,11 @@ layout: default
         {% endunless %}
 
         <div class="post-list">
+          
 
         {% assign curDate = site.time | date: '%s' %}
-        {% for post in site.categories.event %}
+        {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') | reverse %}
+        {% for post in sortedEvents %}
           {% assign postStartDate = post.event-start-date | date: '%s' %}
           {% if postStartDate <= curDate %}
 
