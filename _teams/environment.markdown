@@ -15,7 +15,7 @@ Please join our team in taking action to protect our environment and stand up fo
   {% if post.tags contains 'environment' %}
     {% assign postEndDate = post.event-end-date | date: '%s' %}
     {% if postEndDate >= curDate %}
-      {% include post-list.html %}
+      {% include event-post-header.html %}
     {% endif %}
   {% endif %}
 {% endfor %}
