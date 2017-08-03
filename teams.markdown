@@ -2,13 +2,17 @@
 title: Teams
 date: 2017-08-01 18:15:00 -07:00
 nav: true
-main-image: "/uploads/ib-womensmarch.jpg"
+main-image: 
 layout: page
 ---
+
+### Explore our teams!
 
 {% for team in site.teams %}
 + [{{ team.title }}]({{ team.url }})
 {% endfor %}
+
+----
 
 **[Sign up for Indivisible Berkeley email action alerts](/signup)**
 
