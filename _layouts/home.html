@@ -49,16 +49,18 @@ layout: default
 
           {% for post in featured_posts %}
             <hr class="mt-0 mb-2">
-            <span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span>
+          <!-- BADGE FOR FEATURED POSTS -->
+<!--             <span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
             <!-- POST TEMPLATE -->
             {% include post-list.html %}
           {% endfor %}
 
-          {% for post in not_featured_posts limit:10 %}
-            <hr class="mt-0 mb-2">
+          <!-- ONLY PUBLISH FEATURED POSTS -->
+<!--           {% for post in not_featured_posts limit:10 %} -->
+<!--             <hr class="mt-0 mb-2"> -->
             <!-- POST TEMPLATE -->
-            {% include post-list.html %}
-          {% endfor %}
+<!--             {% include post-list.html %} -->
+<!--           {% endfor %} -->
 
         </div><!-- END BLOG POSTS -->
 
