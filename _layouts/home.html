@@ -42,6 +42,7 @@ layout: default
       <div class="col-sm-8">
 
         <!-- Blog Posts -->
+        <h2>Featured Actions, Events, and News</h2>
         <div class="post-list">
 
           {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
@@ -60,7 +61,7 @@ layout: default
         <!-- Pagination links -->
         <hr class="mt-2 mb-4">
         <div class="pagination">
-            <a href="/archive" class="next ml-auto">All posts &rarr;</a>
+            <a href="/archive" class="next ml-auto">See all actions, events, and news &rarr;</a>
         </div>
 
         <div class="spacer clearfix"></div>
@@ -87,11 +88,8 @@ layout: default
           {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
 
           {% for successes in featured_successes %}
-            <span class="badge badge-danger mb-2">PINNED</span>
-            {% include success-blurb.html %}
-          {% endfor %}
-
-          {% for successes in not_featured_successes %}
+        <!-- BADGE FOR FEATURED SUCCESSES -->
+<!--             <span class="badge badge-danger mb-2">PINNED</span> -->
             {% include success-blurb.html %}
           {% endfor %}
 
