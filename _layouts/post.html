@@ -37,38 +37,49 @@ layout: default
     <div class="clearfix spacer"></div>
 
     <div class="row post-content" itemprop="articleBody">
+      <!-- ACTION SIDEBAR -->
       {% if page.categories contains 'action' %}
       <div class="col-sm-5 col-md-4 col-lg-3 hidden-xs-down">
         <div class="card">
           <!--
-            A list of all representatives contact numbers
+            A list of all representatives contact numbers FOR CALLS
             NOTE - These values are also listed in footer.html
           -->
-          <ul class="list-group list-group-flush representative">
-          {% for representatives in site.representatives %}
-                <li class="list-group-item bg-medium">
-                  <strong>{{ representatives.title }}</strong>
-                </li>
-                {% for phone-numbers in representatives.phone-numbers %}
-                 {% if phone-numbers[0] !="office-name" %}
-                   <li class="list-group-item">
-                     <small>{{ phone-numbers[0] }}</small><br><strong>{{ phone-numbers[1] }}</strong>
-                   </li>
-                 {% endif %}
-                {% endfor %}
-          {% endfor %}
-          </ul>
+          {% if page.tags contains 'call' %}
+            <ul class="list-group list-group-flush representative">
+            {% for representatives in site.representatives %}
+                  <li class="list-group-item bg-medium">
+                    <strong>{{ representatives.title }}</strong>
+                  </li>
+                  {% for phone-numbers in representatives.phone-numbers %}
+                   {% if phone-numbers[0] !="office-name" %}
+                     <li class="list-group-item">
+                       <small>{{ phone-numbers[0] }}</small><br><strong>{{ phone-numbers[1] }}</strong>
+                     </li>
+                   {% endif %}
+                  {% endfor %}
+            {% endfor %}
+            </ul>
+            <!-- END list -->
+ 
+            <div class="card-footer">
+              <p class="card-text"><a href="http://www.house.gov/representatives/find/">Find your representative</a></p>
+            </div>
+          {% endif %}
+          
+          {% if page.tags contains 'comment' %}
+            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Comment Now &rarr;</a>
+          {% endif %}
 
-          <!-- END list -->
-
-          <div class="card-footer">
-            <p class="card-text"><a href="http://www.house.gov/representatives/find/">Find your representative</a></p>
-          </div>
+          {% if page.tags contains 'donate' %}
+            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Donate Now &rarr;</a>
+          {% endif %}
 
         </div>
         <div class="clearfix spacer visibile-xs-down"></div>
         <div class="clearfix spacer visibile-xs-down"></div>
       </div>
+      <!-- END ACTION SIDEBAR -->
 
       {% elsif page.event-start-date %}
       <div class="col-sm-5 col-md-4 col-lg-3">
@@ -118,7 +129,7 @@ layout: default
 
         {{ content }}
         
-        <!-- CALENDAR EMBED -->
+        <!-- CODE EMBED -->
         {% if page.embed-code %}
 
           <div class="clearfix spacer-sm"></div>
@@ -128,7 +139,11 @@ layout: default
           <div class="clearfix spacer"></div>
 
         {% endif %}
+        <!-- END CODE EMBED -->
 
+        
+        
+        <!-- A HIDDEN ROW BELOW ACTIONS... WHY? -->
         {% if page.categories contains 'action' %}
         <div class="row hidden-sm-up">
           <div class="col-12">
@@ -169,14 +184,18 @@ layout: default
           </div>
         </div>
         {% endif %}
+        <!-- END HIDDEN ROW BELOW ACTIONS -->
+        
+        
+        
 
-        <!-- post tags -->
+        <!-- POST TAGS -->
         {% if !page.tags.empty? %}
           <p class="most-meta small">
             Tagged: {{ page.tags | join: ', ' }}
           </p>
         {% endif %}
-        <!-- END Post tags -->
+        <!-- END POST TAGS -->
 
         <!-- Timestamp -->
         <p class="post-meta small">Posted <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
