@@ -6,6 +6,14 @@ main-image:
 layout: page
 ---
 
+### Get connected to Indivisible Berkeley!
+
+First: **[sign up for Indivisible Berkeley email action alerts](/signup)**
+
+On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) and join our [Group](https://www.facebook.com/groups/indivisibleberkeley/)!
+
+----
+
 ### Explore our teams!
 
 {% for team in site.teams %}
@@ -14,9 +22,6 @@ layout: page
 
 ----
 
-**[Sign up for Indivisible Berkeley email action alerts](/signup)**
-
-On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) and join our [Group](https://www.facebook.com/groups/indivisibleberkeley/)!
 
 ### Issue Teams
 
