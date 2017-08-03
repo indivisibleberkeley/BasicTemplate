@@ -6,6 +6,10 @@ main-image: "/uploads/ib-womensmarch.jpg"
 layout: page
 ---
 
+{% for team in site.teams %}
+  + [team](team.url)
+{% endfor %}
+
 **[Sign up for Indivisible Berkeley email action alerts](/signup)**
 
 On Facebook?  Follow our [Page](https://www.facebook.com/BerkeleyIndivisible/) and join our [Group](https://www.facebook.com/groups/indivisibleberkeley/)!
