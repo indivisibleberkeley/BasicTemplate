@@ -6,7 +6,19 @@ layout: post
 
 ### Actions
 
-Please join our team in taking action to protect our environment and stand up for science! [**Click here to see all our current actions.**](/actions)
+Please join our team in taking action to protect our environment and stand up for science!
+
+{% assign curDate = site.time | date: '%s' %}
+{% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
+{% assign filteredActions = (site.categories.action | sort: 'event-end-date') %}
+{% for post in sortedActions %}
+  {% if post.tags contains 'environment' %}
+    {% assign postEndDate = post.event-end-date | date: '%s' %}
+    {% if postEndDate >= curDate %}
+      {% include post-list.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
 ----
 
