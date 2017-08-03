@@ -6,13 +6,13 @@ categories:
 tags:
 - phonebank
 - healthcare
-call-script-text: "<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet'
-  type='text/css' /><script src='https://actionnetwork.org/widgets/v2/event/phonebank-to-defend-the-aca-5?format=js&source=widget'></script><div
-  id='can-event-area-phonebank-to-defend-the-aca-5' style='width: 100%'><!-- this
-  div is the target for our HTML insertion --></div>"
 event-start-date: 2017-07-20 16:00:00 -07:00
 event-end-date: 2017-07-20 20:00:00 -07:00
 Location: Ed Roberts Campus, 3075 Adeline St, Berkeley
+embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v2/event/phonebank-to-defend-the-aca-5?format=js&source=widget'></script><div
+  id='can-event-area-phonebank-to-defend-the-aca-5' style='width: 100%'><!-- this
+  div is the target for our HTML insertion --></div>"
 ---
 
 **Let's keep the pressure on!**  
