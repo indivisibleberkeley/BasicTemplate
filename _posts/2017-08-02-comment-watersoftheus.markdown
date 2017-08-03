@@ -18,9 +18,6 @@ Comment to tell the EPA not to roll back protections for rivers, lakes, and wetl
 
 [**_Comment Here_**](https://www.regulations.gov/comment?D=EPA-HQ-OW-2017-0203-0001) on the federal register.
 
-## Suggested Comment
-I oppose the EPA's planned rollback of the Waters of the United States Rule.  Ensuring clean water for all Americans is a national priority that requires federal support, and it is irresponsible to end a rule that protects 1 in 3 Americans' drinking water sources.   
-
 ## Background
 The Trump Administration wants to remove Clean Water Act protections from 2 million miles of waterways and millions of acres of wetlands.  Rollback of this rule would put drinking water at risk for 117 million Americans.
 
