@@ -2,16 +2,18 @@
     <div class="row">
       <div class="col-2 col-sm-3 col-lg-2">
         <center>
-          <label class="custom-control align-self-start custom-checkbox d-inline-block mt-1 mr-0 mb-0">
-            <input type="checkbox" class="custom-control-input" name="{{ post.id | escape }}/check">
-            <span class="custom-control-indicator"></span>
-          </label>
+          <!-- 'ACTION' BADGE -->
+          <span class="badge badge-danger">Action</span>
+            
+          <!-- ACTION CHECKBOX -->
+<!--           <label class="custom-control align-self-start custom-checkbox d-inline-block mt-1 mr-0 mb-0"> -->
+<!--             <input type="checkbox" class="custom-control-input" name="{{ post.id | escape }}/check"> -->
+<!--             <span class="custom-control-indicator"></span> -->
+<!--           </label> -->
           <div class="clearfix"></div>
             
         <!-- EVENT END DATE INFO -->
         {% if post.event-end-date %}
-            <!-- 'ACTION' BADGE -->
-<!--             <span class="badge badge-primary mt-2 mb-1">Action</span> -->
             <p class="mb-1 mt-1">by {{ post.event-end-date | date: "%b" }}</p>
             <h3><strong>{{ post.event-end-date | date: "%-d" }}</strong></h3>
         {% endif %}
