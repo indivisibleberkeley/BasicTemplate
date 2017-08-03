@@ -18,18 +18,18 @@ layout: default
         <div class="post-list"> <!-- ACTIVE ACTIONS -->
           {% assign curDate = site.time | date: '%s' %}
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
-          {% assign actioncount = 0 %}
+          {% assign activeActions = false %}
           {% for post in sortedActions %}
             {% if post.tags contains 'environment' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate >= curDate %}
-                {% assign actioncount = actioncount + 1 %}
+                {% assign activeActions = true %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
           
-          {% if actioncount == 0 %}
+          {% if activeActions == false %}
             <p>No posts in this category at this time.  Check back soon!</p>
           {% endif %}
 
@@ -46,18 +46,18 @@ layout: default
         <div class="post-list"> <!-- PAST ACTIONS -->
           {% assign curDate = site.time | date: '%s' %}
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
-          {% assign pastactioncount = 0 %}
+          {% assign pastActions = false %}
           {% for post in sortedActions %}
             {% if post.tags contains 'environment' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate < curDate %}
-                {% assign pastactioncount = pastactioncount + 1 %}
+                {% assign pastActions = true %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
                                          
-          {% if pastactioncount == 0 %}
+          {% if pastActions == false %}
             <p>No posts in this category at this time.  Check back soon!</p>
           {% endif %}
         </div><!-- END PAST ACTIONS -->
