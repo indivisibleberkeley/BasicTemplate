@@ -27,7 +27,7 @@ Indivisible San Francisco is adding features rapidly, and we're loading new acti
 
 ----
 
-![amplify-actions.png](/uploads/amplify-actions.png) ![amplify-cheer.jpg](/uploads/amplify-cheer.jpg)
+![amplify-actions.png](/uploads/amplify-actions.png) ![amplify-cheer.png](/uploads/amplify-cheer.png)
 
 [amplifyflyer]: https://drive.google.com/a/brandoncurtis.net/file/d/0B-uKwCe3BP_5R29HNmRNQVRUeWc/view?usp=sharing
 [getamplify]: https://getamplify.org/
