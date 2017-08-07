@@ -74,8 +74,6 @@ Amplify is the Indivisible app, delivering Indivisible Berkeley actions and even
 
 Our teams are using Slack, a messaging tool with customizable channels to keep things organized.  [Learn more, join our Slack group, and check out our how-to video tutorial][slack].
 
-[amplify]: /amplify
-
 ----
 
 ### Learn More About The Teams
@@ -134,3 +132,7 @@ Stop Indivisible Berkeley from reinventing the wheel in any way by forming robus
 
 **[Training](mailto:training+subscribe@indivisibleberkeley.org)**  
 Provide trainings that equip members of the resistance to act more efficiently and effectively.  These range from very general, “Introduction to Activism,” to specific, “How to talk to Trump voters.”
+
+
+[amplify]: /amplify
+[slack]: /slack
