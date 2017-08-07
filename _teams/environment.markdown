@@ -1,7 +1,7 @@
 ---
 title: Science & Environment
 date: 2017-08-02 20:43:00 -07:00
-teamtags: environment
+teamtag: environment
 layout: team
 ---
 
