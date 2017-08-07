@@ -68,7 +68,6 @@ defaults:
   values:
     layout: team
     teamtags: 
-    
 subtitle: Home of the Berkeley Resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
