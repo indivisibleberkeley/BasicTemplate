@@ -35,4 +35,4 @@ Big Ideas uses the **Empathy Tent** to reach Trump supporters.
 
 ### Protest is Patriotic!
 
-![IB-May2017-flags.jpg](/uploads/IB-May2017-flags.jpg)
+![IB-May2017-flags.jpg](/uploads/IB-May2017-flags.jpg){:width="500px"}
