@@ -3,7 +3,7 @@ title: Amplify
 date: 2017-08-07 11:41:00 -07:00
 ---
 
-## Invite a Friend to IB Amplify!
+### Invite a Friend to IB Amplify!
 
 Amplify is an app that delivers the latest IB actions right to your phone or tablet.
 
