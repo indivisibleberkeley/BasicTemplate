@@ -23,9 +23,9 @@ If you're in Slack, ask Slack-related questions in our [#_meta channel][slackmet
 
 Can't get in?  Other questions?  Email [it-help@indivisibleberkeley.org][ithelp]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q1QkCJSxu0g" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" src="https://www.youtube.com/embed/q1QkCJSxu0g" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hCOIyv8UbOE" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" src="https://www.youtube.com/embed/hCOIyv8UbOE" frameborder="0" allowfullscreen></iframe>
 
 
 [slackinvite]: https://join.slack.com/t/indivisible-berkeley/shared_invite/MjIzNjExMzM0ODcwLTE1MDE5NjQyNzctMzc2MDdmNmU2Mw
