@@ -62,6 +62,13 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
+- scope:
+    path: ''
+    type: teams
+  values:
+    layout: team
+    teamtags: 
+    
 subtitle: Home of the Berkeley Resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
