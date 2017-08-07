@@ -72,14 +72,9 @@ Amplify is the Indivisible app, delivering Indivisible Berkeley actions and even
 
 #### Slack
 
-Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.
-If you'd like to learn more, [join our Slack group][slackinvite], watch our [How To Join Slack video tutorial][slackvideo], check out [the Slack tutorial for new users][slacktutorial],
-and ask questions in our `#_meta` channel.  (If you'd rather not use Slack, no problem—major announcements will always come via email)
+Our teams are using Slack, a messaging tool with customizable channels to keep things organized.  [Learn more, join our Slack group, and check out our how-to video tutorial][slack].
 
 [amplify]: /amplify
-[slackinvite]: https://join.slack.com/indivisible-berkeley/shared_invite/MjA5OTM1OTI2MjU2LTE0OTk3MTU3MjgtNzdhNGFlMDBjZA
-[slackvideo]: https://www.youtube.com/watch?v=q1QkCJSxu0g
-[slacktutorial]: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 ----
 
