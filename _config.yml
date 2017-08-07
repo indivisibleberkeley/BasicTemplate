@@ -67,7 +67,7 @@ defaults:
     type: teams
   values:
     layout: team
-    teamtags: 
+    teamtag: 
 subtitle: Home of the Berkeley Resistance.
 email: info@indivisibleberkeley.org
 baseurl: 
