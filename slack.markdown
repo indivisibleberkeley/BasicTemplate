@@ -3,6 +3,8 @@ title: Slack
 date: 2017-08-07 11:36:00 -07:00
 ---
 
+![slack-logo.jpg](/uploads/slack-logo.jpg)
+
 ## Slack
 
 Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.  Join the 200+ members of the Indivisible Berkeley Slack to connect within and between teams and get more involved!
@@ -20,6 +22,10 @@ If you'd rather read than watch videos, check out [the Slack tutorial for new us
 If you're in Slack, ask Slack-related questions in our [#_meta channel][slackmeta].
 
 Can't get in?  Other questions?  Email [it-help@indivisibleberkeley.org][ithelp]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1QkCJSxu0g" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCOIyv8UbOE" frameborder="0" allowfullscreen></iframe>
 
 
 [slackinvite]: https://join.slack.com/t/indivisible-berkeley/shared_invite/MjIzNjExMzM0ODcwLTE1MDE5NjQyNzctMzc2MDdmNmU2Mw
