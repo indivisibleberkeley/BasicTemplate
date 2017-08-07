@@ -20,7 +20,7 @@ layout: default
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
           {% assign activeActions = false %}
           {% for post in sortedActions %}
-            {% if post.tags contains 'environment' %}
+            {% if post.tags contains page.teamtags %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate >= curDate %}
                 {% assign activeActions = true %}
