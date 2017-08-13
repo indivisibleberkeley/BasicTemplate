@@ -4,6 +4,7 @@ date: 2017-08-13 12:39:00 -07:00
 categories:
 - event
 is featured: true
+main-image: "/uploads/candle.jpg"
 event-start-date: 2017-08-13 19:30:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley, CA 94702
 RSVP-link: http://act.indivisibleguide.com/event/stand-in-solidarity-with-charlottesville/5858/
@@ -29,7 +30,7 @@ Who: Indivisible Berkeley + our allies + your friends
 ### [RSVP HERE →](http://act.indivisibleguide.com/event/stand-in-solidarity-with-charlottesville/5858/)
 
 Why: To show that our community stands united against the terrorism of white supremacists and enabling by the Trump Administration
-Please forward this email to all your Berkeley and nearby East Bay friends. Bring candles and signs. Heavy hearts and desire to act are welcome. Here's a flyer you can print and share: click this link.
+Please forward this email to all your Berkeley and nearby East Bay friends. Bring candles and signs. Heavy hearts and desire to act are welcome. Here's a flyer you can print and share: [click this link](https://docs.google.com/document/d/1tdajXvEH3QqZ6W6hQrp2adYeVzfb0vIbN22x1IB7U5M/).
 
 Stand Indivisible,
 The Steering Team
