@@ -7,4 +7,4 @@ is featured: true
 main-image: "/uploads/berkeley-divests.jpg"
 ---
 
-The IB Economic Justice team stands as the Berkeley City Council votes on May 30th to divest from Wells Fargo bank by May 2018! 
+The IB Economic Justice team stands as the Berkeley City Council votes on May 30th to divest from Wells Fargo bank by May 2018!
