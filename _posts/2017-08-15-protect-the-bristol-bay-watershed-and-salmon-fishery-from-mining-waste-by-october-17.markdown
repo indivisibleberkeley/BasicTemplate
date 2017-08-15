@@ -1,6 +1,6 @@
 ---
-title: Protect the Bristol Bay Watershed and Salmon Fishery from Mining Waste - By
-  October 17
+title: Comment to Protect the Bristol Bay Watershed and Salmon Fishery from Mining
+  Waste - by October 17
 date: 2017-08-15 08:08:00 -07:00
 categories:
 - action
