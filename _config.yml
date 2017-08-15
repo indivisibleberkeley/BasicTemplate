@@ -8,9 +8,10 @@ collections:
   representatives:
     title: Representatives
     output: false
-  success:
+  successes:
     title: Successes
     output: true
+    permalink: "/success/:path"
   teams:
     title: Teams
     output: true
