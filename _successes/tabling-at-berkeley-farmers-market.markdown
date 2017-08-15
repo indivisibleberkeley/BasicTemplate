@@ -5,4 +5,4 @@ is featured: true
 main-image: "/uploads/farmersmarket-tabling.jpg"
 ---
 
-IB has a table at the Berkeley Farmer's Market! Email info@indivisibleberkeley.org if you'd like to help out at the next one.
+IB has a table at the Berkeley Farmer's Market! Email info@indivisibleberkeley.org if you'd like to help out at the next one. 
