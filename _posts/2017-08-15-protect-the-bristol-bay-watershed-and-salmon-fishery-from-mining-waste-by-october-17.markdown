@@ -42,6 +42,6 @@ Submit your comment to tell EPA not to withdraw the Clean Water Act determinatio
 
 ## Background
 
-*Via [SaveEPA](http://www.saveepaalums.info/resisting-the-trump-de-regulatory-agenda-talking-points/defending-bristol-bay/)*:
+*Via [SaveEPA](http://www.saveepaalums.info/resisting-the-trump-de-regulatory-agenda-talking-points/defending-bristol-bay/)*:  
 In July 2014 EPA proposed to restrict dumping of mining wastes in the Bristol Bay watershed in Southwest Alaska to protect salmon fisheries. The pristine habitat in the watershed sustains one of world’s most important fisheries, including half of the global supply of wild sockeye salmon.
 On July 19, 2017, The Trump Administration proposed to withdraw the July 2014 proposed determination.
