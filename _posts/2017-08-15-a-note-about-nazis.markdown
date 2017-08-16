@@ -3,7 +3,7 @@ title: Note regarding upcoming rally
 date: 2017-08-15 17:17:00 -07:00
 categories:
 - event
-is featured: false
+is featured: true
 main-image: "/uploads/IMG_3258.JPG"
 event-start-date: 2017-08-27 00:00:00 -07:00
 ---
