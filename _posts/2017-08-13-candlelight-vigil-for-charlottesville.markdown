@@ -1,6 +1,7 @@
 ---
 title: Candlelight Vigil for Charlottesville
 date: 2017-08-13 12:39:00 -07:00
+published: false
 categories:
 - event
 is featured: true
