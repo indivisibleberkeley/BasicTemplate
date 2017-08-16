@@ -1,6 +1,7 @@
 ---
 title: Donate to Ossoff to Flip GA-06
 date: 2017-08-02 19:27:00 -07:00
+published: false
 categories:
 - action
 tags:
