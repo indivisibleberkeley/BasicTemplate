@@ -76,8 +76,6 @@ Our teams are using Slack, a messaging tool with customizable channels to keep t
 
 ### Learn More About The Teams
 
-#### External Teams
-
 **[Elections](mailto:elections+subscribe@indivisibleberkeley.org)**  
 We focus on two main areas. The first is building campaigning capacity: canvassing, voter registration, phone banking, focusing on swing districts. The second is direct action on issue areas: Supreme Court appointment(s), voter suppression, redistricting reform, campaign finance reform, corruption & ethics in government.
 
