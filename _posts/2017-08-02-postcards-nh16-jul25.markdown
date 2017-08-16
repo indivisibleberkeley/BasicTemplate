@@ -1,6 +1,7 @@
 ---
 title: Keep NH-16 Blue with a Postcard Party
 date: 2017-08-02 19:21:00 -07:00
+published: false
 categories:
 - event
 event-start-date: 2017-07-13 19:30:00 -07:00
