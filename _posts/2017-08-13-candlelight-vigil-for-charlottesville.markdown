@@ -1,10 +1,9 @@
 ---
 title: Candlelight Vigil for Charlottesville
 date: 2017-08-13 12:39:00 -07:00
-published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/candle.jpg"
 event-start-date: 2017-08-13 19:30:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley, CA 94702
