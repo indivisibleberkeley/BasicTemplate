@@ -11,13 +11,14 @@ call-script-text: I oppose the EPA's planned rollback of the Waters of the Unite
   States Rule.  Ensuring clean water for all Americans is a national priority that
   requires federal support, and it is irresponsible to end a rule that protects 1
   in 3 Americans' drinking water sources.
-event-end-date: 2017-08-28 00:00:00 -07:00
+event-end-date: 2017-09-27 00:00:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OW-2017-0203-0001
 ---
 
-Comment to tell the EPA not to roll back protections for rivers, lakes, and wetlands.   
+Comment to tell the EPA not to roll back protections for rivers, lakes, and wetlands. **The Public Comment period for this has now been extended to Sept 27th.  If you haven't yet commented, you still have time!**
 
-## Background
+### Background
+
 The Trump Administration wants to remove Clean Water Act protections from 2 million miles of waterways and millions of acres of wetlands.  Rollback of this rule would put drinking water at risk for 117 million Americans.
 
 Waters of the United States (WOTUS) Rule is a 2015 rule that expanded the bodies of water covered by federal environmental protection laws under the Clean Water Act. The rule extended the environmental protections already provided to large, navigable bodies of water to the smaller waters that flow into them, like rivers, streams, and wetlands. Ending the Waters of the United States Rule removes Clean Water Act protections from water sources that supply drinking water to one in three Americans in order to provide regulatory breaks to big corporations.
