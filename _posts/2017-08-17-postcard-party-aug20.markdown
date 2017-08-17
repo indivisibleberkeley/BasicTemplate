@@ -1,5 +1,5 @@
 ---
-title: Pizza and Postcard Party [Elections]
+title: Pizza and Postcard Party to Encourage Democrats to Vote
 date: 2017-08-17 15:55:00 -07:00
 categories:
 - event
