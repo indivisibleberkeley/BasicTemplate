@@ -1,12 +1,11 @@
 ---
 title: IB General Assembly
 date: 2017-08-01 23:10:00 -07:00
-published: false
 categories:
 - event
 tags:
 - general assembly
-is featured: true
+is featured: false
 event-start-date: 2017-08-13 19:30:00 -07:00
 event-end-date: 2017-08-13 21:00:00 -07:00
 Location: Finnish Kaleva Hall, 1970 Chestnut Street Berkeley, CA, 94702
