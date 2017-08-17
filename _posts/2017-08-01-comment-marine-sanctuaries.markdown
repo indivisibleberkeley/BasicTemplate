@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 - comment
-is featured: true
+is featured: false
 call-script-text: "*Personalize your comment whenever possible with your own experiences,
   knowledge and interests.*\n\nI urge NOAA to maintain all current protections for
   marine sanctuaries and national monuments and to maintain the boundaries as they
