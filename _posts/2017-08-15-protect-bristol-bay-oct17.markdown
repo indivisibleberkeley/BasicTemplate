@@ -7,6 +7,7 @@ tags:
 - environment
 - comment
 is featured: true
+main-image: "/uploads/bristol-bay-ak.jpg"
 call-script-text: "*Personalize this script if possible*\n*Note: It **is** best to
   include the references at the end*\n\nThe proposed Clean Water Act determination
   should NOT be withdrawn.  The potential impacts of the proposed Pebble Mine on the
