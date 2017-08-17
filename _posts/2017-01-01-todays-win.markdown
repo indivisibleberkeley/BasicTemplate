@@ -1,6 +1,6 @@
 ---
 title: Today's Win Against Trump
-date: 2017-08-01 15:50:00 -07:00
+date: 2017-01-01 15:50:00 -08:00
 categories:
 - jekyll
 - update
