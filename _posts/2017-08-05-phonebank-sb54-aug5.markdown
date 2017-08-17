@@ -1,6 +1,6 @@
 ---
 title: Phonebank for CA Values Act
-date: 2017-08-01 19:11:00 -07:00
+date: 2017-08-05 19:11:00 -07:00
 categories:
 - event
 tags:
