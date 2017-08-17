@@ -1,11 +1,12 @@
 ---
-title: Protect the Bristol Bay from Mining Waste
+title: Protect Alaska's Bristol Bay from Mining Waste
 date: 2017-08-15 08:08:00 -07:00
 categories:
 - action
 tags:
 - environment
 - comment
+is featured: true
 call-script-text: "*Personalize this script if possible*\n*Note: It **is** best to
   include the references at the end*\n\nThe proposed Clean Water Act determination
   should NOT be withdrawn.  The potential impacts of the proposed Pebble Mine on the
