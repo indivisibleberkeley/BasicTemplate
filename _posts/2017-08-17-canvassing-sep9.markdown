@@ -8,7 +8,7 @@ tags:
 - canvassing
 is featured: true
 main-image: "/uploads/IMG_3267.JPG"
-event-start-date: 2017-09-09 00:00:00 -07:00
+event-start-date: 2017-09-09 08:00:00 -07:00
 Location: Tracy, CA
 RSVP-link: mailto:carlockjeff@gmail.com
 ---
