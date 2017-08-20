@@ -10,7 +10,7 @@
   <meta property="og:title"         content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description"   content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
   <meta property="og:image"         content="{{ site.url }}
-                                             {% if page.main-image.size == 0 %}{{ page.main-image }}
+                                             {% if page.main-image.size != 0 %}{{ page.main-image }}
                                              {% else %}{{ site.default-image }}
                                              {% endif %}" />
 
