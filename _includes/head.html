@@ -9,10 +9,9 @@
   <meta property="og:type"          content="website" />
   <meta property="og:title"         content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description"   content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-  <meta property="og:image"         content="{{ site.url }}{{ site.default-image }} />
-
+  <meta property="og:image"         content="{{ site.url }}{{ page.main-image | default: site.default-image }}" />
   <link rel="shortcut icon" type="image/jpg" href="/favicon.jpg">
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description"          content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
@@ -26,3 +25,8 @@
 </head>
 
 <body class="bg-light">
+  
+  <div style="display:none;">
+    {{ page.main-image }},
+    {{ default: site.default-image }},
+    {{ page.main-image | default: site.default-image }}</div>
