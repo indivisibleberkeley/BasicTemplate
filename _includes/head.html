@@ -9,7 +9,7 @@
   <meta property="og:type"          content="website" />
   <meta property="og:title"         content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description"   content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
-  <meta property="og:image"         content="{{ site.url }}{% if page.main-image.size != '' %}{{ page.main-image }}{% else %}{{ site.default-image }}{% endif %}" />
+  <meta property="og:image"         content="{{ site.url }}{{ site.default-image }} />
 
   <link rel="shortcut icon" type="image/jpg" href="/favicon.jpg">
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
