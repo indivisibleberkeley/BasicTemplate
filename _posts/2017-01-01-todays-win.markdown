@@ -1,8 +1,8 @@
 ---
 title: Today's Win Against Trump
 date: 2017-01-01 15:50:00 -08:00
+published: false
 categories:
-- jekyll
 - update
 is featured: false
 main-image: "/uploads/oakland.jpg"
