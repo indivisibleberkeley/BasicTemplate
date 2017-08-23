@@ -1,6 +1,8 @@
 ---
 title: Register New Citizens to Vote
 date: 2017-09-26 10:00:00 -07:00
+categories:
+- event
 tags:
 - elections
 - voter registration
