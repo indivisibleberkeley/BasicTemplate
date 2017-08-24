@@ -5,14 +5,16 @@ categories:
 - update
 ---
 
-This page will be updated with details about where/when to pick up your very own "Berkeley United Against Hate" poster. You can use the hashtag #BerkeleyUnited on social media.
+You can use the hashtag #BerkeleyUnited on social media when posting about our city's values and our willingness to stand up against hate and bigotry.
 
 ### Pickup locations
+
+Pick up a "Berkeley Stands United Against Hate" poster at any of these locations. Some of them are only open at particular times, and are noted as such.
 
 - North Berkeley Farmer's Market
 Shattuck Ave. @Rose
 (Thursday afternoon only)
-﻿
+
 - Downtown Farmer's Market
 Center Street @ Milvia
 (Saturday morning only)
