@@ -1,6 +1,7 @@
 ---
 title: General Assembly
 date: 2017-08-15 18:18:00 -07:00
+published: false
 categories:
 - event
 tags:
@@ -11,6 +12,5 @@ event-end-date: 2017-08-27 21:00:00 -07:00
 Location: Finnish Kaleva Hall, 1970 Chestnut Street Berkeley, CA, 94702
 ---
 
-Join us on *August 27 at 7:30PM* for the next Indivisible Berkeley General Assembly.
+Join us on *August 27 at 4:30PM* for the next Indivisible Berkeley Special Assembly.
 
-This assembly will include a guest speaker and a debrief or discussion about the White Supremacist rally which is planned for that morning.
