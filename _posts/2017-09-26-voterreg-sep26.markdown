@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - voter registration
+is featured: true
 event-start-date: 2017-09-26 10:00:00 -07:00
 Location: Paramount Theater, Oakland, CA
 RSVP-link: https://www.eventbrite.com/e/register-new-citizens-to-vote-registration-36531506720?ref=wpevent
