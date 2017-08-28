@@ -7,7 +7,7 @@ tags:
 - elections
 - postcard
 - party
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_3149-359d60.JPG"
 event-start-date: 2017-08-20 19:30:00 -07:00
 event-end-date: 2017-08-20 21:00:00 -07:00
