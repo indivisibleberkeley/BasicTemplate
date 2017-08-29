@@ -8,7 +8,7 @@ tags:
 is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2017-09-10 19:00:00 -07:00
-event-end-date: 2017-09-09 21:30:00 -07:00
+event-end-date: 2017-09-09 21:00:00 -07:00
 embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v2/event/indivisible-berkeley-general-assembly-7?format=js&source=widget'></script><div
   id='can-event-area-indivisible-berkeley-general-assembly-7' style='width: 100%'><!--
