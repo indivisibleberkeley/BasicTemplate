@@ -62,7 +62,26 @@ layout: default
         <div class="clearfix spacer"></div>
         <hr>
 
-        <h3 class="mb-2">Past Actions</h3>
+        <div class="post-list"> <!-- PAST EVENTS -->
+          {% assign curDate = site.time | date: '%s' %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
+          {% assign pastEvents = false %}
+          {% for post in sortedEvents %}
+            {% if post.tags contains page.teamtag %}
+              {% assign postStartDate = post.event-start-date | date: '%s' %}
+              {% if postStartDate < curDate %}
+                {% comment %} only display team events heading if there are
+             team events to display {% endcomment %}
+                {% if pastEvents == false %}
+                    <h3 class="mb-2">Past Events</h3>
+                {% endif %}
+                {% assign pastEvents = true %}
+                {% include post-list.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+        </div><!-- END PAST EVENTS -->
         
         <div class="post-list"> <!-- PAST ACTIONS -->
           {% assign curDate = site.time | date: '%s' %}
@@ -72,15 +91,17 @@ layout: default
             {% if post.tags contains page.teamtag %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate < curDate %}
+                {% comment %} only display team actions heading if there are
+             team actions to display {% endcomment %}
+                {% if pastActions == false %}
+                    <h3 class="mb-2">Past Actions</h3>
+                {% endif %}
                 {% assign pastActions = true %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
-                                         
-          {% if pastActions == false %}
-            <p>No posts in this category at this time.  Check back soon!</p>
-          {% endif %}
+
         </div><!-- END PAST ACTIONS -->
         
       </div>
