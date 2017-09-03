@@ -32,12 +32,6 @@ layout: default
               {% endif %}
             {% endif %}
           {% endfor %}
-          
-          {% comment %}
-          {% if activeEvents == false %}
-            <p>No posts in this category at this time.  Check back soon!</p>
-          {% endif %}
-          {% endcomment %}
 
         </div> <!-- END ACTIVE EVENTS -->
         <h3 class="mb-2">Team Actions</h3>
@@ -50,15 +44,16 @@ layout: default
             {% if post.tags contains page.teamtag %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate >= curDate %}
+                {% comment %} only display team actions heading if there are
+             team actions to display {% endcomment %}
+                {% if activeActions == false %}
+                    <h3 class="mb-2">Team Actions</h3>
+                {% endif %}
                 {% assign activeActions = true %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
-          
-          {% if activeActions == false %}
-            <p>No posts in this category at this time.  Check back soon!</p>
-          {% endif %}
 
         </div> <!-- END ACTIVE ACTIONS -->
         <hr>
