@@ -21,7 +21,7 @@ layout: default
           {% for post in sortedEvents %}
             {% if post.tags contains page.teamtag %}
               {% assign postStartDate = post.event-start-date | date: '%s' %}
-              {% if postStartDate <= curDate %}
+              {% if postStartDate >= curDate %}
                 {% comment %} only display team events heading if there are
              team events to display {% endcomment %}
                 {% if activeEvents == false %}
