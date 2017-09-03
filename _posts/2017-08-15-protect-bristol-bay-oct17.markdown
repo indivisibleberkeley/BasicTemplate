@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 - comment
-is featured: true
+is featured: false
 main-image: "/uploads/bristol-bay-ak.jpg"
 call-script-text: "*Personalize this script if possible*\n*Note: It **is** best to
   include the references at the end*\n\nThe proposed Clean Water Act determination
