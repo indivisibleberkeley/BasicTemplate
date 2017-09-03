@@ -7,6 +7,7 @@ tags:
 - elections
 - donate
 event-end-date: 2017-11-07 00:00:00 -08:00
+RSVP-link: https://secure.actblue.com/contribute/page/ctforvab
 ---
 
 One of Indivisible Berkeley's election goals is to help Cheryl Turpin's campaign flip Virginia's 85th district in the House of Delegates. This election is important because whoever controls the State Legislature controls the 2020 redistricting process, and Virginia is at risk of being gerrymandered into oblivion.
