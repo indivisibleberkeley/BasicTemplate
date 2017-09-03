@@ -543,3 +543,10 @@ td {
 .itemdate {
     margin-bottom: -0.7rem;
 }
+
+// IB: SIDEBAR/CARD SMALL LABEL ALIGNMENT
+
+.list-group-item {
+    flex-flow: column wrap;
+    align-items: left;
+}
