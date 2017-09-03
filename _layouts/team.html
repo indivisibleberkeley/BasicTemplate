@@ -13,7 +13,6 @@ layout: default
     <!-- BODY CONTENT -->
     <div class="row">
       <div class="col-sm-8">
-        <h3 class="mb-2">Team Events</h3>
         
         <div class="post-list"> <!-- ACTIVE EVENTS -->
           {% assign curDate = site.time | date: '%s' %}
@@ -23,15 +22,22 @@ layout: default
             {% if post.tags contains page.teamtag %}
               {% assign postStartDate = post.event-start-date | date: '%s' %}
               {% if postStartDate <= curDate %}
+                {% comment %} only display team events heading if there are
+             team events to display {% endcomment %}
+                {% if activeEvents == false %}
+                    <h3 class="mb-2">Team Events</h3>
+                {% endif %}
                 {% assign activeEvents = true %}
                 {% include post-list.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
           
+          {% comment %}
           {% if activeEvents == false %}
             <p>No posts in this category at this time.  Check back soon!</p>
           {% endif %}
+          {% endcomment %}
 
         </div> <!-- END ACTIVE EVENTS -->
         <h3 class="mb-2">Team Actions</h3>
