@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - call
+is featured: true
 main-image: "/uploads/640px-Support_during_Hurricane_Harvey_(TX)_(50).jpg"
 call-script-text: |-
   Hello, my name is [name] and I'm a constituent from [zip code] in Berkeley. I'm calling to urge the [Senator/Representative] to prioritize the Congressional response to aid Houston and other areas affected by Hurricane Harvey. In particular, here are 4 legislative actions the [Senator/Representative] can support.
