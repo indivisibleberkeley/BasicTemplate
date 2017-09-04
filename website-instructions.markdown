@@ -1,0 +1,33 @@
+---
+title: Website contributor instructions
+date: 2017-09-03 22:22:00 -07:00
+---
+
+Once you create an account, you'll be able to add and edit pages on our website. Please be respectful of other teams' posts and pages and do not edit those even if you have "permission" to do so.
+
+There are 2 main uses for the website.
+
+The first is to provide an introduction to the immigration team. That's your team page, indivisibleberkeley.org/team/immigration, which I sent to you earlier today. You can now edit it by logging in to siteleaf.com, clicking "teams" in the left sidebar, and then clicking on "Immigration."
+
+The second is to provide updates for actions and events that your team is attending and/or organizing. In the lexicon of the website, an Action is something that has a due date, and that people can do mostly independently, e.g. "Call Feinstein by this Friday about blah." An Event is where people do something at the same time, and often in the same place, e.g. a phone bank, rally, meeting, General Assembly, etc.
+
+To create either an action or an event, click on "posts" in the left sidebar on Siteleaf and then click "+ New Post" on the top right. There you can fill in all of the event details. The only required field is event-start-date (for Events) and event-end-date (for Actions). Most of the fields to fill out are self-explanatory, but some are a bit subtle:
+
++ RSVP-link is a link to the website where an activist can RSVP, e.g. ActionNetwork or EventBrite
++ Location is automatically turned into a link on Google Maps, using whatever text you put in the field as a search term. So if it's a business, park, plaza, etc., you can put the name, and if it's a house, then the address works well.
+
++ Embed-code is how we get ActionNetwork RSVP forms embedded directly into the website (e.g. https://www.indivisibleberkeley.org/event/assembly-sep10). To find the code for this, go to the ActionNetwork "manage event" page and find the "Embed this event" box, containing a bunch of code. Just copy-paste the code into the box on Siteleaf and our website will take care of the rest!
+
++ "is featured" controls whether the event shows up on the front page of our website. Please only feature one event at a time.
+
+On the right sidebar of the new/edit post page, there are a few extra controls:
+
++ The big "Save" button, which (duh) you click on to save your post. Make sure it has the correct "visibility" (see the next point).
+
++ The Draft/Hidden/Visible buttons control visibility. Draft is for when you aren't ready to publish the post but want to save it. We don't use Hidden. And Visible is for when you are ready to publish your post.
+
++ Generate item preview allows you to view a preview of your post before publishing it. I have trouble getting this one to work. If it works for you, great.
+
++ Tags. This one is important. You must add the "immigration" tag to your posts in order for them to show up on your team page! You can also add other tags, e.g. phonebank or call (for MoC calls), if you'd like. (Pro tip: if you tag your post with "call," we will include MoC phone numbers on the event page automatically!) When you start typing, a menu will pop up with a list of previously-used tags which you can choose from. You can also make a new one just by typing in a new tag.
+
++ Categories. This one is also important. We use three categories, and each post must belong to exactly one: event, action or update. I already described events and actions. An update is simply a blog post with no associated real-world action, e.g. https://www.indivisibleberkeley.org/update/berkeley-united.
