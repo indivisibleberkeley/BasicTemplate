@@ -17,7 +17,7 @@ Indivisible Berkeley teams are semi-autonomous groups organized around specific 
 ### Explore our teams!
 
 {% for team in site.teams %}
-+ [{{ team.title }}]({{ team.url }})
++ [{{ team.title }}]({{ team.url | absolute_url }})
 {% endfor %}
 
 ----
