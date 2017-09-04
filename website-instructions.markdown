@@ -3,11 +3,11 @@ title: Website contributor instructions
 date: 2017-09-03 22:22:00 -07:00
 ---
 
-## Rules of the road
+### Rules of the road
 
 Once you create an account, you'll be able to add and edit pages on our website. Please be respectful of other teams' posts and pages and do not edit those even if you have "permission" to do so.
 
-## Basic instructions
+### Basic instructions
 
 There are 2 main areas for you to contribute to the website.
 
@@ -15,9 +15,13 @@ The first is to provide an introduction to your team. That's your team page, ind
 
 The second is to provide updates for actions and events that your team is attending and/or organizing. In the lexicon of the website, an Action is something that has a due date, and that people can do mostly independently, e.g. "Call Feinstein by this Friday about blah." An Event is where people do something at the same time, and often in the same place, e.g. a phone bank, rally, meeting, General Assembly, etc.
 
-## Creating a new post
+### Creating a new post
 
-To create either an action or an event, click on "posts" in the left sidebar on Siteleaf and then click "+ New Post" on the top right. There you can fill in all of the event details. The only required field is `event-start-date` (used for Events) or `event-end-date` (used for Actions). You are welcome to fill out as many other fields as you like, including a start date for Actions or an end date for Events. Most of the fields to fill out are self-explanatory, but some are a bit subtle:
+To create either an action or an event, click on "posts" in the left sidebar on Siteleaf and then click "+ New Post" on the top right. There you can fill in all of the event details. The only required field is `event-start-date` (used for Events) or `event-end-date` (used for Actions). You are welcome to fill out as many other fields as you like, including a start date for Actions or an end date for Events.
+
+#### Detailed description for creating a new post
+
+Most of the fields to fill out are self-explanatory, but some are a bit subtle:
 
 + `RSVP-link` is a link to the website where an activist can RSVP, e.g. ActionNetwork or EventBrite
 
