@@ -11,7 +11,7 @@ Once you create an account, you'll be able to add and edit pages on our website.
 
 There are 2 main areas for you to contribute to the website.
 
-The first is to provide an introduction to your team. That's your team page, indivisibleberkeley.org/team/<your team>. You can edit it by logging in to [siteleaf.com](https://siteleaf.com), clicking "teams" in the left sidebar, and then clicking on your team name in the list that shows up.
+The first is to provide an introduction to your team. That's your team page, indivisibleberkeley.org/team/<your team>. You can edit it by logging in to [siteleaf.com](https://siteleaf.com) clicking "teams" in the left sidebar, and then clicking on your team name in the list that shows up.
 
 The second is to provide updates for actions and events that your team is attending and/or organizing. In the lexicon of the website, an Action is something that has a due date, and that people can do mostly independently, e.g. "Call Feinstein by this Friday about blah." An Event is where people do something at the same time, and often in the same place, e.g. a phone bank, rally, meeting, General Assembly, etc.
 
