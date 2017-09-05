@@ -7,7 +7,7 @@ tags:
 - elections
 - canvassing
 main-image: "/uploads/IMG_3267.JPG"
-event-start-date: 2014-10-01 00:00:00 -07:00
+event-start-date: 2017-10-14 00:00:00 -07:00
 RSVP-link: mailto:carlockjeff@gmail.com
 ---
 
