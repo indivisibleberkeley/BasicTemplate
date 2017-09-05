@@ -41,6 +41,27 @@ layout: default
       {% if page.categories contains 'action' %}
       <div class="col-sm-5 col-md-4 col-lg-3 hidden-xs-down">
         <div class="card">
+          <!--Add IB team if action is tagged with teamtag-->
+          {% assign hasteam = nil %}
+          {% for tag in page.tags %}
+            {% for team in site.teams %}
+              {% if team.teamtag == tag %}
+                {% unless hasteam %}
+                  {% assign hasteam = 1 %}
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item bg-medium">
+                      <strong>Team</strong>
+                    </li>
+                {% endunless %}
+                <li class="list-group-item">
+                    <a href="{{ team.url | absolute_url }}">{{ team.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% if hasteam %}
+            </ul>
+          {% endif %}
           <!--
             A list of all representatives contact numbers FOR CALLS
             NOTE - These values are also listed in footer.html
@@ -100,6 +121,27 @@ layout: default
           <div class="card-block">
             <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">RSVP</a>
           </div>
+          {% endif %}
+          <!--Add IB team if event is tagged with teamtag-->
+          {% assign hasteam = nil %}
+          {% for tag in page.tags %}
+            {% for team in site.teams %}
+              {% if team.teamtag == tag %}
+                {% unless hasteam %}
+                  {% assign hasteam = 1 %}
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item bg-medium">
+                      <strong>Team</strong>
+                    </li>
+                {% endunless %}
+                <li class="list-group-item">
+                    <a href="{{ team.url | absolute_url }}">{{ team.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% if hasteam %}
+            </ul>
           {% endif %}
         </div>
         <div class="clearfix spacer"></div>
