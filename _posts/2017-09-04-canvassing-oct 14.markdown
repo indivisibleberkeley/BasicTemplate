@@ -1,6 +1,8 @@
 ---
 title: Canvassing in Tracy
 date: 2017-09-04 17:07:00 -07:00
+categories:
+- event
 tags:
 - elections
 - canvassing
