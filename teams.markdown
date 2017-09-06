@@ -1,6 +1,7 @@
 ---
 title: Teams
 date: 2017-08-01 18:15:00 -07:00
+position: 0
 nav: true
 main-image: 
 layout: page
