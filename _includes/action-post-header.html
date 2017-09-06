@@ -15,17 +15,41 @@
         <!-- EVENT END DATE INFO -->
         {% if post.event-end-date %}
             <p class="mb-1 mt-1">by {{ post.event-end-date | date: "%b" }}</p>
-            <h3 class="itemdate"><strong>{{ post.event-end-date | date: "%-d" }}</strong></h3>
+            {% if short-post %}
+            <h4 class="itemdate">
+            {% else %}
+            <h3 class="itemdate">
+            {% endif %}
+                <strong>{{ post.event-end-date | date: "%-d" }}</strong>
+            {% if short-post %}
+            </h4>
+            {% else %}
+            </h3>
+            {% endif %}
         {% endif %}
             
             
         </center>
       </div>
       <div class="col-10 {% if post.main-image %}col-sm-6 col-lg-8{% else %}col-sm-9 col-lg-10{% endif %}">
+        {% if short-post %}
+        <h5 class="d-inline-block mb-2 mt-1 mt-sm-0">
+        {% else %}
         <h3 class="d-inline-block mb-2 mt-1 mt-sm-0">
+        {% endif %}
           <a class="post-link text-danger" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {% if short-post %}
+        </h5>
+        {% else %}
         </h3>
-        <div class="text-muted post-body">{{ post.content | strip_html | truncate: 140 }}</div>
+        {% endif %}
+        <div class="text-muted post-body">
+            {% if short-post %}
+            {{ post.content | strip_html | truncate: 70 }}
+            {% else %}
+            {{ post.content | strip_html | truncate: 140 }}
+            {% endif %}
+        </div>
       </div>
       <!-- POST MAIN IMAGE FIELD -->
       {% if post.main-image %}
