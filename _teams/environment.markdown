@@ -1,6 +1,7 @@
 ---
 title: Science & Environment
 date: 2017-08-02 20:43:00 -07:00
+position: 0
 teamtag: environment
 team-email: environment
 team-slack: science_environment

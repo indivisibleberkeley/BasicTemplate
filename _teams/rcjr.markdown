@@ -1,6 +1,7 @@
 ---
 title: Racism and Criminal Justice Reform
 date: 2017-09-04 19:35:00 -07:00
+position: 1
 teamtag: rcjr
 team-email: rcjr
 team-slack: racism_justice

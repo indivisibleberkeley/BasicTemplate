@@ -1,6 +1,7 @@
 ---
 title: First Amendment
 date: 2017-08-07 12:02:00 -07:00
+position: 2
 teamtag: firstamendment
 layout: team
 ---
