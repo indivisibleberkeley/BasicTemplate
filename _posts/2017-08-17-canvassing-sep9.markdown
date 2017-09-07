@@ -14,7 +14,9 @@ Location: Tracy, CA
 RSVP-link: mailto:carlockjeff@gmail.com
 ---
 
-Our canvassing trip out to Tracy in CD-10 last weekend was [a great success!][event-fb]! Our next canvassing day will be Saturday, September 16 in Tracy again with the Tracy GO TEAM. Please sign up and enlist some friends, too! Email [Billy][mail-billy] and [Jeff][mail-jeff] to RSVP. It’s totally cool if you have never canvassed before. These are easy days, and Tracy is only an hour’s drive. Joining in on these trips is a great way to get practice and familiarity with the work—and excitement—of going door-to-door to talk to real people. If you’re nervous and you want to learn more about what it’s like, feel free to get in touch with [Billy][mail-billy],  [Jeff][mail-jeff] or [us][mail-elections] for more information.
+### Note the new date!
+
+Our canvassing trip out to Tracy in CD-10 in August was [a great success!][event-fb]! Our next canvassing day will be Saturday, September 16 in Tracy again with the Tracy GO TEAM. Please sign up and enlist some friends, too! Email [Billy][mail-billy] and [Jeff][mail-jeff] to RSVP. It’s totally cool if you have never canvassed before. These are easy days, and Tracy is only an hour’s drive. Joining in on these trips is a great way to get practice and familiarity with the work—and excitement—of going door-to-door to talk to real people. If you’re nervous and you want to learn more about what it’s like, feel free to get in touch with [Billy][mail-billy],  [Jeff][mail-jeff] or [us][mail-elections] for more information.
 
 
 [event-fb]: https://www.facebook.com/BerkeleyIndivisible/photos/a.1316056851771230.1073741828.1306889019354680/1531603886883191/?type=3&theater
