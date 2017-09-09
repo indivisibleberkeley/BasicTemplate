@@ -1,6 +1,7 @@
 ---
 title: Healthcare
 date: 2017-09-09 16:12:00 -07:00
+position: 4
 teamtag: healthcare
 team-email: healthcare
 team-slack: healthcare

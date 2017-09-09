@@ -1,7 +1,7 @@
 ---
 title: First Amendment
 date: 2017-08-07 12:02:00 -07:00
-position: 5
+position: 7
 teamtag: firstamendment
 team-email: firstamendment
 team-slack: firstamendment

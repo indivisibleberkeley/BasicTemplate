@@ -1,7 +1,7 @@
 ---
 title: Elections
 date: 2017-08-17 21:15:00 -07:00
-position: 0
+position: 1
 teamtag: elections
 team-email: elections
 team-slack: elections
