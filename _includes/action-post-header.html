@@ -31,12 +31,13 @@
             
         </center>
       </div>
-      <div class="col-10 {% if post.main-image %}col-sm-6 col-lg-8{% else %}col-sm-9 col-lg-10{% endif %}">
-        {% if short-post %}
+      {% if short-post %}
+      <div class="col-10 col-sm-9 col-lg-10">
         <h5 class="d-inline-block mb-2 mt-1 mt-sm-0">
-        {% else %}
+      {% else %}
+      <div class="col-10 {% if post.main-image %}col-sm-6 col-lg-8{% else %}col-sm-9 col-lg-10{% endif %}">
         <h3 class="d-inline-block mb-2 mt-1 mt-sm-0">
-        {% endif %}
+      {% endif %}
           <a class="post-link text-danger" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         {% if short-post %}
         </h5>

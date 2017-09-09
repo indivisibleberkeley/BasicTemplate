@@ -11,7 +11,11 @@ layout: default
 
     <!-- Show 2 posts for each team -->
     <div class="row">
-      {% assign sorted_teams = (site.teams | sort: "position") %}
+      {% comment %} sort: "position", "last" means teams with no
+      position set will go at the end of the list. Positions can easily
+      be changed by dragging-and-dropping the team names in the siteleaf
+      interface. {% endcomment %}
+      {% assign sorted_teams = (site.teams | sort: "position", "last") %}
       {% for team in sorted_teams %}
         <div class="col-12 col-md-6 col-lg-4">
 
@@ -29,8 +33,8 @@ layout: default
           {% assign unsorted_events = (teamposts|where_exp:"post",isevent) %}
           {% assign unsorted_actions = (teamposts|where_exp:"post",isaction) %}
 
-          {% assign all_sorted_events = unsorted_events sort: "event-start-date" %}
-          {% assign all_sorted_actions = unsorted_actions sort: "event-end-date" %}
+          {% assign all_sorted_events = (unsorted_events|sort:"event-start-date","last") %}
+          {% assign all_sorted_actions = (unsorted_actions|sort:"event-end-date","last") %}
 
           {% comment %} note events and actions lists are limited to
           the max number of posts per team {% endcomment %}
