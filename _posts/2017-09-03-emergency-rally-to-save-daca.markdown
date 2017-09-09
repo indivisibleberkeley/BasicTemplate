@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - immigration
-is featured: true
+is featured: false
 event-start-date: 2017-09-05 17:00:00 -07:00
 event-end-date: 2017-09-05 18:30:00 -07:00
 Location: 'SF Federal Building: 90 7th Street, San Francisco, California 94103'
