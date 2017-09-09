@@ -11,7 +11,7 @@ is featured: true
 call-script-text: |-
   [You]
 
-  Hello! My name is [name] and I’m calling from Berkeley about DACA. Could you please tell me what the [Senator/Representative]’s plans to do to speak out against Trump’s announcement that he is ending the DACA program?
+  Hello! My name is [name] and I’m calling from Berkeley about DACA. Could you please tell me what the [Senator/Representative] plans to do to speak out against Trump’s announcement that he is ending the DACA program?
 
   [Staff member's response…]
 
