@@ -2,9 +2,10 @@
 title: 'Special Meeting of the Berkeley City Council re: use of pepper spray'
 date: 2017-09-10 21:02:00 -07:00
 categories:
-- rcjr
+- events
 tags:
 - berkeley city council
+- rcjr
 event-start-date: 2017-09-12 15:00:00 -07:00
 Location: 2134 MARTIN LUTHER KING JR. WAY
 ---
