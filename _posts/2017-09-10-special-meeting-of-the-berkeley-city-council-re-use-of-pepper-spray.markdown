@@ -6,6 +6,7 @@ categories:
 tags:
 - berkeley city council
 - rcjr
+is featured: true
 event-start-date: 2017-09-12 15:00:00 -07:00
 Location: 2134 MARTIN LUTHER KING JR. WAY
 RSVP-link: mailto:rcjr+owner@indivisibleberkeley.org
