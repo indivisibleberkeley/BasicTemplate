@@ -2,7 +2,7 @@
 title: 'Special Meeting of the Berkeley City Council re: use of pepper spray'
 date: 2017-09-10 21:02:00 -07:00
 categories:
-- events
+- event
 tags:
 - berkeley city council
 - rcjr
