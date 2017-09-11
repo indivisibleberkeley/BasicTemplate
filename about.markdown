@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-09-09 15:13:00 -07:00
+nav: true
 ---
 
 Indivisible Berkeley brings the Trump Resistance to {{ site.member-count }} of our closest neighbors in Berkeley and surrounding communities.
