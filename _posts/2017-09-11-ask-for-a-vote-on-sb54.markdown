@@ -16,4 +16,4 @@ event-end-date: 2017-09-16 00:00:00 -07:00
 
 As of Monday, Sept. 11, Governor Brown and Senate President Pro Tem de León have reached an agreement on SB54, the California Values Act. SB54 prevents state and local law enforcement resources from being diverted to enforce any federal immigration crackdown. [The bill was amended today](http://www.mercurynews.com/2017/09/11/last-minute-changes-narrow-california-sanctuary-state-immigration-bill/) and is no longer as strong as it was when first introduced, but it still provides a critical layer of protection for undocumented immigrants in California.
 
-Speaker Rendon has the power to bring up the bill for a vote as soon as it passes the mandatory waiting period following today's amendments. Please take a moment to call his office (**916-319-2063**) and demand that he bring the bill up for a vote as soon as possible! 
+Speaker Rendon has the power to bring up the bill for a vote as soon as it passes the mandatory waiting period following today's amendments. Please take a moment to call his office (916-319-2063) and demand that he bring the bill up for a vote as soon as possible! 
