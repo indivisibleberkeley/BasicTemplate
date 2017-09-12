@@ -7,7 +7,7 @@ tags:
 - immigration
 is featured: true
 call-script-text: |-
-  Call Speaker Rendon's office: 916-319-2063
+  Call Speaker Rendon's office: **916-319-2063**
 
   Hello, my name is _______ and I am calling to ask Assembly Speaker Rendon to put SB 54, the California Values Act, up for a vote immediately. California must lead and protect our immigrant communities against increasing attacks from Trump’s deportation machine, whether it’s the pardon of racist Sheriff Joe Arpaio or canceling DACA. Can we count with Speaker Rendon's leadership on SB 54?
 event-start-date: 2017-09-11 00:00:00 -07:00
