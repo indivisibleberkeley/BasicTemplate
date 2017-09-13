@@ -1,6 +1,7 @@
 ---
 title: Vigil to Send Love to Charlottesville
 date: 2017-09-13 00:58:00 -07:00
+is featured: true
 main-image: "/uploads/IMG_3258.JPG"
 ---
 
