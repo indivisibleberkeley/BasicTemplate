@@ -1,6 +1,6 @@
 ---
 title: Phone bank to Flip VA State House
-date: 2017-09-12 22:18:00 -07:00
+date: 2017-09-09 22:18:00 -07:00
 categories:
 - event
 tags:
