@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_3267.JPG"
 event-start-date: 2017-09-16 11:30:00 -07:00
 event-end-date: 2017-09-16 18:00:00 -07:00
