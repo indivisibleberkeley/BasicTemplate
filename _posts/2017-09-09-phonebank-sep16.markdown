@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-is featured: true
+is featured: false
 main-image: "/uploads/virginia_candidates.jpeg"
 event-start-date: 2017-09-16 12:00:00 -07:00
 event-end-date: 2017-09-16 15:00:00 -07:00
