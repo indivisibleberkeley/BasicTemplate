@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - immigration
-is featured: true
+is featured: false
 call-script-text: |-
   Call Speaker Rendon's office: **916-319-2063**
 
