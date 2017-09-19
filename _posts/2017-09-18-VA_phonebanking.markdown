@@ -7,6 +7,8 @@ tags:
 - elections
 - VA
 is featured: true
+event-start-date: 2017-09-18 00:00:00 -07:00
+event-end-date: 2017-11-07 00:00:00 -08:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSe_VTJYro3E3FgFrNNoKnc6AypEqo14Hjw14krn-L7aJwW6vA/viewform?link_id=4&can_id=ef11842e5660a6e81979ed14ee9dd312&source=email-upcoming-phone-banks-to-flip-virginia-state-house&email_referrer=upcoming-phone-banks-to-flip-virginia-state-house&email_subject=upcoming-phone-banks-to-flip-virginia-state-house
 ---
 
