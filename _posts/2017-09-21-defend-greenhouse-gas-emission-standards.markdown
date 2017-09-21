@@ -9,7 +9,7 @@ tags:
 call-script-text: "(Unique comments are best, so if you have time, craft one of your
   own.  If not, please use the script below.) \n\nI am concerned about my family’s
   fuel costs, our health, and the harm caused by more frequent weather extremes.  Overwhelming
-  science shows that these extremes are caused global warming. They harm the safety
+  science shows that these extremes are caused by global warming. They harm the safety
   of my family, our property and our financial security.  The 2021-2025 Greenhouse
   Gas standards are reasonable, cost-effective, and technically feasible with controls
   already in use on many vehicles.  The existing standards will save billions in consumers’
