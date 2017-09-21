@@ -3,7 +3,7 @@ title: Newsletter on 9/14/17
 date: 2017-09-14 15:19:00 -07:00
 categories:
 - update
-is featured: true
+is featured: false
 ---
 
 It's going to be a busy fall for Indivisible Berkeley. As usual, we have a host of actions for you to take in either small or larger ways. If we just met you at the Solano Stroll, welcome! It was a great day for meeting new people and spreading the word about IB.
