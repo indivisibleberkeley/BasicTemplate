@@ -6,6 +6,7 @@ categories:
 tags:
 - canvassing
 - elections
+main-image: "/uploads/yardsigns255.png"
 event-start-date: 2017-10-14 11:30:00 -07:00
 event-end-date: 2017-10-14 19:30:00 -07:00
 RSVP-link: mailto:billymcdonaldnp@gmail.com
