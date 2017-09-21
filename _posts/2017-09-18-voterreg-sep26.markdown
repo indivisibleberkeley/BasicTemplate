@@ -9,7 +9,7 @@ tags:
 event-start-date: 2017-09-26 10:00:00 -07:00
 event-end-date: 2017-09-26 12:00:00 -07:00
 Location: Paramount Theater, Oakland
-RSVP-link: https://demaction.us/events/36531506720/
+RSVP-link: https://www.eventbrite.com/e/register-new-citizens-to-vote-registration-36531506720?ref=wpevent
 ---
 
 This event is hosted by [Democracy Action](http://demaction.us)
