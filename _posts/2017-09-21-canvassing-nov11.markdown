@@ -1,5 +1,5 @@
 ---
-title: Canvas with IB in CA-10
+title: Canvass with IB in CA-10
 date: 2017-09-21 01:29:00 -07:00
 categories:
 - event
