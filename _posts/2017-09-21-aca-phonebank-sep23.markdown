@@ -17,4 +17,4 @@ RSVP-link: https://my.ofa.us/page/event/detail/affordablecareactcommunityoutreac
 
 With John McCain on the fence again about repealing the ACA, we've got to mobilize fellow progressives in Arizona to call his office and make it clear that repeal is not acceptable.
 
-Join OFA at the Berkeley Library South Branchh on Saturday from 2-5 for a phone bank to *Save the ACA*!
+Join OFA at the Berkeley Library South Branch on Saturday from 2-5 for a phone bank to *Save the ACA*!
