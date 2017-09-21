@@ -6,6 +6,7 @@ categories:
 tags:
 - phonebank
 - healthcare
+is featured: true
 main-image: "/uploads/Phone%20Bank%201.jpg"
 event-end-date: 2017-09-27 00:00:00 -07:00
 RSVP-link: https://www.trumpcareten.org/calls-to-kill-trumpcare/
