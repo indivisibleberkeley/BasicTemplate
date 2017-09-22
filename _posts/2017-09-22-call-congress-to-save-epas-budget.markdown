@@ -31,16 +31,3 @@ event-end-date: 2017-09-22 23:59:00 -07:00
 ---
 
 Support the Friends of the Earth's "Save EPA's Budget" Call-in Day on Sept. 22.  Call your members of congress today!
-
-## Senators Contact Info
-* Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me)
-* Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/content/contact-senator)
-* or [find your senator](https://www.senate.gov/senators/contact/)
-
-## Representatives Contact Info
-* Mark DeSaulnier - 11th district: (510) 620-1000, (202) 225-2095, or [email](https://desaulnier.house.gov/contact/email)
-* Nancy Pelosi - 12th district: (415) 556-4862, (202) 225-4965, or [email](https://pelosi.house.gov/contact-me/email-me)
-* Barbara Lee - 13th district: (510) 763-0370, (202) 225-2661, or [email](https://lee.house.gov/contact/email-me)
-* Jackie Speier - 14th district: (650) 342-0300, (202) 225-3531, or [email](https://speier.house.gov/contact/email)
-* Eric Swalwell - 15th district: 510-370-3322, 202-225-5065, or [email](https://swalwell.house.gov/contact)
-* or [find your representative](http://www.house.gov/representatives/find/)
