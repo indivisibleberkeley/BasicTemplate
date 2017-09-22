@@ -1,6 +1,6 @@
 ---
 title: IB General Assembly
-date: 2017-09-12 19:00:00 -07:00
+date: 2017-09-21 19:00:00 -07:00
 categories:
 - event
 tags:
