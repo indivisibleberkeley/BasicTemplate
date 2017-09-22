@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - healthcare
-is featured: true
+is featured: false
 main-image: "/uploads/Phone%20Bank%201.jpg"
 event-start-date: 2017-09-21 17:00:00 -07:00
 event-end-date: 2017-09-21 20:00:00 -07:00
