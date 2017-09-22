@@ -24,11 +24,5 @@ event-end-date: 2017-08-13 00:00:00 -07:00
 RSVP-link: https://www.regulations.gov/document?D=NOAA-NOS-2017-0066-0001
 ---
 
-Comment to oppose the administration’s efforts to reduce or eliminate marine sanctuaries and marine national monuments and to open them for energy and mineral exploration and production.   
-
-[**_Comment Here_**](https://www.regulations.gov/document?D=NOAA-NOS-2017-0066-0001) on the federal register. Press the Comment Now button at the top right of the screen.
-
-## Background
-
 Pursuant to Executive Order 13795, Implementing an America-First Offshore Energy Strategy, NOAA is reviewing the status of marine sanctuaries and marine national monuments designated or expanded since April 28, 2007.  Criteria for review are: assessment of acreage, budget impacts, costs of management, whether adequate consultation was performed, and the opportunity for potential energy and mineral exploration and production within or near the sanctuaries or monuments. More information on these rich environments, including a list of sanctuaries and monuments at risk and their economic, recreational, ecological and climate protection value can be found here [Monuments for All](http://monumentsforall.org/marine/) and  the [National Marine Sanctuary Foundation](https://www.marinesanctuary.org/take-action/advocate/standupformarinesanctuaries/)
 
