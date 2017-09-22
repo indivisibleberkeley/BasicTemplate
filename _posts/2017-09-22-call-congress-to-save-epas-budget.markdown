@@ -8,7 +8,7 @@ tags:
 - environment
 is featured: true
 call-script-text: |-
-  ## Suggested Script for Senators (personalize if possible):
+  **Suggested Script for Senators (personalize if possible):**
 
   Hi, my name is \[NAME\] and I’m a constituent from \[CITY, ZIP\].
 
@@ -18,7 +18,7 @@ call-script-text: |-
 
   \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]
 
-  ## Suggested Script for Representatives (personalize if possible):
+  **Suggested Script for Representatives (personalize if possible):**
 
   Hi, my name is \[NAME\] and I’m a constituent from \[CITY, ZIP\].
 
