@@ -37,8 +37,7 @@ event-end-date: 2017-10-17 00:00:00 -07:00
 RSVP-link: https://www.federalregister.gov/documents/2017/07/19/2017-15181/proposal-to-withdraw-proposed-determination-to-restrict-the-use-of-an-area-as-a-disposal-site-pebble#open-comment
 ---
 
-### Background
-
-*Via [SaveEPA](http://www.saveepaalums.info/resisting-the-trump-de-regulatory-agenda-talking-points/defending-bristol-bay/)*:  
 In July 2014 EPA proposed to restrict dumping of mining wastes in the Bristol Bay watershed in Southwest Alaska to protect salmon fisheries. The pristine habitat in the watershed sustains one of world’s most important fisheries, including half of the global supply of wild sockeye salmon.
 On July 19, 2017, The Trump Administration proposed to withdraw the July 2014 proposed determination.
+
+Via [SaveEPA](http://www.saveepaalums.info/resisting-the-trump-de-regulatory-agenda-talking-points/defending-bristol-bay/)
