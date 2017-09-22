@@ -27,7 +27,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]
-event-end-date: 2017-09-22 00:00:00 -07:00
+event-end-date: 2017-09-22 23:59:00 -07:00
 ---
 
 Support the Friends of the Earth's "Save EPA's Budget" Call-in Day on Sept. 22.  Call your members of congress today!
