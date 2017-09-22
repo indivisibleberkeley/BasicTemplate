@@ -1,5 +1,5 @@
 ---
-title: Protect Alaska's Bristol Bay from Mining Waste
+title: Comment to Bristol Bay Watershed and Salmon Fishery from Mining Waste
 date: 2017-08-15 08:08:00 -07:00
 categories:
 - action
@@ -36,12 +36,6 @@ call-script-text: "*Personalize this script if possible*\n*Note: It **is** best 
 event-end-date: 2017-10-17 00:00:00 -07:00
 RSVP-link: https://www.federalregister.gov/documents/2017/07/19/2017-15181/proposal-to-withdraw-proposed-determination-to-restrict-the-use-of-an-area-as-a-disposal-site-pebble#open-comment
 ---
-
-Comment to Protect the Bristol Bay Watershed and Salmon Fishery from Mining Waste!
-
-Submit your comment to tell EPA not to withdraw the Clean Water Act determination to limit mining discharges to the Bristol Bay Watershed.
-
-**[Click here to submit your comment](https://www.federalregister.gov/documents/2017/07/19/2017-15181/proposal-to-withdraw-proposed-determination-to-restrict-the-use-of-an-area-as-a-disposal-site-pebble#open-comment) by October 17.**
 
 ### Background
 
