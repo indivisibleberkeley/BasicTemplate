@@ -1,5 +1,5 @@
 ---
-title: Defend Fracking Regulations on Federal and Indian Lands
+title: Comment to Defend Fracking Regulations on Federal and Indian Lands
 date: 2017-09-21 14:20:00 -07:00
 categories:
 - action
