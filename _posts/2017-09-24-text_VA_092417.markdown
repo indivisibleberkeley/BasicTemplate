@@ -1,0 +1,24 @@
+---
+title: Texting for Virginia
+date: 2017-09-24 09:39:00 -07:00
+categories:
+- action
+tags:
+- elections
+- VA
+event-start-date: 2017-09-24 09:00:00 -07:00
+event-end-date: 2017-11-07 00:00:00 -08:00
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfaxC3ttNgFsKngq-vStItEo_Niah-Y8msdGLo76U-0fDCIJg/viewform
+---
+
+Would you like to participate in texting efforts for the Virginia House of Delegates races this fall? Half a dozen organizations have come together to participate.
+
+Many of us in Indivisible Berkeley are familiar with Hustle from other efforts, but for Virginia, a different system is in use.
+
+A couple of quick steps:
+
+1) Sign up via the [google form](https://docs.google.com/forms/d/e/1FAIpQLSfaxC3ttNgFsKngq-vStItEo_Niah-Y8msdGLo76U-0fDCIJg/viewform) to indicate your availability and share your info with some local organizers.
+2) Sign up for [relay](https://winvirginia.relaytxt.io/invitation/2127192805/RUgybjZzU2EzbThEZk84WEZLSEpxZz09), which is the texting platform, which you may want to do from your laptop.
+3) Jump into an [optional slack team](https://join.slack.com/t/openprogresstexting/shared_invite/MjI5Mzk0NzE3NTIwLTE1MDM0MTQ4NzEtNGI2MWMwNjA0NA) and join the #va_delegates_redtoblue channel for support and info. 
+
+Questions? Email elections+owner@indivisibleberkeley.org.
