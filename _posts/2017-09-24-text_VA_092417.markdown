@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - VA
+is featured: true
 event-start-date: 2017-09-24 09:00:00 -07:00
 event-end-date: 2017-11-07 00:00:00 -08:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfaxC3ttNgFsKngq-vStItEo_Niah-Y8msdGLo76U-0fDCIJg/viewform
