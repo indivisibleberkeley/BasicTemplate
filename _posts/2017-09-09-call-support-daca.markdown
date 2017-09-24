@@ -22,7 +22,7 @@ call-script-text: |-
   That’s great, but it’s going to take more than talk and tweet storms to keep 800,000 DACA recipients from falling into Trump’s deportation machine. Will the [Senator/Representative] commit to me, a constituent, that she will demand that the DREAM Act be included in any must-pass bill that is scheduled for a vote this month?
 
   [If the staffer is non-committal, you can ask to receive an update and provide your phone number and/or email address. Please let us know how your call goes by emailing [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org) or contacting the [Immigration Team](https://indivisibleberkeley.org/team/immigration)]
-event-end-date: 2017-09-23 00:00:00 -07:00
+event-end-date: 2017-10-05 00:00:00 -07:00
 RSVP-link: https://www.indivisibleguide.com/resource/tell-senator-defend-daca-support-durbin-graham-dream-act/
 ---
 
