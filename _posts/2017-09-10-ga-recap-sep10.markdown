@@ -6,6 +6,7 @@ categories:
 tags:
 - ga-recap
 is featured: true
+event-end-date: 2017-09-24 00:00:00 -07:00
 ---
 
 Our General Assembly on September 10 was the first time we were back at the Finnish Hall for a GA since the end of June. The theme of the GA was "Summer Recap." We started with a half hour of team meet-and-greet, where community members could meet  IB Team members and learn what the teams are up to and how to get involved (hint: check out the [teams page](https://indivisibleberkeley.org/teams) on our website).
