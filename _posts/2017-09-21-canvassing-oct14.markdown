@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/yardsigns255.png"
 event-start-date: 2017-10-14 08:00:00 -07:00
-event-end-date: 2017-10-14 16:30:00 -07:00
+event-end-date: 2017-10-14 15:00:00 -07:00
 Location: Turlock, CA
 RSVP-link: mailto:billymcdonaldnp@gmail.com
 ---
