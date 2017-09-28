@@ -28,6 +28,8 @@ layout: default
             <span class="custom-control-indicator align-self-center"></span>
             <span class="custom-control-description ml-2 text-danger">Mark as done</span>
           </label>
+          {% elsif page.categories contains 'update' %}
+          <p>Posted on {{ page.date | date '%B %e, %Y' }}</p>
           {% endif %}
         </header>
       </div>
@@ -102,7 +104,7 @@ layout: default
       </div>
       <!-- END ACTION SIDEBAR -->
 
-      {% elsif page.event-start-date %}
+      {% elsif page.categories contains 'event' and page.event-start-date %}
       <div class="col-sm-5 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header bg-medium">
