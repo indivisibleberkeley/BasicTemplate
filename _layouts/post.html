@@ -29,7 +29,7 @@ layout: default
             <span class="custom-control-description ml-2 text-danger">Mark as done</span>
           </label>
           {% elsif page.categories contains 'update' %}
-          <p>Posted on {{ page.date | date '%B %e, %Y' }}</p>
+          <p>Posted on {{ page.date | date: '%B %e, %Y' }}</p>
           {% endif %}
         </header>
       </div>
