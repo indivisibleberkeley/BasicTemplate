@@ -1,7 +1,6 @@
 ---
 title: Comment to Oppose Surveillance of Immigrants' Social Media
 date: 2017-10-01 21:17:00 -07:00
-published: false
 categories:
 - action
 tags:
