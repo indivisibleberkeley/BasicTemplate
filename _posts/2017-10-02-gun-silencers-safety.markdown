@@ -6,7 +6,7 @@ categories:
 tags:
 - call
 call-script-text: |-
-  Hello, my name is (name), and my zip code is (zip code). I'm calling to urge the [Senator/Representative] to vote NO on the "SHARE Act," which would remove regulations on gun silencers. Regulation of gun silencers saves lives. Removing the silencer provision in the SHARE Act would ensure that current law—that has been in place for decades—remains on the books. Silencers distort the sound of gunfire, making it harder for victims to flee and first responders to intervene.
+  Hello, my name is (name), and my zip code is (zip code). I'm calling to urge the [Senator/Representative] to vote NO on the gun silencer provision in the "SHARE Act," which would remove regulations surrounding the purchase of gun silencers. Regulation of gun silencers saves lives. Removing the silencer provision in the SHARE Act would ensure that current law—that has been in place for decades—remains on the books. Silencers distort the sound of gunfire, making it harder for victims to flee and first responders to intervene.
 
   Thank you for your time.
 event-end-date: 2017-10-13 00:00:00 -07:00
