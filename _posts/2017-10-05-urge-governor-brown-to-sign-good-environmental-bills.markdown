@@ -33,3 +33,5 @@ event-end-date: 2017-10-30 00:00:00 -07:00
 Indivisible Berkeley's Science & Environment team is partnering with the Sierra Club California to support these key environmental bills in California. Sierra Club California takes positions on hundreds of bills. While many of those passed the legislature, a handful required extraordinary effort by Sierra Club supporters all over the state to make sure legislators knew to support the bills.
 
 Now that some of these critical bills have passed in the legislature, we need one more action to get them over the finish line: Governor Brown’s signature.
+
+If you do not have time to call, you can also sign the [Sierra Club action alert here](https://sierra.secure.force.com/actions/California?actionId=AR0089065&id=7010Z000001OkLCQA0&data=20b7972fd5aab699c2e6fad3435bdc4da8c1e8899ff1df1dc6d3d2d44e458eafea5b4848dd3d0e3d031cedfeafcc0234).
