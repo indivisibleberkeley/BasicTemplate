@@ -27,6 +27,7 @@ call-script-text: |-
   Thank you for your attention to these bills and for your leadership in the effort to address climate disruption.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
+event-end-date: 2017-10-30 00:00:00 -07:00
 ---
 
 Indivisible Berkeley's Science & Environment team is partnering with the Sierra Club California to support these key environmental bills in California. Sierra Club California takes positions on hundreds of bills. While many of those passed the legislature, a handful required extraordinary effort by Sierra Club supporters all over the state to make sure legislators knew to support the bills.
