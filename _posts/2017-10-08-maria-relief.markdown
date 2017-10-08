@@ -7,6 +7,7 @@ categories:
 tags:
 - call
 is featured: true
+main-image: "/uploads/puerto%20rico.JPG"
 call-script-text: |-
   Hello, my name is [name] and I'm calling from zip code [zip code]. I'm calling about disaster relief aid to Puerto Rico and the US Virgin Islands. I am happy that the [Senator/Representative] has called for increased aid [you can mention the specific item listed below]. Still, I want to see her do these two specific things to ensure that the millions of Americans without food, water, electricity or shelter get the help they need:
 
