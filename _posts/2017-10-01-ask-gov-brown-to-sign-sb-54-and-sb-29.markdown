@@ -9,7 +9,7 @@ call-script-text: |-
   Call: (916)-445-2841
 
   My name is ________, and I am calling to ask Governor Brown to sign SB29 (the Dignity not Detention Act) and SB 54 (the California Values Act). We cannot use California's resources to help the Trump administration deport our community members. Can I count on the Governor to sign SB 29 and SB 54?
-event-end-date: 2017-10-15 23:59:00 -07:00
+event-end-date: 2017-10-05 23:59:00 -07:00
 ---
 
 Governor Brown has two important bills on his desk, awaiting his signature:
