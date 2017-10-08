@@ -11,11 +11,7 @@ main-image: "/uploads/puerto%20rico.JPG"
 call-script-text: |-
   Hello, my name is [name] and I'm calling from zip code [zip code]. I'm calling about disaster relief aid to Puerto Rico and the US Virgin Islands. I am happy that the [Senator/Representative] has called for increased aid [you can mention the specific item listed below]. Still, I want to see her do these two specific things to ensure that the millions of Americans without food, water, electricity or shelter get the help they need:
 
-  1. Emergency aid package
-
-    a. [Senators] Demand that an emergency aid package be passed the week the Senate returns from recess.
-
-    b. [Representative] Demand that an emergency aid package be passed this week, before October recess.
+  1. [For Senators] Demand that an emergency aid package be passed the week the Senate returns from recess. [For Representative] Demand that an emergency aid package be passed this week, before October recess.
 
   2. Demand the Jones Act be amended to not apply to areas that receive federal disaster aid.
 
