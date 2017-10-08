@@ -2,19 +2,23 @@
 title: Tell our Members of Congress these specific ways to help Puerto Rico and the
   US Virgin Islands
 date: 2017-10-08 14:17:00 -07:00
-published: false
+categories:
+- action
 tags:
 - call
-- action
 is featured: true
 call-script-text: |-
-  Hello, my name is [name] and I'm calling from zip code [zip code]. I'm calling about disaster relief aid to Puerto Rico and the US Virgin Islands. I know that the [Senator/Representative] has called for increased aid, but I want to see her do these two specific things:
+  Hello, my name is [name] and I'm calling from zip code [zip code]. I'm calling about disaster relief aid to Puerto Rico and the US Virgin Islands. I am happy that the [Senator/Representative] has called for increased aid [you can mention the specific item listed below]. Still, I want to see her do these two specific things to ensure that the millions of Americans without food, water, electricity or shelter get the help they need:
 
   1a. [Senators] Demand that an emergency aid package be passed the week the Senate returns from recess.
 
   1b. [Representative] Demand that an emergency aid package be passed this week, before October recess.
 
   2. Demand the Jones Act be amended to not apply to areas that receive federal disaster aid.
+
+  Thank you for your time.
+event-start-date: 2017-10-09 00:00:00 -07:00
+event-end-date: 2017-10-20 00:00:00 -07:00
 ---
 
 Puerto Rico and the US Virgin Islands were destroyed by Hurricane Maria, yet Congress and President Trump have been slow to provide material aid and relief funds to these American islands. Our Members of Congress have pushed for increased aid, but we can help them do more.
