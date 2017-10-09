@@ -1,6 +1,11 @@
 ---
 title: Sign the Petition for a New Sheriff
 date: 2017-10-08 16:38:00 -07:00
+categories:
+- action
+tags:
+- immigration
+- rcjr
 ---
 
 Alameda County Sheriff Greg Ahern is a conservative Republican and wildly out of touch with his constituents.
