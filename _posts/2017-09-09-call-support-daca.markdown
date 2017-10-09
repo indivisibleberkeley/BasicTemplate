@@ -17,7 +17,7 @@ call-script-text: |-
 
 
   [If the staffer is non-committal, you can ask to receive an update and provide your phone number and/or email address. Please let us know how your call goes by emailing [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org) or contacting the [Immigration Team](https://indivisibleberkeley.org/team/immigration)]
-event-end-date: 2017-10-13 00:00:00 -07:00
+event-end-date: 2017-10-31 00:00:00 -07:00
 RSVP-link: https://www.indivisibleguide.com/resource/tell-senator-defend-daca-support-durbin-graham-dream-act/
 ---
 
