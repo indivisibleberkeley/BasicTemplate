@@ -6,6 +6,7 @@ categories:
 tags:
 - immigration
 - rcjr
+event-end-date: 2017-10-31 00:00:00 -07:00
 ---
 
 Alameda County Sheriff Greg Ahern is a conservative Republican and wildly out of touch with his constituents.
