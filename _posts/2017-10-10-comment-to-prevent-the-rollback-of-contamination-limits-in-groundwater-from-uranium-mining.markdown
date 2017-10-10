@@ -8,8 +8,6 @@ tags:
 - environment
 - comment
 call-script-text: |-
-  ## Comment Script
-
   \(personalize if possible, add details from the talking points in the link below or other information you are aware of or are concerned about):
 
   I strongly oppose the Trump administration’s “re-proposal” to weaken the 2015 EPA proposed rule to limit contamination of uranium in drinking water.  The existing proposal has already had extensive public comment and scientific review and should go into effect as planned. The new proposal will significantly weaken standards for monitoring, requirements for cleanup of drinking water sources, and public participation in rule-making.  Those citizens, disproportionately Native Americans, who live in areas impacted by uranium mining should be protected from unsafe drinking water and ongoing contamination of their aquifers. The timeframes for monitoring, the requirements for establishing baselines before mining begins, the restoration goals and cleanup deadlines, and the public’s fundamental right to participate in setting contamination limits, which are described in the 2015 proposal, are supported by science and administrative procedure and should be retained.
