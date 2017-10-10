@@ -15,7 +15,6 @@ Indivisible Berkeley is a registered not-for-profit corporation in the State of 
 The Indivisible Berkeley Steering Team is composed of organizers, tech specialists, and political gurus and helps guide Indivisible Berkeley on a path of productive and impactful action. Like everyone in our organization, Steering Team members are all volunteers. The current Steering Team members are:
 
 + Brandon Curtis
-+ Lenore Goldman
 + Keavney Klein
 + Sam Kohn
 + Eleanor Moses
