@@ -19,6 +19,8 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
 
 Join us at the Finnish Hall for our next General Assembly! Doors open at 7PM; we'll start promptly at 7:30PM.  We'll have updates from our teams, an invited speaker, and community event announcements, followed by team breakouts and discussions.
 
-Bring friends!
+This GA will include a focus on women’s issues and possibly gender issues as well, in part to commemorate the First Inaugural Women's Convention in Detroit, which is being organized by the Women’s March planners. This week has also developed into #MeToo week, highlighting sexual harassment as a national issue.
+
+Our guest speakers will be students from BHS Stop Harassing, a group of Berkeley High School students who are working to change the culture surrounding sexual harassment and violence at BHS and beyond. They want Berkeley High to be a model high school where all students feel safe and respected. They seek to spur district administrators and school decision-makers to immediately address shortcomings in the school environment that impede student success insofar as those factors create an unsafe learning environment.
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
