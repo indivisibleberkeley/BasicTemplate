@@ -24,8 +24,7 @@ This GA will include a focus on women’s issues, in part to commemorate the Fir
 ### T-Shirt Distribution
 
 T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want. T-shirts will also be available for sale at the following General Assembly, on November 5.
-
-![IMG_3360.JPG](/uploads/IMG_3360.JPG)
+![tshirts2.jpg](/uploads/tshirts2.jpg)
 
 ## Guest Speakers
 
