@@ -7,7 +7,7 @@ tags:
 - call
 - immigration
 - daca
-is featured: true
+is featured: false
 call-script-text: |-
   **You:** Hello! My name is [name] and I’m calling from Berkeley. I’m glad to hear that [Senator/Representative name] is speaking out against Trump's decision to end the DACA program. Will the [Senator/Representative] commit to me, a constituent, that they will demand that the DREAM Act be included in any must-pass bill that is scheduled for a vote this month?
 
