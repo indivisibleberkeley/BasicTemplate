@@ -1,0 +1,16 @@
+---
+title: Postcard party for VA
+date: 2017-10-24 01:30:00 -07:00
+categories:
+- event
+tags:
+- elections
+- postcard
+is featured: true
+event-start-date: 2017-10-24 18:30:00 -07:00
+event-end-date: 2017-10-24 20:30:00 -07:00
+Location: Sports Basement, Berkeley
+RSVP-link: https://www.facebook.com/events/2136381069922527/
+---
+
+On Tuesday, October 24, join Together We Will - Albany/Berkeley at 6:30 pm at Sports Basement to write postcards supporting Ralph Northam, the Democratic candidate in Virginia’s gubernatorial race, AND the local House of Delegates candidate. RSVP at the link on the left.
