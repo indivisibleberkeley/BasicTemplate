@@ -1,6 +1,11 @@
 ---
 title: Textbank for Virginia at home
 date: 2017-10-24 01:28:00 -07:00
+categories:
+- action
+tags:
+- elections
+- textbank
 is featured: true
 event-end-date: 2017-11-07 17:00:00 -08:00
 ---
