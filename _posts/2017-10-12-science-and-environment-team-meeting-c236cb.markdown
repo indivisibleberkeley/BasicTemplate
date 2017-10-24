@@ -12,3 +12,5 @@ RSVP-link: mailto:environment+owner@indivisibleberkeley.org
 ---
 
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
+
+With special guests this week from the Center for Biological Diversity!
