@@ -7,6 +7,7 @@ tags:
 - elections
 - postcard
 is featured: true
+main-image: "/uploads/postcards.jpg"
 event-start-date: 2017-10-24 18:30:00 -07:00
 event-end-date: 2017-10-24 20:30:00 -07:00
 Location: Sports Basement, Berkeley
