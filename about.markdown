@@ -27,6 +27,9 @@ To contact the Steering Team, please email [info@indivisibleberkeley.org](mailto
 
 ### Indivisible Berkeley endorsement policy
 
+**Our power lies in our numbers, not in our name**
+
+
 Indivisible Berkeley fulfills its mission through action by collections of individuals,
 primarily organized by and through teams.
 As an organization, Indivisible Berkeley does not explicitly---whether verbally or in
