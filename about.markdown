@@ -51,4 +51,4 @@ Do:
 Don't:
  - Say or imply (e.g. with a t-shirt or sign) that you represent IB when you are speaking in public in a political context (e.g. at a town hall, demonstration not sponsored by IB, or policy hearing)
  - Say or imply that you represent IB at a meeting with policymakers or staff
- - Sign on as an IB team or as IB to specific policies (e.g. petitions, open letters), events not sponsored by Ib, or partnerships with other groups
+ - Sign on as an IB team or as IB to specific policies (e.g. petitions, open letters), events not sponsored by IB, or partnerships with other groups
