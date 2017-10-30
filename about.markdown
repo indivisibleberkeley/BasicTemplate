@@ -30,7 +30,7 @@ To contact the Steering Team, please email [info@indivisibleberkeley.org](mailto
 Indivisible Berkeley fulfills its mission through action by collections of individuals,
 primarily organized by and through teams.
 As an organization, Indivisible Berkeley does not explicitly---whether verbally or in
-writing---endorse candidates, specific policies (e.g. legislation, regulations, initiatives),
+writing--- endorse candidates, specific policies (e.g. legislation, regulations, initiatives),
 groups/coalitions, or events hosted by other groups. Individual participants and teams
 also do not use Indivisible Berkeley’s name---whether visually or verbally---to suggest
 that they represent the views of a team or of Indivisible Berkeley as a whole.
