@@ -17,7 +17,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
   this div is the target for our HTML insertion --></div>"
 ---
 
-Join us at **Berkeley Fellowship of Unitarian Universalists** for our "One Year Till the Midterms" Special Assembly! Doors open at 7PM; we'll start promptly at 7:30PM. Our Elections Team has prepared an amazing program including speakers from the ACLU and Barbara Lee's office, as well as trainings for canvassing and voting rights.
+Join us at **Berkeley Fellowship of Unitarian Universalists** for our "One Year Till the Midterms" General Assembly! Doors open at 7PM; we'll start promptly at 7:30PM. Our Elections Team has prepared an amazing program including speakers from the ACLU and Barbara Lee's office, as well as trainings for canvassing and voting rights.
 
 ### T-Shirt Distribution
 
