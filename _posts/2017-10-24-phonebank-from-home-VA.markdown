@@ -17,6 +17,8 @@ You can make a difference from the comfort of your own home this weekend and nex
 
 ### Schedule
 
+Sign up for a shift with Indivisible, Democracy for America and MoveOn to call for one of a variety of candidates. [RSVP here](https://www2.democracyforamerica.com/events/dfadialer/2017?source=ptnr.indivisible)
+
 We will make calls supporting **Cheryl Turpin** all at the same time: on **Saturdays** between 12pm and 3pm (Pacific Time).
 
 We will make calls supporting **Kathy Tran** also all at the same time: on **Sundays** between 1pm and 4pm (Pacific Time)>
