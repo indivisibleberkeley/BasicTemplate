@@ -1,5 +1,5 @@
 ---
-title: Science & Environment Team Meeting - featuring the Center for Biological Diversity
+title: Science & Environment Team Meeting
 date: 2017-10-12 11:55:00 -07:00
 categories:
 - event
