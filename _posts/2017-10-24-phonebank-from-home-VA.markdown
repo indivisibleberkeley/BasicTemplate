@@ -8,7 +8,7 @@ tags:
 - phonebank
 is featured: true
 main-image: "/uploads/Phone%20Bank%201.jpg"
-event-end-date: 2017-11-05 00:00:00 -07:00
+event-end-date: 2017-11-07 00:00:00 -08:00
 ---
 
 It's almost Election Day, and it's time to **Get Out The Vote**!
