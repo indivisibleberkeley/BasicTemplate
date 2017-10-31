@@ -1,5 +1,5 @@
 ---
-title: 'IB Special Assembly: One year till the midterms'
+title: 'IB General Assembly: One year till the midterms'
 date: 2017-10-30 19:52:00 -07:00
 categories:
 - event
