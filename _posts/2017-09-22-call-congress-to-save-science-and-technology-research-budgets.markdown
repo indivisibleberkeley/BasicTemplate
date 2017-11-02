@@ -14,7 +14,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2017-10-31 00:00:00 -07:00
+event-end-date: 2017-11-10 23:59:00 -08:00
 ---
 
 Investments in science, technology and health are under threat in the current administration.  The agencies listed above are as follows:   National Oceanic and Atmospheric Administration (NOAA), National Institutes of Health (NIH), National Science Foundation (NSF), United States Geological Survey (USGS), Agricultural Research Service (ARS), National Science and Technology Council (NSTC), National Aeronautics and Space Administration (NASA), Department of Energy (DOE), and Environmental Protection Agency (EPA). 
