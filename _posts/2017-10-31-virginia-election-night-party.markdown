@@ -9,7 +9,7 @@ tags:
 is featured: true
 event-start-date: 2017-11-07 18:30:00 -08:00
 event-end-date: 2017-11-07 21:30:00 -08:00
-Location: Townie, 1799 University Ave, Berkeley
+Location: Pappy's, 2367 Telegraph Ave, Berkeley
 RSVP-link: https://www.facebook.com/events/1561845473861053/
 ---
 
