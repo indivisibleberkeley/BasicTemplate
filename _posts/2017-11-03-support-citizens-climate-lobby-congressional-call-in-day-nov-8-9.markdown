@@ -6,11 +6,14 @@ categories:
 tags:
 - environment
 - call
-call-script-text: 'I’m calling about climate change. I want Senator / Representative
-  _____________ to enact [pick one: (1) the Citizens’ Climate Lobby’s carbon fee and
-  dividend proposal; or (2) to boldly address climate change by enacting a fee on
-  carbon] . Congress should be moving strongly forward on solving the climate problem,
-  rather than pulling back. This is a very important issue to me because….'
+call-script-text: |
+  Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
+
+  I’m calling about climate change. I want Senator / Representative _____________ to enact [pick one: (1) the Citizens’ Climate Lobby’s carbon fee and dividend proposal; or (2) to boldly address climate change by enacting a fee on carbon] . Congress should be moving strongly forward on solving the climate problem, rather than pulling back. This is a very important issue to me because…
+
+  Thank you for your time and attention.
+
+  [If leaving a voicemail, leave your full street address to ensure your call is tallied]
 event-end-date: 2017-11-09 23:59:00 -08:00
 ---
 
