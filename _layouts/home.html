@@ -40,9 +40,20 @@ layout: default
     <div class="row">
 
       <div class="col-sm-8">
+          <div class="row mt-4">
+              <div class="col-12 col-md-4">
+                  <a href="/actions" class="btn btn-block btn-danger">All current actions</a></br>
+              </div>
+              <div class="col-12 col-md-4">
+                  <a href="/calendar" class="btn btn-block btn-primary">All upcoming events</a></br>
+              </div>
+              <div class="col-12 col-md-4">
+                  <a href="/archive" class="btn btn-block btn-secondary">Archive</a>
+              </div>
+          </div>
 
         <!-- Blog Posts -->
-<!--         <h2>Featured Actions, Events, and News</h2> -->
+        <h3>Featured Actions, Events, and News</h3>
         <div class="post-list">
 
           {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
@@ -75,9 +86,6 @@ layout: default
         <!-- Pagination links -->
         <hr class="mt-2 mb-4">
         <div class="pagination">
-          <a href="/actions" class="next ml-auto">All current actions &rarr;</a></br>
-          <a href="/calendar" class="next ml-auto">All upcoming events &rarr;</a></br>
-          <a href="/archive" class="next ml-auto">Archive &rarr;</a>
         </div>
 
         <div class="spacer clearfix"></div>
