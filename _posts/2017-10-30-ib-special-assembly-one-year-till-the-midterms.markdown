@@ -10,7 +10,7 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2017-11-05 19:30:00 -08:00
 event-end-date: 2017-11-05 21:00:00 -08:00
 Location: BFUU Fellowship Hall, 1924 Cedar St., Berkeley
-RSVP-link: http://indivisibleberkeley.org/event/assembly-oct8?source=direct_link&
+RSVP-link: https://www.indivisibleberkeley.org/event/ib-special-assembly-one-year-till-the-midterms
 embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v2/event/indivisible-berkeley-general-assembly-11?format=js&source=widget'></script><div
   id='can-event-area-indivisible-berkeley-general-assembly-11' style='width: 100%'><!--
