@@ -19,6 +19,8 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
 
 Join us at **Berkeley Fellowship of Unitarian Universalists** for our "One Year Till the Midterms" General Assembly! Doors open at 7PM; we'll start promptly at 7:30PM. Our Elections Team has prepared an amazing program including speakers from the ACLU and Barbara Lee's office, as well as trainings for canvassing and voting rights.
 
+**Scroll down to RSVP**
+
 ### T-Shirt Distribution
 
 T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want. T-shirts will also be available for sale at the following General Assembly, on November 5.
