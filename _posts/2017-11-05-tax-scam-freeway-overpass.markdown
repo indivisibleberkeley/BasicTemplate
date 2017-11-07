@@ -15,6 +15,6 @@ RSVP-link: http://act.indivisible.org/event/attend-local-actions/7256
 
 Join your Berkeley neighbors on the 80/580 freeway overpass to announce to Thursday afternoon traffic that you aren't fooled by the Trump Tax Scam, and they shouldn't be either.
 
-[highway-demonstration-concept.PNG](/uploads/highway-demonstration-concept.PNG)
+![highway-demonstration-concept.PNG](/uploads/highway-demonstration-concept.PNG)
 
 ![wv-indivisible tax scam.jpg](/uploads/wv-indivisible%20tax%20scam.jpg)
