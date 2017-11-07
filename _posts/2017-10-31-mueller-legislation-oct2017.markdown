@@ -6,6 +6,7 @@ categories:
 tags:
 - call
 - trumprussia
+is featured: true
 call-script-text: Hello, my name is <NAME> and my zip code is <ZIP CODE>. I'm calling
   to urge the <Senator/Representative> to support legislation that would protect the
   special counsel, Robert Mueller, from being fired by the President. He must be allowed
