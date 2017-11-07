@@ -1,7 +1,14 @@
 ---
 title: One year till the midterms GA recap
 date: 2017-11-06 23:54:00 -08:00
+categories:
+- update
+tags:
+- elections
+- ga-recap
 is featured: true
+event-start-date: 2017-11-07 01:00:00 -08:00
+event-end-date: 2017-11-30 00:00:00 -08:00
 ---
 
 Thanks for joining us on Sunday for the Indivisible Berkeley "One Year Till the Midterms" General Assembly! It was a great evening, which included presentations by Lisa Edwards from Representative Barbara Lee's office and Ashley Morris from ACLU NorCal.
@@ -20,4 +27,4 @@ Our very own *Margot* and *Paula* presented a lightning-fast voter registration 
 
 The IB canvassing captains *Billy* and *Jeff* introduced the Indivisible Berkeley canvassing plan. (Hint: it involves going to CA-10 and to Nevada! Tahoe anyone?)
 
-Volunteer canvasser *Jenny* and others gave firsthand accounts of how easy and fun it is to go canvassing. There is always a script, and it's not confrontational. We just want to find out how the voter thinks the country is going, and whether they think Trump is doing a good job. The rest of the conversation is mostly just listening. Our goal moving forward is to double our canvassing contingent from 40 to 80. Be a part of this movement to defeat Jeff Denham in CA-10 and come canvass with us on November 18! Email [Billy at billymcdonaldnp@gmail.com](mailto:billymcdonaldnp@gmail.com) or [Jeff at 
+Volunteer canvasser *Jenny* and others gave firsthand accounts of how easy and fun it is to go canvassing. There is always a script, and it's not confrontational. We just want to find out how the voter thinks the country is going, and whether they think Trump is doing a good job. The rest of the conversation is mostly just listening. Our goal moving forward is to double our canvassing contingent from 40 to 80. Be a part of this movement to defeat Jeff Denham in CA-10 and come canvass with us on November 18! Email [Billy at billymcdonaldnp@gmail.com](mailto:billymcdonaldnp@gmail.com) or [Jeff at carlockjeff@gmail.com](mailto:carlockjeff@gmail.com) to sign up or for more information.
