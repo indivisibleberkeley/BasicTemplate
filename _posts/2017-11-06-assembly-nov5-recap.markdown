@@ -25,6 +25,10 @@ Ashley also wants you to double-check that your 2016 election (shudder) ballot w
 
 Our very own **Margot** and **Paula** presented a lightning-fast voter registration training to prep everyone in the audience for their next canvassing or voter reg trip. The next voter registrations in Oakland are *this week, November 9 at [10am](https://www.eventbrite.com/e/register-new-citizens-to-vote-morning-registration-39374453049) and [2pm](https://www.eventbrite.com/e/register-new-citizens-to-vote-afternoon-registration-39374498184)* at the Paramount Theater just outside 19th St. BART.
 
-The IB canvassing captains **Billy** and **Jeff** introduced the Indivisible Berkeley canvassing plan. (Hint: it involves going to CA-10 and to Nevada! Tahoe anyone?)
+The IB canvassing captains, **Billy** and **Jeff**, introduced the Indivisible Berkeley canvassing plan. (Hint: it involves going to CA-10 and to Nevada! Tahoe anyone?)
 
 Volunteer canvasser **Jenny** and others gave firsthand accounts of how easy and fun it is to go canvassing. There is always a script, and it's not confrontational. We just want to find out how the voter thinks the country is going, and whether they think Trump is doing a good job. The rest of the conversation is mostly just listening. Our goal moving forward is to double our canvassing contingent from 40 to 80. Be a part of this movement to defeat Jeff Denham in CA-10 and come canvass with us on November 18! Email [Billy at billymcdonaldnp@gmail.com](mailto:billymcdonaldnp@gmail.com) or [Jeff at carlockjeff@gmail.com](mailto:carlockjeff@gmail.com) to sign up or for more information.
+
+After such an amazing event, the Elections Team volunteers presented flowers to the three team leads, **Jaime**, **Antonia**, and **Keavney**, as thanks for their hard work and leadership over the last 10 months.
+
+And lastly, **Sam** wants you to help him drum up opposition to the [#TrumpTaxScam](https://trumptaxscam.org) on [Thursday afternoon at the 80/580 pedestrian/bicycle overpass](https://www.indivisibleberkeley.org/event/tax-scam-freeway-overpass). (Sheesh, they really need to name that bridge...) Please RSVP if you are attending, and if you want to help paint signs, contact Sam on Slack (#tax-scam-action) or at [samjkohn@gmail.com](mailto:samjkohn@gmail.com).
