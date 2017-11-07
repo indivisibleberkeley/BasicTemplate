@@ -7,6 +7,7 @@ tags:
 - immigration
 - training
 is featured: true
+main-image: "/uploads/acilep.png"
 event-start-date: 2017-11-13 18:00:00 -08:00
 event-end-date: 2017-11-13 21:00:00 -08:00
 Location: 2441 Le Conte Avenue, Berkeley CA 94709
