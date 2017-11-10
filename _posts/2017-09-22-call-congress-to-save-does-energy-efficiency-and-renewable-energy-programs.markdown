@@ -1,5 +1,5 @@
 ---
-title: Call Congress to Save DOE’s Energy Efficiency and Renewable Energy Programs
+title: Call Senators to Save DOE’s Energy Efficiency and Renewable Energy Programs
 date: 2017-09-22 09:16:00 -07:00
 categories:
 - action
@@ -17,7 +17,7 @@ call-script-text: |-
 
   \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]
 
-  **Suggested Script for Representatives (personalize if possible):**
+  ~~**Suggested Script for Representatives (personalize if possible):**
 
   Hi, my name is \[NAME\] and I’m a constituent from \[CITY, ZIP\].
 
@@ -25,8 +25,10 @@ call-script-text: |-
 
   Thank you for your time and attention.
 
-  \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]
+  \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]~~
 event-end-date: 2017-11-10 23:59:00 -08:00
 ---
+
+**UPDATE 11/9/17:  The focus now is on the Senate.  The House has passed massive cuts for these programs.  The Senate has not yet passed a DOE budget.**
 
 The House Appropriations Committee budget proposal for DOE applied the most significant cuts (~-50%) to the Office of Energy Efficiency and Renewable Energy (EERE) and eliminated the Advanced Research Project-Energy (ARPA-E) grant program.  In contrast, DOE’s nuclear weapons programs would receive $1B more than this year’s budget. The proposed Senate budget is better; it restores and increases funding for ARPA-E grants.  However, there are still cuts to EERE programs.  EERE programs and grants provide jobs, support innovation, improve national energy efficiency and contribute to addressing climate change.  Please see [this budget comparison chart](http://www.ase.org/resources/fy2018-budget-chart-house-and-senate-appropriations). Sources:  Congressional Research Service, Power Magazine, Science Magazine, Alliance to Save Energy.
