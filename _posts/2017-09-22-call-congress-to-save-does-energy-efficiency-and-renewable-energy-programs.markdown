@@ -17,15 +17,15 @@ call-script-text: |-
 
   \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]
 
-  ~~**Suggested Script for Representatives (personalize if possible):**
+  ~~**Suggested Script for Representatives (personalize if possible):**~~
 
-  Hi, my name is \[NAME\] and I’m a constituent from \[CITY, ZIP\].
+  ~~Hi, my name is \[NAME\] and I’m a constituent from \[CITY, ZIP\].~~
 
-  I’m concerned about cutbacks in DOE’s Energy Efficiency and Renewable Energy (EERE) programs.  These programs are critical to common-sense climate change solutions and to national energy savings.  EERE programs took the biggest cuts - $985M - in the House DOE budget proposal. Among the cuts is the elimination of DOE’s Advanced Research Project-Energy (ARPA-E) grant, yet these grants have benefited companies and institutions, created jobs, supported innovation, contributed to national energy savings, and are part of the first line of defense against climate change.   As the budget process goes forward I urge you to restore funding for these programs and to pass a bill with no riders.
+  ~~I’m concerned about cutbacks in DOE’s Energy Efficiency and Renewable Energy (EERE) programs.  These programs are critical to common-sense climate change solutions and to national energy savings.  EERE programs took the biggest cuts - $985M - in the House DOE budget proposal. Among the cuts is the elimination of DOE’s Advanced Research Project-Energy (ARPA-E) grant, yet these grants have benefited companies and institutions, created jobs, supported innovation, contributed to national energy savings, and are part of the first line of defense against climate change.   As the budget process goes forward I urge you to restore funding for these programs and to pass a bill with no riders.~~
 
-  Thank you for your time and attention.
+  ~~Thank you for your time and attention.~~
 
-  \[If leaving a voicemail, leave your full street address to ensure your call is tallied\]~~
+  ~~\[If leaving a voicemail, leave your full street address to ensure your call is tallied\]~~
 event-end-date: 2017-11-10 23:59:00 -08:00
 ---
 
