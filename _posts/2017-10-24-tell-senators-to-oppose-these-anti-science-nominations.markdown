@@ -29,7 +29,7 @@ Hearings may be held at any time, so please call or write now.
  
 **Andrew Wheeler to be Deputy Administrator for EPA** – Wheeler is a lobbyist for the giant Murray Energy coal company and was a senior aide to Senator Inhofe, a strong critic of EPA who denies climate change
  
-**UPDATE 11/10: WEHRUM CONFIRMED - ~~Bill Wehrum to head EPA’s Air Programs** - He is a corporate attorney who represents coal, oil, gas and chemical companies and trade associations that oppose EPA clean air rules.  In a previous EPA role he was instrumental in evading the Agency’s regulatory responsibilities which resulted, according to NRDC,  in EPA’s “allowing more illegal emissions of harmful air pollution than any EPA administration before or since.”~~
+UPDATE 11/10: WEHRUM CONFIRMED - ~~Bill Wehrum to head EPA’s Air Programs - He is a corporate attorney who represents coal, oil, gas and chemical companies and trade associations that oppose EPA clean air rules.  In a previous EPA role he was instrumental in evading the Agency’s regulatory responsibilities which resulted, according to NRDC,  in EPA’s “allowing more illegal emissions of harmful air pollution than any EPA administration before or since.”~~
  
 **Michael Dourson to head EPA’s Chemical Safety Programs** - As head of a chemical industry consulting firm that has routinely fought limits on toxic chemical emissions, he is unsuited to oversee the regulation of chemicals made by the companies he has represented.  
  
