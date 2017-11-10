@@ -9,7 +9,7 @@ tags:
 call-script-text: |-
   Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
 
-  I am calling to urge the Senator to oppose Kathleen Harnett White to head the Council on Environmental Quality, Barry Lee Myers to lead NOAA, Andrew Wheeler to be Deputy Administrator for EPA, Bill Wehrum to head EPA’s Air Programs, Michael Dourson to head EPA’s Chemical Safety Programs, Matthew Leopold for EPA’s Top Legal Advisor, and Susan Parker Bodine for EPA’s Top Enforcement Role. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
+  I am calling to urge the Senator to oppose Kathleen Harnett White to head the Council on Environmental Quality, Barry Lee Myers to lead NOAA, Andrew Wheeler to be Deputy Administrator for EPA, Michael Dourson to head EPA’s Chemical Safety Programs, Matthew Leopold for EPA’s Top Legal Advisor, and Susan Parker Bodine for EPA’s Top Enforcement Role. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
 
   Thank you for your time and attention.
 
@@ -29,7 +29,7 @@ Hearings may be held at any time, so please call or write now.
  
 **Andrew Wheeler to be Deputy Administrator for EPA** – Wheeler is a lobbyist for the giant Murray Energy coal company and was a senior aide to Senator Inhofe, a strong critic of EPA who denies climate change
  
-**Bill Wehrum to head EPA’s Air Programs** - He is a corporate attorney who represents coal, oil, gas and chemical companies and trade associations that oppose EPA clean air rules.  In a previous EPA role he was instrumental in evading the Agency’s regulatory responsibilities which resulted, according to NRDC,  in EPA’s “allowing more illegal emissions of harmful air pollution than any EPA administration before or since.”
+**UPDATE: CONFIRMED - Bill Wehrum to head EPA’s Air Programs** - He is a corporate attorney who represents coal, oil, gas and chemical companies and trade associations that oppose EPA clean air rules.  In a previous EPA role he was instrumental in evading the Agency’s regulatory responsibilities which resulted, according to NRDC,  in EPA’s “allowing more illegal emissions of harmful air pollution than any EPA administration before or since.”
  
 **Michael Dourson to head EPA’s Chemical Safety Programs** - As head of a chemical industry consulting firm that has routinely fought limits on toxic chemical emissions, he is unsuited to oversee the regulation of chemicals made by the companies he has represented.  
  
