@@ -1,0 +1,14 @@
+---
+title: IB Holiday Party
+date: 2017-11-14 10:20:00 -08:00
+categories:
+- event
+tags:
+- social
+is featured: true
+event-start-date: 2017-12-17 19:30:00 -08:00
+event-end-date: 2017-12-17 22:00:00 -08:00
+Location: Berkeley Fellowship of Unitarian Universalists, Berkeley, CA
+---
+
+Join us at the Berkeley Fellowship of Unitarian Universalists on December 17 for the Indivisible Berkeley Holiday Party!
