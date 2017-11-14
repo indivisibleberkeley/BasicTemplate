@@ -9,6 +9,10 @@ is featured: true
 event-start-date: 2017-12-17 19:30:00 -08:00
 event-end-date: 2017-12-17 22:00:00 -08:00
 Location: Berkeley Fellowship of Unitarian Universalists, Berkeley, CA
+embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v2/event/indivisible-berkeley-holiday-party?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-holiday-party' style='width: 100%'><!--
+  this div is the target for our HTML insertion --></div>"
 ---
 
 Join us at the Berkeley Fellowship of Unitarian Universalists on December 17 for the Indivisible Berkeley Holiday Party!
