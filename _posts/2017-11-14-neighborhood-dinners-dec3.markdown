@@ -16,9 +16,10 @@ RSVPs coming soon, but for now, here is our (still-growing) host list. Save the 
 
 - Linda, 94702
 - Brandon, 94704
+- James, 94704
+- Julia, 94706
 - Don and Madelyn, 94707
 - Diane, 94707
 - Lisa and Aaron, 94709
-- Julia, 94706
 
 After the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Doug Jones, the only non-pedophile running for Senate in Alabama**. The election is on December 12, so we'll be helping with the final Get Out The Vote effort!
