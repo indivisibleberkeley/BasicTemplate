@@ -6,6 +6,7 @@ categories:
 tags:
 - environment
 - comment
+is featured: true
 call-script-text: |-
   Note:
   It’s best to add to or modify the script below to personalize if possible. Add details from the talking points in [SaveEPA’s excellent guide](http://saveepaalums.info/resisting-the-trump-de-regulatory-agenda-talking-points/defending-the-clean-power-plan/) linked here or other information you are aware of or are concerned about.
