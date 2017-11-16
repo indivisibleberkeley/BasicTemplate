@@ -18,6 +18,7 @@ RSVPs coming soon, but for now, here is our (still-growing) host list. Save the 
 - Brandon, 94704
 - James, 94704
 - Julia, 94706
+- Ruth, 94706
 - Don and Madelyn, 94707
 - Diane, 94707
 - Lisa and Aaron, 94709
