@@ -12,7 +12,7 @@ event-end-date: 2017-12-03 21:00:00 -08:00
 
 Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and for IB members on Sunday, December 3. We have hosts in almost every Berkeley zip code, so there's sure to be a dinner near you!
 
-RSVPs coming soon, but for now, here is our (still-growing) host list. Save the date!
+RSVPs coming soon, but for now, here is our host list. Save the date!
 
 - Linda, 94702
 - Brandon, 94704
