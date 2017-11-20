@@ -14,7 +14,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2017-11-10 23:59:00 -08:00
+event-end-date: 2017-12-08 23:59:00 -08:00
 ---
 
 **UPDATE 11/9/17:  The focus now is on the Senate.  The House has passed massive cuts for science, technology and research agencies.  The Senate has not yet passed a budget.**
