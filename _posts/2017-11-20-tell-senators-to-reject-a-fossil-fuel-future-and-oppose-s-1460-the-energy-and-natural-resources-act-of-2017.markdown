@@ -2,6 +2,11 @@
 title: Tell Senators to Reject a Fossil Fuel Future and Oppose S 1460, the Energy
   and Natural Resources Act of 2017.
 date: 2017-11-20 10:10:00 -08:00
+categories:
+- action
+tags:
+- environment
+- call
 call-script-text: |-
   Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
 
