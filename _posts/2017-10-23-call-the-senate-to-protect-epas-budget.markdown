@@ -14,7 +14,7 @@ call-script-text: "My name is [NAME] and I’m a constituent from [CITY, ZIP].\n
   EPA’s budget should be increased and include *no* policy riders.  \n\nThank you
   for your time and attention.\n\n[If leaving a voicemail, leave your full street
   address to ensure your call is tallied]"
-event-end-date: 2017-11-10 23:59:00 -08:00
+event-end-date: 2017-12-08 23:59:00 -08:00
 ---
 
 ### Background
