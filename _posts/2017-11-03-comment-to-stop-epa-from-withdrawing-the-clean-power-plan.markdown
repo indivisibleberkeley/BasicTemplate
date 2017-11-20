@@ -26,7 +26,7 @@ call-script-text: |-
   EPA should not change the well-documented, fair and reliable cost-benefit information and analysis used in development of the CPP.  In contrast, the changes proposed to the analysis by the current administration are not consistent with the best science, economic information and analytical discipline.  For example, in an approach that is contrary to US values and national security interests, the new analysis does not include international impacts.  National security interests are key because of the destabilization that climate change brings worldwide.  The new approach discounts impacts to future generations’ health and welfare more than any recent federal environmental analysis. It reduces or ignores the health and cost benefits of reducing other harmful pollutants as a result of implementing the Clean Power Plan.
 
   EPA should not withdraw or modify the Clean Power Plan.  EPA should base important decisions about climate change on scientific findings and analytical discipline.  The Agency should fulfill its statutory responsibilities for protecting the public and implement the Clean Power Plan as soon as possible.
-event-end-date: 2017-12-15 23:59:00 -08:00
+event-end-date: 2018-01-16 23:59:00 -08:00
 RSVP-link: " https://www.regulations.gov/comment?D=EPA-HQ-OAR-2017-0355-0002"
 ---
 
