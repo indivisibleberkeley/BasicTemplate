@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
+is featured: true
 main-image: "/uploads/IMG_3267.JPG"
 event-start-date: 2017-12-09 11:30:00 -08:00
 RSVP-link: mailto:carlockjeff@gmail.com
