@@ -26,3 +26,19 @@ This call would substitute for one of your daily calls to Senator Feinstein and 
      - On this call, **you are representing Indivisible Berkeley to our elected officials**. So please be firm but polite! Remember, they’re on our side for this fight—they need us to back them up.
 
 3. Witness the power of our community! We’re calling Senate offices EVERY HOUR to have our voices heard!
+
+### Script
+
+Caller: Hello! My name is [___] and I’m calling from Indivisible Berkeley. I’m a constituent and a voter. I’m following up on [previous caller’s name]’s call from an hour ago. We strongly oppose the Tax Cuts and Jobs Act. And I’m going to cut to the chase: we want the Senator to withhold consent on votes in the Senate so that we have time to mobilize against this bill. 
+
+Staffer: Thank you for calling! Senator [Harris / Feinstein] is against the Republican tax bill; she does not believe we should give a tax cut to the wealthy and corporations or strip people of their health insurance coverage.
+
+Caller: That’s great. I’m very glad the Senator is standing with her constituents instead of standing with Donald Trump and his rich friends. Will the Senator actually commit to withholding consent on votes in the Senate so that we have time to mobilize against this bill?
+
+Staffer: I haven’t talked to the Senator about that, but I’ll pass your thoughts along.
+
+Caller: That’s what I expect out of the Senator. It’s not enough just to vote no, she needs to actively work to slow down the Trump Tax Scam and expose it for the scam it is. Democrats started withholding consent during the health care fight - and it worked. That’s what I want to see again here. Please take down my info so you can let me know what she is doing to slow down the Trump Tax Scam.
+
+Staffer: I’ll pass your thoughts along to the Senator.
+
+Caller: Yes please do, and please take down my contact information so you can let me know what the Senator decides to do.
