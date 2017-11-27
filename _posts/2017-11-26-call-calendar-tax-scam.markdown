@@ -4,7 +4,6 @@ date: 2017-11-26 22:57:00 -08:00
 categories:
 - action
 tags:
-- call
 - tax-scam
 is featured: true
 main-image: "/uploads/Phone%20Bank%201.jpg"
