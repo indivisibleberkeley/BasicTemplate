@@ -22,8 +22,7 @@ call-script-text: |-
   Staffer: I’ll pass your thoughts along to the Senator.
 
   Caller: Yes please do, and please take down my contact information so you can let me know what the Senator decides to do.
-event-start-date: 2017-11-25 00:00:00 -08:00
-event-end-date: 2017-11-24 23:59:00 -08:00
+event-end-date: 2017-12-01 23:59:00 -08:00
 RSVP-link: https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#California
 ---
 
