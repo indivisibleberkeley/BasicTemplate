@@ -10,7 +10,7 @@ main-image: "/uploads/Phone%20Bank%201.jpg"
 event-end-date: 2017-12-01 12:00:00 -08:00
 ---
 
-This week, we want to make sure our Senators Dianne Feinstein and Kamala Harris hear from Indivisible Berkeley **every single hour** so they know how much we hate the #TrumpTaxScam. If you'd like to contribute to this effort, read the training instructions below
+This week, we want to make sure our Senators Dianne Feinstein and Kamala Harris hear from Indivisible Berkeley **every single hour** so they know how much we hate the #TrumpTaxScam. If you'd like to contribute to this effort, read the training instructions below.
 
 ### [Sign up for a time slot here](https://docs.google.com/document/d/1i0avg6XWbuK1l5Tkm1kgoMycGSrvetoQhWTO61818a4/edit?usp=sharing)
 
