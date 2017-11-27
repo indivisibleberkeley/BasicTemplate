@@ -28,7 +28,7 @@ This call would substitute for one of your daily calls to Senator Feinstein and 
 
 ### Script
 
-Caller: Hello! My name is [___] and I’m calling from Indivisible Berkeley. I’m a constituent and a voter. I’m following up on [previous caller’s name]’s call from an hour ago. We strongly oppose the Tax Cuts and Jobs Act. And I’m going to cut to the chase: we want the Senator to withhold consent on votes in the Senate so that we have time to mobilize against this bill. 
+Caller: Hello! My name is [___] and I’m calling from Indivisible Berkeley. I’m a constituent and a voter. I’m following up on [previous caller’s name]’s call from an hour ago. We strongly oppose the Tax Cuts and Jobs Act. And I’m going to cut to the chase: we want the Senator to withhold consent on votes in the Senate so that we have time to mobilize against this bill. Is that something the Senator can commit to?
 
 Staffer: Thank you for calling! Senator [Harris / Feinstein] is against the Republican tax bill; she does not believe we should give a tax cut to the wealthy and corporations or strip people of their health insurance coverage.
 
