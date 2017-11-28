@@ -6,6 +6,7 @@ categories:
 tags:
 - social
 is featured: true
+main-image: "/uploads/Corporate-Holiday-Parties.jpg"
 event-start-date: 2017-12-17 19:30:00 -08:00
 event-end-date: 2017-12-17 22:00:00 -08:00
 Location: Berkeley Fellowship of Unitarian Universalists, Berkeley, CA
@@ -15,4 +16,6 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed.css' rel='sty
   this div is the target for our HTML insertion --></div>"
 ---
 
-Join us at the Berkeley Fellowship of Unitarian Universalists on December 17 for the Indivisible Berkeley Holiday Party!
+The resistance has had a productive year! Join us at the Berkeley Fellowship of Unitarian Universalists on December 17 for the Indivisible Berkeley Holiday Party!
+
+Great food and drink; communing with friends and comrades; Inspiring live performances by Coral Majority, Occupella, Vukani Mawethu; and, the evening finale--dancing to Motown tunes. Bring can goods to donate to Alameda County Food bank.
