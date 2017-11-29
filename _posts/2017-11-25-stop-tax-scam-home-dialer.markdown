@@ -8,7 +8,7 @@ tags:
 is featured: true
 main-image: "/uploads/wv-indivisible%20tax%20scam.jpg"
 event-start-date: 2017-11-25 00:00:00 -08:00
-event-end-date: 2017-11-28 23:59:00 -08:00
+event-end-date: 2017-11-30 23:59:00 -08:00
 RSVP-link: https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/
 ---
 
