@@ -15,7 +15,7 @@ Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and fo
 RSVP now to reserve your spot at a dinner near you! Click on a name to go to the RSVP page.
 
 ### [Linda, 94702](https://actionnetwork.org/events/neighborhood-dinner-lindas-94702) (Full!)
-### [Brandon, 94704](https://actionnetwork.org/events/neighborhood-dinner-brandons-94704) (Almost full!)
+### [Brandon, 94704](https://actionnetwork.org/events/neighborhood-dinner-brandons-94704) (Full!)
 ### [James, 94704](https://actionnetwork.org/events/neighborhood-dinner-jamess-94704)
 ### [Julia, 94706](https://actionnetwork.org/events/neighborhood-dinner-julias-94706) (Almost full!)
 ### [Ruth, 94706](https://actionnetwork.org/events/neighborhood-dinner-ruths-94706) (Almost full!)
