@@ -17,7 +17,7 @@ RSVP now to reserve your spot at a dinner near you! Click on a name to go to the
 ### [Linda, 94702](https://actionnetwork.org/events/neighborhood-dinner-lindas-94702) (Full!)
 ### [Brandon, 94704](https://actionnetwork.org/events/neighborhood-dinner-brandons-94704) (Full!)
 ### [James, 94704](https://actionnetwork.org/events/neighborhood-dinner-jamess-94704)
-### [Julia, 94706](https://actionnetwork.org/events/neighborhood-dinner-julias-94706) (Almost full!)
+### [Julia, 94706](https://actionnetwork.org/events/neighborhood-dinner-julias-94706) (Full!)
 ### [Ruth, 94706](https://actionnetwork.org/events/neighborhood-dinner-ruths-94706) (Almost full!)
 ### [Don and Madelyn, 94707](https://actionnetwork.org/events/neighborhood-dinner-don-and-madelyns-94707)
 ### [Diane, 94707](https://actionnetwork.org/events/neighborhood-dinner-dianes-94707)
