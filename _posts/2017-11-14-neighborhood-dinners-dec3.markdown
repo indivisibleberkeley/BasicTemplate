@@ -22,6 +22,6 @@ RSVP now to reserve your spot at a dinner near you! Click on a name to go to the
 ### [Don and Madelyn, 94707](https://actionnetwork.org/events/neighborhood-dinner-don-and-madelyns-94707)
 ### [Diane, 94707](https://actionnetwork.org/events/neighborhood-dinner-dianes-94707)
 ### [Anna, 94708](https://actionnetwork.org/events/neighborhood-dinner-annas-94708) (Full!)
-### [Lisa and Aaron, 94709](https://actionnetwork.org/events/neighborhood-dinner-lisa-and-aarons-94709) (Almost full!)
+### [Lisa and Aaron, 94709](https://actionnetwork.org/events/neighborhood-dinner-lisa-and-aarons-94709) (Full!)
 
 After the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Doug Jones, the only non-pedophile running for Senate in Alabama**. The election is on December 12, so we'll be helping with the final Get Out The Vote effort!
