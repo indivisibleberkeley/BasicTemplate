@@ -9,6 +9,8 @@ tags:
 is featured: true
 main-image: "/uploads/Phone%20Bank%201.jpg"
 call-script-text: |-
+  (If you want to leave a message, read the first paragraph and the last paragraph.)
+
   **You**: Hello, my name is <name> and my zip code is <zip code>. I'm a constituent from Berkeley, and I'm calling about the tax bill that passed the Senate yesterday. I noticed that the Senator did not use every available Senate procedure to slow down the Senate in advance of the tax bill vote.
 
   **Staff**: The Senator repeatedly spoke out against the bill and also voted No for it. And this bill was passed with reconciliation, so there was nothing the Senator could do.
