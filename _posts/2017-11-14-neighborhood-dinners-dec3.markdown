@@ -14,9 +14,15 @@ Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and fo
 
 RSVP now to reserve your spot at a dinner near you! Click on a name to go to the RSVP page.
 
+**Edit**: All of our hosts have run out space for new guests. Next round of neighborhood dinners we'll have more hosts with more space! Thanks so much for your interest. Other IB events where you can socialize in December include:
+
+ - Holiday Party, Dec 17
+ - Canvassing, Dec 9
+ - Canvassing, Dec 16
+
 ### [Linda, 94702](https://actionnetwork.org/events/neighborhood-dinner-lindas-94702) (Full!)
 ### [Brandon, 94704](https://actionnetwork.org/events/neighborhood-dinner-brandons-94704) (Full!)
-### [James, 94704](https://actionnetwork.org/events/neighborhood-dinner-jamess-94704)
+### [James, 94704](https://actionnetwork.org/events/neighborhood-dinner-jamess-94704) (Full!)
 ### [Julia, 94706](https://actionnetwork.org/events/neighborhood-dinner-julias-94706) (Full!)
 ### [Ruth, 94706](https://actionnetwork.org/events/neighborhood-dinner-ruths-94706) (Full!)
 ### [Don and Madelyn, 94707](https://actionnetwork.org/events/neighborhood-dinner-don-and-madelyns-94707) (Full!)
