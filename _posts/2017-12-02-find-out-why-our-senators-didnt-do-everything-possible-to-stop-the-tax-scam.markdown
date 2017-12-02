@@ -1,6 +1,11 @@
 ---
 title: Find out why our Senators didn't do everything possible to stop the Tax Scam
 date: 2017-12-02 12:36:00 -08:00
+categories:
+- action
+tags:
+- call
+- tax-scam
 is featured: true
 main-image: "/uploads/Phone%20Bank%201.jpg"
 call-script-text: |-
