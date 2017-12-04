@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/IMG_3267.JPG"
 event-start-date: 2017-12-09 10:30:00 -08:00
 event-end-date: 2017-12-09 17:30:00 -08:00
-Location: Tracu. CA
+Location: Tracy. CA
 RSVP-link: mailto:carlockjeff@gmail.com
 ---
 
