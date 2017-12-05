@@ -6,7 +6,7 @@ categories:
 tags:
 - social
 is featured: true
-main-image: "/uploads/Image.jpeg"
+main-image: "/uploads/Image--2.jpeg"
 event-start-date: 2017-12-05 00:00:00 -08:00
 event-end-date: 2017-12-17 00:00:00 -08:00
 ---
