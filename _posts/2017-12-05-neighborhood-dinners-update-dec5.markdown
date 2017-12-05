@@ -24,3 +24,5 @@ In the meantime, here are some new memories from our 80+ guests spread out over 
 ![Image-2.jpeg](/uploads/Image-2.jpeg)
 
 ![Image.jpeg](/uploads/Image.jpeg)
+
+![IMG_6694.JPG](/uploads/IMG_6694.JPG)
