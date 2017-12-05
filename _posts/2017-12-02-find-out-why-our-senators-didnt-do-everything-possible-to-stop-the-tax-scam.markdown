@@ -27,7 +27,7 @@ call-script-text: |-
 
   - First, I want the Senator to vote NO on anything that comes out of conference.
   - Second, I want the Senator to stand by the Democrats' commitment to include the DREAM Act in the upcoming funding bill. The Senator and the other Democrats have a lot of leverage on this funding bill and I expect them to use it to pass the DREAM Act.
-event-end-date: 2017-12-05 18:00:00 -08:00
+event-end-date: 2017-12-11 18:00:00 -08:00
 ---
 
 Our Senators had the opportunity to force the Senate to grind to a halt for the last few weeks, in advance of Friday's tax scam bill vote. But they didn't. Instead, they let the Senate proceed with "business as usual," AKA Republicans forcing through a bill that at least half the Senators did not have time to read, that the American people overwhelmingly oppose, and that would raise taxes on the middle class to pay for a tax cut for corporations and the wealthy. (And it would repeal ObamaCare.)
