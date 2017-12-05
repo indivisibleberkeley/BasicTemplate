@@ -7,6 +7,7 @@ tags:
 - action
 - immigration
 - daca
+is featured: true
 call-script-text: "[Note: Senator Harris already took the DREAMer pledge! She needs
   a thank you and encouragement to STAND STRONG this week. And a reminder to protect
   TPS recipients as well.]\n\n[For Senator Feinstein and Representative Lee:]\nCaller:
