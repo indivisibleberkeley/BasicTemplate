@@ -35,4 +35,4 @@ The DREAM Act would make permanent the protections for immigrants who arrived in
 
 Trump's newest targets are tens of thousands of Haitian refugees (from the 2010 earthquake and cholera epidemic) and other refugees who were granted so-called "Temporary Protected Status" (TPS) to stay in the US while their countries rebuild. Trump has decided to end TPS for these refugees.
 
-Call our Congressional Representative, Barbara Lee, and Senators Dianne Feinstein and tell them they are not allowed to approve the spending bill ("Continuing Resolution") unless it includes the DREAM Act. Also give Senator Harris a call to thank her for already pledging to vote "NO" on the CR unless it includes the DREAM Act. (And in *all three* calls, also urge them to enact protections for TPS recipients.)
+Call our Senator Dianne Feinstein and tell her she is not allowed to approve the spending bill ("Continuing Resolution") unless it includes the DREAM Act. Also give Senator Harris and Representative Lee a call to thank them for already pledging to vote "NO" on the CR unless it includes the DREAM Act. (And in *all three* calls, also urge them to enact protections for TPS recipients.)
