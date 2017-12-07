@@ -28,3 +28,5 @@ In the meantime, here are some new memories from our 80+ guests spread out over 
 ![Image--2.jpeg](/uploads/Image--2.jpeg)
 
 ![IMG_6694_2.JPG](/uploads/IMG_6694_2.JPG)
+
+![neighborhood dinners.JPG](/uploads/neighborhood%20dinners.JPG)
