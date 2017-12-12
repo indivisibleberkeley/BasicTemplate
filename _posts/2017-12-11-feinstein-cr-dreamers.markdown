@@ -6,6 +6,7 @@ categories:
 tags:
 - immigration
 - daca
+- call
 is featured: true
 call-script-text: "[Note: Senator Harris and Representative Lee already took the DREAMer
   pledge! They needs a thank you and encouragement to STAND STRONG this week. And
