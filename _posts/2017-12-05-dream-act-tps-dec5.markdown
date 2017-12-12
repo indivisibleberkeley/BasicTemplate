@@ -4,7 +4,6 @@ date: 2017-12-05 00:10:00 -08:00
 categories:
 - action
 tags:
-- action
 - immigration
 - daca
 is featured: true
