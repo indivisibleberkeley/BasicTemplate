@@ -1,5 +1,5 @@
 ---
-title: Tell Senators to Oppose These Anti-Science Nominations
+title: Tell Senators to Oppose These Anti-Science Nominations - NOW
 date: 2017-10-24 08:49:00 -07:00
 categories:
 - action
@@ -9,12 +9,12 @@ tags:
 call-script-text: |-
   Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
 
-  I am calling to urge the Senator to oppose Kathleen Harnett White to head the Council on Environmental Quality, Barry Lee Myers to lead NOAA, Andrew Wheeler to be Deputy Administrator for EPA, ~~Bill Wehrum to head EPA’s Air Programs,~~ Michael Dourson to head EPA’s Chemical Safety Programs, Matthew Leopold for EPA’s Top Legal Advisor, and Susan Parker Bodine for EPA’s Top Enforcement Role. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
+  I am calling to urge the Senator to oppose Kathleen Harnett White to head the Council on Environmental Quality, Barry Lee Myers to lead NOAA, Andrew Wheeler to be Deputy Administrator for EPA, ~~Bill Wehrum to head EPA’s Air Programs,~~ Michael Dourson to head EPA’s Chemical Safety Programs, ~~Susan Parker Bodine for EPA’s Top Enforcement Role,~~ and Matthew Leopold for EPA’s Top Legal Advisor. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
 
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2017-12-08 23:59:00 -08:00
+event-end-date: 2018-01-19 23:59:00 -08:00
 ---
 
 ### Background
@@ -35,7 +35,7 @@ UPDATE 11/10: WEHRUM CONFIRMED - ~~Bill Wehrum to head EPA’s Air Programs - He
  
 **Matthew Leopold for EPA’s Top Legal Advisor** – He has stated that EPA overstepped in issuing the Clean Power Plan, and has pushed for turning more environmental authority over to states. He has advocated for Congress to ratify any new regulation – making a public health decision that should be based on science into a political one.  He represents chemical, mining and other industries.  He is accused of minimizing enforcement as legal counsel for the Florida Dept. of Environmental Protection, and he supported the governor in cutting a third of environmental regulations.
  
-**Susan Parker Bodine for EPA’s Top Enforcement Role** - Her history representing companies that are directly affected by EPA cleanup rules, including the American Forest and Paper Association, whose member companies have hundreds of EPA enforcement actions against them - including actions to clean up Superfund sites - make her a compromised choice for the lead enforcement role.  
+UPDATE 12/7 PARKER CONFIRMED - ~~Susan Parker Bodine for EPA’s Top Enforcement Role - Her history representing companies that are directly affected by EPA cleanup rules, including the American Forest and Paper Association, whose member companies have hundreds of EPA enforcement actions against them - including actions to clean up Superfund sites - make her a compromised choice for the lead enforcement role.~~
 
 ### References
 [New York Times - Trump Names Former Texas Regulator as White House Environmental Adviser](https://www.nytimes.com/2017/10/13/climate/trump-environmental-advisor.html?_r=1)
