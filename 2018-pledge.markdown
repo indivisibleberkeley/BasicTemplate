@@ -8,12 +8,36 @@ published: false
 
 ### Canvass
 
-Talk to voters in swing districts, learn about what they care about, and teach them how to be a committed voter in 2018. Canvassing is the gold standard for effective voter mobilization. Our Canvassing Captains, Billy and Jeff, have a great program set up for canvassing in **California's 10th Congressional District** (represented by Jeff Denham, R-*oh-God-get-him-out*) with community partners in Tracy and Turlock. You're invited to join Billy, Jeff and the whole canvassing squad on their twice-monthly canvassing day trips on Saturdays starting in January.
+Talk to voters in swing districts, learn about what they care about, and teach them how to be a committed voter in 2018. Canvassing is the gold standard for effective voter mobilization. Our Canvassing Captains, Billy and Jeff, have a great program set up for canvassing in **California's 10th Congressional District** (represented by Jeff Denham, R-*oh-God-get-him-out*, one of our electoral targets) with community partners in Tracy and Turlock. You're invited to join Billy, Jeff and the whole canvassing squad on their twice-monthly canvassing day trips on Saturdays starting in January.
 
-One of Indivisible Berkeley's election goals for 2018 is to contribute to the defeat of **Nevada** Senator Dean Heller (R-*Graham-Cassidy-Heller-all-hate-Obamacare*). Starting at the end of the summer or beginning of autumn, we'll be taking trips to Reno to help local groups get word out that it's time to pay attention and vote!
+Another Indivisible Berkeley election goal for 2018 is to contribute to the defeat of **Nevada** Senator Dean Heller (R-*Graham-Cassidy-Heller-all-hate-Obamacare*). Starting at the end of the summer or beginning of autumn, we'll be taking trips to Reno to help local groups get word out that it's time to pay attention and vote!
 
-### Host a phone or text bank, or a postcard party
+### Host or attend a phone or text bank, or a postcard party
 
-Build our community and mobilize voters at the same time by hosting a voter activation event at your home. Phone banks and text banks give us the opportunity for conversations with tens or hundreds of voters over just an hour or two (or three!) without going through the trouble of leaving Berkeley. And postcard parties are a little lower-stress since there's no live conversation with voters. But we hear stories of voters bringing their handwritten postcards to the polls when they vote, no matter where the postcard is sent from.
+Build our community and mobilize voters at the same time by hosting a voter activation event at your home (or attending one at someone else's). Phone banks and text banks give us the opportunity for conversations with tens or hundreds of voters over just an hour or two (or three!) without going through the trouble of leaving Berkeley. And postcard parties are a little lower-stress since there's no live conversation with voters. But we hear stories of voters bringing their handwritten postcards to the polls when they vote, no matter where the postcard is sent from.
 
-### 
+### Host an info session on Sheriff Ahern
+
+Right here in Alameda County, our elected Sheriff cooperates with ICE and is the main sponsor of the Urban Shield police militarization expo. He's up for re-election this summer, and it's time to teach our neighbors about the injustice in our backyard right here in Berkeley. Invite a group of your neighbors and friends over for an hour or two to learn about Sheriff Ahern's policies like inviting ICE into the county jail, and lay plans to hold him accountable in this election.
+
+### Donate to a campaign
+
+Just like [every vote counts](http://www.richmond.com/news/virginia/government-politics/virginia-elections-board-to-pick-random-winner-in-tied-house/article_203dc6b1-0cb6-5027-bc22-10b4ebfad10d.html), so too does every dollar, especially for underdog candidates in Republican-controlled districts. While Indivisible Berkeley does not formally endorse candidates, we can definitely provide a wide range of suggestions from local candidates all the way up to US Senate who need all the help they can get to mobilize every supporter for their election. **Monthly donations** are even better since a candidate can count on receiving your donation rather than wondering when the next donation will arrive.
+
+### Donate to a community group
+
+As we saw in Alabama in December, local community groups can have a huge impact on voter turnout. Donations to community groups have huge impacts because these groups know their communities well and know how to effectively mobilize voters. If you'd like suggestions for a group or two to support, just let us know. And remember, **monthly donations** are the best kind since the support is constant and groups can take it into account in their medium- and long-term planning.
+
+### Pack lunches for canvassers
+
+Knocking on doors for a few hours will really work up your appetite! If you're otherwise occupied on Saturdays or can't stay on your feet for long, you can still contribute to a successful canvassing trip by preparing lunch for our dedicated canvassers. Something as simple as PB&J can work wonders in keeping our canvassers happy and ready to come back for more!
+
+### Drive a carpool of canvassers
+
+While we'd love for you to join us knocking doors, we know sometimes that's not possible. If you're already headed to Tracy, Turlock or surrounding cities (Manteca, Modesto, etc.) for the day and don't mind some of us tagging along, we'll gladly take you up on your offer for a lift!
+
+Come September, the midterm elections will be right around the corner, and we'll be going to Reno every chance we get. If you're a Lake-Tahoe-in-the-autumn kind of person, consider making a detour to Reno to drop off some canvassers who will do their darndest to flip the Senate.
+
+### Bring snacks to a local event
+
+So phone banking's not your thing. We get it. But you still want to help somehow. Boy do we have something for you! Our phone banks, text banks and postcard parties are already pretty friggin' awesome, if you ask us, but one thing we can always use more of is food. You can make our day by showing up with a plate of cookies, pot of soup, or bag of chips to fuel our phone calls, texts, and handwritten-100-times-over "Election Day is November 6!" postcards.
