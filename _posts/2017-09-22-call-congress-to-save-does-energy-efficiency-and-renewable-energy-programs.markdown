@@ -13,18 +13,7 @@ call-script-text: "Hi, my name is \\[NAME\\] and I’m a constituent from \\[CIT
   and to providing national energy savings.  I urge you to ensure that the final budget
   bill includes full funding for these programs and no policy riders.     \n\nThank
   you for your time and attention.\n\n\\[If leaving a voicemail, leave your full street
-  address to ensure your call is tallied\\]\n\n~~**Suggested Script for Representatives
-  (personalize if possible):**~~\n\n~~Hi, my name is \\[NAME\\] and I’m a constituent
-  from \\[CITY, ZIP\\].~~\n\n~~I’m concerned about cutbacks in DOE’s Energy Efficiency
-  and Renewable Energy (EERE) programs.  These programs are critical to common-sense
-  climate change solutions and to national energy savings.  EERE programs took the
-  biggest cuts - $985M - in the House DOE budget proposal. Among the cuts is the elimination
-  of DOE’s Advanced Research Project-Energy (ARPA-E) grant, yet these grants have
-  benefited companies and institutions, created jobs, supported innovation, contributed
-  to national energy savings, and are part of the first line of defense against climate
-  change.   As the budget process goes forward I urge you to restore funding for these
-  programs and to pass a bill with no riders.~~\n\n~~Thank you for your time and attention.~~\n\n~~\\[If
-  leaving a voicemail, leave your full street address to ensure your call is tallied\\]~~"
+  address to ensure your call is tallied\\]"
 event-end-date: 2017-12-22 23:59:00 -08:00
 ---
 
