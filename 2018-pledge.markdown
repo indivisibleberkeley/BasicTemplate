@@ -3,7 +3,7 @@ title: 2018 Pledge
 date: 2017-12-21 00:08:00 -08:00
 ---
 
-# Pledge to make an impact on 2018 elections
+## Pledge to make an impact on 2018 elections
 
 ### Canvass
 
