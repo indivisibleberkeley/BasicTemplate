@@ -5,6 +5,15 @@ date: 2017-12-21 00:08:00 -08:00
 
 ## Pledge to make an impact on 2018 elections
 
+We need your help. Please fill out this pledge form with your 2018 elections pledge.
+
+Think about how the tax scam harms you and those you care about: more expensive healthcare, students facing higher taxes, changes in retirement account policies, and more/worse.
+
+As we saw in Virginia this week, literally every single vote counts.
+Pledge here to do your part to get every voter to the polls in 2018!
+
+Here are the options we have at Indivisible Berkeley for your 2018 pledge: 
+
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/form/pledge-revenge-for-the-tax-scam-in-2018?format=js&source=widget'></script><div id='can-form-area-pledge-revenge-for-the-tax-scam-in-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
 ### Canvass
