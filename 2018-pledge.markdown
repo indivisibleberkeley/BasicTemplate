@@ -23,7 +23,7 @@ Here are the options we have at Indivisible Berkeley for your 2018 pledge:
 - [Donate to a community group](#donate-to-a-community-group) in a swing area [various options]
 - Host a [neighborhood info session](#host-an-info-session-on-the-alameda-county-sheriff) about the Alameda County Sheriff
 
-**"I got your back" commitments
+**"I got your back" commitments**
 - [Pack lunches](#pack-lunches-for-canvassers) for our canvassers
 - [Drive a carpool](#drive-a-carpool-of-canvassers) for our canvassers
 - [Bring snacks or treats](#bring-snacks-to-a-local-event) to a phone bank, text bank, or postcard party
