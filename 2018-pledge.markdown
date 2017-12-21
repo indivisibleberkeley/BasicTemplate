@@ -19,9 +19,12 @@ Build our community and mobilize voters at the same time by hosting a voter acti
 
 Right here in Alameda County, our elected Sheriff cooperates with ICE and is the main sponsor of the Urban Shield police militarization expo. He's up for re-election this summer, and it's time to teach our neighbors about the injustice in our backyard right here in Berkeley. Invite a group of your neighbors and friends over for an hour or two to learn about Sheriff Ahern's policies like inviting ICE into the county jail, and lay plans to hold him accountable in this election.
 
+{% comment %}
+
 ### Donate to a campaign
 
 Just like [every vote counts](http://www.richmond.com/news/virginia/government-politics/virginia-elections-board-to-pick-random-winner-in-tied-house/article_203dc6b1-0cb6-5027-bc22-10b4ebfad10d.html), so too does every dollar, especially for underdog candidates in Republican-controlled districts. While Indivisible Berkeley does not formally endorse candidates, we can definitely provide a wide range of suggestions from local candidates all the way up to US Senate who need all the help they can get to mobilize every supporter for their election. **Monthly donations** are even better since a candidate can count on receiving your donation rather than wondering when the next donation will arrive.
+{% endcomment %}
 
 ### Donate to a community group
 
