@@ -16,17 +16,17 @@ Here are the options we have at Indivisible Berkeley for your 2018 pledge:
 
 **"Every vote counts" commitments**
 - Join us on a [canvassing day trip](#canvass) to CA district 10 [2x/mo starting January]
-- Visit the high desert on a [canvassing weekend trip] to Reno [starting late summer or fall]
-- Host or attend a [phone bank] [2x/mo starting January]
-- Host or attend a [text bank] [starting January]
-- Host or attend a [postcard party] to remind voters to vote [starting January]
-- [Donate to a community group] in a swing area [various options]
-- Host a [neighborhood info session] about the Alameda County Sheriff
+- Visit the high desert on a [canvassing weekend trip](#canvass) to Reno [starting late summer or fall]
+- Host or attend a [phone bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) [2x/mo starting January]
+- Host or attend a [text bank](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) [starting January]
+- Host or attend a [postcard party](#host-or-attend-a-phone-or-text-bank-or-a-postcard-party) to remind voters to vote [starting January]
+- [Donate to a community group](#donate-to-a-community-group) in a swing area [various options]
+- Host a [neighborhood info session](#host-an-info-session-on-the-alameda-county-sheriff) about the Alameda County Sheriff
 
 **"I got your back" commitments
-- [Pack lunches] for our canvassers
-- [Drive a carpool] for our canvassers
-- [Bring snacks or treats] to a phone bank, text bank, or postcard party
+- [Pack lunches](#pack-lunches-for-canvassers) for our canvassers
+- [Drive a carpool](#drive-a-carpool-of-canvassers) for our canvassers
+- [Bring snacks or treats](#bring-snacks-to-a-local-event) to a phone bank, text bank, or postcard party
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/form/pledge-revenge-for-the-tax-scam-in-2018?format=js&source=widget'></script><div id='can-form-area-pledge-revenge-for-the-tax-scam-in-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
@@ -40,7 +40,7 @@ Another Indivisible Berkeley election goal for 2018 is to contribute to the defe
 
 Build our community and mobilize voters at the same time by hosting a voter activation event at your home (or attending one at someone else's). Phone banks and text banks give us the opportunity for conversations with tens or hundreds of voters over just an hour or two (or three!) without going through the trouble of leaving Berkeley. And postcard parties are a little lower-stress since there's no live conversation with voters. But we hear stories of voters bringing their handwritten postcards to the polls when they vote, no matter where the postcard is sent from.
 
-### Host an info session on Sheriff Ahern
+### Host an info session on the Alameda County Sheriff
 
 Right here in Alameda County, our elected Sheriff cooperates with ICE and is the main sponsor of the Urban Shield police militarization expo. He's up for re-election this summer, and it's time to teach our neighbors about the injustice in our backyard right here in Berkeley. Invite a group of your neighbors and friends over for an hour or two to learn about Sheriff Ahern's policies like inviting ICE into the county jail, and lay plans to hold him accountable in this election.
 
