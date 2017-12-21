@@ -9,6 +9,8 @@ We need your help. Please fill out this pledge form with your 2018 elections ple
 
 Think about how the tax scam harms you and those you care about: more expensive healthcare, students facing higher taxes, changes in retirement account policies, and more/worse.
 
+![tax-scam-senate-crop-0.jpg](/uploads/tax-scam-senate-crop-0.jpg)
+
 As we saw [in Virginia this week](http://www.richmond.com/news/virginia/government-politics/virginia-elections-board-to-pick-random-winner-in-tied-house/article_203dc6b1-0cb6-5027-bc22-10b4ebfad10d.html), literally every single vote counts.
 Pledge here to do your part to get every voter to the polls in 2018!
 
