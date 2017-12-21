@@ -5,6 +5,8 @@ date: 2017-12-21 00:08:00 -08:00
 
 ## Pledge to make an impact on 2018 elections
 
+<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/form/pledge-revenge-for-the-tax-scam-in-2018?format=js&source=widget'></script><div id='can-form-area-pledge-revenge-for-the-tax-scam-in-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+
 ### Canvass
 
 Talk to voters in swing districts, learn about what they care about, and teach them how to be a committed voter in 2018. Canvassing is the gold standard for effective voter mobilization. Our Canvassing Captains, Billy and Jeff, have a great program set up for canvassing in **California's 10th Congressional District** (represented by Jeff Denham, R-*oh-God-get-him-out*, one of our electoral targets) with community partners in Tracy and Turlock. You're invited to join Billy, Jeff and the whole canvassing squad on their twice-monthly canvassing day trips on Saturdays starting in January.
