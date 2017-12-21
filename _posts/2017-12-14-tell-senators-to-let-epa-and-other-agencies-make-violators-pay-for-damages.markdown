@@ -19,7 +19,7 @@ call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP
   the state received at least $800M from the settlement to help offset the harm caused
   by the uncontrolled Volkswagon emissions. \n\nThank you for your time and attention.\n\n[If
   leaving a voicemail, leave your full street address to ensure your call is tallied]"
-event-end-date: 2018-01-05 23:59:00 -08:00
+event-end-date: 2018-01-19 23:59:00 -08:00
 ---
 
 ### Background
