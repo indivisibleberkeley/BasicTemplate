@@ -1,6 +1,6 @@
 ---
 title: Elections Team - January Meeting
-date: 2018-01-28 18:22:00 -08:00
+date: 2017-12-31 18:22:00 -08:00
 categories:
 - event
 tags:
