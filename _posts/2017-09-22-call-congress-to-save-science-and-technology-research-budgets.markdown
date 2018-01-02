@@ -14,7 +14,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2017-12-29 23:59:00 -08:00
+event-end-date: 2018-01-19 23:59:00 -08:00
 ---
 
 **UPDATE 12/11/17:  The focus now is on reconciling the differences between the House and Senate budget bills.**
