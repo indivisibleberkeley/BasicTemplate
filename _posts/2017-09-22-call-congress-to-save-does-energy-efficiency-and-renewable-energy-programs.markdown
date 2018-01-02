@@ -14,7 +14,7 @@ call-script-text: "Hi, my name is \\[NAME\\] and I’m a constituent from \\[CIT
   bill includes full funding for these programs and no policy riders.     \n\nThank
   you for your time and attention.\n\n\\[If leaving a voicemail, leave your full street
   address to ensure your call is tallied\\]"
-event-end-date: 2017-12-29 23:59:00 -08:00
+event-end-date: 2018-01-19 23:59:00 -08:00
 ---
 
 **UPDATE 12/11/17:  The focus now is on reconciliation between the House and Senate Appropriations Bills.**
