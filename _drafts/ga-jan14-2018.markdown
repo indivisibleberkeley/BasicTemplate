@@ -8,18 +8,23 @@ tags:
 is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-01-14 19:30:00 -08:00
-event-end-date: 2017-12-21 00:00:00 -08:00
+event-end-date: 2018-01-14 21:00:00 -08:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
 ---
 
-Join us at the Finnish Hall for our next General Assembly! Doors open at 7PM; we'll start promptly at 7:30PM.  We'll have updates from our teams, an invited speaker, and more!
+Join us at the Finnish Hall for the first General Assembly of 2018! Doors open at 7PM; we'll start promptly at 7:30PM.
 
-Stay tuned for announcement of the speaker and other topics on the agenda.
+On the agenda:
+
+ - the Indivisible Guide: back to basics
+ - outlook for 2018
+ - ways to contribute to Indivisible Berkeley's organizational needs
+ - and more! 
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
 ### T-Shirt Distribution
 
-T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want. T-shirts will also be available for sale at the following General Assembly, on November 5.
+T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want.
 
 ![tshirts2.jpg](/uploads/tshirts2.jpg)
