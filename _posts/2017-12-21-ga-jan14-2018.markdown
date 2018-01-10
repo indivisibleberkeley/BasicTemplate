@@ -12,7 +12,7 @@ event-end-date: 2018-01-14 21:00:00 -08:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
 RSVP-link: https://www.indivisibleberkeley.org/event/ga-jan14-2018#RSVP?source=direct_link
 embed-code: |-
-  <div id="RSVP"></div>
+  <a id="RSVP"></a>
   <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-12?format=js&source=widget'></script><div id='can-event-area-indivisible-berkeley-general-assembly-12' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 ---
 
