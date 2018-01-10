@@ -10,11 +10,10 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-01-14 19:30:00 -08:00
 event-end-date: 2018-01-14 21:00:00 -08:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
-RSVP-link: http://indivisibleberkeley.org/event/assembly-oct8?source=direct_link
-embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
-  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-12?format=js&source=widget'></script><div
-  id='can-event-area-indivisible-berkeley-general-assembly-12' style='width: 100%'><!--
-  this div is the target for our HTML insertion --></div>"
+RSVP-link: https://www.indivisibleberkeley.org/event/ga-jan14-2018#RSVP?source=direct_link
+embed-code: |-
+  <div id="RSVP"></div>
+  <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-12?format=js&source=widget'></script><div id='can-event-area-indivisible-berkeley-general-assembly-12' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 ---
 
 Join us at the Finnish Hall for the first General Assembly of 2018! Doors open at 7PM; we'll start promptly at 7:30PM.
