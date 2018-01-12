@@ -8,10 +8,10 @@ tags:
 - elections
 is featured: true
 main-image: "/uploads/yardsigns255.png"
-event-start-date: 2018-01-13 11:30:00 -08:00
-event-end-date: 2018-01-13 18:00:00 -08:00
+event-start-date: 2018-01-13 09:30:00 -08:00
+event-end-date: 2018-01-13 16:30:00 -08:00
 Location: Tracy, CA
-RSVP-link: mailto:billymcdonaldnp@gmail.com
+RSVP-link: https://actionnetwork.org/events/canvass-in-tracy-jan13th-11-3?source=ib_website
 ---
 
 Our next canvassing day will be Saturday, January 13th in Tracy with the Tracy Democratic Club "Go Team." Please sign up and enlist some friends, too! Email [Billy](mailto:billymcdonaldnp@gmail.com) and [Jeff](mailto:carlockjeff@gmail.com) to RSVP. It’s totally cool if you have never canvassed before. These are easy days, and the drive is less than 90 minutes. Joining in on these trips is a great way to get practice and familiarity with the work—and excitement—of going door-to-door to talk to real people. If you’re nervous and you want to learn more about what it’s like, feel free to get in touch with [Billy](mailto:billymcdonaldnp@gmail.com), [Jeff ](carlockjeff@gmail.com)or [us](mailto:elections+owner@indivisibleberkeley.org) for more information.
