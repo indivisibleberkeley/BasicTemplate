@@ -22,3 +22,5 @@ Join us **downstairs at the Finnish Hall "Cafe"** to prepare for the Women's Mar
 Indivisible Berkeley will provide posters and markers, and some ideas for signs related to women's rights, women's equality and other relevant issues. If you'd like, bring some snacks or treats to share.
 
 Immediately after the sign making party, join us upstairs in the main auditorium for the [first Indivisible Berkeley General Assembly of 2018](https://www.indivisibleberkeley.org/event/ga-jan14-2018)!
+
+ADA Accessibility: There is no elevator or ramp to the downstairs cafe, so unfortunately, this event is not ADA accessible. Contact us at [{{ site.email }}]({{ site.email }}) with any questions.
