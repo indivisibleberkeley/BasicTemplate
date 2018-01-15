@@ -1,0 +1,21 @@
+---
+title: Women's March Oakland logistics
+date: 2018-01-15 14:39:00 -08:00
+categories:
+- post
+tags:
+- womens-march
+is featured: true
+main-image: "/uploads/ib-womensmarch.jpg"
+event-end-date: 2018-01-20 18:00:00 -08:00
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/march-with-indivisible-berkeley-at-the-womens-march-in-oakland?format=js&source=widget'></script><div
+  id='can-event-area-march-with-indivisible-berkeley-at-the-womens-march-in-oakland'
+  style='width: 100%'><!-- this div is the target for our HTML insertion --></div>"
+---
+
+## Get ready.
+
+March with Indivisible Berkeley at the Women's March Oakland 2018! This page will be updated with march logistics including BART meetups, meeting location at the march start, and whatever else we can think of to help you find the IB march contingent!
+
+![IMG_2921.JPG](/uploads/IMG_2921.JPG)
