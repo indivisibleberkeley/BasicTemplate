@@ -39,21 +39,21 @@ call-script-text: "*NOTE: It’s best to add to or modify the script below to pe
   fatalities. There is no economic, national security or public health reason to open
   the coasts to drilling.  Rather, the data and science show that doing so will harm
   California’s and the nation’s economy, security and health.  (References below.)\n\n\n**References:**\nCalifornia
-  Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/\nUS Coast
-  Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
-  1969-2011 (Dec. 2012)\nBureau of Safety and Environmental Enforcement, “Incident
-  Statistics and Summaries”. \nBureau of Ocean Energy Management, Outer continental
+  Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/  \nUS
+  Coast Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
+  1969-2011 (Dec. 2012)  \nBureau of Safety and Environmental Enforcement, “Incident
+  Statistics and Summaries”.  \nBureau of Ocean Energy Management, Outer continental
   Shelf Oil and Gas Leasing Program: 2017-2022, Final Programmatic Environmental Impact
-  STatement (Nov. 2016) Vol I: Chpts. 1-6\nHauer, M., Evan, J. and Mishra, D. (2016).
+  STatement (Nov. 2016) Vol I: Chpts. 1-6  \nHauer, M., Evan, J. and Mishra, D. (2016).
   \ Millions projected to be at risk from sea-level rise in the continental United
-  States. Nature Climate Change, 6(7), pp 691-695.\nUnited States Department of Commerce,
-  National Oceanic and Atmospheric Administration, National Ocean Service, California
-  2014, Employment: Tourism and Recreation. \nBeitman, Andy. Sierra Club. Report:
-  \ Clean Energy Jobs Overwhelm Coal, Oil & Gas in 41 States and D.C.\nBureau of Ocean
-  Energy Management.  Assessment of Undiscovered Oil and Gas Resources of the Nation’s
-  Outer Continental Shelf, 2016. \nUnited States Energy Information Administration.
-  \ How much oil is consumed in the United States?\nCenter for Biological Diversity,
-  “Oil and Oceans Don’t Mix.”"
+  States. Nature Climate Change, 6(7), pp 691-695.  \nUnited States Department of
+  Commerce, National Oceanic and Atmospheric Administration, National Ocean Service,
+  California 2014, Employment: Tourism and Recreation.  \nBeitman, Andy. Sierra Club.
+  Report:  Clean Energy Jobs Overwhelm Coal, Oil & Gas in 41 States and D.C.\nBureau
+  of Ocean Energy Management.  Assessment of Undiscovered Oil and Gas Resources of
+  the Nation’s Outer Continental Shelf, 2016.  \nUnited States Energy Information
+  Administration.  How much oil is consumed in the United States?  \nCenter for Biological
+  Diversity, “Oil and Oceans Don’t Mix.”"
 event-end-date: 2018-03-09 23:59:00 -08:00
 RSVP-link: https://www.regulations.gov/comment?D=BOEM-2017-0074-0001
 ---
