@@ -23,3 +23,8 @@ call-script-text: |-
 event-end-date: 2018-01-18 17:00:00 -08:00
 ---
 
+## DACA is still at risk. We can save it this week.
+
+Call all three of our Members of Congress (MoCs) and ask them to stand strong in support of the DREAMers. A bipartisan deal was reached last week to protect the DREAMers and continue funding the government. The only thing standing in its way is Trump and the GOP immigration hard-liners.
+
+_We must push for this successful bipartisan deal to become law!_
