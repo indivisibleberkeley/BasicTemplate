@@ -72,5 +72,5 @@ Oil and gas production at sea puts oceans, sea life and coastal areas at risk of
 
 
 #### References: 
-(NRDC)[https://www.nrdc.org/experts/rhea-suh/trump-moves-open-90-percent-our-coastal-waters-oil-drilling]
+[NRDC](https://www.nrdc.org/experts/rhea-suh/trump-moves-open-90-percent-our-coastal-waters-oil-drilling)
 Center for Biological Diversity
