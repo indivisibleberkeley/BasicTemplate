@@ -6,40 +6,39 @@ categories:
 tags:
 - environment
 - comment
-call-script-text: "NOTE: It’s best to add to or modify the script below to personalize
+call-script-text: "*NOTE: It’s best to add to or modify the script below to personalize
   if possible. Add other information you are aware of or are concerned about. You
-  could also, for example  -\nSay why it’s important to you.\nMention ways that you
-  benefit from the coastal environment.\nSay how you were affected an oil spill.\nSay
-  how you are affected by climate change and the need to reduce dependence on fossil
-  fuels.\n\nPlease include the references in your comment; they are listed at the
-  end.\n\n### Comment Script\nI live in coastal California.  Along with 69% of all
-  Californians and most of the American people, I oppose opening our coastline to
-  new oil and gas leases.  New leases would harm one of the world’s richest marine
-  environments that supports a thriving fishing, recreation and tourist economy.  It
-  would harm coastal cities in the path of inevitable spills.  And it would increase
-  loss of life, injury, cardio-pulmonary illness, and healthcare costs due to air
-  and CO2 pollution and the increasing frequency of major disasters and sea-level
-  rise caused by climate change.    \n\nA decision to open the coast for offshore
-  exploration does not reflect economic realities and would harm the existing robust
-  coastal economy.  California’s economy is ranked 6th in the world.  The coastal
-  economy, alone, provides more than 400,000 jobs and contributes $20 billion to the
-  GDP through tourism, recreation and fishing, far outweighing any jobs or economic
-  gains new drilling could provide.  Clean energy jobs outweigh all fossil fuel jobs
-  in California by 6 to 1. The coastal economy would be harmed by construction of
-  oil and gas platforms, pipelines and conveyances, the sonic disturbances of exploration
-  (harming marine life), oil spills and climate-caused disasters. Even if all of the
-  resources off California were exploited, the oil would last for less than 2 years
-  at current consumption rates. Consumption is declining with increasing clean energy
-  development. Americans do not need this oil and gas. \n\nOil spills are inevitable
-  - and routine - with an average of 1000 reported per year according to Coast Guard
-  records. Spills, disasters, injuries and death are even more of a risk now that
-  the administration has proposed withdrawing the protections established after the
-  Gulf of Mexico BP oil spill.  In the four years following the BP oil disaster, the
-  federal government reported that offshore drilling accounted for 1,063 injuries,
-  477 fires and explosions,11 spills of over 2100 gals and 11 fatalities. There is
-  no economic, national security or public health reason to open the coasts to drilling.
-  \ Rather, the data and science show that doing so will harm California’s and the
-  nation’s economy, security and health.  (References below.)\n\n\n**References:**\nCalifornia
+  could also, for example: Say why it’s important to you; Mention ways that you benefit
+  from the coastal environment; Say how you were affected an oil spill; Say how you
+  are affected by climate change and the need to reduce dependence on fossil fuels.*\n\n*Please
+  include the references in your comment; they are listed at the end.*\n\n### Comment
+  Script\nI live in coastal California.  Along with 69% of all Californians and most
+  of the American people, I oppose opening our coastline to new oil and gas leases.
+  \ New leases would harm one of the world’s richest marine environments that supports
+  a thriving fishing, recreation and tourist economy.  It would harm coastal cities
+  in the path of inevitable spills.  And it would increase loss of life, injury, cardio-pulmonary
+  illness, and healthcare costs due to air and CO2 pollution and the increasing frequency
+  of major disasters and sea-level rise caused by climate change.    \n\nA decision
+  to open the coast for offshore exploration does not reflect economic realities and
+  would harm the existing robust coastal economy.  California’s economy is ranked
+  6th in the world.  The coastal economy, alone, provides more than 400,000 jobs and
+  contributes $20 billion to the GDP through tourism, recreation and fishing, far
+  outweighing any jobs or economic gains new drilling could provide.  Clean energy
+  jobs outweigh all fossil fuel jobs in California by 6 to 1. The coastal economy
+  would be harmed by construction of oil and gas platforms, pipelines and conveyances,
+  the sonic disturbances of exploration (harming marine life), oil spills and climate-caused
+  disasters. Even if all of the resources off California were exploited, the oil would
+  last for less than 2 years at current consumption rates. Consumption is declining
+  with increasing clean energy development. Americans do not need this oil and gas.
+  \n\nOil spills are inevitable - and routine - with an average of 1000 reported per
+  year according to Coast Guard records. Spills, disasters, injuries and death are
+  even more of a risk now that the administration has proposed withdrawing the protections
+  established after the Gulf of Mexico BP oil spill.  In the four years following
+  the BP oil disaster, the federal government reported that offshore drilling accounted
+  for 1,063 injuries, 477 fires and explosions,11 spills of over 2100 gals and 11
+  fatalities. There is no economic, national security or public health reason to open
+  the coasts to drilling.  Rather, the data and science show that doing so will harm
+  California’s and the nation’s economy, security and health.  (References below.)\n\n\n**References:**\nCalifornia
   Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/\nUS Coast
   Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
   1969-2011 (Dec. 2012)\nBureau of Safety and Environmental Enforcement, “Incident
