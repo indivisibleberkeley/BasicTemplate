@@ -39,9 +39,9 @@ call-script-text: "*NOTE: It’s best to add to or modify the script below to pe
   477 fires and explosions,11 spills of over 2100 gals and 11 fatalities. There is
   no economic, national security or public health reason to open the coasts to drilling.
   \ Rather, the data and science show that doing so will harm California’s and the
-  nation’s economy, security and health.  (References below.)\n\n\n#### References:
-  \n\nCalifornia Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/\nUS
-  Coast Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
+  nation’s economy, security and health.  (References below.)\n\n\n**References:**\nCalifornia
+  Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/\nUS Coast
+  Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
   1969-2011 (Dec. 2012)\nBureau of Safety and Environmental Enforcement, “Incident
   Statistics and Summaries”. \nBureau of Ocean Energy Management, Outer continental
   Shelf Oil and Gas Leasing Program: 2017-2022, Final Programmatic Environmental Impact
