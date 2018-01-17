@@ -1,5 +1,5 @@
 ---
-title: IBer Vetri recognized in the Congressional Record!
+title: IBer Vetri Velan recognized in the Congressional Record!
 date: 2018-01-16 23:07:00 -08:00
 categories:
 - update
