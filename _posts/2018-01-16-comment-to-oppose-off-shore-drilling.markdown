@@ -8,13 +8,13 @@ tags:
 - comment
 call-script-text: "NOTE: It’s best to add to or modify the script below to personalize
   if possible. Add other information you are aware of or are concerned about. You
-  could also, for example  -\n* Say why it’s important to you.\n* Mention ways that
-  you benefit from the coastal environment.\n* Say how you were affected an oil spill.\n*
-  Say how you are affected by climate change and the need to reduce dependence on
-  fossil fuels.\n\nPlease include the references in your comment; they are listed
-  at the end.\n\n### Comment Script\nI live in coastal California.  Along with 69%
-  of all Californians and most of the American people, I oppose opening our coastline
-  to new oil and gas leases.  New leases would harm one of the world’s richest marine
+  could also, for example  -\nSay why it’s important to you.\nMention ways that you
+  benefit from the coastal environment.\nSay how you were affected an oil spill.\nSay
+  how you are affected by climate change and the need to reduce dependence on fossil
+  fuels.\n\nPlease include the references in your comment; they are listed at the
+  end.\n\n### Comment Script\nI live in coastal California.  Along with 69% of all
+  Californians and most of the American people, I oppose opening our coastline to
+  new oil and gas leases.  New leases would harm one of the world’s richest marine
   environments that supports a thriving fishing, recreation and tourist economy.  It
   would harm coastal cities in the path of inevitable spills.  And it would increase
   loss of life, injury, cardio-pulmonary illness, and healthcare costs due to air
