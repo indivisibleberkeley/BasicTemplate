@@ -6,22 +6,22 @@ categories:
 tags:
 - environment
 - comment
-call-script-text: "*NOTE: It’s best to add to or modify the script below to personalize
+call-script-text: ">*NOTE: It’s best to add to or modify the script below to personalize
   if possible. Add other information you are aware of or are concerned about. You
-  could also, for example  -*\n * Say why it’s important to you.\n * Mention ways
-  that you benefit from the coastal environment.\n * Say how you were affected an
-  oil spill.\n * Say how you are affected by climate change and the need to reduce
-  dependence on fossil fuels.\n\n*Please include the references in your comment; they
-  are listed at the end.*\n\n### Comment Script\nI live in coastal California.  Along
-  with 69% of all Californians and most of the American people, I oppose opening our
-  coastline to new oil and gas leases.  New leases would harm one of the world’s richest
-  marine environments that supports a thriving fishing, recreation and tourist economy.
-  \ It would harm coastal cities in the path of inevitable spills.  And it would increase
-  loss of life, injury, cardio-pulmonary illness, and healthcare costs due to air
-  and CO2 pollution and the increasing frequency of major disasters and sea-level
-  rise caused by climate change.    \n\nA decision to open the coast for offshore
-  exploration does not reflect economic realities and would harm the existing robust
-  coastal economy.  California’s economy is ranked 6th in the world.  The coastal
+  could also, for example  -*\n> * Say why it’s important to you.\n> * Mention ways
+  that you benefit from the coastal environment.\n> * Say how you were affected an
+  oil spill.\n> * Say how you are affected by climate change and the need to reduce
+  dependence on fossil fuels.\n\n>*Please include the references in your comment;
+  they are listed at the end.*\n\n### Comment Script\nI live in coastal California.
+  \ Along with 69% of all Californians and most of the American people, I oppose opening
+  our coastline to new oil and gas leases.  New leases would harm one of the world’s
+  richest marine environments that supports a thriving fishing, recreation and tourist
+  economy.  It would harm coastal cities in the path of inevitable spills.  And it
+  would increase loss of life, injury, cardio-pulmonary illness, and healthcare costs
+  due to air and CO2 pollution and the increasing frequency of major disasters and
+  sea-level rise caused by climate change.    \n\nA decision to open the coast for
+  offshore exploration does not reflect economic realities and would harm the existing
+  robust coastal economy.  California’s economy is ranked 6th in the world.  The coastal
   economy, alone, provides more than 400,000 jobs and contributes $20 billion to the
   GDP through tourism, recreation and fishing, far outweighing any jobs or economic
   gains new drilling could provide.  Clean energy jobs outweigh all fossil fuel jobs
