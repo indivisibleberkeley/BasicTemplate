@@ -1,6 +1,10 @@
 ---
 title: IBer Vetri recognized in the Congressional Record!
 date: 2018-01-16 23:07:00 -08:00
+categories:
+- update
+tags:
+- tax-scam
 event-start-date: 2018-01-17 00:00:00 -08:00
 event-end-date: 2018-01-23 00:00:00 -08:00
 ---
