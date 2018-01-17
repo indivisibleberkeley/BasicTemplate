@@ -13,9 +13,9 @@ Vetri, one of our Elections Team phone bank captains, made waves during the tax 
 
 If you see Vetri, make sure to tell him "Congratulations!"
 
-![IMG_3467.JPG](/uploads/IMG_3467.JPG)
-
 ![IMG_3466.JPG](/uploads/IMG_3466.JPG)
+
+![IMG_3467.JPG](/uploads/IMG_3467.JPG)
 
 
 [analysis]: https://drive.google.com/file/d/10dIZsw1aj9Ls_fi7lTXQvXi7ngOI0Cv-/view
