@@ -49,7 +49,7 @@ call-script-text: "*NOTE: It’s best to add to or modify the script below to pe
   United States. Nature Climate Change, 6(7), pp 691-695.  \nUnited States Department
   of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service,
   California 2014, Employment: Tourism and Recreation.  \nBeitman, Andy. Sierra Club.
-  Report:  Clean Energy Jobs Overwhelm Coal, Oil & Gas in 41 States and D.C.\nBureau
+  Report:  Clean Energy Jobs Overwhelm Coal, Oil & Gas in 41 States and D.C.  \nBureau
   of Ocean Energy Management.  Assessment of Undiscovered Oil and Gas Resources of
   the Nation’s Outer Continental Shelf, 2016.  \nUnited States Energy Information
   Administration.  How much oil is consumed in the United States?  \nCenter for Biological
