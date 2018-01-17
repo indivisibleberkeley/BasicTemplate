@@ -10,7 +10,7 @@ event-start-date: 2018-01-17 00:00:00 -08:00
 event-end-date: 2018-02-01 00:00:00 -08:00
 ---
 
-(This post to be updated as our Sam finds time to add more to it!)
+(This post to be updated as Sam finds time to add more to it!)
 
 ### Pre--General Assembly
 
