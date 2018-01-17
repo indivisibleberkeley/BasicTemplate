@@ -9,11 +9,11 @@ event-start-date: 2018-01-17 00:00:00 -08:00
 event-end-date: 2018-01-23 00:00:00 -08:00
 ---
 
+![IMG_3466.JPG](/uploads/IMG_3466.JPG)
+
 Vetri, one of our Elections Team phone bank captains, made waves during the tax scam battle for his [simple-yet-deadly analysis][analysis] of the tax scam's impact on graduate students. [People][1] all [over][2] the [country][3] took [notice][4], including our own Representative Barbara Lee. She honored his efforts (along with those of Kathy Shield, a fellow graduate student) with an entry into the Congressional Record and a ceremony as part of the #GOPTaxScam Teach-In last weekend.
 
 If you see Vetri, make sure to tell him "Congratulations!"
-
-![IMG_3466.JPG](/uploads/IMG_3466.JPG)
 
 ![IMG_3467.JPG](/uploads/IMG_3467.JPG)
 
