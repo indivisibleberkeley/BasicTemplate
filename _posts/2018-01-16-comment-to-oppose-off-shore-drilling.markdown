@@ -59,7 +59,9 @@ RSVP-link: https://www.regulations.gov/comment?D=BOEM-2017-0074-0001
 ---
 
 ### Action
-Comment to the Department of Interior’s Bureau of Energy Management to oppose plans to open the coasts to off-shore oil and gas drilling. (Click here)[https://www.regulations.gov/comment?D=BOEM-2017-0074-0001] or on the "Comment Now" link on this page to add your comment.
+Comment to the Department of Interior’s Bureau of Energy Management to oppose plans to open the coasts to off-shore oil and gas drilling. [Click here](https://www.regulations.gov/comment?D=BOEM-2017-0074-0001) or on the "Comment Now" link on this page to add your comment.
+
+You may also attend a DOI BOEM [Listening Session](https://www.boem.gov/National-Program-Participate/) on February 8 in Sacramento at the Tsakopoulos Library Galleria, 828 I Street. Bring your comments with you.  Environmental organizations are [protesting starting at 2:00 pm](https://business.facebook.com/events/1754774281233684/). 
 
 ### Background
 The federal Bureau of Energy Management (within the Department of Interior [DOI]) has proposed plans to make more than 98 percent of Outer Continental Shelf (OCS) resources, including permanently protected areas, available to consider for oil and gas leasing during the five-year period beginning in 2019. Under the plan, nearly the entire OCS would be available for potential oil and gas discovery,  including the Gulf of Mexico, and the Atlantic, Pacific and Arctic oceans.  According to the Natural Resources Defense Council this action is part of the most sweeping industrial assault in history on our oceans, marine life, coasts and all they support.  It would put every American coastal city at risk of another BP oil-spill type disaster.    
@@ -73,4 +75,4 @@ Oil and gas production at sea puts oceans, sea life and coastal areas at risk of
 
 #### References:  
 [NRDC](https://www.nrdc.org/experts/rhea-suh/trump-moves-open-90-percent-our-coastal-waters-oil-drilling)  
-Center for Biological Diversity
+[Center for Biological Diversity](http://www.biologicaldiversity.org/campaigns/stopping_trumps_assault_on_ca_coast/pdfs/OilAndOceansDontMix.pdf)
