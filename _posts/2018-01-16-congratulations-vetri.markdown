@@ -5,6 +5,8 @@ categories:
 - update
 tags:
 - tax-scam
+is featured: true
+main-image: "/uploads/IMG_3467.JPG"
 event-start-date: 2018-01-17 00:00:00 -08:00
 event-end-date: 2018-01-23 00:00:00 -08:00
 ---
