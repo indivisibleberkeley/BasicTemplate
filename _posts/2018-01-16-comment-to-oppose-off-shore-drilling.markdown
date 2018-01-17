@@ -12,7 +12,7 @@ call-script-text: "*NOTE: It’s best to add to or modify the script below to pe
   that you benefit from the coastal environment.\n * Say how you were affected an
   oil spill.\n * Say how you are affected by climate change and the need to reduce
   dependence on fossil fuels.\n\n*Please include the references in your comment; they
-  are listed at the end.*\n\n## Comment Script\nI live in coastal California.  Along
+  are listed at the end.*\n\n### Comment Script\nI live in coastal California.  Along
   with 69% of all Californians and most of the American people, I oppose opening our
   coastline to new oil and gas leases.  New leases would harm one of the world’s richest
   marine environments that supports a thriving fishing, recreation and tourist economy.
@@ -39,7 +39,7 @@ call-script-text: "*NOTE: It’s best to add to or modify the script below to pe
   477 fires and explosions,11 spills of over 2100 gals and 11 fatalities. There is
   no economic, national security or public health reason to open the coasts to drilling.
   \ Rather, the data and science show that doing so will harm California’s and the
-  nation’s economy, security and health.  (References below.)\n\n\n### References:
+  nation’s economy, security and health.  (References below.)\n\n\n#### References:
   \n\nCalifornia Public Policy Institute:  http://www.ppic.org/blog/tag/offshore-drilling/\nUS
   Coast Guard, Polluting Incidents In and Around U.S. Waters, A Spill/Release Compendium:
   1969-2011 (Dec. 2012)\nBureau of Safety and Environmental Enforcement, “Incident
@@ -59,10 +59,10 @@ event-end-date: 2018-03-09 23:59:00 -08:00
 RSVP-link: https://www.regulations.gov/comment?D=BOEM-2017-0074-0001
 ---
 
-## Action
+### Action
 Comment to the Department of Interior’s Bureau of Energy Management to oppose plans to open the coasts to off-shore oil and gas drilling. (Click here)[https://www.regulations.gov/comment?D=BOEM-2017-0074-0001] or on the "Comment Now" link on this page to add your comment.
 
-## Background
+### Background
 The federal Bureau of Energy Management (within the Department of Interior [DOI]) has proposed plans to make more than 98 percent of Outer Continental Shelf (OCS) resources, including permanently protected areas, available to consider for oil and gas leasing during the five-year period beginning in 2019. Under the plan, nearly the entire OCS would be available for potential oil and gas discovery,  including the Gulf of Mexico, and the Atlantic, Pacific and Arctic oceans.  According to the Natural Resources Defense Council this action is part of the most sweeping industrial assault in history on our oceans, marine life, coasts and all they support.  It would put every American coastal city at risk of another BP oil-spill type disaster.    
 
 
@@ -72,6 +72,6 @@ There is no energy security need for this action - only industry profits.  Accor
 Oil and gas production at sea puts oceans, sea life and coastal areas at risk of blowouts, explosions, disastrous spills, and the sonic blasts used in exploration that can be dangerous, even lethal, to whales and other marine life. Expansion would threaten the critical marine breeding areas off the coast of California. The effects of climate change are already wreaking havoc on shellfish, coral reefs, and other foundational forms of life at sea.
 
 
-### References: 
+#### References: 
 (NRDC)[https://www.nrdc.org/experts/rhea-suh/trump-moves-open-90-percent-our-coastal-waters-oil-drilling]
 Center for Biological Diversity
