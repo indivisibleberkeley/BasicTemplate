@@ -1,0 +1,20 @@
+---
+title: Healthcare Team Meeting - 2/7/18
+date: 2018-01-18 00:00:00 -08:00
+categories:
+- event
+tags:
+- healthcare
+event-start-date: 2018-02-07 18:30:00 -08:00
+event-end-date: 2018-02-07 20:00:00 -08:00
+Location: 1835 San Ramon Ave., Berkeley, CA, 94707
+RSVP-link: mailto:healthcare+owner@indivisibleberkeley.org
+---
+
+Come to our team meeting!
+
+The Indivisible Berkeley (IB) Healthcare team works on the following issues:
+
+Save the ACA (Obamacare)
+improve the ACA
+the future of healthcare in California and America (single-payer, Medicare-for-All, Medicare buy-in, etc.)
