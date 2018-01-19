@@ -7,8 +7,8 @@ tags:
 - march
 is featured: true
 main-image: "/uploads/ib-womensmarch.jpg"
-event-start-date: 2018-01-20 10:00:00 -08:00
-Location: Lake Merritt Ampitheatre, Oakland
+event-start-date: 2018-01-20 09:00:00 -08:00
+Location: 13th St. and Lake Merritt Blvd, Oakland
 RSVP-link: https://actionnetwork.org/events/march-with-indivisible-berkeley-at-the-womens-march-in-oakland?source=direct_link&
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/march-with-indivisible-berkeley-at-the-womens-march-in-oakland?format=js&source=widget'></script><div
