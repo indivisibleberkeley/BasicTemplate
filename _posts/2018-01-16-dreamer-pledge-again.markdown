@@ -1,26 +1,28 @@
 ---
-title: Tell our MoCs to hold strong on the DREAMer Pledge and TPS!
+title: Tell our MOCs to hold strong on the DREAMer Pledge and TPS!
 date: 2018-01-16 22:35:00 -08:00
 categories:
 - action
 tags:
 - call
 - daca
+- immigration
 is featured: true
 main-image: "/uploads/dreamer%20pledge.png"
-call-script-text: |-
-  Call script adapted from [Indivisible National](https://www.indivisible.org/resource/thank-moc-voting-fight-alongside-dreamers/)
+call-script-text: |+
+  Call script adapted from [Indivisible National](https://www.dreamerpledge.org/dream-hero-call-script/)
 
-  **You**: Hello! My name is <your name> and I’m calling from Berkeley. I want the [Congresswoman / Senator] to vote "No" on any CR this week that does not include the Dream Act. The bipartisan deal reached last week contains the Dream Act and it is a travesty that the Republicans are holding our government hostage over a deal that's already been made. [Congresswoman / Senator] <her name> should continue to demand that the Dream Act be attached to the CR as a condition for her vote. Please also ask her to fight in support of recipients of TPS.
+  **You**: Hello! My name is ___ and I’m calling from Berkeley. I wanted to thank [Congresswoman / Senator] ___ for voting against the CR that didn’t include the Dream Act or protection for TPS recipients. Dreamers deserve Members of Congress who will stand with them and use their power to protect them from the Trump deportation machine, and I am proud that [Congresswoman / Senator] ___ used her power to do so.
 
-  Staffer: I’ll pass along your thoughts to the [Congresswoman / Senator].
+  Staffer: It’s great to hear that from you; I’ll be sure to pass along your gratitude to the [Congresswoman / Senator].
 
-  **You**: Yes please do, and thank you.
-event-end-date: 2018-01-18 17:00:00 -08:00
+  **You**: Also, I consider this “deal” to be a failure of Democratic leadership, and I expect [Senator / Congresswoman] ____ will work to ensure that the caucus stays strong in its convictions and votes to protect Dreamers.
+
+event-end-date: 2018-02-08 17:00:00 -08:00
 ---
 
-## DACA is still at risk. We can save it this week.
+## Every day, 122 DREAMers lose their legal protection.
 
-Call all three of our Members of Congress (MoCs) and ask them to stand strong in support of the DREAMers. A bipartisan deal was reached last week to protect the DREAMers and continue funding the government. The only thing standing in its way is Trump and the GOP immigration hard-liners.
+Call all three of our Members of Congress (MoCs) and ask them to stand strong in support of the DREAMers and recipients of Temporary Protected Status (TPS). On Monday, Senate Democrats caved and voted for a short-term spending deal with no protections for immigrants - leaving 700,000 DREAMers and more than 250,000 TPS recipients from El Salvador and Haiti at risk of imminently losing their legal status.
 
-_We must push for this successful bipartisan deal to become law!_
+Please thank our Members of Congress for standing up for immigrants, and let them know we need them to keep fighting!
