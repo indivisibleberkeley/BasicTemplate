@@ -23,6 +23,6 @@ event-end-date: 2018-02-08 17:00:00 -08:00
 
 ## Every day, 122 DREAMers lose their legal protection.
 
-Call all three of our Members of Congress (MoCs) and ask them to stand strong in support of the DREAMers and recipients of Temporary Protected Status (TPS). On Monday, Senate Democrats caved and voted for a short-term spending deal with no protections for immigrants - leaving 700,000 DREAMers and more than 250,000 TPS recipients from El Salvador and Haiti at risk of imminently losing their legal status.
+Call all three of our Members of Congress (MoCs) and ask them to stand strong in support of the DREAMers and recipients of Temporary Protected Status (TPS). On January 22, Senate Democrats caved and voted for a short-term spending deal with no protections for immigrants - leaving 700,000 DREAMers and more than 250,000 TPS recipients from El Salvador and Haiti at risk of imminently losing their legal status.
 
 Please thank our Members of Congress for standing up for immigrants, and let them know we need them to keep fighting!
