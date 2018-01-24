@@ -15,7 +15,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2017-12-08 23:59:00 -08:00
+event-end-date: 2018-03-01 23:59:00 -08:00
 ---
 
 This bill has already passed the House and has been ordered reported out of committee in the Senate. It is another in the slew of bills aimed at preventing future regulatory protections.  See more information at the following sites:  [Indivisible](https://www.indivisibleguide.com/resource/raa-worst-bill-youve-never-heard/), [Coalition for Sensible Safeguards](http://sensiblesafeguards.org/issues/regulatory-accountability-act/), [Union of Concerned Scientists](http://blog.ucsusa.org/michael-halpern/the-regulatory-accountability-act-subverts-science-and-must-be-stopped), [Natural Resources Defense Council](https://www.nrdc.org/sites/default/files/letter-opposing-raa-s951-20170516.pdf).
