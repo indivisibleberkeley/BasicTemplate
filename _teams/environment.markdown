@@ -22,6 +22,8 @@ Our group focuses on actions. We meet, discuss, conduct research, and inform eac
 
 ### Team Information
  
+Our team usually meets on the FIRST and THIRD Sundays of the month, at 7pm, at Three Stone Hearth. Newcomers are welcome. 
+
 Please check the [calendar page](/calendar) to find the time and location of our next team meeting!
  
 Join our email list by sending a blank email to [environment+subscribe@indivisibleberkeley.org][mailtoenv] from the address you wish to subscribe.
