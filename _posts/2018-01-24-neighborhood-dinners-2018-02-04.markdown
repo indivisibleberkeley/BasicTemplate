@@ -16,3 +16,13 @@ Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and fo
 RSVPs will open Friday!
 
 At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Margaret Good for Florida State House**. The election is on February 13, so we'll be helping with the final Get Out The Vote effort!
+
+### Host List
+
+### Paula I. (94702, brunch)
+
+### Joan H. (94702)
+
+### April G. (94705)
+
+### [More dinners](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) on Saturday, February 3
