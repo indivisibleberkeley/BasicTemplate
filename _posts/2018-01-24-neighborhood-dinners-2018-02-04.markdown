@@ -23,6 +23,4 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 
 ### Joan H. (94702)
 
-### April G. (94705)
-
 ### [More dinners](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) on Saturday, February 3
