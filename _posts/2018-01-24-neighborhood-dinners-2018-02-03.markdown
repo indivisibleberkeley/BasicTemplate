@@ -17,7 +17,7 @@ RSVPs will open Friday!
 
 At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Margaret Good for Florida State House**. The election is on February 13, so we'll be helping with the final Get Out The Vote effort!
 
-### Host List
+### Hosts
 
 ### Brendan F. (94702)
 
