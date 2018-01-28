@@ -19,22 +19,24 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 
 ### Hosts
 
-### Brendan F. (94702)
+### [Brendan F.](https://docs.google.com/forms/d/e/1FAIpQLSeqQHugKcnNIKyLi_RVPn1ON1BJFGU1ZMCUY_J0YswP79rwUQ/viewform) (94702)
 
-### Jenny W. (94702)
+### [Jenny W.](https://docs.google.com/forms/d/e/1FAIpQLSeF7bmzocC3iKv3Ze7ZqRk0q-T_pC_-uEl6FW6oxcbFhnODUA/viewform) (94702)
 
-### Lisa E. (94703)
+### [Lisa E.](https://docs.google.com/forms/d/e/1FAIpQLScRZn47Ct66UTEQ9DIhIrq576zh4iNvUC46hFM26RZwPnKO_Q/viewform) (94703)
 
-### April G. (94705)
+### [James C.](https://docs.google.com/forms/d/e/1FAIpQLSe62nn-dTILIaV2b322qFPAhPH4qNahuG8DfItXecdGaA57WA/viewform) (94704)
 
-### James C. (94704)
+### [April G.](https://docs.google.com/forms/d/e/1FAIpQLSdAvrkFqzQ4z9kuE062K4Q_RwFbZiHsYx3USGc7f1VPzXVD9Q/viewform) (94705)
 
-### Anna and Jim (94707)
+### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706, Albany)
 
-### Leslie F. (94708)
+### [Anna and Jim](https://docs.google.com/forms/d/e/1FAIpQLSfUKhsAPYo-K7lK5C80XyipeCWiamxIRIr0ix0_LmqaZ91Uow/viewform) (94707)
 
-### Gigi and Antony (94530, El Cerrito)
+### [Leslie F.](https://docs.google.com/forms/d/e/1FAIpQLScFvUqfrAHcvl14N0wM2JnKygiFxKE1GcUmArCL3ncqB-mWRA/viewform) (94708)
 
-### Diego B. (94530, El Cerrito)
+### [Gigi and Antony](https://docs.google.com/forms/d/e/1FAIpQLSca07TZ5NkdmiXRoBISsNzcbOe8tCfBHxNrZp0EyS7EeFagtA/viewform) (94530, El Cerrito)
+
+### [Diego B.](https://docs.google.com/forms/d/e/1FAIpQLSeWlBeeSnM8OqEpvgl_lp2N_v5LpWF_WGIpYF_53JeoBBX4ng/viewform) (94530, El Cerrito)
 
 ### [More dinners](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-04) on Sunday, February 4
