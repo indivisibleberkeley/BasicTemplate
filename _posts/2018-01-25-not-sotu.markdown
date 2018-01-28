@@ -1,0 +1,27 @@
+---
+title: Our own State of the Union viewing party
+date: 2018-01-25 23:34:00 -08:00
+categories:
+- event
+tags:
+- social
+is featured: true
+main-image: http://old.seattletimes.com/art/mlk/index.jpg
+event-start-date: 2018-01-30 17:30:00 -08:00
+event-end-date: 2018-01-30 20:30:00 -08:00
+Location: The Way, 1305 University Avenue, Berkeley
+RSVP-link: https://www.facebook.com/events/1775604532740815/
+---
+
+As you know, on Tuesday night at 6pm PT, President 45 will deliver his first official State of the Union Address. For folks who want to listen to it live, it will be available on all major television channels.
+
+However, if you want another option: Indivisible Berkeley is offering an alternative event that evening. We’ll be gathering with our neighbors and friends to listen to a speech by the Reverend Dr. Martin Luther King, Jr — "Where Do We Go From Here?" delivered on August 16, 1967 at the Annual Southern Christian Leadership Conference Convention.
+
+- We’ll listen to the speech from around 6:15-7:15
+- Then spend some time in conversation
+
+Please come for refreshments before and after, and feel free to bring anything you’d like to have or to share.
+
+Many thanks to our generous hosts at The Way Christian Center on University.
+
+RSVP using the link on this page. Questions? {{ site.email }}
