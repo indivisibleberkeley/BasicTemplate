@@ -35,4 +35,6 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 
 ### Gigi and Antony (94530, El Cerrito)
 
+### Diego B. (94530, El Cerrito)
+
 ### [More dinners](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-04) on Sunday, February 4
