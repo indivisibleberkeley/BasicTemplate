@@ -1,6 +1,10 @@
 ---
 title: Racism & Criminal Justice Reform Team Meeting - 2/15/18
 date: 2018-01-29 09:29:00 -08:00
+categories:
+- event
+tags:
+- rcjr
 event-start-date: 2018-02-15 19:00:00 -08:00
 event-end-date: 2018-02-15 20:30:00 -08:00
 Location: Barney's, 1600 Shattuck Avenue
