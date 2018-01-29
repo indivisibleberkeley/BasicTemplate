@@ -1,5 +1,5 @@
 ---
-title: Racism & Criminal Justice Reform Meeting - 2/1/18
+title: Racism & Criminal Justice Reform Team Meeting - 2/1/18
 date: 2018-01-29 09:25:00 -08:00
 event-start-date: 2018-02-01 19:00:00 -08:00
 event-end-date: 2018-02-01 20:30:00 -08:00
