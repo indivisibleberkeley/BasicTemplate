@@ -1,5 +1,5 @@
 ---
-title: 'Neighborhood Dinner Night #2 (Sunday)'
+title: Neighborhood Dinner Night (Sunday)
 date: 2018-01-24 21:58:00 -08:00
 categories:
 - event
