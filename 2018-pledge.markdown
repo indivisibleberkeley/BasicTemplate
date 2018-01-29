@@ -11,7 +11,8 @@ Think about how the tax scam harms you and those you care about: more expensive 
 
 ![tax-scam-senate-crop-0.jpg](/uploads/tax-scam-senate-crop-0.jpg)
 
-As we saw [in Virginia this week](http://www.richmond.com/news/virginia/government-politics/virginia-elections-board-to-pick-random-winner-in-tied-house/article_203dc6b1-0cb6-5027-bc22-10b4ebfad10d.html), literally every single vote counts.
+As we saw [in Virginia last November](http://www.richmond.com/news/virginia/government-politics/virginia-elections-board-to-pick-random-winner-in-tied-house/article_203dc6b1-0cb6-5027-bc22-10b4ebfad10d.html), literally every single vote counts.
+
 Pledge here to do your part to get every voter to the polls in 2018!
 
 Here are the options we have at Indivisible Berkeley for your 2018 pledge:
