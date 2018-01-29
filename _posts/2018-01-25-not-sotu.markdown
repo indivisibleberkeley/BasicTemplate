@@ -25,3 +25,5 @@ Please come for refreshments before and after, and feel free to bring anything y
 Many thanks to our generous hosts at The Way Christian Center on University.
 
 RSVP using the link on this page. Questions? {{ site.email }}
+
+♿ We are double-checking details on ADA accessibility but believe it is accessible.
