@@ -22,4 +22,6 @@ Click on a name to see more details and send in your RSVP!
 
 ### [Joan H.](https://docs.google.com/forms/d/e/1FAIpQLScdITuF9lth6QoaWvoo6caR6SfVhK_CmNxM5GGo0ikyLZMK4Q/viewform) (94702)
 
+### ~~Don and Madelyn~~ (94707) (Full!)
+
 ### [More dinners](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) on Saturday, February 3
