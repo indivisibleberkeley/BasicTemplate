@@ -21,7 +21,7 @@ Join us on February 11 for the next Indivisible Berkeley General Assembly, hoste
 
 Doors open at 7. We start promptly at 7:30.
 
-Just prior to the meeting, join us for a training on how to bring more of your friends into the Indivisible Berkeley community. 6:15-7:15 at the Finnish Hall downstairs cafe. [More info]()
+Just prior to the meeting, join us for a training on how to bring more of your friends into the Indivisible Berkeley community. 6:15-7:15 at the Finnish Hall downstairs cafe. [More info](https://www.indivisibleberkeley.org/event/recruitment-training)
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
