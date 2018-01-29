@@ -1,0 +1,34 @@
+---
+title: IB General Assembly
+date: 2018-01-29 10:53:00 -08:00
+categories:
+- event
+tags:
+- ga
+is featured: true
+main-image: "/uploads/IB-May2017-flags.jpg"
+event-start-date: 2018-02-11 19:30:00 -08:00
+event-end-date: 2018-02-11 20:30:00 -08:00
+Location: Finnish Hall, 1970 Chestnut St., Berkeley
+RSVP-link: http://indivisibleberkeley.org/event/assembly-oct8
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-13?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-general-assembly-13' style='width: 100%'><!--
+  this div is the target for our HTML insertion --></div>"
+---
+
+Join us on February 11 for the next Indivisible Berkeley General Assembly, hosted by our Immigration Team and Racism & Criminal Justice Reform Team. Agenda details will be published when they are available.
+
+Doors open at 7. We start promptly at 7:30.
+
+Just prior to the meeting, join us for a training on how to bring more of your friends into the Indivisible Berkeley community. 6:15-7:15 at the Finnish Hall downstairs cafe. [More info]()
+
+Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
+
+ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+
+### T-Shirt Distribution
+
+T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want.
+
+![tshirts2.jpg](/uploads/tshirts2.jpg)
