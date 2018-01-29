@@ -1,6 +1,10 @@
 ---
 title: Racism & Criminal Justice Reform Team Meeting - 3/29/18
 date: 2018-01-29 09:48:00 -08:00
+categories:
+- event
+tags:
+- rcjr
 event-start-date: 2018-03-29 19:00:00 -07:00
 event-end-date: 2018-03-29 20:30:00 -07:00
 ---
