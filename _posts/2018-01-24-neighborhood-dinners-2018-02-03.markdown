@@ -18,15 +18,17 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 ### Hosts
 Click on a name to see more details and send in your RSVP!
 
-### [Brendan F.](https://docs.google.com/forms/d/e/1FAIpQLSeqQHugKcnNIKyLi_RVPn1ON1BJFGU1ZMCUY_J0YswP79rwUQ/viewform) (94702)
+### [~~Brendan F.~~](https://docs.google.com/forms/d/e/1FAIpQLSeqQHugKcnNIKyLi_RVPn1ON1BJFGU1ZMCUY_J0YswP79rwUQ/viewform) (94702) (Full!)
 
-### [Jenny W.](https://docs.google.com/forms/d/e/1FAIpQLSeF7bmzocC3iKv3Ze7ZqRk0q-T_pC_-uEl6FW6oxcbFhnODUA/viewform) (94702)
+### [~~Jenny W.~~](https://docs.google.com/forms/d/e/1FAIpQLSeF7bmzocC3iKv3Ze7ZqRk0q-T_pC_-uEl6FW6oxcbFhnODUA/viewform) (94702) (Full!)
 
 ### [Lisa E.](https://docs.google.com/forms/d/e/1FAIpQLScRZn47Ct66UTEQ9DIhIrq576zh4iNvUC46hFM26RZwPnKO_Q/viewform) (94703)
 
 ### [James C.](https://docs.google.com/forms/d/e/1FAIpQLSe62nn-dTILIaV2b322qFPAhPH4qNahuG8DfItXecdGaA57WA/viewform) (94704)
 
 ### [April G.](https://docs.google.com/forms/d/e/1FAIpQLSdAvrkFqzQ4z9kuE062K4Q_RwFbZiHsYx3USGc7f1VPzXVD9Q/viewform) (94705)
+
+### [Julia Z.](https://docs.google.com/forms/d/e/1FAIpQLSddR2--2DHHuleYQZpyL7QeIlt1ZjPQ2fd8-59HTlHyrCRrXQ/viewform) (94706)
 
 ### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706, Albany)
 
