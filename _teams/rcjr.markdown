@@ -24,4 +24,4 @@ We meet every other Thursday at 7pm at Barney's (1600 Shattuck Ave). The next se
 - Thursday, March 15th
 - Thursday, March 29th
 - Thursday, April 12th
-- Thursday, April 26th 
+- Thursday, April 26th
