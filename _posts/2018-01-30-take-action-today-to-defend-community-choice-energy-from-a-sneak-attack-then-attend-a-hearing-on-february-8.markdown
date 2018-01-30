@@ -1,5 +1,5 @@
 ---
-title: Take Action TODAY to Defend Community Choice Energy from a Sneak Attack - THEN
+title: Take Action NOW to Defend Community Choice Energy from a Sneak Attack - THEN
   Attend a Hearing on February 8!
 date: 2018-01-30 13:25:00 -08:00
 categories:
