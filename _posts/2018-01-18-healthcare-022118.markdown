@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - healthcare
-event-start-date: 2018-02-07 18:30:00 -08:00
-event-end-date: 2018-02-07 20:00:00 -08:00
+event-start-date: 2018-02-21 18:30:00 -08:00
+event-end-date: 2018-02-21 20:00:00 -08:00
 Location: 1835 San Ramon Ave., Berkeley, CA, 94707
 RSVP-link: mailto:healthcare+owner@indivisibleberkeley.org
 ---
