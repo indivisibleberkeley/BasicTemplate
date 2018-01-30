@@ -20,7 +20,7 @@ You can easily send a letter on this online platform [here](https://actionnetwor
 Monopoly Utilities are attacking #CommunityChoice thru a #CaliforniaPUC resolution - please send a letter today to defend local energy control in California communities! [https://goo.gl/6MbF4Q](https://goo.gl/6MbF4Q) Join us Feb 8: [https://goo.gl/egp3Lo](https://goo.gl/egp3Lo) #cleanpowertothepeople
 
 ### Show up for the press conference and hearing in San Francisco
-California Public Utilities Commission February 8, 2018 at 8:30am 
+California Public Utilities Commission February 8, 2018 at 8:30am. 
 505 Van Ness Ave, San Francisco, CA 94102 (off Civic Center BART)
 
 ### Background
