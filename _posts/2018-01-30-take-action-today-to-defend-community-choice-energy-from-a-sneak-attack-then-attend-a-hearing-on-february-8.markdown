@@ -16,6 +16,7 @@ Oppose the California Public Utilities Commission’s (CPUC’s) action to freez
 You can easily send a letter on this online platform [here](https://actionnetwork.org/letters/dont-let-cpuc-freeze-community-choice).  Let Commissioners and members of the State legislature know that Resolution E-4907 is an unlawful abuse and overreach of the CPUC's regulatory authority and should be retracted.
 
 ### Post to Social Media
+(copy and paste)
 Monopoly Utilities are attacking #CommunityChoice thru a #CaliforniaPUC resolution - please send a letter today to defend local energy control in California communities! [https://goo.gl/6MbF4Q](https://goo.gl/6MbF4Q) Join us Feb 8: [https://goo.gl/egp3Lo](https://goo.gl/egp3Lo) #cleanpowertothepeople
 
 ### Show up for the press conference and hearing in San Francisco
