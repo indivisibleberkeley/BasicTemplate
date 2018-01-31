@@ -22,7 +22,7 @@ Click on a name to see more details and send in your RSVP!
 
 ### [~~Jenny W.~~](https://docs.google.com/forms/d/e/1FAIpQLSeF7bmzocC3iKv3Ze7ZqRk0q-T_pC_-uEl6FW6oxcbFhnODUA/viewform) (94702) (Full!)
 
-### [Lisa E.](https://docs.google.com/forms/d/e/1FAIpQLScRZn47Ct66UTEQ9DIhIrq576zh4iNvUC46hFM26RZwPnKO_Q/viewform) (94703)
+### [~~Lisa E.~~](https://docs.google.com/forms/d/e/1FAIpQLScRZn47Ct66UTEQ9DIhIrq576zh4iNvUC46hFM26RZwPnKO_Q/viewform) (94703) (Full!)
 
 ### [James C.](https://docs.google.com/forms/d/e/1FAIpQLSe62nn-dTILIaV2b322qFPAhPH4qNahuG8DfItXecdGaA57WA/viewform) (94704)
 
