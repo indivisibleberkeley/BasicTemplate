@@ -26,7 +26,7 @@ Click on a name to see more details and send in your RSVP!
 
 ### [James C.](https://docs.google.com/forms/d/e/1FAIpQLSe62nn-dTILIaV2b322qFPAhPH4qNahuG8DfItXecdGaA57WA/viewform) (94704)
 
-### [April G.](https://docs.google.com/forms/d/e/1FAIpQLSdAvrkFqzQ4z9kuE062K4Q_RwFbZiHsYx3USGc7f1VPzXVD9Q/viewform) (94705)
+### [~~April G.~~](https://docs.google.com/forms/d/e/1FAIpQLSdAvrkFqzQ4z9kuE062K4Q_RwFbZiHsYx3USGc7f1VPzXVD9Q/viewform) (94705) (Full!)
 
 ### [Julia Z.](https://docs.google.com/forms/d/e/1FAIpQLSddR2--2DHHuleYQZpyL7QeIlt1ZjPQ2fd8-59HTlHyrCRrXQ/viewform) (94706)
 
@@ -34,7 +34,7 @@ Click on a name to see more details and send in your RSVP!
 
 ### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706)
 
-### [Anna and Jim](https://docs.google.com/forms/d/e/1FAIpQLSfUKhsAPYo-K7lK5C80XyipeCWiamxIRIr0ix0_LmqaZ91Uow/viewform) (94707)
+### [~~Anna and Jim~~](https://docs.google.com/forms/d/e/1FAIpQLSfUKhsAPYo-K7lK5C80XyipeCWiamxIRIr0ix0_LmqaZ91Uow/viewform) (94707) (Full!)
 
 ### [Leslie F.](https://docs.google.com/forms/d/e/1FAIpQLScFvUqfrAHcvl14N0wM2JnKygiFxKE1GcUmArCL3ncqB-mWRA/viewform) (94708)
 
