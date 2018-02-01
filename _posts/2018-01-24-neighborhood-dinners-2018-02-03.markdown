@@ -30,13 +30,13 @@ Click on a name to see more details and send in your RSVP!
 
 ### [Julia Z.](https://docs.google.com/forms/d/e/1FAIpQLSddR2--2DHHuleYQZpyL7QeIlt1ZjPQ2fd8-59HTlHyrCRrXQ/viewform) (94706, Albany)
 
-### [Ruth and Scott](https://docs.google.com/forms/d/e/1FAIpQLSfjrUqcDZiT051_uVGlVxRn6_BNfcQGvH1DIfZETTxMmd23Bw/viewform) (94706, Albany)
+### [~~Ruth and Scott~~](https://docs.google.com/forms/d/e/1FAIpQLSfjrUqcDZiT051_uVGlVxRn6_BNfcQGvH1DIfZETTxMmd23Bw/viewform) (94706, Albany) (Full!)
 
-### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706, Albany)
+### [~~Pascale R.~~](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706, Albany) (Full!)
 
 ### [~~Anna and Jim~~](https://docs.google.com/forms/d/e/1FAIpQLSfUKhsAPYo-K7lK5C80XyipeCWiamxIRIr0ix0_LmqaZ91Uow/viewform) (94707) (Full!)
 
-### [Leslie F.](https://docs.google.com/forms/d/e/1FAIpQLScFvUqfrAHcvl14N0wM2JnKygiFxKE1GcUmArCL3ncqB-mWRA/viewform) (94708)
+### [~~Leslie F.~~](https://docs.google.com/forms/d/e/1FAIpQLScFvUqfrAHcvl14N0wM2JnKygiFxKE1GcUmArCL3ncqB-mWRA/viewform) (94708) (Full!)
 
 ### [Gigi and Antony](https://docs.google.com/forms/d/e/1FAIpQLSca07TZ5NkdmiXRoBISsNzcbOe8tCfBHxNrZp0EyS7EeFagtA/viewform) (94530, El Cerrito)
 
