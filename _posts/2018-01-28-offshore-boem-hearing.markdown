@@ -16,7 +16,7 @@ Tell Trump administration officials in person that you don't want them to drill 
 
 Sam and MaryAnn are organizing our involvement. You can email us at info@indivisibleberkeley.org.
 
-**We recommend you take the CBD bus from Oakland**, available for a sliding-scale fee. If paying the fee is a challenge for you please let us know and we can help. [Click here](https://www.universe.com/events/oakland-bus-to-protest-against-offshore-drilling-at-boem-public-hearing-tickets-oakland-HT789C) to purchase your bus ticket. *Make sure to say you're with Indivisible Berkeley* when it asks which group you're with!
+**We recommend you take the CBD bus from Oakland**, available for a pay-what-you-want fee starting at $0. [Click here](https://www.universe.com/events/oakland-bus-to-protest-against-offshore-drilling-at-boem-public-hearing-tickets-oakland-HT789C) to purchase your bus ticket. *Make sure to say you're with Indivisible Berkeley* when it asks which group you're with!
 
 If you want to carpool or drive on your own, please let us know by emailing us at info@indivisibleberkeley.org.
 
