@@ -28,11 +28,11 @@ Click on a name to see more details and send in your RSVP!
 
 ### [~~April G.~~](https://docs.google.com/forms/d/e/1FAIpQLSdAvrkFqzQ4z9kuE062K4Q_RwFbZiHsYx3USGc7f1VPzXVD9Q/viewform) (94705) (Full!)
 
-### [Julia Z.](https://docs.google.com/forms/d/e/1FAIpQLSddR2--2DHHuleYQZpyL7QeIlt1ZjPQ2fd8-59HTlHyrCRrXQ/viewform) (94706)
+### [Julia Z.](https://docs.google.com/forms/d/e/1FAIpQLSddR2--2DHHuleYQZpyL7QeIlt1ZjPQ2fd8-59HTlHyrCRrXQ/viewform) (94706, Albany)
 
-### [Ruth and Scott](https://docs.google.com/forms/d/e/1FAIpQLSfjrUqcDZiT051_uVGlVxRn6_BNfcQGvH1DIfZETTxMmd23Bw/viewform) (94706)
+### [Ruth and Scott](https://docs.google.com/forms/d/e/1FAIpQLSfjrUqcDZiT051_uVGlVxRn6_BNfcQGvH1DIfZETTxMmd23Bw/viewform) (94706, Albany)
 
-### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706)
+### [Pascale R.](https://docs.google.com/forms/d/e/1FAIpQLScykx5sJaedWBzqj635H7iUwW8OmemM32IkJDIhxfW3fKHvWQ/viewform) (94706, Albany)
 
 ### [~~Anna and Jim~~](https://docs.google.com/forms/d/e/1FAIpQLSfUKhsAPYo-K7lK5C80XyipeCWiamxIRIr0ix0_LmqaZ91Uow/viewform) (94707) (Full!)
 
