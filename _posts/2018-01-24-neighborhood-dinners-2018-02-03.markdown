@@ -13,7 +13,9 @@ event-start-date: 2018-02-03 18:00:00 -08:00
 
 Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and for IB members on Saturday, February 3. We have hosts in almost every Berkeley zip code, so there's sure to be a dinner near you!
 
-At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Margaret Good for Florida State House**. The election is on February 13, so we'll be helping with the final Get Out The Vote effort!
+At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards---this time for **Conor Lamb for US Congress (PA-18)**. The election is on March 13 and we are helping to build energy and excitement around his campaign.
+
+[Edit: it looks like Tony the Democrat is all out of addresses for Margaret Good for Florida State House. This is a good problem to have!]
 
 ### Hosts
 Click on a name to see more details and send in your RSVP!
