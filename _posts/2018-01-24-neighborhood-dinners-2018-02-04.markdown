@@ -20,7 +20,7 @@ Click on a name to see more details and send in your RSVP!
 
 ### [~~Paula I.~~](https://docs.google.com/forms/d/e/1FAIpQLSeBLzqKNdUHF6yVR546TePnE51IDGJhJ0ZyuoGgvjFd7KD-gQ/viewform) (94702, brunch) (Full!)
 
-### [Joan H.](https://docs.google.com/forms/d/e/1FAIpQLScdITuF9lth6QoaWvoo6caR6SfVhK_CmNxM5GGo0ikyLZMK4Q/viewform) (94702)
+### [~~Joan H.~~](https://docs.google.com/forms/d/e/1FAIpQLScdITuF9lth6QoaWvoo6caR6SfVhK_CmNxM5GGo0ikyLZMK4Q/viewform) (94702) (Full!)
 
 ### ~~Don and Madelyn~~ (94707) (Full!)
 
