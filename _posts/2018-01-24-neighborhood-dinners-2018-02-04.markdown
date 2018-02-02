@@ -11,7 +11,7 @@ main-image: "/uploads/Image-2-2.jpeg"
 event-start-date: 2018-02-04 18:00:00 -08:00
 ---
 
-*Update: All the dinners on Sunday are full! Check out [Saturday's dinners here] (https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) (sign up fast because they're almost full as well)*
+*Update: All the dinners on Sunday are full! Check out [Saturday's dinners here](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) (sign up fast because they're almost full as well)*
 
 Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and for IB members on Sunday, February 4. Between [Saturday](https://www.indivisibleberkeley.org/event/neighborhood-dinners-2018-02-03) and Sunday, we have hosts in almost every Berkeley zip code, so there's sure to be a dinner near you!
 
