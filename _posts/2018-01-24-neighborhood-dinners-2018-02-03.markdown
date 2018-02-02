@@ -36,7 +36,7 @@ Click on a name to see more details and send in your RSVP!
 
 ### [~~Leslie F.~~](https://docs.google.com/forms/d/e/1FAIpQLScFvUqfrAHcvl14N0wM2JnKygiFxKE1GcUmArCL3ncqB-mWRA/viewform) (94708) (Full!)
 
-### [Gigi and Antony](https://docs.google.com/forms/d/e/1FAIpQLSca07TZ5NkdmiXRoBISsNzcbOe8tCfBHxNrZp0EyS7EeFagtA/viewform) (94530, El Cerrito)
+### [~~Gigi and Antony~~](https://docs.google.com/forms/d/e/1FAIpQLSca07TZ5NkdmiXRoBISsNzcbOe8tCfBHxNrZp0EyS7EeFagtA/viewform) (94530, El Cerrito) (Full!)
 
 ### [Diego B.](https://docs.google.com/forms/d/e/1FAIpQLSeWlBeeSnM8OqEpvgl_lp2N_v5LpWF_WGIpYF_53JeoBBX4ng/viewform) (94530, El Cerrito)
 
