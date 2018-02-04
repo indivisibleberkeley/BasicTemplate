@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 event-start-date: 2018-02-06 12:30:00 -08:00
-event-end-date: 2018-02-06 16:00:00 -08:00
+event-end-date: 2018-02-06 15:00:00 -08:00
 Location: 450 Golden Gate Ave, San Francisco, CA
 RSVP-link: https://www.facebook.com/events/384169625339552/
 ---
