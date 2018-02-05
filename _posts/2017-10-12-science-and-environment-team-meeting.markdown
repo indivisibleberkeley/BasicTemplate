@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - environment
-event-start-date: 2018-01-07 19:00:00 -08:00
-event-end-date: 2018-01-07 20:30:00 -08:00
+event-start-date: 2018-03-04 19:00:00 -08:00
+event-end-date: 2018-03-04 20:30:00 -08:00
 Location: Three Stone Hearth, 1581 University Ave, Berkeley
 RSVP-link: mailto:environment+owner@indivisibleberkeley.org
 ---
