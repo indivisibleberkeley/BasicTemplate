@@ -10,7 +10,7 @@ call-script-text: 'Jim Bridenstine is a politician who is unqualified to lead NA
   Please oppose his nomination. NASA’s role in monitoring and researching climate
   change and weather patterns is too important to put into the hands of a leader with
   no science training and one who does not believe in human-caused climate change.  '
-event-end-date: 2018-02-23 23:59:00 -08:00
+event-end-date: 2018-03-16 23:59:00 -07:00
 ---
 
 ### Background
