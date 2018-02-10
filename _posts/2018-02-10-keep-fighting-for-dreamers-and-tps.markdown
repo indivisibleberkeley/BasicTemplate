@@ -45,4 +45,6 @@ The [McCain-Coons proposal](http://www.chicagotribune.com/news/immigration/ct-se
 ### WHAT YOU CAN DO TO HELP DREAMERS
 It’s possible that we could get a breakthrough in Congress, especially as we approach the arbitrary March 5 deadline, when the number of DACA recipients losing their protections will skyrocket from 122 to 1,200 a day. If that happens, Indivisible groups need to be ready to pressure their Members of Congress to make sure we get a DACA fix that is consistent with our values and that doesn’t require Dreamers to sacrifice their parents in the process. 
 
-This means (1) continuing to demand a clean DREAM act, using the call script on this page; and (2) being an immigrant ally locally, by showing up at "Pack the Court" events, getting trained as a rapid responder, and ensuring local law enforcement isn't collaborating with ICE and Trump's deportation agenda.
+This means:
+1. Continuing to demand a clean DREAM Act, using the call script on this page; and 
+2. [Being an immigrant ally locally](https://www.indivisible.org/resource/immigrant-ally-toolkit-introduction/): This means showing up at "Pack the Court" events, getting trained as a rapid responder, and ensuring local law enforcement isn't collaborating with ICE and Trump's deportation agenda.
