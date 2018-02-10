@@ -20,6 +20,8 @@ call-script-text: "Caller: Hi! My name is [name] and I live in [part of state]. 
   Haiti, Nicaragua, and Sudan are protected as part of any immigration deal. \n\nStaffer:
   I'll pass your thoughts along to [MoC].\n\nCaller: Please do, and please take down
   my contact information so you can let me know what [MoC] decides to do."
+event-start-date: 2018-02-10 00:00:00 -08:00
+event-end-date: 2018-03-08 00:00:00 -08:00
 ---
 
 ### [What's Next in the Fight to Protect Dreamers](https://www.indivisible.org/resource/whats-next-fight-protect-dreamers/)
