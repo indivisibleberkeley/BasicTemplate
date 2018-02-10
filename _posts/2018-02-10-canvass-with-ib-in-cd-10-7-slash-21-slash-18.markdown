@@ -1,0 +1,24 @@
+---
+title: Canvass with IB in CD 10 - 7/21/18
+date: 2018-02-10 13:47:00 -08:00
+categories:
+- event
+tags:
+- canvass
+- elections
+event-start-date: 2018-07-21 08:00:00 -07:00
+event-end-date: 2018-07-21 17:00:00 -07:00
+Location: To be determined in CA Congressional District 10
+RSVP-link: mailto:billymcdonaldnp@gmail.com
+---
+
+We will be canvassing on Saturday, July 21st in CD10. 
+
+It will likely be in Manteca or Modesto and the hours are still being determined! (We have placeholder times in this post.) 
+
+To sign up, email [Billy](mailto:billymcdonaldnp@gmail.com) and [Jeff](mailto:carlockjeff@gmail.com). 
+
+It’s totally cool if you have never canvassed before.  Joining in on these trips is a great way to get practice and familiarity with the work—and excitement—of going door-to-door to talk to real people. 
+
+If you’re nervous and you want to learn more about what it’s like, feel free to get in touch with [Billy](mailto:billymcdonaldnp@gmail.com), [Jeff ](carlockjeff@gmail.com)or [us](mailto:elections+owner@indivisibleberkeley.org) for more information.
+
