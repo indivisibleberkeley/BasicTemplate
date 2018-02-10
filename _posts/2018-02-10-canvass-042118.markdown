@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
+main-image: "/uploads/yardsigns255.png"
 event-start-date: 2018-04-21 08:00:00 -07:00
 event-end-date: 2018-04-21 17:00:00 -07:00
 Location: To be determined in CA Congressional District 10
