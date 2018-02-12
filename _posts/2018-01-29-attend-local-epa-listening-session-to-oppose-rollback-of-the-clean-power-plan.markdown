@@ -11,7 +11,7 @@ event-end-date: 2018-02-28 15:00:00 -08:00
 
 EPA will hold a Listening Session on its proposed withdrawal of the Clean Power Plan on February 28 at the San Francisco Main Library, Koret Auditorium, [30 Grove Street, San Francisco,](https://maps.google.com/?q=30+Grove+Street,+San+Francisco&entry=gmail&source=g) from 8:30am-7:30pm.  The Clean Power Plan is the signature achievement of the Obama administration to reduce carbon emissions from the the power sector.  
 
-**RSVP to Phyllis Rothman (rothmanp@hotmail.com)** to join Indivisible Berkeley’s Science and Environment Team, along with other Indivisible and environmental groups to make our presence and comments known at 2:00 pm at the Grove Street entrance.  
+**RSVP to Phyllis Rothman (rothmanp@hotmail.com)** to join Indivisible Berkeley’s Science and Environment Team, along with other Indivisible and environmental groups to make our presence and comments known at **2:00 pm at the Grove Street entrance**.  
 
 **To enter the Listening Session,** you must register with EPA [at this site](https://www.epa.gov/stationary-sources-air-pollution/forms/san-francisco-listening-session-repealing-clean-power-plan).  When registering you may elect to make a statement. Register early, as registration will close on Feb. 21 or when all available slots are filled.  
 
