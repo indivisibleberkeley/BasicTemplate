@@ -2,7 +2,6 @@
 title: Attend Local EPA Listening Session to Oppose Rollback of the Clean Power Plan
 date: 2018-01-29 10:25:00 -08:00
 categories:
-- action
 - event
 tags:
 - environment
