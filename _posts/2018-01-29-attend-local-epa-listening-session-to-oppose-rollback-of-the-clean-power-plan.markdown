@@ -5,7 +5,8 @@ categories:
 - event
 tags:
 - environment
-event-end-date: 2018-02-28 14:00:00 -08:00
+event-start-date: 2018-02-28 14:00:00 -08:00
+event-end-date: 2018-02-28 15:00:00 -08:00
 ---
 
 EPA will hold a Listening Session on its proposed withdrawal of the Clean Power Plan on February 28 at the San Francisco Main Library, Koret Auditorium, [30 Grove Street, San Francisco,](https://maps.google.com/?q=30+Grove+Street,+San+Francisco&entry=gmail&source=g) from 8:30am-7:30pm.  The Clean Power Plan is the signature achievement of the Obama administration to reduce carbon emissions from the the power sector.  
