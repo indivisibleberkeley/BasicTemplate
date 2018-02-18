@@ -1,6 +1,6 @@
 ---
 title: IB General Assembly - March
-date: 2018-02-10 14:50:00 -08:00
+date: 2018-03-11 19:00:00 -07:00
 tags:
 - ga
 main-image: "/uploads/IB-May2017-flags.jpg"
