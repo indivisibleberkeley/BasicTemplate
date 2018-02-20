@@ -1,5 +1,5 @@
 ---
-title: "#FreeFernando - Pack the Court"
+title: 'Pack the Court to #FreeFernando'
 date: 2018-02-19 12:54:00 -08:00
 categories:
 - event
