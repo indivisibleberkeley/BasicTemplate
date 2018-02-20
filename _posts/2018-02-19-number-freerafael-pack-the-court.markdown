@@ -1,5 +1,5 @@
 ---
-title: "#FreeRafael - Pack the Court"
+title: 'Pack the Court to #FreeRafael'
 date: 2018-02-19 16:26:00 -08:00
 categories:
 - action
