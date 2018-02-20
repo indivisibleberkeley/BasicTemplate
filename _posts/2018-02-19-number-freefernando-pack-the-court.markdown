@@ -2,7 +2,7 @@
 title: "#FreeFernando - Pack the Court"
 date: 2018-02-19 12:54:00 -08:00
 categories:
-- action
+- event
 tags:
 - immigration
 event-start-date: 2018-02-26 08:30:00 -08:00
