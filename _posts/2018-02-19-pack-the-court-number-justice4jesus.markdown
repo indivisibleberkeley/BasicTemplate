@@ -6,6 +6,8 @@ categories:
 tags:
 - immigration
 event-start-date: 2018-02-28 12:00:00 -08:00
+Location: US Citizen and Immigration Services, 630 Sansome Street, San Francisco CA
+  94111
 ---
 
 Free Jesús! The California Immigrant Youth Justice Alliance (CIYJA) isadvocating for Jesús,an outstanding father, partner, and community member. At his hearing last week, the judge refused to hear witnesses in his defense. His attorneys filed a motion noting due process violations and he has a new hearing on this date with a new judge.
