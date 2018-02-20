@@ -10,7 +10,7 @@ Location: US Citizen and Immigration Services, 630 Sansome Street, San Francisco
   94111
 ---
 
-Free Jesús! The California Immigrant Youth Justice Alliance (CIYJA) isadvocating for Jesús,an outstanding father, partner, and community member. At his hearing last week, the judge refused to hear witnesses in his defense. His attorneys filed a motion noting due process violations and he has a new hearing on this date with a new judge.
+Free Jesús! The California Immigrant Youth Justice Alliance (CIYJA) is advocating for Jesús, an outstanding father, partner, and community member. At his hearing last week, the judge refused to hear witnesses in his defense. His attorneys filed a motion noting due process violations and he has a new hearing on this date with a new judge.
 
 **IMPORTANT TO KNOW:**
 
