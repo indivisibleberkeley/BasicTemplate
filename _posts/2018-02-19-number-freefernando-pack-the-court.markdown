@@ -13,8 +13,8 @@ RSVP-link: https://www.facebook.com/events/1987793151543628/
 
 Let's pack the court to show support for detainee, Fernando Carillo.
 
-Free Fernando Carrillo! Fernando's case has gotten wide media coverage, thanks to the efforts of his wife and three daughters. He was detained while dropping off his youngest daughter at preschool. His family is struggling to make ends meet because he has been held for almost 4 months. His wife Lourdes has given interviews and has organized multiple events to tell the world why her husband should go free.\
-\
+Free Fernando Carrillo! Fernando's case has gotten wide media coverage, thanks to the efforts of his wife and three daughters. He was detained while dropping off his youngest daughter at preschool. His family is struggling to make ends meet because he has been held for almost 4 months. His wife Lourdes has given interviews and has organized multiple events to tell the world why her husband should go free
+
 **IMPORTANT TO KNOW:**
 
 * Arrive promptly so we can go into the courthouse together, even though hearings are scheduled to start 30 minutes after the times shown.
