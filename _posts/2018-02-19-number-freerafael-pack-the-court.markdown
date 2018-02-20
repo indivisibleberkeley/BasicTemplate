@@ -2,7 +2,7 @@
 title: 'Pack the Court to #FreeRafael'
 date: 2018-02-19 16:26:00 -08:00
 categories:
-- action
+- event
 tags:
 - immigration
 event-start-date: 2018-02-27 08:30:00 -08:00
