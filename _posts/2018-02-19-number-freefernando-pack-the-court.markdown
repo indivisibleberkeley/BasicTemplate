@@ -6,8 +6,8 @@ categories:
 tags:
 - immigration
 event-start-date: 2018-02-26 08:30:00 -08:00
-Location: US Citizen and Immigration Services, Judge Joseph Park in Room 9 (4th floor),
-  630 Sansome Street, San Francisco CA 94111
+Location: US Citizen and Immigration Services, 630 Sansome Street, San Francisco CA
+  94111
 ---
 
 Let's pack the court to show support for detainee, Fernando Carillo.
