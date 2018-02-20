@@ -15,7 +15,8 @@ RSVP-link: https://www.facebook.com/events/150444129001270
 Let's pack the court to show support for detainee, Rafael Tolento.
 
 Rafael was working two restaurant jobs to support his family when his father gave him the good news that he had gotten his papers and that he, Rafa, could now apply to get them as well. But when he went to the immigration office to sign the papers, instead they took him to jail. He has been there for over 6 months. His family is spending money they don't have to pay an immigration lawyer, as well as $50/week for telephone calls to jail to keep Rafa's spirits up.
-To learn more about Rafael's case: https://www.facebook.com/events/150444129001270
+
+To learn more about Rafael's case: [https://www.facebook.com/events/150444129001270](https://www.facebook.com/events/150444129001270)
 
 **IMPORTANT TO KNOW:**
 
