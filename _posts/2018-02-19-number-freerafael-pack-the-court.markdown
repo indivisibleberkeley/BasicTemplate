@@ -9,6 +9,7 @@ event-start-date: 2018-02-27 08:30:00 -08:00
 event-end-date: 2018-02-27 10:00:00 -08:00
 Location: US Citizen and Immigration Services, 630 Sansome Street, San Francisco CA
   94111
+RSVP-link: https://www.facebook.com/events/150444129001270
 ---
 
 Let's pack the court to show support for detainee, Rafael Tolento.
