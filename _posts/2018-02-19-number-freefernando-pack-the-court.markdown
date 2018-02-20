@@ -1,6 +1,10 @@
 ---
 title: "#FreeFernando - Pack the Court"
 date: 2018-02-19 12:54:00 -08:00
+categories:
+- action
+tags:
+- immigration
 event-start-date: 2018-02-26 08:30:00 -08:00
 Location: US Citizen and Immigration Services, Judge Joseph Park in Room 9 (4th floor),
   630 Sansome Street, San Francisco CA 94111
