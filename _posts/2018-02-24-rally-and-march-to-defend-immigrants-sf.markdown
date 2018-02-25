@@ -16,6 +16,6 @@ STOP DEPORTATIONS!
 DEFEND DACA!
 PROTECT TPS!
 
-March 5 is the initial expiration date for DACA that the Trump administration has set. Because of community organizing and legal advocacy, the date has been suspended. As the White House continues to threaten our immigrant communities, DACA is still in jeopardy, and many TPS holders' lives hang in the balance. 
+March 5 is the initial expiration date for DACA that the Trump administration has set. Because of community organizing and legal advocacy, the termination of DACA has been suspended by court orders. As the White House continues to threaten our immigrant communities, DACA is still in jeopardy, and many TPS holders' lives hang in the balance as well. 
 
 Join us on March 5: We, the community, will continue to love and protect each other.
