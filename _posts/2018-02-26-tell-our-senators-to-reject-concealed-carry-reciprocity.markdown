@@ -22,7 +22,7 @@ The bill is next poised for a vote in the Senate sometime in 2018, where it has 
 
 The bill would need 60 votes to pass, so Republicans can’t do it alone. It’s now up to Democratic senators - will they side with the NRA to give Trump a victory? Or will they stand strong against gun violence and reject the Concealed Carry Reciprocity Act?
 
-## SAMPLE CALL SCRIPT
+### SAMPLE CALL SCRIPT
 
 Caller: I’m disturbed that H.R. 38, the Concealed Carry Reciprocity Act passed the House, and it’s essential that the Senate stop it from becoming law. Will [Senator] commit to voting against this bill when it comes to the Senate?
 
