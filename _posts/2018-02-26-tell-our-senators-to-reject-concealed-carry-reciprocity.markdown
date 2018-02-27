@@ -3,6 +3,9 @@ title: Tell Our Senators to Reject Concealed Carry Reciprocity
 date: 2018-02-26 23:23:00 -08:00
 categories:
 - action
+tags:
+- gun safety
+event-end-date: 2018-03-31 00:00:00 -07:00
 ---
 
 From Indivisible.org:
