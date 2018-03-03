@@ -1,5 +1,5 @@
 ---
-title: Rally and March to Defend Immigrants
+title: 'CANCELED: Rally and March to Defend Immigrants'
 date: 2018-02-24 23:17:00 -08:00
 categories:
 - event
@@ -11,6 +11,9 @@ event-end-date: 2018-03-05 20:30:00 -08:00
 Location: San Francisco Federal Building, 90 7th St, San Francisco, CA 94103
 RSVP-link: https://www.facebook.com/events/1798981326802736/
 ---
+
+***Update: This rally will be rescheduled.***
+
 
 Join us to defend our immigrant communities!
 STOP DEPORTATIONS!
