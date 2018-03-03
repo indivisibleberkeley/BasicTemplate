@@ -8,7 +8,6 @@ tags:
 is featured: true
 event-start-date: 2018-03-05 17:30:00 -08:00
 event-end-date: 2018-03-05 20:30:00 -08:00
-Location: San Francisco Federal Building, 90 7th St, San Francisco, CA 94103
 RSVP-link: https://www.facebook.com/events/1798981326802736/
 ---
 
