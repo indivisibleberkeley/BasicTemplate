@@ -7,6 +7,8 @@ tags:
 - immigration
 - daca
 is featured: true
+event-start-date: 2018-03-03 00:00:00 -08:00
+event-end-date: 2018-03-11 23:59:00 -07:00
 ---
 
 You may remember that March 5 is the president's arbitrary deadline to end legal protection for Dreamers. He called on Congress to pass a law to resolve the Dreamers’ status. Through multiple showdowns and Congressional shutdowns, Dreamers’ status has remained in limbo.
