@@ -6,7 +6,7 @@ categories:
 tags:
 - immigration
 - daca
-is featured: true
+is featured: false
 event-start-date: 2018-03-03 00:00:00 -08:00
 event-end-date: 2018-03-11 23:59:00 -07:00
 ---
