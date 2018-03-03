@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - immigration
-is featured: true
+is featured: false
 event-start-date: 2018-03-05 17:30:00 -08:00
 event-end-date: 2018-03-05 20:30:00 -08:00
 RSVP-link: https://www.facebook.com/events/1798981326802736/
