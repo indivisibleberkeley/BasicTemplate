@@ -9,27 +9,23 @@ tags:
 call-script-text: |-
   Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
 
-  I am calling to urge the Senator to oppose Barry Lee Myers to lead NOAA, Andrew Wheeler to be Deputy Administrator for EPA, Michael Dourson to head EPA’s Chemical Safety Programs, and Matthew Leopold for EPA’s Top Legal Advisor. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
+  I am calling to urge the Senator to oppose Barry Lee Myers to lead NOAA and Andrew Wheeler to be Deputy Administrator for EPA. The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first.
 
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2018-03-16 23:59:00 -07:00
+event-end-date: 2018-04-30 23:59:00 -07:00
 ---
 
 ### Background
 
-The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries.  In total, the nominees listed below represent an unparalleled action to place  industries in power throughout government. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts and the public first. 
+The Trump administration continues its attempt to fill federal agencies and departments with leaders whose interests and experiences lie, not in science-driven protections for the public, but in promoting the interests of powerful polluting industries. In total, Trump’s nominees represent an unparalleled action to place industries in power throughout government. Among these nominees, there are none with strong public health, science and environmental protection credentials, who will put facts, science and the public first.  
 
-Hearings may be held at any time, so please call or write now.
+Votes may come up for full Senate votes at any time, so please call or write now.
 
 **Barry Lee Myers to lead NOAA** – As CEO of a private weather service, Accuweather, he has a conflict of interest, and as a non-scientist he has no experience with NOAA’s vast responsibilities related to oceans, fisheries and coastlines.  He has clashed with NOAA about what he called unfair competition.  Critics are concerned that he will use his position for competitive advantage and minimize the National Weather Service’s role.  
  
-**Andrew Wheeler to be Deputy Administrator for EPA** – Wheeler is a lobbyist for the giant Murray Energy coal company and was a senior aide to Senator Inhofe, a strong critic of EPA who denies climate change
-
-**Michael Dourson to head EPA’s Chemical Safety Programs** - As head of a chemical industry consulting firm that has routinely fought limits on toxic chemical emissions, he is unsuited to oversee the regulation of chemicals made by the companies he has represented.  
- 
-**Matthew Leopold for EPA’s Top Legal Advisor** – He has stated that EPA overstepped in issuing the Clean Power Plan, and has pushed for turning more environmental authority over to states. He has advocated for Congress to ratify any new regulation – making a public health decision that should be based on science into a political one.  He represents chemical, mining and other industries.  He is accused of minimizing enforcement as legal counsel for the Florida Dept. of Environmental Protection, and he supported the governor in cutting a third of environmental regulations.
+**Andrew Wheeler to be Deputy Administrator for EPA** – Wheeler is a lobbyist for the giant Murray Energy coal company and was a senior aide to Senator Inhofe, a strong critic of EPA who denies climate change.  
 
 ### References
 [New York Times - Trump Names Former Texas Regulator as White House Environmental Adviser](https://www.nytimes.com/2017/10/13/climate/trump-environmental-advisor.html?_r=1)
