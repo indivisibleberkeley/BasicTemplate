@@ -13,10 +13,13 @@ event-end-date: 2018-03-11 20:30:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
 ---
 
-Join us on March 11 for the next Indivisible Berkeley General Assembly. Agenda details will be published when they are available.
+Join us on March 11 for the next Indivisible Berkeley General Assembly. We will learn about ways to support the **gun safety / gun control** movement, and we will hear from our Economic Justice team about the **Break Up With Your Bank** campaign.
+
+Both topics will have **specific actions and ways to contribute**. So come on down and bring a friend!
 
 Doors open at 7. We start promptly at 7:30.
 
+Our pre-GA training will be an introduction to the Marshall Ganz style of Public Narrative, hosted by IB Steering Team member Jaime.
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
