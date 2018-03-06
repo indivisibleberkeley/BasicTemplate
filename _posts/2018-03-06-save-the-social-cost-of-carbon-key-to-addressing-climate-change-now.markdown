@@ -36,8 +36,8 @@ The current administration is already implementing policies to prevent agencies 
 
 ### References
 [Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/3117?q=%7B%22search%22%3A%5B%22HR+3117%22%5D%7D&r=1)  
-[Center for American Progress](https://www.americanprogress.org/issues/green/reports/2017/04/19/430591/hidden-costs-president-trumps-campaign-erase-social-cost-carbon/) 
-[Carbon Brief](https://www.carbonbrief.org/qa-social-cost-carbon)
-[Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/28/members-of-congress-met-to-discuss-the-costs-of-climate-change-they-ended-up-debating-its-existence/?utm_term=.624a440c610d)
-[Politico](https://www.politico.com/agenda/story/2017/03/the-hidden-impact-of-trumps-energy-executive-order-000384)
+[Center for American Progress](https://www.americanprogress.org/issues/green/reports/2017/04/19/430591/hidden-costs-president-trumps-campaign-erase-social-cost-carbon/)  
+[Carbon Brief](https://www.carbonbrief.org/qa-social-cost-carbon)  
+[Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/28/members-of-congress-met-to-discuss-the-costs-of-climate-change-they-ended-up-debating-its-existence/?utm_term=.624a440c610d)  
+[Politico](https://www.politico.com/agenda/story/2017/03/the-hidden-impact-of-trumps-energy-executive-order-000384)  
 [GASP](https://gaspgroup.org/oppose-hr3117/)
