@@ -27,7 +27,7 @@ Can't get in?  Other questions?  Email [it-help@indivisibleberkeley.org][ithelp]
 <iframe width="800"  height="450" src="https://www.youtube.com/embed/hCOIyv8UbOE" frameborder="0" allowfullscreen></iframe>
 
 
-[slackinvite]: https://join.slack.com/t/indivisible-berkeley/shared_invite/enQtMjkxMjQ0NzU3MjM2LWJkYzFlOWVkZjAwOWZhNGE1N2VlYWQyOGNlNTc4M2QwMjM0OTdkNGI3NTA2MDJiOWVmNDMzZjFlODY3N2MzMTY
+[slackinvite]: https://join.slack.com/t/indivisible-berkeley/shared_invite/enQtMzI2NTA1NDczODQyLWI3MWI4ZGY5OWYxZDA2MzVkOGEyMTA4MTUzMWFjNjUyZWQzZTA3ODhjZjE2YjViMmYwYTY0MjdjMDlkMzY5OTg
 [slackvideo]: https://www.youtube.com/watch?v=q1QkCJSxu0g
 [slackvideoieb]: https://www.youtube.com/watch?v=hCOIyv8UbOE
 [slacktutorial]: https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
