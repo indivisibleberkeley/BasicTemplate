@@ -1,5 +1,6 @@
 ---
-title: Tell Senators to Allow Federal Agencies to Address Climate Change - Now
+title: Tell Representatives to Allow Federal Agencies to Address Climate Change -
+  Now
 date: 2018-03-06 09:43:00 -08:00
 categories:
 - action
@@ -25,7 +26,7 @@ event-end-date: 2018-03-23 23:59:00 -07:00
 ---
 
 ### Action
-Tell Senators to oppose HR 3117, which would prevent federal agencies from addressing climate change.  This bill has already passed the House and has been ordered reported out of committee in the Senate.  
+Tell Representatives to oppose HR 3117, which would prevent federal agencies from addressing climate change.  This bill has been ordered reported out of committee in the House.  
 
 ### Background
 The social cost of carbon (SCC) is used in analyzing the costs and benefits of potential federal rules to address climate change.  It has been called the “most important number you’ve never heard of.”  The SCC takes into consideration the environmental and public health consequences of increased greenhouse gas pollution and the benefits of reducing those emissions.  Benefits include fewer and less extreme heat waves, droughts and hurricanes; reduced species loss; lower sea-level rise; and fewer asthma attacks, emergency room visits, premature deaths and lost work or school days.  
