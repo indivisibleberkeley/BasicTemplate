@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - economic-justice
+main-image: "/uploads/DIVEST-WF-sign.jpg"
 event-start-date: 0001-05-01 00:07:02 -07:52
 ---
 
