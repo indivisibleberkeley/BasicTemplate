@@ -1,5 +1,5 @@
 ---
-title: Economic Justice
+title: Economic Justice Team Meeting
 date: 2018-03-13 08:47:00 -07:00
 categories:
 - event
