@@ -1,5 +1,5 @@
 ---
-title: 'Elections Team Phonebank: 3/15/18'
+title: Elections Team Phonebank - 3/15/18
 date: 2018-03-14 10:40:00 -07:00
 categories:
 - event
