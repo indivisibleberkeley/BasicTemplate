@@ -6,7 +6,7 @@ categories:
 tags:
 - economic-justice
 main-image: "/uploads/DIVEST-WF-sign.jpg"
-event-start-date: 0001-05-01 00:07:02 -07:52
+event-start-date: 0001-05-01 10:07:02 -07:52
 ---
 
 **May 1 is Break Up with Your Bank Day! **# 
