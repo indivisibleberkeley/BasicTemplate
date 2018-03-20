@@ -24,7 +24,7 @@ The S&E Team will have **specific actions and ways to contribute**. So come on d
 
 Doors open at 7. We start promptly at 7:30.
 
-Our pre-GA training will be on how to stay in the loop with IB. This session will be great for new members or folks who want to receive more information from certain issue teams.
+Our [pre-GA training](https://indivisibleberkeley.org/event/pre-ga-training-staying-in-the-loop) will be on how to stay in the loop with IB. This session will be great for new members or folks who want to receive more information from certain issue teams. IB Steering Team member Daron will be leading the training.
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
