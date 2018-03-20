@@ -11,6 +11,7 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-04-08 19:30:00 -07:00
 event-end-date: 2018-04-08 20:30:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
+RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-general-assembly-15
 ---
 
 Join us on April 8 for the next Indivisible Berkeley General Assembly featuring the IB Science & Environment Team. The team has invited speakers from the Union of Concerned Scientists and other organizations to discuss timely issues and ways to take constructive action. Please join us to learn how you can support science and the environment in this challenging time.
