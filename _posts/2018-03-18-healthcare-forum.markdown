@@ -20,3 +20,9 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
 The forum will feature two expert speakers from UC Berkeley;  Robin Flagg, PhD, MPH, and Ken Jacobs,Chair, Center for labor Research and Education.You’ll come away from this informative session with a greater understanding of how the system works, proposed policy changes, and possible directions for action.  Please save the date, Sunday April 28th. This event is free.
 
 For additional details on the forum, please contact Steve Lehman at: [slehman@berkeley.edu](mailto:slehman@berkeley.edu)
+
+Speaker Bios:
+
+Robin Flagg, PhD, MPH, is a lecturer at UC Berkeley’s School of Public Health, and at the Haas  School of Business. Her research interests include: State health care politics, expansion of Medicaid under the Affordable Care Act, and health care and the aging population. Flagg is a recipient of the School of Public Health’s Committee on Teaching Excellence Award.
+ 
+Ken Jacobs is the chair of the Labor Center, where he has been a labor specialist since 2002.  His areas of specialization include low-wage work, labor standards policies, and health care coverage.  Jacobs leads a multi-campus program providing research and technical assistance to consumer stakeholders and policy makers on the effects of the Affordable Care Act, and measures to cover the remaining uninsured in California.  Along with colleagues at UC Berkeley and UCLA, he is consulting for Covered California on issues related to ACA implementation. During 2017-18 he has served as a panelist at  informational hearings of the California Assembly Select Committee on Health Care Delivery Systems and Universal Coverage. His work has been covered in the New York Times, Washington Post, Los Angeles Times, and National Public Radio.
