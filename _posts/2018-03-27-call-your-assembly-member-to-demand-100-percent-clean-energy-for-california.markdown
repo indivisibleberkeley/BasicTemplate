@@ -1,6 +1,11 @@
 ---
 title: Call Your Assembly Member to Demand 100% Clean Energy for California
 date: 2018-03-27 10:33:00 -07:00
+categories:
+- action
+tags:
+- call
+- environment
 call-script-text: |-
   Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].
 
