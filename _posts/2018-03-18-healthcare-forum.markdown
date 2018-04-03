@@ -7,7 +7,7 @@ tags:
 - healthcare
 event-start-date: 2018-04-28 11:00:00 -07:00
 event-end-date: 2018-04-28 15:00:00 -07:00
-Location: Location TBA
+Location: UC Berkeley Residence Halls Unit 1, at 2650 Durant Avenue, Berkeley, CA
 RSVP-link: https://actionnetwork.org/events/ib-healthcare-forum/
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/ib-healthcare-forum?format=js&source=widget'></script><div
