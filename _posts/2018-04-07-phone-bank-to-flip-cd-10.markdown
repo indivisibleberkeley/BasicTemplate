@@ -5,9 +5,7 @@ categories:
 - event
 tags:
 - elections
-main-image: 'https://cdn.pixabay.com/photo/2014/04/03/10/28/telephone-310544_960_720.png
-
-'
+main-image: "/uploads/Phone%20Bank%201.jpg"
 event-start-date: 2018-04-19 14:00:00 -07:00
 event-end-date: 2018-04-19 17:00:00 -07:00
 Location: '2030 Addison St, Suite 640A, Berkeley, CA '
