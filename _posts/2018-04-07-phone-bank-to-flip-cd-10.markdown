@@ -21,8 +21,6 @@ FLASH!  Coming soon -- and possibly this date -- as soon as we get the word from
 
 **What you’ll need:** an ipad, tablet or laptop and your cell phone, with earbuds.
 
-Https:
-
 **PHONE BANK DETAILS**
 Thursday, April 19, 2-5pm
 UAW Local 2865
