@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+main-image: https://pixabay.com/en/telephone-phone-old-ringing-red-158190/
 event-start-date: 2018-04-19 14:00:00 -07:00
 event-end-date: 2018-04-19 17:00:00 -07:00
 Location: '2030 Addison St, Suite 640A, Berkeley, CA '
@@ -16,14 +17,14 @@ If you’ve never phone banked before, this is an easy first shot at it. These p
 
 FLASH!  Coming soon -- and possibly this date -- as soon as we get the word from our friends in Congressional District 10, we’ll be calling constituents there to start generating mid-term excitement!
 
-Thursday, April 19, 2-5 pm at UAW Local 2865 / 2030 Addison Street, Suite 640A (map) Berkeley, CA 94704
+**Thursday, April 19,** 2-5 pm at UAW Local 2865 / 2030 Addison Street, Suite 640A (map) Berkeley, CA 94704
 
-What you’ll need: an ipad, tablet or laptop and your cell phone, with earbuds.
+**What you’ll need:** an ipad, tablet or laptop and your cell phone, with earbuds.
 
 Https:
 
-PHONE BANK DETAILS
+**PHONE BANK DETAILS**
 Thursday, April 19, 2-5pm
 UAW Local 2865
 2030 Addison Street, Suite 640A
-Berkeley, CA, 94704************
+Berkeley, CA, 94704
