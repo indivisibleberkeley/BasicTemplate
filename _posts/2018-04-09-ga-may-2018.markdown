@@ -10,7 +10,7 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-05-13 19:30:00 -07:00
 event-end-date: 2018-05-13 20:30:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
-RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-general-assembly-may/manage
+RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-general-assembly-may
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-may?format=js&source=widget'></script><div
   id='can-event-area-indivisible-berkeley-general-assembly-may' style='width: 100%'><!--
