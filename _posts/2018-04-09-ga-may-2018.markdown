@@ -1,0 +1,36 @@
+---
+title: IB General Assembly - May
+date: 2018-04-09 17:56:00 -07:00
+categories:
+- event
+tags:
+- general assembly
+is featured: true
+main-image: "/uploads/IB-May2017-flags.jpg"
+event-start-date: 2018-05-13 19:30:00 -07:00
+event-end-date: 2018-05-13 20:30:00 -07:00
+Location: Finnish Hall, 1970 Chestnut St., Berkeley
+RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-general-assembly-may/manage
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-may?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-general-assembly-may' style='width: 100%'><!--
+  this div is the target for our HTML insertion --></div>"
+---
+
+Join us on April 8 for the next Indivisible Berkeley General Assembly featuring the IB Elections Team. We're **six months out from the midterms** and it's time to make moves to take back Congress!
+
+The Elections Team will have **specific actions and ways to contribute**. So come on down and bring a friend!
+
+Doors open at 7. We start promptly at 7:30.
+
+Our pre-GA training will take place at 6:30. Topic TBA.
+
+Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
+
+ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+
+### T-Shirt Distribution
+
+T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want.
+
+![tshirts2.jpg](/uploads/tshirts2.jpg)
