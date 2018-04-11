@@ -10,6 +10,10 @@ main-image: "/uploads/proxy.duckduckgo.com.htm"
 event-start-date: 2018-04-11 20:00:00 -07:00
 event-end-date: 2018-04-11 22:00:00 -07:00
 Location: Spats Berkeley, 1974 Shattuck Ave, Berkeley, CA 94704
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/paul-ryan-retirement-party?format=js&source=widget'></script><div
+  id='can-event-area-paul-ryan-retirement-party' style='width: 100%'><!-- this div
+  is the target for our HTML insertion --></div>"
 ---
 
 # Celebrate with us tonight
