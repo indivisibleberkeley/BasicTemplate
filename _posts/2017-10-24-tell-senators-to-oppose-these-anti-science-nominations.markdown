@@ -14,7 +14,7 @@ call-script-text: |-
   Thank you for your time and attention.
 
   [If leaving a voicemail, leave your full street address to ensure your call is tallied]
-event-end-date: 2018-04-30 23:59:00 -07:00
+event-end-date: 2018-03-30 23:59:00 -07:00
 ---
 
 ### Background
