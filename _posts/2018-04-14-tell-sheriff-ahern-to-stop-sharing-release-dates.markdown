@@ -20,7 +20,7 @@ Alameda County Sheriff Gregory Ahern has recently started [publishing release da
 
 While it's legal for the sheriff's office to publish release dates, it's just too big a coincidence that this policy change is happening right after the implementation of SB54, a bill that prevents local law enforcement officials from getting entangled in federal immigration enforcement. This appears to be a workaround for SB54, allowing the sheriff's office to continue sharing information with ICE while technically complying with the law.
 
-Under SB54, Sheriff Ahern can still share information with ICE on people who have been convicted of serious crimes. But that's not enough for Ahern - he wants to make it easy for ICE to detain people who haven't been convicted of any crime at all. 
+Under SB54, Sheriff Ahern can still share information with ICE on people who have been convicted of certain crimes. But that's not enough for Ahern - he wants to make it easy for ICE to detain people who haven't been convicted of any crime at all. 
 
 Let Sheriff Ahern know that you are alarmed at this policy change by calling or writing to his office!
 * Call: (510) 272-6878
