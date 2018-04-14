@@ -12,6 +12,8 @@ call-script-text: |
   Them: This policy doesn't have anything to do with SB54 or immigration. It's just about transparency.
 
   You: Regardless, the impact of this policy is that it will be easier for ICE to use your office's resources to detain and deport immigrants in our community, even if they haven't committed any crimes. Can you share my message with the Sheriff?
+event-start-date: 2018-04-14 00:00:00 -07:00
+event-end-date: 2018-06-30 00:00:00 -07:00
 ---
 
 Alameda County Sheriff Gregory Ahern has recently started [publishing release dates for all inmates in county jails](https://www.eastbayexpress.com/SevenDays/archives/2018/04/03/alameda-county-sheriffs-office-decision-to-make-inmate-release-dates-public-stirs-concern-among-immigrant-rights-advocates). This policy change will make it easier for ICE to detain immigrants who are being released from jail. 
