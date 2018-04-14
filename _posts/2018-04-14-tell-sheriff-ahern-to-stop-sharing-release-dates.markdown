@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - immigration
-- sheriff
+- alameda county sheriff
 call-script-text: |
   You: Hi, I'm calling because I read that the Sheriff's office is making inmate release dates public. I'm concerned that this is going to make it easier for ICE to detain people. Please let the Sheriff know that he should reverse this policy.
 
