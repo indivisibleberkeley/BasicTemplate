@@ -20,7 +20,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
 
 The forum will feature two expert speakers from UC Berkeley;  Robin Flagg, PhD, MPH, and Ken Jacobs,Chair, Center for labor Research and Education.You’ll come away from this informative session with a greater understanding of how the system works, proposed policy changes, and possible directions for action.  Please save the date, Sunday April 28th. This event is free.
 
-For additional details on the forum, please contact Steve Lehman at: [slehman@berkeley.edu](mailto:slehman@berkeley.edu)
+For additional details on the forum, please contact Steve Lehman at: [s.l.lehman@gmail.com](mailto:s.l.lehman@gmail.com)
 
 Speaker Bios:
 
