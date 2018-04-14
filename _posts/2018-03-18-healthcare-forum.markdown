@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - healthcare
+is featured: true
 event-start-date: 2018-04-28 11:00:00 -07:00
 event-end-date: 2018-04-28 15:00:00 -07:00
 Location: All Purpose Room in UC Berkeley Residence Halls Unit 1, at 2650 Durant Avenue,
