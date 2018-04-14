@@ -18,10 +18,10 @@ event-end-date: 2018-04-30 00:00:00 -07:00
 
 Alameda County Sheriff Gregory Ahern has recently started [publishing release dates for all inmates in county jails](https://www.eastbayexpress.com/SevenDays/archives/2018/04/03/alameda-county-sheriffs-office-decision-to-make-inmate-release-dates-public-stirs-concern-among-immigrant-rights-advocates). This policy change will make it easier for ICE to detain immigrants who are being released from jail. 
 
-While it's legal for the sheriff's office to publish release dates, it's just too big a coincidence that this policy change is happening right after the implementation of SB54, a bill that prevents local law enforcement officials from getting entangled in federal immigration enforcement. This appears to be a workaround for SB54, allow the sheriff's office to continue sharing information with ICE while technically complying with the law.
+While it's legal for the sheriff's office to publish release dates, it's just too big a coincidence that this policy change is happening right after the implementation of SB54, a bill that prevents local law enforcement officials from getting entangled in federal immigration enforcement. This appears to be a workaround for SB54, allowing the sheriff's office to continue sharing information with ICE while technically complying with the law.
 
 Under SB54, Sheriff Ahern can still share information with ICE on people who have been convicted of serious crimes. But that's not enough for Ahern - he wants to make it easy for ICE to detain people who haven't been convicted of any crime at all. 
 
-Let Sheriff Ahern know that you are alarmed at this policy change by calling or writing: 
-Call: (510) 272-6878
-Write: 1401 Lakeside Drive, 12th Floor, Oakland, CA 94612-4305
+Let Sheriff Ahern know that you are alarmed at this policy change by calling or writing to his office!
+* Call: (510) 272-6878
+* Write: 1401 Lakeside Drive, 12th Floor, Oakland, CA 94612-4305
