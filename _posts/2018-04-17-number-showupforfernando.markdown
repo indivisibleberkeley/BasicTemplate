@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - immigration
-main-image: "/uploads/FernandoFamily.png"
+main-image: "/uploads/fernando.jpg"
 event-start-date: 2018-05-01 14:30:00 -07:00
 event-end-date: 2018-05-01 15:30:00 -07:00
 Location: ICE Headquarters, 630 Sansome St., San Francisco
