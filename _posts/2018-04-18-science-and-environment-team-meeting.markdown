@@ -12,4 +12,4 @@ event-end-date: 2018-05-06 20:30:00 -07:00
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
 
 ATTENTION: NEW TEMPORARY MEETING LOCATION  
-Please e-mail [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)for details about the meeting location.
+[Use this link](mailto:environment+owner@indivisibleberkeley.org?subject=New%20Meeting%20Location) to send an email to team leaders for more information about the new meeting location.
