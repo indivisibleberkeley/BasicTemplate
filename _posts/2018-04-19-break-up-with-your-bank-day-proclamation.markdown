@@ -6,6 +6,7 @@ categories:
 tags:
 - economic-justice
 event-start-date: 2018-04-24 18:00:00 -07:00
+event-end-date: 2018-04-24 19:00:00 -07:00
 Location: Berkeley City Hall
 RSVP-link: https://goo.gl/9D2FME
 ---
