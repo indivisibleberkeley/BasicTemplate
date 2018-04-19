@@ -11,4 +11,4 @@ Location: Berkeley City Hall
 RSVP-link: https://goo.gl/9D2FME
 ---
 
-Berkeley City Council will be proclaiming Tuesday, May 1st, 2018 as "Break Up with Your Bank Day". Join us to celebrate at the city council meeting at 6pm (early on the agenda!).
+Berkeley City Council will be proclaiming Tuesday, May 1st, 2018 as "**> Break Up with Your Bank Day[](https://goo.gl/9D2FME)**". Join us to celebrate at the city council meeting at 6pm (early on the agenda!).
