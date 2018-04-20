@@ -12,4 +12,4 @@ event-end-date: 2018-05-20 20:30:00 -07:00
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
 
 ATTENTION: NEW TEMPORARY MEETING LOCATION  
-[Use this link](mailto:bishoplm@gmail.com?subject=New%20Science%20&%20Environment%20Meeting%20Location) to send an email to team leaders for more information about the new meeting location.
+[Use this link](mailto:bishoplm@gmail.com?subject=New%20Science%20and%20Environment%20Meeting%20Location) to send an email to team leaders for more information about the new meeting location.
