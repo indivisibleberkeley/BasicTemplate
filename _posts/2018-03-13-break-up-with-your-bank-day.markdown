@@ -6,7 +6,7 @@ categories:
 tags:
 - economic-justice
 is featured: true
-main-image: "/uploads/DIVE$T.jpg"
+main-image: "/uploads/BWYB-logo.jpg"
 event-start-date: 2018-05-01 16:00:00 -07:00
 event-end-date: 2018-05-01 18:30:00 -07:00
 Location: |-
