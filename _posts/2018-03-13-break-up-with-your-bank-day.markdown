@@ -25,5 +25,5 @@ The Economic Justice Team, working with Fossil Free California and others, is wo
 Sign up to commit: https://goo.gl/9D2FME
 
 TWO LOCATIONS: 
-South Berkeley Farmer's Market (Adelaide & Stanford) 4-6:30pm
-Downtown Berkeley: SE corner of Shattuck and Center Stree: 4-6:30pm
+South Berkeley Farmer's Market (Adeline & Stanford) 4-6:30pm
+Downtown Berkeley: SE corner of Shattuck and Center Street: 4-6:30pm
