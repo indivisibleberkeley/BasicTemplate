@@ -29,7 +29,7 @@ _You are welcome to attend some or all of the program!_
  
 **12:30pm–1:00pm** Light Lunch in All-purpose room
 
-**1:00 pm–2:00* Ken Jacobs will carry us from the spectacular success of the ACA in
+**1:00 pm–2:00** Ken Jacobs will carry us from the spectacular success of the ACA in
 California, through challenges to the ACA by Congress, to current directions for action
 as the California legislature moves beyond the debate over repealing the ACA, to the work that still needs to be done.
 
