@@ -17,11 +17,23 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
   target for our HTML insertion --></div>"
 ---
 
-2018 will be the year California gives serious attention to legislation, that provides a real path to Universal Healthcare in the State.  If you’ve ever wondered about the intricacies of  our current healthcare system, and the historic progress in California under the ACA; or policy options that can successfully move California toward  Universal Healthcare, then you’ll want to attend the IB Healthcare Team’s Forum coming up on Saturday, April 28th from 11 to 3, in Berkeley (lunch provided). Save the Date!
+2018 will be the year California gives serious attention to legislation, that provides a real path to Universal Healthcare in the State.  If you’ve ever wondered about the intricacies of  our current healthcare system, and the historic progress in California under the ACA; or policy options that can successfully move California toward  Universal Healthcare, then you’ll want to attend the IB Healthcare Team’s Forum coming up on Saturday, April 28th from 11 to 3, in Berkeley (lunch provided).
 
-The forum will feature two expert speakers from UC Berkeley;  Robin Flagg, PhD, MPH, and Ken Jacobs,Chair, Center for labor Research and Education.You’ll come away from this informative session with a greater understanding of how the system works, proposed policy changes, and possible directions for action.  Please save the date, Sunday April 28th. This event is free.
+The forum will feature two expert speakers from UC Berkeley;  Robin Flagg, PhD, MPH, and Ken Jacobs, Chair, Center for labor Research and Education.You’ll come away from this informative session with a greater understanding of how the system works, proposed policy changes, and possible directions for action.  Please save the date, Sunday April 28th. This event is free.
 
-For additional details on the forum, please contact Steve Lehman at: [s.l.lehman@gmail.com](mailto:s.l.lehman@gmail.com)
+### Agenda
+
+_You are welcome to attend some or all of the program!_
+
+**11:00am-12:30pm** Robin Flagg will describe the current healthcare system in California and prepare participants to better evaluate healthcare alternatives on the horizon.
+ 
+**12:30pm–1:00pm** Light Lunch in All-purpose room
+
+**1:00 pm–2:00* Ken Jacobs will carry us from the spectacular success of the ACA in
+California, through challenges to the ACA by Congress, to current directions for action
+as the California legislature moves beyond the debate over repealing the ACA, to the work that still needs to be done.
+
+**2:00pm–2:30pm** Question/Answer Session Moderated by Steve Lehman
 
 Speaker Bios:
 
