@@ -22,7 +22,7 @@ embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSejTH4GxAVkkgv
 
 The Economic Justice Team, working with Fossil Free California and others, is working to help Berkeley residents to follow the lead of the City of Berkeley and leave Wells Fargo and the other mega banks that financially support fossil fuels, dangerous pipelines, private prisons, the NRA and gun manufacturers ... heck there are so many reasons to break up with your bank. We'll have advice on how to do it with the least disruption, and how to find another bank or a credit union that best fits your needs. Stay tuned for more updates!
 
-**[Click HERE to sign up and and get info on how to do it!]**(https://goo.gl/9D2FME) 
+[Click HERE to sign up and and get info on how to do it!](https://goo.gl/9D2FME) 
 
 TWO LOCATIONS: 
 South Berkeley Farmer's Market (Adeline & Stanford) 4-6:30pm
