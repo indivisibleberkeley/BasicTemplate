@@ -25,5 +25,5 @@ Excellent work is being done across all of these issues in Berkeley and Alameda 
 
 A panel of speakers (TBA) will give short updates on campaigns underway in Berkeley to address these issues, answer your questions.  Afterwards there will be time for participants to interface directly with the organizations and organizers working on these important issues.
 
-This  meeting is hosted by Indivisible Berkeley’s Racism and Criminal Justice Reform Team.  Contact rcjr+owner@indivisibleberkeley.org for more information.
+This  meeting is hosted by Indivisible Berkeley’s Racism and Criminal Justice Reform Team. [ Contact the team leaders for more information, or to RSVP (optional).](mailto:rcjr+owner@indivisibleberkeley.org)
 
