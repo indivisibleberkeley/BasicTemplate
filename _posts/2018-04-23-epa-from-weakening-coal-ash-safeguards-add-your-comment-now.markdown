@@ -40,6 +40,7 @@ call-script-text: "*Note: It’s best to add to or modify the script below to pe
   established under EPA’s 2015 rule.  EPA should not weaken those safeguards but maintain
   the rule in its current form.  The 2015 rule protects our citizens (especially vulnerable
   children) and our environment, and was supported by over half a million public comments."
+event-end-date: 2018-04-30 23:59:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OLEM-2017-0286-0001
 ---
 
