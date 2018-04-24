@@ -1,5 +1,5 @@
 ---
-title: Economic Justice Team Meeting
+title: Economic Justice Team Meeting - 5/13/2018
 date: 2018-04-23 21:27:00 -07:00
 categories:
 - event
