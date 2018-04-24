@@ -20,3 +20,4 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 We have hosts in the following zip codes:
 
 - 94708 (brunch)
+- 94709 (dinner)
