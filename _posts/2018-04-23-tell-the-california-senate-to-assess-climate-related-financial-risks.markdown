@@ -1,5 +1,5 @@
 ---
-title: Tell the California Senate to Assess Climate-Related Financial Risks
+title: Demand that California State Pensions Assess Climate-Related Financial Risks
 date: 2018-04-23 12:15:00 -07:00
 categories:
 - action
