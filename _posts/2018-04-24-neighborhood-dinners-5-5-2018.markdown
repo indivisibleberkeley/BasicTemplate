@@ -12,7 +12,7 @@ event-start-date: 2018-05-05 00:00:00 -07:00
 event-end-date: 2018-05-05 23:59:00 -07:00
 ---
 
-Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and for IB members on Saturday, May 5. We have hosts in all over Berkeley, so there's sure to be a dinner near you!
+Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and for IB members on Saturday, May 5. We have hosts in all over Berkeley (and a few in Albany and El Cerrito, too), so there's sure to be a dinner near you!
 
 ### RSVPs open on Thursday, April 26
 
@@ -26,3 +26,4 @@ We have hosts in the following zip codes:
 - 97405 (dinner)
 - 94706 (dinner)
 - 94708 (dinner)
+- 94530 (dinner)
