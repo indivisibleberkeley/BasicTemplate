@@ -16,7 +16,7 @@ Join 5-10 of your neighbors at one of our neighborhood dinners, hosted by and fo
 
 ### RSVPs are now open!
 
-At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards. This round, we will write in support of Liz Hanbidge, running for State House in Pennsylvania District 61!
+At the meal, you'll have a chance to plan out how you'd like to contribute to the progressive wave for the 2018 midterm elections on November 6, 2018. Plus, no IB party would be complete without some postcards. This round, we will write in support of Liz Hanbidge, running in the May 15 primary for State House in Pennsylvania District 61!
 
 ### We're still looking for hosts! Interested? [Email us!](mailto:info@indivisibleberkeley.org)
 
