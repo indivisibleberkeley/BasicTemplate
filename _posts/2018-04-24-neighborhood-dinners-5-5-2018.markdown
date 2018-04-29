@@ -22,11 +22,11 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 
 Click on a name to load the RSVP form:
 
-### [Joan, 94702](https://docs.google.com/forms/d/e/1FAIpQLSfNAh6vr1wqHXgYrz4PVt0Lf-6XRljjaT-trJFJFB7NiZ_HRw/viewform) (brunch)
+### [~Joan, 94702~](https://docs.google.com/forms/d/e/1FAIpQLSfNAh6vr1wqHXgYrz4PVt0Lf-6XRljjaT-trJFJFB7NiZ_HRw/viewform) (brunch, full!)
 
-### [Jennifer, 97405](https://docs.google.com/forms/d/e/1FAIpQLScJwliOKyoc7BwHBdZEmWnAKwHlbJSiy031Id5SiqmXcFvokQ/viewform) (dinner)
+### [~Jennifer, 97405~](https://docs.google.com/forms/d/e/1FAIpQLScJwliOKyoc7BwHBdZEmWnAKwHlbJSiy031Id5SiqmXcFvokQ/viewform) (dinner, full!)
 
-### [Pascale, 94706, Albany](https://docs.google.com/forms/d/e/1FAIpQLSdtIuLy8FDVPnVaGGGgzPVQazmPOUa7FEa5_ftVP6_mP5PCIQ/viewform) (dinner)
+### [~Pascale, 94706, Albany~](https://docs.google.com/forms/d/e/1FAIpQLSdtIuLy8FDVPnVaGGGgzPVQazmPOUa7FEa5_ftVP6_mP5PCIQ/viewform) (dinner, full!)
 
 ### [Leslie, 94708](https://docs.google.com/forms/d/e/1FAIpQLSdcaYUOdL0x1YWw8WKUoVlZmBDJTkwL9HQ1lV4Y54r5FLL49w/viewform) (dinner)
 
