@@ -17,13 +17,12 @@ Description: In Berkeley, as in all parts of the United States, issues of homele
 
 Excellent work is being done across all of these issues in Berkeley and Alameda County.  Let’s break down silos and learn from one another. Join with your neighbors for an information packed hour and a half where you can get up to speed, and connected to ongoing efforts and campaigns addressing:
 
-* Homelessness
-* Housing
-* Mental Health Services
-* Police Reform
-* Disaster Preparedness
+* Homelessness - Speaker: Boona Cheema
+* Urban Shield - Speaker: Ellen Brotsky
+* "Audit the Sheriff" campaign - Speaker: John Lindsay-Poland
+* Effort to create a strong Police Commission - Speaker: Moni Law
 
-A panel of speakers (TBA) will give short updates on campaigns underway in Berkeley to address these issues, answer your questions.  Afterwards there will be time for participants to interface directly with the organizations and organizers working on these important issues.
+The speakers will give short updates on campaigns underway in Berkeley to address these issues, answer your questions.  Afterwards there will be time for participants to interface directly with the organizations and organizers working on these important issues.
 
 This  meeting is hosted by Indivisible Berkeley’s Racism and Criminal Justice Reform Team. [ Contact the team leaders for more information, or to RSVP (optional).](mailto:rcjr+owner@indivisibleberkeley.org)
 
