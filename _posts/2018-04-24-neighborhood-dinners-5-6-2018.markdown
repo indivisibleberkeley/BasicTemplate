@@ -20,6 +20,6 @@ At the meal, you'll have a chance to plan out how you'd like to contribute to th
 
 Click on a name to load the RSVP form:
 
-### [Anna, 94708](https://docs.google.com/forms/d/e/1FAIpQLSf0uk5rvFwhkbkAWB68dF9zXqyNSXeEouPDYDyNkWTjQmo3wA/viewform) (brunch)
+### [~~Anna, 94708~~](https://docs.google.com/forms/d/e/1FAIpQLSf0uk5rvFwhkbkAWB68dF9zXqyNSXeEouPDYDyNkWTjQmo3wA/viewform) (brunch, full!)
 
 ### [~~Armin, 94709~~](https://docs.google.com/forms/d/e/1FAIpQLSf9qFn52JBx8b__y7gc28VnixJgBiK8Y-fR9rHxYeQDpLtK3Q/viewform) (dinner, full!)
