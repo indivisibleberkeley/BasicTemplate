@@ -21,7 +21,7 @@ FLASH!  Coming soon -- and possibly this date -- as soon as we get the word from
 
 **What you’ll need:** an ipad, tablet or laptop and your cell phone, with earbuds.
 
-**PHONE BANK DETAILS**
+**PHONE BANK DETAILS**  
 Saturday, May 5, 1-4pm  
 UAW Local 2865  
 2030 Addison Street, Suite 640A  
