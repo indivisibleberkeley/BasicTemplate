@@ -23,6 +23,9 @@ FLASH!  Coming soon -- and possibly this date -- as soon as we get the word from
 
 **PHONE BANK DETAILS**
 Saturday, May 5, 1-4pm
+
 UAW Local 2865
+
 2030 Addison Street, Suite 640A
+
 Berkeley, CA, 94704
