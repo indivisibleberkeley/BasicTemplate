@@ -12,7 +12,7 @@ event-end-date: 2018-06-05 21:00:00 -07:00
 
 ### Alameda County deserves better!
 
-**Is this YOUR sheriff? **
+**Is this YOUR sheriff?**
 
 Sheriff Ahern:
 * Subverts local immigrant protection laws
