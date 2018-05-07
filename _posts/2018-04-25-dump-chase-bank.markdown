@@ -6,8 +6,8 @@ categories:
 tags:
 - economic-justice
 main-image: "/uploads/chase_bank_protest.jpg"
-event-start-date: 2018-05-09 16:30:00 -07:00
-event-end-date: 2018-05-09 18:00:00 -07:00
+event-start-date: 2018-05-07 16:30:00 -07:00
+event-end-date: 2018-05-07 18:00:00 -07:00
 Location: Oaks Theater Solano Avenue• 1875 Solano Ave., Berkeley, CA 94707
 ---
 
