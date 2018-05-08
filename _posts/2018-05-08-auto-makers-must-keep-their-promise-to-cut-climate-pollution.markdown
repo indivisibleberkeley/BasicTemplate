@@ -30,10 +30,10 @@ call-script-text: "### Suggested Script to the Alliance\n(It’s best to persona
 event-end-date: 2018-05-18 23:59:00 -07:00
 ---
 
-### Action
+### Action  
 Tell auto makers to withdraw pressure on EPA to weaken climate pollution standards for vehicles and to publicly state their support for the standards they previously agreed to. Messages may be sent to the Alliance for Automobile Manufacturers, which represents the makers of 70% of cars sold in the U.S. and has been lobbying to weaken the standards. 
 
-#### (1) Write or call the Alliance of Automobile Manufacturers: 
+#### (1) Write or call the Alliance of Automobile Manufacturers  
 1415 L Street, Suite 1190  
 Sacramento, CA 95814  
 Tel: (916) 447-7315  
@@ -47,14 +47,14 @@ Tel: (202) 326-5500
 #### (2) Share your message with your members of congress
 
 
-### Background: 
+### Background  
 Passenger vehicles emit 60 percent of transportation-related carbon pollution, and the transportation sector contributes a third of U.S. carbon pollution to the atmosphere. EPA’s greenhouse gas emission standards are the single biggest step the U.S. has taken to address climate pollution.  However, the EPA under Pruitt has announced that it will roll back automobile greenhouse gas emission limits and fuel efficiency standards that automakers agreed to in 2012.  Automakers are breaking their 2012 promise by pushing the Trump administration to weaken the standards adopted in 2012 for the years 2022-2025 (gradually stronger standards are implemented over time).  Health and technology-based standards have already reduced 230 million tons of greenhouse gas emissions and saved consumers more than $49B in gas costs while creating jobs - more than 288,000 are employed in the U.S. making parts for cleaner vehicles -  and reducing oil consumption, while automakers have enjoyed record-breaking sales. The 2022-2025 standards would reduce 6B tons of carbon pollution and $1.7T in gas costs.  
 
 In a reversal of EPA’s mission and with pressure from the industry, Pruitt is trying to weaken vehicle emission standards. Weaker standards will harm the public’s health, worsen climate change, make vehicles more expensive to drive, reduce jobs and weaken global competitiveness.  Pruitt ignores comprehensive analysis by EPA, the National Highway Traffic Safety Administration, and the California Air Resources Board showing that the standards are achievable at reasonable cost and that benefits outweigh overall costs.  
 
 Note that some manufacturers have come out in support of EPA’s existing standards but are looking for more flexibility in applying them.  Other companies plan to make their entire fleets electric in the near future.  
 
-### References:  
+### References  
 EPA's [2016 Technical Assessment Report](https://www.nrdc.org/experts/luke-tonachel/2025-clean-car-standards-are-achievable-study-shows) and  [subsequent analysis](https://www.nrdc.org/experts/luke-tonachel/epa-keeps-clean-car-standards-strong-2025)  
 [National Resources Defense Council](https://www.nrdc.org/experts/luke-tonachel/pruitt-moves-weaken-clean-car-standards)  
 [New York Times](https://www.nytimes.com/2018/03/30/opinion/emissions-standards-auto-industry.html)  
