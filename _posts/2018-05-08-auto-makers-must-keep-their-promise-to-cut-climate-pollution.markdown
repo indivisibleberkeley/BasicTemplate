@@ -5,33 +5,35 @@ categories:
 - action
 tags:
 - environment
-call-script-text: "### Suggested Script to the Alliance\n(It’s best to personalize
-  the script if possible.)  \n\nI am disappointed that the Alliance has worked to
-  undo the promise auto makers made in 2012 to achieve strong standards to reduce
-  climate pollution.  Since passenger vehicles account for 60% of transportation sector
-  carbon emissions, and transportation contributes a third of U.S. climate pollution,
-  U.S. automakers have an opportunity to be leaders in addressing climate change.
-  \ In California where I live, it is even more important to reduce emissions as transportation
-  accounts for more than 36% of greenhouse gases.  \n\nStrong, stable and achievable
-  emissions standards benefit the auto industry at the same time they benefit the
-  public and the planet.  EPA’s standards are reducing climate pollution, saving families
-  money, and growing the jobs of the future.  Maintaining the standards agreed to
-  in 2012 provides stability to auto makers, makes them competitive in the global
-  market, and helps keep jobs in the U.S.  \n\nClimate change is real and is already
-  affecting our lives. I want my next car to be made by a company that publicly supports
-  the strongest fuel-efficiency and emission standards - a company that cares about
-  the public's health and safety and is a leader in reducing its contribution to climate
-  change.  \n\nPlease put the American people first, keep your promise, and reconsider
-  your efforts to change the standards.  \n\n### Suggested Script for your Members
-  of Congress\nI have sent the attached comments to the Alliance for Automobile Manufacturers.
-  \ I ask for your support to publicly denounce the planned rollback of climate-related
-  vehicle emission standards and to use your authority to hold EPA accountable to
-  the best science and the health and safety of the American people.  Thank you."
+call-script-text: "### Action  \nTell auto makers to withdraw pressure on EPA to weaken
+  climate pollution standards for vehicles and to publicly state their support for
+  the standards they previously agreed to. Messages may be sent to the Alliance for
+  Automobile Manufacturers, which represents the makers of 70% of cars sold in the
+  U.S. and has been lobbying to weaken the standards.  \n\n### Suggested Script to
+  the Alliance\n(It’s best to personalize the script if possible.)  \n\nI am disappointed
+  that the Alliance has worked to undo the promise auto makers made in 2012 to achieve
+  strong standards to reduce climate pollution.  Since passenger vehicles account
+  for 60% of transportation sector carbon emissions, and transportation contributes
+  a third of U.S. climate pollution, U.S. automakers have an opportunity to be leaders
+  in addressing climate change.  In California where I live, it is even more important
+  to reduce emissions as transportation accounts for more than 36% of greenhouse gases.
+  \ \n\nStrong, stable and achievable emissions standards benefit the auto industry
+  at the same time they benefit the public and the planet.  EPA’s standards are reducing
+  climate pollution, saving families money, and growing the jobs of the future.  Maintaining
+  the standards agreed to in 2012 provides stability to auto makers, makes them competitive
+  in the global market, and helps keep jobs in the U.S.  \n\nClimate change is real
+  and is already affecting our lives. I want my next car to be made by a company that
+  publicly supports the strongest fuel-efficiency and emission standards - a company
+  that cares about the public's health and safety and is a leader in reducing its
+  contribution to climate change.  \n\nPlease put the American people first, keep
+  your promise, and reconsider your efforts to change the standards.  \n\n### Suggested
+  Script for your Members of Congress\nI have sent the attached comments to the Alliance
+  for Automobile Manufacturers.  I ask for your support to publicly denounce the planned
+  rollback of climate-related vehicle emission standards and to use your authority
+  to hold EPA accountable to the best science and the health and safety of the American
+  people.  Thank you."
 event-end-date: 2018-05-18 23:59:00 -07:00
 ---
-
-### Action  
-Tell auto makers to withdraw pressure on EPA to weaken climate pollution standards for vehicles and to publicly state their support for the standards they previously agreed to. Messages may be sent to the Alliance for Automobile Manufacturers, which represents the makers of 70% of cars sold in the U.S. and has been lobbying to weaken the standards. 
 
 #### (1) Write or call the Alliance of Automobile Manufacturers  
 1415 L Street, Suite 1190  
