@@ -16,7 +16,7 @@ call-script-text: "###Contact Information\nContact the Committee Analyst  \nRobe
   risk of all the companies in its portfolios this bill will also focus public attention
   on the economic damage fossil fuels are creating and the importance of transitioning
   away from fossil fuels as fast as is feasible. "
-event-end-date: 2018-04-30 23:59:00 -07:00
+event-end-date: 2018-05-24 23:59:00 -07:00
 ---
 
 ### Action
