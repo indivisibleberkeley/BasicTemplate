@@ -44,8 +44,8 @@ OR
 Washington, DC 20001  
 Tel: (202) 326-5500  
 
-#### (2) Share your message with your members of congress
-
+#### (2) Share your message with your members of congress  
+  
 
 ### Background  
 Passenger vehicles emit 60 percent of transportation-related carbon pollution, and the transportation sector contributes a third of U.S. carbon pollution to the atmosphere. EPA’s greenhouse gas emission standards are the single biggest step the U.S. has taken to address climate pollution.  However, the EPA under Pruitt has announced that it will roll back automobile greenhouse gas emission limits and fuel efficiency standards that automakers agreed to in 2012.  Automakers are breaking their 2012 promise by pushing the Trump administration to weaken the standards adopted in 2012 for the years 2022-2025 (gradually stronger standards are implemented over time).  Health and technology-based standards have already reduced 230 million tons of greenhouse gas emissions and saved consumers more than $49B in gas costs while creating jobs - more than 288,000 are employed in the U.S. making parts for cleaner vehicles -  and reducing oil consumption, while automakers have enjoyed record-breaking sales. The 2022-2025 standards would reduce 6B tons of carbon pollution and $1.7T in gas costs.  
