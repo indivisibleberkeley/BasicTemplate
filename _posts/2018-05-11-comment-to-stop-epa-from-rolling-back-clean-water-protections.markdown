@@ -9,7 +9,7 @@ tags:
 call-script-text: "### Comment script  \n*Note: It is best to personalize the script
   by, for example, saying: 1) Why the issue is important to you; 2) How the issue
   might affect you or your family; 3) Using additional information included in [SaveEPA’s
-  website](http://saveepaalums.info/NPDES+for+Groundwater).  \n\nI am very concerned
+  website](http://saveepaalums.info/NPDES+for+Groundwater).*  \n\nI am very concerned
   that the EPA is considering changing its approach to protecting surface water bodies
   under the Clean Water Act (CWA). EPA’s notice suggests that it may no longer regulate
   wastewater discharges that go directly into groundwater, even if that groundwater
