@@ -38,7 +38,7 @@ call-script-text: "### Comment script  \n*Note: It is best to personalize the sc
   of CWA protections and to use your authority to hold EPA accountable to the best
   science and the health and safety of the American people. Thank you."
 event-end-date: 2018-05-21 21:00:00 -07:00
-RSVP-link: https://www.regulations.gov/docket?D=EPA-HQ-OW-2018-0063
+RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OW-2018-0063-0001
 ---
 
 ### Actions
