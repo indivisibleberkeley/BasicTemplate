@@ -47,7 +47,14 @@ Washington, DC 20001
 Tel: (202) 326-5500  
 
 ### (2) Share your message with your members of congress  
-<br>  
+  * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
+  * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/content/contact-senator).  
+**Find your Representative:**
+  * Rep. Mark DeSaulnier - 11th district:  (510) 620-1000, (202) 225-2095, or [email](https://desaulnier.house.gov/contact/email).  
+  * Rep. Nancy Pelosi - 12th district:  (415) 556-4862, (202) 225-4965, or [email](https://pelosi.house.gov/contact-me/email-me).  
+  * Rep. Barbara Lee - 13th district:  (510) 763-0370, (202) 225-2661, or [email](https://lee.house.gov/contact/email-me).  
+  * Rep. Jackie Speier - 14th district: (650) 342-0300, (202) 225-3531, or [email](https://speier.house.gov/contact/email).  
+  * Rep. Eric Swalwell - 15th district: 510-370-3322, 202-225-5065, or [email](https://swalwell.house.gov/contact).  
   
 ### Background  
 Passenger vehicles emit 60 percent of transportation-related carbon pollution, and the transportation sector contributes a third of U.S. carbon pollution to the atmosphere. EPA’s greenhouse gas emission standards are the single biggest step the U.S. has taken to address climate pollution.  However, the EPA under Pruitt has announced that it will roll back automobile greenhouse gas emission limits and fuel efficiency standards that automakers agreed to in 2012.  Automakers are breaking their 2012 promise by pushing the Trump administration to weaken the standards adopted in 2012 for the years 2022-2025 (gradually stronger standards are implemented over time).  Health and technology-based standards have already reduced 230 million tons of greenhouse gas emissions and saved consumers more than $49B in gas costs while creating jobs - more than 288,000 are employed in the U.S. making parts for cleaner vehicles -  and reducing oil consumption, while automakers have enjoyed record-breaking sales. The 2022-2025 standards would reduce 6B tons of carbon pollution and $1.7T in gas costs.  
