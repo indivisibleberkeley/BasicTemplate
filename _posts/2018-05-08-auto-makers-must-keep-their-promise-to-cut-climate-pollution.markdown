@@ -35,7 +35,7 @@ call-script-text: "### Action  \nTell auto makers to withdraw pressure on EPA to
 event-end-date: 2018-05-18 23:59:00 -07:00
 ---
 
-#### (1) Write or call the Alliance of Automobile Manufacturers  
+### (1) Write or call the Alliance of Automobile Manufacturers  
 1415 L Street, Suite 1190  
 Sacramento, CA 95814  
 Tel: (916) 447-7315  
@@ -46,7 +46,7 @@ OR
 Washington, DC 20001  
 Tel: (202) 326-5500  
 
-#### (2) Share your message with your members of congress  
+### (2) Share your message with your members of congress  
 <br>  
   
 ### Background  
