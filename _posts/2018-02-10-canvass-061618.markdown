@@ -10,7 +10,7 @@ main-image: "/uploads/yardsigns255.png"
 event-start-date: 2018-06-16 08:00:00 -07:00
 event-end-date: 2018-06-16 17:00:00 -07:00
 Location: To be determined in CA Congressional District 10
-RSVP-link: mailto:billymcdonaldnp@gmail.com
+RSVP-link: mailto:canvassing+owner@indivisibleberkeley.org
 ---
 
 We will be canvassing on Saturday, June 16th in CD10. 
