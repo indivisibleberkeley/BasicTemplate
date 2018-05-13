@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones-66c773.jpg"
 event-start-date: 2018-05-17 14:00:00 -07:00
 event-end-date: 2018-05-17 17:00:00 -07:00
-Location: 2030 Addison Street, Berkeley CA 94704
+Location: 2030 Addison Street, Suite 640A, Berkeley CA 94704
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSc3SamfW9NXV8lfIlo9JKAIpRaasqX-9bPUExm9Al-XzwZ96g/viewform
 ---
 
