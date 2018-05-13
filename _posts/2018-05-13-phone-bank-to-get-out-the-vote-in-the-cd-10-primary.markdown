@@ -1,6 +1,8 @@
 ---
 title: PHONE BANK TO  GET OUT THE VOTE in CD-10!
 date: 2018-05-13 08:37:00 -07:00
+categories:
+- event
 tags:
 - elections
 - phonebank
