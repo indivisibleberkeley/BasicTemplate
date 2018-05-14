@@ -37,6 +37,7 @@ call-script-text: "### Comment Script  \n*Note: It is best to personalize or mod
   the Agency can use to develop regulatory safeguards, Docket # EPA-HQ-OA-2018-0259.
   \ I ask for your support to publicly denounce plans to weaken science at EPA and
   to use your authority to hold EPA accountable to its mission. Thank you."
+event-end-date: 2018-05-30 20:59:00 -07:00
 ---
 
 ### Action
@@ -45,6 +46,15 @@ call-script-text: "### Comment Script  \n*Note: It is best to personalize or mod
 [Submit your comments at Regulations.gov using this link by May 30](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0259-0001). EPA is required to publish responses to public comments. By raising the issues in your comments you are requiring the Agency to address these issues and potentially providing support for a future suit against EPA.
 
 #### (2) Share your comments with your members of congress
+  * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
+  * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/content/contact-senator).  
+
+Find your Representative:
+  * Rep. Mark DeSaulnier - 11th district:  (510) 620-1000, (202) 225-2095, or [email](https://desaulnier.house.gov/contact/email).  
+  * Rep. Nancy Pelosi - 12th district:  (415) 556-4862, (202) 225-4965, or [email](https://pelosi.house.gov/contact-me/email-me).  
+  * Rep. Barbara Lee - 13th district:  (510) 763-0370, (202) 225-2661, or [email](https://lee.house.gov/contact/email-me).  
+  * Rep. Jackie Speier - 14th district: (650) 342-0300, (202) 225-3531, or [email](https://speier.house.gov/contact/email).  
+  * Rep. Eric Swalwell - 15th district: 510-370-3322, 202-225-5065, or [email](https://swalwell.house.gov/contact).  
 
 ### Background  
 Science is the foundation of everything EPA does. This proposal is the latest of several efforts by the Trump administration and congressional republicans to tie EPA’s hands and weaken EPA’s ability to set limits on pollution. Under the cynical guise of transparency, the proposal would prevent EPA from using important and legitimate science in its decision-making if the associated underlying data is not publicly available for independent evaluation. The proposal is purposefully designed to result in weaker science and environmental protection.  
