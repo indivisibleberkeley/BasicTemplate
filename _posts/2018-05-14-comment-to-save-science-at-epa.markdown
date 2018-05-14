@@ -38,6 +38,7 @@ call-script-text: "### Comment Script  \n*Note: It is best to personalize or mod
   \ I ask for your support to publicly denounce plans to weaken science at EPA and
   to use your authority to hold EPA accountable to its mission. Thank you."
 event-end-date: 2018-05-30 20:59:00 -07:00
+RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0259-0001
 ---
 
 ### Action
