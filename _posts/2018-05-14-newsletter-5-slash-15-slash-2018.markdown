@@ -68,7 +68,7 @@ event-end-date: 2018-05-21 23:59:00 -07:00
 </p>
 <h3>WHAT WE’RE READING/LISTENING TO
 </h3>
-<p>Article - ProMarket, the blog of the Stigler Center at the University of Chicago Booth School of Business:<a href="https://promarket.org/depositors-disciplining-banks-impact-scandals/?mc_cid=e554a88c49&mc_eid=08b181a65c"> Depositors Disciplining Banks: The Impact of Scandals</a>. [Note: if you are interested in divesting, email <a href="mailto:buwyb+subscribe@indivisibleberkeley.org">buwyb+subscribe@indivisibleberkeley.org</a> for more information.] 
+<p>Article - ProMarket, the blog of the Stigler Center at the University of Chicago Booth School of Business:<a href="https://promarket.org/depositors-disciplining-banks-impact-scandals/">Depositors Disciplining Banks: The Impact of Scandals</a>. [Note: if you are interested in divesting, email <a href="mailto:buwyb+subscribe@indivisibleberkeley.org">buwyb+subscribe@indivisibleberkeley.org</a> for more information.] 
 </p>
 <p><br>Video - TEDx Talk: <a href="https://www.youtube.com/watch?v=Fn82cNy52a4">Todd Rogers on Turning Mass Intention into Mass Action</a> [Featured at Sunday’s GA talk on the effectiveness of voter contact tactics] 
 </p>
