@@ -10,7 +10,6 @@ main-image: "/uploads/3%20red%20phones%20copy-bf749b.jpg"
 event-start-date: 2018-05-25 14:00:00 -07:00
 event-end-date: 2018-05-25 17:00:00 -07:00
 Location: |
-  UFW Local 2865
   2030 Addison Street, Suite 640A
   Berkeley, CA, 94704
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfTooconFA7vDs_uNI6VgdebxEfh-Uob9EWVilp1vY53vkOBA/viewform
