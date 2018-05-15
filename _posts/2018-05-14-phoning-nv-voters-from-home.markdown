@@ -17,6 +17,4 @@ HELP FLIP THE NEVADA SENATE SEAT!  We're working with Nevada Democrats starting 
 
 Right now we're helping the Democrats build a strong ground game by finding volunteers and identifying likely Democratic voters to drive to the polls in November.  There is a lot of interest and energy in the state to take back Republican Senator Heller's seat, so we're likely to find potential volunteers who just need to be put in touch with the Senate campaign.
 
-To call from home, you just need a phone and a computer, laptop or tablet with an internet connection (where the script and contacts will show).  The phone bank is open 12-9pm daily, starting May 18.
-
-We'll get back to you with all the details!  And thank you for volunteering!
+To call from home, you just need a phone and a computer, laptop or tablet with an internet connection (where the script and contacts will show).  RSVP, and we'll get back to you with the details!
