@@ -9,7 +9,7 @@ tags:
 event-start-date: 2018-05-30 19:00:00 -07:00
 event-end-date: 2018-05-30 21:00:00 -07:00
 Location: Hotsy Totsy
-RSVP-link: https://actionnetwork.org/events/23e4c90d95b5c7fbdcf1b768c506ab5b?source=direct_link&
+RSVP-link: https://actionnetwork.org/events/sample-ballot-mark-up-party?source=direct_link&
 ---
 
 For those of you considering how to fill in your June 5th vote by mail ballots, consider joining our happy hour, where folks will be given the option of delivering a 1 minute toast to the item of their choice, helping to inform our decisions and -- equally importantly -- giving us a chance to hang out with each other!
