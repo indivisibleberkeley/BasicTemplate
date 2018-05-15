@@ -8,7 +8,7 @@ tags:
 - phonebank
 main-image: "/uploads/3%20red%20phones%20copy-6dfa69.jpg"
 event-start-date: 2018-05-18 00:00:00 -07:00
-event-end-date: 2018-11-06 18:30:00 -08:00
+event-end-date: 2018-05-31 18:30:00 -07:00
 Location: Your home!
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform
 ---
