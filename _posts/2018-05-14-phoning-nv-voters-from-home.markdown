@@ -1,6 +1,8 @@
 ---
 title: Phoning NV Voters from Home
 date: 2018-05-14 13:30:00 -07:00
+categories:
+- action
 tags:
 - elections
 - phonebank
