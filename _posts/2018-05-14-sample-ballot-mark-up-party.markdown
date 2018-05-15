@@ -1,6 +1,8 @@
 ---
 title: Sample Ballot Mark-Up Party
 date: 2018-05-14 19:45:00 -07:00
+categories:
+- event
 tags:
 - party
 - elections
