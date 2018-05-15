@@ -6,6 +6,7 @@ categories:
 tags:
 - party
 - elections
+- social
 event-start-date: 2018-05-30 19:00:00 -07:00
 event-end-date: 2018-05-30 21:00:00 -07:00
 Location: Hotsy Totsy, 601 San Pablo Ave, Albany, CA 94706
