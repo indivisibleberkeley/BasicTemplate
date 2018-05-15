@@ -1,6 +1,12 @@
 ---
 title: Sample Ballot Mark-Up Party
 date: 2018-05-14 19:45:00 -07:00
+tags:
+- party
+- elections
+event-start-date: 2018-05-30 19:00:00 -07:00
+event-end-date: 2018-05-30 21:00:00 -07:00
+Location: Hotsy Totsy
 RSVP-link: https://actionnetwork.org/events/23e4c90d95b5c7fbdcf1b768c506ab5b?source=direct_link&
 ---
 
