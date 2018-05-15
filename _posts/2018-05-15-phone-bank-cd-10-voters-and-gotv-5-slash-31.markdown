@@ -1,16 +1,17 @@
 ---
-title: Phone Bank CD-10 Voters & GOTV 5/31
+title: GOTV Phone Bank to CD-10 Voters
 date: 2018-05-15 10:19:00 -07:00
 tags:
 - elections
 - phonebank
-event-start-date: 2018-05-31 13:00:00 -07:00
-event-end-date: 2018-05-31 16:00:00 -07:00
+main-image: "/uploads/3%20red%20phones%20copy-189a80.jpg"
+event-start-date: 2018-05-31 14:00:00 -07:00
+event-end-date: 2018-05-31 17:00:00 -07:00
 Location: |-
   UFW Local 2865
   2030 Addison Street, Suite 640A
   Berkeley, CA, 94704
-RSVP-link: https://docs.google.com/forms/d/1F08c_ZtYIJIDxdwPkzeqgQNNGrZcNE5fKtjzi4qfqXo/edit
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeRMLY_-Q2tC9_0W4wiCS5OmNs04O4A6OPAYkIjl2WySWWwRg/viewform
 ---
 
 Help us flip a congressional district and check Trump's agenda! LET"S GET OUT THE VOTE!
