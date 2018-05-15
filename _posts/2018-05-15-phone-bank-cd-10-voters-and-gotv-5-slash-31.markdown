@@ -1,6 +1,8 @@
 ---
 title: GOTV Phone Bank to CD-10 Voters
 date: 2018-05-15 10:19:00 -07:00
+categories:
+- event
 tags:
 - elections
 - phonebank
