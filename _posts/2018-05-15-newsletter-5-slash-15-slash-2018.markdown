@@ -1,6 +1,6 @@
 ---
 title: Newsletter (5/15/2018)
-date: 2018-05-14 20:55:00 -07:00
+date: 2018-05-15 12:55:00 -07:00
 categories:
 - update
 tags:
