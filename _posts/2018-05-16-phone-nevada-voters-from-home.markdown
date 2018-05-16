@@ -7,7 +7,8 @@ tags:
 - elections
 - phonebank
 main-image: "/uploads/Red_phone-b81221.jpg"
-event-end-date: 2018-05-30 00:00:00 -07:00
+event-start-date: 2018-05-20 09:00:00 -07:00
+event-end-date: 2018-05-30 12:00:00 -07:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform
 ---
 
