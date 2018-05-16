@@ -19,4 +19,4 @@ Right now we're helping the Democrats build a strong ground game by identifying 
 
 To call from home, you just need a computer, laptop or tablet with an internet connection (where the script and contacts will show), and a phone.  The phone bank is open 12-9pm daily.
 
-[RSVP:](https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform)
+RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform)
