@@ -52,7 +52,7 @@ Tel: (202) 326-5500
 
 ### (2) Share your message with your members of congress  
   * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
-  * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/content/contact-senator).  
+  * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/contact/email).  
 **Find your Representative:**
   * Rep. Mark DeSaulnier - 11th district:  (510) 620-1000, (202) 225-2095, or [email](https://desaulnier.house.gov/contact/email).  
   * Rep. Nancy Pelosi - 12th district:  (415) 556-4862, (202) 225-4965, or [email](https://pelosi.house.gov/contact-me/email-me).  
