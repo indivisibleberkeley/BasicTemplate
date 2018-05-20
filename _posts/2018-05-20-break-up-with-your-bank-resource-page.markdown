@@ -1,5 +1,5 @@
 ---
-title: "Break Up with Your Bank \nResource Page"
+title: Break Up with Your Bank
 date: 2018-05-20 11:25:00 -07:00
 categories:
 - update
@@ -8,7 +8,9 @@ tags:
 main-image: "/uploads/BreakUpWithYourBankDay.JPG"
 ---
 
-** *This page is designed to be a resource page for those interested in pulling their money from bottom line–driven mega banks (we're looking at you Wells Fargo, Chase, and City Bank!) to more socially responsible banks and credit unions.* **
+## RESOURCES PAGE
+
+*This page is designed to be a resource page for those interested in pulling their money from bottom line–driven mega banks (we're looking at you Wells Fargo, Chase, and City Bank!) to more socially responsible banks and credit unions.*
 
 **Links to Resources**:
 
