@@ -1,5 +1,5 @@
 ---
-title: Break Up with Your Bank Resource Page
+title: "Break Up with Your Bank \nResource Page"
 date: 2018-05-20 11:25:00 -07:00
 categories:
 - update
