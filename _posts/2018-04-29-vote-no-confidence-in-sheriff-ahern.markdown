@@ -27,4 +27,4 @@ Alameda County deserves a sheriff committed to protect the residents of our comm
 
 Sheriff Ahern will be running unopposed on the June 5th ballot, due to our restrictive laws limiting who is eligible to run for sheriff. By **writing in "NO CONFIDENCE,"** we can still send a powerful message that he does not represent us.
 
-Learn more here.
+[Learn more here](https://tinyurl.com/newsheriffac)!
