@@ -8,7 +8,7 @@ tags:
 main-image: "/uploads/BreakUpWithYourBankDay.JPG"
 ---
 
-### *This page is designed to be a resource page for those interested in pulling their money from bottom line–driven mega banks (we're looking at you Wells Fargo, Chase, and City Bank!) to more socially responsible banks and credit unions.*
+** *This page is designed to be a resource page for those interested in pulling their money from bottom line–driven mega banks (we're looking at you Wells Fargo, Chase, and City Bank!) to more socially responsible banks and credit unions.* **
 
 **Links to Resources**:
 
