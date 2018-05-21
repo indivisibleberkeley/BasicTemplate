@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phonebank
-main-image: "/uploads/_Alexis-Decorator-Phone-Red-Phone_.jpg"
+main-image: "/uploads/Red_phone-de4c36.jpg"
 event-end-date: 2018-06-05 00:00:00 -07:00
 ---
 
