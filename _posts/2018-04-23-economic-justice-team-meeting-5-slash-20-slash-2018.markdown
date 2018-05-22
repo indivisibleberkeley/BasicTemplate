@@ -1,14 +1,18 @@
 ---
-title: Economic Justice Team Meeting - 5/21/2018
+title: Economic Justice Team Meeting
 date: 2018-04-23 21:27:00 -07:00
 categories:
 - event
 tags:
 - economic-justice
-event-start-date: 2018-05-21 19:00:00 -07:00
-event-end-date: 2018-05-21 20:30:00 -07:00
+event-start-date: 2018-06-04 19:00:00 -07:00
+event-end-date: 2018-06-04 20:30:00 -07:00
 Location: 1618 Capistrano Avenue, Berkeley, CA
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
 
 Join us as we continue our Break Up With Your Bank campaign! We'll be meeting at Dave's house.
+
+And be sure to check out the [Break Up with Your Bank Resources](https://groups.google.com/a/indivisibleberkeley.org/forum/#!forum/buwyb) page!
+
+And join our [Facebook ](https://www.facebook.com/groups/238932426853707/)page!
