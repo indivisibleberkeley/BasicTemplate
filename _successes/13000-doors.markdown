@@ -3,6 +3,7 @@ title: 13,000 doors knocked and counting
 date: 2018-05-27 12:10:00 -07:00
 published: false
 is featured: true
+main-image: "/uploads/IMG_3655.JPG"
 ---
 
 Indivisible Berkeley members have knocked on over **13,000 doors** to help Democrats regain control of Congress. Our canvassing program is strong thanks to our canvassing captains, Billy, Jeff, Lynn and Cheryl.
