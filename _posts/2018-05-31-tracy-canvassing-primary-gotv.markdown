@@ -2,12 +2,12 @@
 title: Help Get Out The Vote in Tracy for the CA Primary
 date: 2018-05-31 09:05:00 -07:00
 categories:
-- update
+- event
 tags:
 - elections
 - canvass
 is featured: true
-event-start-date: 2018-05-31 00:00:00 -07:00
+event-start-date: 2018-06-01 00:00:00 -07:00
 event-end-date: 2018-06-05 23:59:00 -07:00
 ---
 
