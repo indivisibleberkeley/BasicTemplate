@@ -11,6 +11,9 @@ main-image: "/uploads/_Alexis-Decorator-Phone-Red-Phone_.jpg"
 event-start-date: 2018-06-04 17:00:00 -07:00
 event-end-date: 2018-06-04 19:00:00 -07:00
 Location: Finnish Hall downstairs cafe, 1970 Chestnut St., Berkeley
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfPCekYY2pyNpl-sFTrnlUN4h492lnQOqJkwGPWkMXfMfU7gw/viewform?usp=sf_link
+embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPCekYY2pyNpl-sFTrnlUN4h492lnQOqJkwGPWkMXfMfU7gw/viewform?embedded=true"
+  width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---
 
 **Help us flip a congressional district and check Trump's agenda! LET'S GET OUT THE VOTE!**
