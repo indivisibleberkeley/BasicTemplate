@@ -7,7 +7,7 @@ tags:
 - elections
 - canvass
 is featured: true
-event-start-date: 0001-06-01 00:07:02 -07:52
+event-start-date: 2018-06-01 00:00:00 -07:00
 event-end-date: 2018-06-05 00:00:00 -07:00
 ---
 
