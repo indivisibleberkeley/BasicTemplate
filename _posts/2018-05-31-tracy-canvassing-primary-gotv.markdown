@@ -7,8 +7,8 @@ tags:
 - elections
 - canvass
 is featured: true
-event-start-date: 2018-06-01 00:00:00 -07:00
-event-end-date: 2018-06-05 00:00:00 -07:00
+event-start-date: 2018-06-01 09:00:00 -07:00
+event-end-date: 2018-06-05 18:00:00 -07:00
 ---
 
 Our last chance to canvass in Tracy for the primary! There are many canvassing slots now through June 5th. You can view them all and sign up for whichever dates work for you. You can head down Thursday May 31, Friday June 1, Saturday June 2, Sunday June 3, Monday June 4 or Tuesday June 5 (Election Day!). 
