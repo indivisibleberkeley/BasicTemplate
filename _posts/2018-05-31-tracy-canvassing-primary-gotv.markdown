@@ -1,5 +1,5 @@
 ---
-title: Help Get Out The Vote in Tracy for the CA Primary
+title: Help Get Out The Vote in Tracy for the CA Primary (Canvassing)
 date: 2018-05-31 09:05:00 -07:00
 categories:
 - event
