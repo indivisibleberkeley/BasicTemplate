@@ -7,7 +7,7 @@ tags:
 - phonebank
 - elections
 is featured: true
-main-image: "/uploads/_Alexis-Decorator-Phone-Red-Phone_.jpg"
+main-image: "/uploads/iRed%20phone%20image-6bf3e2.png"
 event-start-date: 2018-06-04 17:00:00 -07:00
 event-end-date: 2018-06-04 19:00:00 -07:00
 Location: Finnish Hall downstairs cafe, 1970 Chestnut St., Berkeley
