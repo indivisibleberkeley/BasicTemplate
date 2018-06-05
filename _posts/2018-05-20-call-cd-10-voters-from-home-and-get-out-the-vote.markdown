@@ -7,7 +7,7 @@ tags:
 - elections
 - phonebank
 main-image: "/uploads/Red_phone-de4c36.jpg"
-event-end-date: 2018-06-05 00:00:00 -07:00
+event-end-date: 2018-06-04 00:00:00 -07:00
 ---
 
 HOME STRETCH! It’s time to go all out to flip Congressional District 10!  CD-10 is ripe for the taking, but we need to get a LOT of Democrats to the polls in order to prevent the 2 Republican candidates from winning both slots on the November ballot.
