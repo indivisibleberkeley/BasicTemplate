@@ -1,5 +1,5 @@
 ---
-title: Elections Team - June Meeting
+title: Elections Team - June Meeting = ICE CREAM SOCIAL
 date: 2017-12-31 18:43:00 -08:00
 categories:
 - event
@@ -9,6 +9,8 @@ event-start-date: 2018-06-24 18:30:00 -07:00
 event-end-date: 2018-06-24 20:00:00 -07:00
 Location: Connie Barbour Room, BFUU, 1606 Bonita Ave, Berkeley, CA
 ---
+
+We recommend eating a proper dinner before you head over for this gathering, as we’re having an ICE CREAM SOCIAL. We’ll also offer pop-up trainings for some voter contact methods, like phonebanking, so feel free to bring your phone and laptop if you’d like some help getting started or have questions.
 
 The Elections Team focuses on flipping red districts through voter contact. We canvass, phonebank, write postcards, and register new voters. We work with and support local partners.
 
