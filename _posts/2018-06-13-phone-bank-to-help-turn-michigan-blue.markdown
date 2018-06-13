@@ -2,8 +2,6 @@
 title: Phone Bank to Help Turn Michigan Blue!
 date: 2018-06-13 10:58:00 -07:00
 published: false
-categories:
-- event
 tags:
 - elections
 - phonebank
