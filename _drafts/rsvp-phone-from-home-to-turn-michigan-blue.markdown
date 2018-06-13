@@ -1,5 +1,5 @@
 ---
-title: 'RSVP: Phone from Home to Turn Michigan Blue!'
+title: Phone from Home to Turn Michigan Blue!
 date: 2018-06-13 11:50:00 -07:00
 categories:
 - action
