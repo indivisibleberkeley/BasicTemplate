@@ -7,8 +7,8 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy%202.jpg"
 event-start-date: 2018-06-21 14:00:00 -07:00
 event-end-date: 2018-06-21 17:00:00 -07:00
-Location: |-
-  UAW Local 2865
+Location: |2-
+
   2030 Addison Street, Suite 640A
   Berkeley, CA, 94704
 RSVP-link: https://docs.google.com/forms/d/1Mfzxcv6HlwBJmiVfaszcuclFCXmaW0bvzTeUPY5FhIs/edit
