@@ -14,7 +14,7 @@ event-end-date: 2018-06-16 23:59:00 -07:00
 ### Ways to Take action
 **Call** the Zero Waste Commission - (510) 981-6900  
 **Write** the Zero Waste Commission - 2180 Milvia Street (1st Floor), Berkeley, CA 94704; clerk@CityofBerkeley.info  
-**Come** to the Public Hearing on June 16, 10:30am-1pm at the North Berkeley Senior Center, 1901 Hearst Ave, Berkeley, CA.
+**Come** to the Public Hearing on *June 16, 10:30am-1pm at the North Berkeley Senior Center*, 1901 Hearst Ave, Berkeley, CA.
 
 ### Background
 *The ordinance would require that 1) only reusable foodware can be used for dine-in service, 2) all takeout foodware must be approved as recyclable or compostable in the City’s collection programs, 3) food vendors charge customers $0.25 for every disposable beverage cup and $0.25 for every disposable food container provided, and 4) disposable compostable straws, stirrers, cup spill plugs, napkins, and utensils for take-out are provided only upon request by the customer or at a self-serve station.*  The ordinance is supported by a coalition of over 1000 local, national, and international organizations participating in the [Break Free from Plastic](https://www.breakfreefromplastic.org/) (BFFP) global movement, including the [Ecology Center](https://ecologycenter.org/), [Clean Water Action](https://www.cleanwateraction.org/), [UpStream](https://upstreampolicy.org/), [The Story of Stuff Project](https://storyofstuff.org/), [Global Alliance for Incinerator Alternatives](http://www.no-burn.org/), [Plastic Pollution Coalition](http://www.plasticpollutioncoalition.org/), and [Surfrider Foundation](https://www.surfrider.org/).  
