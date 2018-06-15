@@ -11,6 +11,9 @@ call-script-text: |-
 event-end-date: 2018-06-16 23:59:00 -07:00
 ---
 
+### Action
+To remove single-use plastics from the wastestream, the oceans and wildlife, support Berkeley’s proposed Single-use Foodware and Litter Reduction Ordinance.  
+
 ### Ways to Take action
 * **Call** the Zero Waste Commission - (510) 981-6900  
 * **Write** the Zero Waste Commission - 2180 Milvia Street (1st Floor), Berkeley, CA 94704; clerk@CityofBerkeley.info  
