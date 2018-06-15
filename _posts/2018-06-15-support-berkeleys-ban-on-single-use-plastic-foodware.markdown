@@ -13,7 +13,7 @@ event-end-date: 2018-06-16 23:59:00 -07:00
 
 ### Ways to Take action
 **Call** the Zero Waste Commission - (510) 981-6900  
-**Write** the Zero Waste Commission - 2180 Milvia Street (1st Floor), Berkeley, CA 94704; clerk@CityofBerkeley.info
+**Write** the Zero Waste Commission - 2180 Milvia Street (1st Floor), Berkeley, CA 94704; clerk@CityofBerkeley.info  
 **Come** to the Public Hearing on June 16, 10:30am-1pm at the North Berkeley Senior Center, 1901 Hearst Ave, Berkeley, CA.
 
 ### Background
