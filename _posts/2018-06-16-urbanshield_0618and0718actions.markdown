@@ -6,6 +6,7 @@ categories:
 tags:
 - rcjr
 - urban shield
+event-end-date: 2018-07-24 20:00:00 -07:00
 ---
 
 Earlier this month, a subcommittee of the Berkeley City Council voted to recommend sitting out the Urban Shield SWAT competition and vendor show in 2018, while supporting fire, EMT and emergency manager participation and evaluating Berkeley’s role in the reconstituted exercise next year. 
