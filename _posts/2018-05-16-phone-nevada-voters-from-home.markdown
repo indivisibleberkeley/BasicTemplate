@@ -1,6 +1,7 @@
 ---
 title: Phone Nevada voters from home!
 date: 2018-05-16 13:28:00 -07:00
+published: false
 categories:
 - action
 tags:
