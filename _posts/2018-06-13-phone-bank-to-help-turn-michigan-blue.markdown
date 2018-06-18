@@ -1,7 +1,6 @@
 ---
 title: Phone Bank to Help Turn Michigan Blue!
 date: 2018-06-13 10:58:00 -07:00
-published: false
 tags:
 - elections
 - phonebank
@@ -19,6 +18,6 @@ Why Michigan? Remember 2016?  Due to partisan gerrymandering, Republicans hold a
 
 We're working with Sister District , which has identified this race as important and winnable.  We're supporting Mallory McMorrow for Michigan's State Senate to help stop Michigan's gerrymandering and voter rights' restrictions before we get to the 2020 census and presidential elections. Come and join us as we work to build her name recognition,  and identify likely voters and local Michigan volunteers for her campaign!
 
-What you’ll need: an ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you. 
+What you’ll need: an ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-It's fine to come for just part of the phone bank if that works for you! Please RSVP, and we'll get back to you with more details!
+It's fine to come for just part of the phone bank if that works for you. Please RSVP, and we'll get back to you with more details!
