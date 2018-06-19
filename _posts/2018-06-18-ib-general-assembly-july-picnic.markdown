@@ -8,6 +8,9 @@ tags:
 - social
 - ga
 - recruitment
+event-start-date: 2018-07-07 11:00:00 -07:00
+event-end-date: 2018-07-07 13:00:00 -07:00
+Location: Civic Center Park
 ---
 
 Let's celebrate our independence & freedoms on Saturday, July 7th!
