@@ -19,6 +19,7 @@ Bring a blanket and a picnic lunch
 (Plus some to share if you’d like) 
 
 Location: Civic Center Park, next to the Berkeley Farmer’s Market
+
 Time: 11am-2pm
 
 * Bring your flags & your red, white and blue!
