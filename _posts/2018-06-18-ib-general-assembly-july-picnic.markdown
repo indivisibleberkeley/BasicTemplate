@@ -8,6 +8,7 @@ tags:
 - social
 - ga
 - recruitment
+main-image: "/uploads/Postcard-picnic-2018%20copy.jpg"
 event-start-date: 2018-07-07 11:00:00 -07:00
 event-end-date: 2018-07-07 13:00:00 -07:00
 Location: Civic Center Park
