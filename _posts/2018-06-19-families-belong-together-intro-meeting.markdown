@@ -9,7 +9,7 @@ tags:
 is featured: true
 event-start-date: 2018-06-24 13:00:00 -07:00
 event-end-date: 2018-06-24 14:00:00 -07:00
-Location: TO BE DETERMINED - RSVP FOR UPDATES
+Location: LOCATION TO BE DETERMINED - RSVP FOR UPDATES
 RSVP-link: https://actionnetwork.org/events/families-belong-together-intro-berkeley
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/families-belong-together-intro-berkeley?format=js&source=widget'></script><div
