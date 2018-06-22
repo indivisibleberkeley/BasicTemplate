@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-189a80.jpg"
 event-start-date: 2018-06-24 13:00:00 -07:00
 event-end-date: 2018-06-24 16:00:00 -07:00
-Location: Near Dwight Way & Martin Luther King Blvd in Berkeley
+Location: Andrea MacRae's home, 1 block from Sports Basement in Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSf6UHwlM06fLl1X-NA1XoqJV0zKi1YeT-zGC3cr_4fBIl0AXg/viewform
 ---
 
