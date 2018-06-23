@@ -2,7 +2,7 @@
 title: Open your Home to Indivisible Berkeley Phone Bank Volunteers!
 date: 2018-06-23 07:48:00 -07:00
 categories:
-- ACTIONS
+- action
 tags:
 - phonebank
 - elections
