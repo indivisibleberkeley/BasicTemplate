@@ -7,7 +7,7 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202.jpg"
-event-start-date: 2018-06-24 00:00:00 -07:00
+event-start-date: 2018-06-23 00:00:00 -07:00
 event-end-date: 2018-07-10 00:00:00 -07:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdJvgdlySRX5_NE7SsU7Ui9rLH8uqbAhQUWRTqAKxyq_iGmFA/viewform
 ---
