@@ -16,4 +16,4 @@ YOU can make it possible for more phone volunteers to help us win back our count
 
 WHAT DOES THIS INVOLVE? Phone bank events usually draw 5-8 people working at a time.  People may sit at a table or chairs. You just need to provide a space like your living/dining room or kitchen table -- and have WIFI in your home.  If you like, you can provide some light snacks -- but we're also happy to do that!  You don't need to train people; our phone support person will be there.  And if you're crazy-busy and can't participate in the phoning, that's ok too!  Giving us a place to work is a huge contribution!
 
-We hope to offer at least 2 Sunday afternoons a month. Please RSVP and sign up for some dates -- and we'll get back to you soon with more details!
+We hope to offer at least 2 Sunday afternoons a month. Please RSVP and sign up for some dates -- and we'll get back to you soon with more details and answer  any questions you may have!
