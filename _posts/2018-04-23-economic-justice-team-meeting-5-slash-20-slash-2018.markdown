@@ -5,13 +5,13 @@ categories:
 - event
 tags:
 - economic-justice
-event-start-date: 2018-06-04 19:00:00 -07:00
-event-end-date: 2018-06-04 20:30:00 -07:00
-Location: 1618 Capistrano Avenue, Berkeley, CA
+event-start-date: 2018-07-11 19:00:00 -07:00
+event-end-date: 2018-07-11 20:30:00 -07:00
+Location: 1606 Bonita Avenue, upstairs at the BFUU church (corner of Cedar and Bonita)
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
 
-Join us as we continue our Break Up With Your Bank campaign! We'll be meeting at Dave's house.
+New meeting location! BFUU (corner of Cedar and Bonita), upstairs ... enter through the gate at 1606 Bonita.
 
 And be sure to check out the [Break Up with Your Bank Resources](https://groups.google.com/a/indivisibleberkeley.org/forum/#!forum/buwyb) page!
 
