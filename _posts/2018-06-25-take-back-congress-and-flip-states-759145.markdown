@@ -1,6 +1,8 @@
 ---
 title: Take Back Congress & Flip States!
 date: 2018-06-25 15:03:00 -07:00
+categories:
+- event
 tags:
 - phonebank
 - elections
