@@ -15,6 +15,6 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfJIeEPJ7LdLO2PIC92BcnfjyvwN
 
 Get Angry Now!  Whatever your cause, after November, it may be too late!   TIME TO GET INTO HIGH GEAR and win back enough power to check Trump and the Republican agenda in states where gerrymandering and voters' rights restrictions threaten to steal the 2020 election. Indivisible Berkeley is working hard to support candidates in critical, must-win races that will determine whether Democrats can take back the US House and Senate as well as the battleground state of Michigan.  We're finalizing our campaign strategies, so we're not sure where we'll be calling yet, but it will be strategic and flippable -- if we work!  Please SAVE THE DATE for this phone bank!
 
-WHAT YOU"ll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
 Please RSVP below, and we'll get back to you with more details!
