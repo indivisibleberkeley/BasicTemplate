@@ -31,3 +31,5 @@ Fossil Free California has been doing this work for a while, and they have their
 
 * [Sample Letter to Banks (final step!)](https://drive.google.com/open?id=1d3uLwwsfQuNblZN6NK99GcN_Y748LuD2) 
 You've broken up with Wells Fargo or Chase! Congrats. Now comes the important and satisfying step of letting them know why you left them. Here's a sample to help you get started. 
+
+And . . . for fun! Here's a link to [Ry Cooder's "No Banker Left Behind"](https://youtu.be/ZXHckAFMzaw)
