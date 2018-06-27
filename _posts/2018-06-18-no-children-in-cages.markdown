@@ -24,6 +24,6 @@ Family separation is another Trump-created crisis. This is not at all required u
 
 ### Join the national mobilization on June 30
 
-**Event ground rules:** By choosing to attend this event, you are committing to participate nonviolently and in accordance with the law, to work to de-escalate confrontations with others, and to obey the orders of authorized event marshals and of law enforcement that ensure the safety of everyone at these events. You also acknowledge that you are solely responsible for any injury or damage to your person or property resulting from or occurring during this event, and that you release MoveOn.org Civic Action and MoveOn.org Political Action (and their officers, directors, employees, and agents) from any liability for that injury or damage.
+**Event ground rules:** By choosing to attend this event, you are committing to participate nonviolently and in accordance with the law, to work to de-escalate confrontations with others, and to obey the orders of authorized event marshals and of law enforcement that ensure the safety of everyone at these events. You also acknowledge that you are solely responsible for any injury or damage to your person or property resulting from or occurring during this event.
 
 ♿ This event is wheelchair-accessible
