@@ -23,3 +23,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
 Family separation is another Trump-created crisis. This is not at all required under current law — despite the lies coming out of Trump’s mouth — and Trump could put an end to this with a phone call. And like so many other Trump-created crises, Republicans in Congress are letting it happen. Some may have expressed concerns about the policy, but none have done anything about it. That’s where you come in.
 
 ### Join the national mobilization on June 30
+
+**Event ground rules:** By choosing to attend this event, you are committing to participate nonviolently and in accordance with the law, to work to de-escalate confrontations with others, and to obey the orders of authorized event marshals and of law enforcement that ensure the safety of everyone at these events. You also acknowledge that you are solely responsible for any injury or damage to your person or property resulting from or occurring during this event, and that you release MoveOn.org Civic Action and MoveOn.org Political Action (and their officers, directors, employees, and agents) from any liability for that injury or damage.
+
+♿ This event is wheelchair-accessible
