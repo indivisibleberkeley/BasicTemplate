@@ -11,15 +11,13 @@ event-end-date: 2018-07-24 20:00:00 -07:00
 
 Earlier this month, a subcommittee of the Berkeley City Council voted to recommend sitting out the Urban Shield SWAT competition and vendor show in 2018, while supporting fire, EMT and emergency manager participation and evaluating Berkeley’s role in the reconstituted exercise next year. 
 
-The recommendation will come before the City Council at its July 24, 2018 meeting.
+The recommendation is expected to come before the City Council at its July 24, 2018 meeting.
 
-This is a victory for those of us who oppose Berkeley’s continued participation in Urban Shield’s 2018 SWAT Team war games. It follows closely on the heels of the Alameda County Board of Supervisors’ decision to end Urban Shield as it is currently constituted as of 2019 due to community concerns over how the SWAT competition promotes racism, xenophobia and the militarization of local police forces.  
+Unfortunately, questions have been raised regarding the Council's legal authority to direct the BPD not to participate in Urban Shield. At this time, the Mayor is awaiting a legal opinion from the City Attorney.
 
-Already the Berkeley Police Department is mobilizing to defeat this recommendation, playing on Trumpian fears of terrorism and crime. We need to mobilize the community to support Mayor Arreguin and Council Members Cheryl Davila and Kate Harrison in their principled vote to end Berkeley’s participation in the 2018 Urban Shield SWAT competition and vendor show. 
+What you can do:
 
-Here is what Berkeley residents can do to make sure the Berkeley City Council passes this motion:
-
-1) Show up at the last Urban Shield subcommittee meeting this Monday, June 18th, at 2:30 pm, at Berkeley City Council Chambers,   2134 Martin Luther King Jr. Way.   There will be efforts made to undermine this recommendation, and we must show that the community is in support.  
+1) Email Mayor Arreguin at mayor@cityofberkeley.info and urge him to affirm the authority of the City Council, and his own office, in this matter and all matters of policy in Berkeley. Urge him to stand firm for our shared progressive values.
 
 2) Email your support for the motion to the Berkeley City Council at council@cityofberkeley.info. Here is a sample email:
 
