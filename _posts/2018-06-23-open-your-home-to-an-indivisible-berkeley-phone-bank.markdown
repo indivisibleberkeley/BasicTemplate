@@ -18,4 +18,4 @@ WHAT DOES THIS INVOLVE? Phone bank events usually draw 5-8 people working at a t
 
 We hope to offer at least 2 Sunday afternoons a month. Please sign up for some dates-- and we'll get back to you soon with more details and answer  any questions you may have.
 
-[RSVP here!](https://docs.google.com/forms/d/e/1FAIpQLSdJvgdlySRX5_NE7SsU7Ui9rLH8uqbAhQUWRTqAKxyq_iGmFA/viewform)
+[RSVP here!](https://docs.google.com/forms/d/e/1FAIpQLSeNbWQC4xKXO3-qk3-MJUNChrIvZMTGYNkvrwfJQ9oHzxmqWg/viewform)
