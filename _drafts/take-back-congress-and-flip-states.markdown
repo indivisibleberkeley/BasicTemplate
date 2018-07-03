@@ -1,5 +1,5 @@
 ---
-title: Take Back Congress & Flip States !
+title: Take Back Congress  8/23!
 date: 2018-06-25 15:03:00 -07:00
 categories:
 - event
