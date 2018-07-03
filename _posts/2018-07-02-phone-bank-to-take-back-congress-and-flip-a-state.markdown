@@ -17,4 +17,4 @@ Angry enough? Time to gear up and work together for wins in November --  and put
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP below, and we'll get back to you with more details!
+Please RSVP, and we'll get back to you with more details!
