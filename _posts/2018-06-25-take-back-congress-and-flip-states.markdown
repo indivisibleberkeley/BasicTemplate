@@ -13,8 +13,8 @@ Location: 2030 Addison St, Suite 640A, Berkeley, CA 94704
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeAz15Qvxq_jvOqOK7PqqQlg6r3EcOouuQA78gRnSr3tHRaEw/viewform
 ---
 
-Why Michigan? Due to partisan gerrymandering, Republicans hold a drastically unfair advantage and are over-represented in the Michigan state legislature. It’s critical for Democrats to win seats in 2018 to make blue inroads in this presidential battleground state -- before 2020.  We'll be phoning for Democratic candidates Mallory McMorrow (running for State Senate) or Padma Kuppa (running for State House of Representatives).  We're working in partnership with Sister District
+Why Michigan? Remember 2016? Due to partisan gerrymandering and voters' rights restrictions, Republicans hold a drastically unfair advantage and are over-represented in the Michigan state legislature. It’s critical for Democrats to win seats in 2018 to make blue inroads in this presidential battleground state -- before 2020. So we're partnering with [Sister District](https://www.sisterdistrict.com/teams/california/ca13) and phoning for Democratic candidates Mallory McMorrow (for State Senate) or Padma Kuppa (for State House of Representatives).
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP below, and we'll get back to you with more details!
+Please RSVP, and we'll get back to you with more details!
