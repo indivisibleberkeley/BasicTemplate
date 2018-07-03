@@ -50,4 +50,5 @@ call-script-text: "### Action\nTo remove single-use plastics from the wastestrea
 event-end-date: 2018-07-12 23:59:00 -07:00
 ---
 
+*Personalize if possible*  
 There is both a local and global plastics crisis.  We must do more to remove single-use plastics from the waste stream, and Berkeley should be a leader.  As a consumer and as someone who cares about the oceans, wildlife and the safety of our food and water, I support the proposed Disposable Foodware and Litter Reduction Ordinance.
