@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-call-script-text: "### Action\nTo remove single-use plastics from the wastestream,
+call-script-text: "### Action\nTo remove single-use plastics from the waste stream,
   the oceans and wildlife, support Berkeley’s proposed Single-use Foodware and Litter
   Reduction Ordinance.  \n\n### Ways to Take Action\n**Call or Email Christienne de
   Tournay** - 415-572-5012 or cdetournay@comcast.net   \n\n**Write a comment letter
@@ -51,4 +51,4 @@ event-end-date: 2018-07-12 23:59:00 -07:00
 ---
 
 *Personalize if possible*  
-There is both a local and global plastics crisis.  We must do more to remove single-use plastics from the waste stream, and Berkeley should be a leader.  As a consumer and as someone who cares about the oceans, wildlife and the safety of our food and water, I support the proposed Disposable Foodware and Litter Reduction Ordinance.
+There is both a local and global plastics crisis.  We must do more to remove single-use plastics from the waste stream, and Berkeley should be a leader.  As a consumer and as someone who cares about the oceans, wildlife and the safety of our food and water, I support the proposed Disposable Foodware and Litter Reduction Ordinance.  
