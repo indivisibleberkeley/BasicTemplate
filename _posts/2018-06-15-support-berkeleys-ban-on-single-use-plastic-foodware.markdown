@@ -5,9 +5,11 @@ categories:
 - action
 tags:
 - environment
-call-script-text: |-
-  *(personalize, if possible)*
-  There is both a local and global plastics crisis.  We must do more to remove single-use plastics from the waste stream, and Berkeley should be a leader.  As a consumer and as someone who cares about the oceans, wildlife and the safety of our food and water, I support the proposed Disposable Foodware and Litter Reduction Ordinance.
+call-script-text: "*(personalize, if possible)*  \nThere is both a local and global
+  plastics crisis.  We must do more to remove single-use plastics from the waste stream,
+  and Berkeley should be a leader.  As a consumer and as someone who cares about the
+  oceans, wildlife and the safety of our food and water, I support the proposed Disposable
+  Foodware and Litter Reduction Ordinance."
 event-end-date: 2018-06-16 23:59:00 -07:00
 ---
 
