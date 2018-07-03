@@ -7,11 +7,12 @@ tags:
 - environment
 call-script-text: "### Action\nTo remove single-use plastics from the wastestream,
   the oceans and wildlife, support Berkeley’s proposed Single-use Foodware and Litter
-  Reduction Ordinance.  \n\n### Ways to Take Action\n**Write the Zero Waste Commission**
-  - Heidi Obermeit, Secretary ZWC, 1201 Second St., Berkeley, CA 94710; hobermeit@CityofBerkeley.info
-  or clerk@CityofBerkeley.info  \n\n**Come to a Public Hearing** - July 12, 2:30-4pm,
-  West Branch Public Library Community Mtg. Rm., 1125 University Ave.  Check [Zero
-  Waste Commission website](https://www.cityofberkeley.info/Clerk/Commissions/Commissions__Zero_Waste_Commission_Homepage.aspx)
+  Reduction Ordinance.  \n\n### Ways to Take Action\n**Call or Email Christienne de
+  Tournay** - 415-572-5012 or cdetournay@comcast.net   \n\n**Write a comment letter
+  to the Zero Waste Commission** - Heidi Obermeit, Secretary ZWC, 1201 Second St.,
+  Berkeley, CA 94710; hobermeit@CityofBerkeley.info or clerk@CityofBerkeley.info  \n\n**Come
+  to a Public Hearing** - July 12, 2:30-4pm, West Branch Public Library Community
+  Mtg. Rm., 1125 University Ave.  Check [Zero Waste Commission website](https://www.cityofberkeley.info/Clerk/Commissions/Commissions__Zero_Waste_Commission_Homepage.aspx)
   for more information.  \n\n### Background\n*The ordinance would require that 1)
   only reusable foodware can be used for dine-in service, 2) all takeout foodware
   must be approved as recyclable or compostable in the City’s collection programs,
