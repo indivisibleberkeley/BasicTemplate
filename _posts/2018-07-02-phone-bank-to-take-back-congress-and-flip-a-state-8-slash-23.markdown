@@ -8,7 +8,7 @@ tags:
 - phonebank
 main-image: "/uploads/3%20red%20phones%20copy%202.jpg"
 event-start-date: 2018-08-23 14:00:00 -07:00
-event-end-date: 2018-07-23 17:00:00 -07:00
+event-end-date: 2018-08-23 17:00:00 -07:00
 Location: 2030 Addison, Suite 640A, Berkeley CA 94704
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfJIeEPJ7LdLO2PIC92BcnfjyvwN6wh30hcRdezS8AW6H1PdQ/viewform
 ---
