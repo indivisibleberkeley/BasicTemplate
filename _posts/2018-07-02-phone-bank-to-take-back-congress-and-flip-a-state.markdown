@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Take Back Congress & Flip a State
+title: Phone Bank to Take Back Congress & Flip a State 8/5
 date: 2018-07-02 00:12:00 -07:00
 categories:
 - event
