@@ -1,6 +1,10 @@
 ---
 title: Support Berkeley’s Ban on Single-use Plastic Foodware
 date: 2018-07-03 10:33:00 -07:00
+categories:
+- action
+tags:
+- environment
 call-script-text: "### Action\nTo remove single-use plastics from the wastestream,
   the oceans and wildlife, support Berkeley’s proposed Single-use Foodware and Litter
   Reduction Ordinance.  \n\n### Ways to Take Action\n**Write the Zero Waste Commission**
