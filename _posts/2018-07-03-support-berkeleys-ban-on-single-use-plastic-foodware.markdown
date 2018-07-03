@@ -1,5 +1,5 @@
 ---
-title: Support Berkeley’s Ban on Single-use Plastic Foodware
+title: Support Berkeley’s Ban on Single-use Plastic Foodware - by July 12
 date: 2018-07-03 10:33:00 -07:00
 categories:
 - action
