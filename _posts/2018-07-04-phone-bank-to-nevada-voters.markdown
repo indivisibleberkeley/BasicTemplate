@@ -16,8 +16,4 @@ HELP FLIP THE NEVADA SENATE SEAT -- and more!  We're working with Nevada Democra
 
 WHAT YOU"ll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-PHONE BANK DETAILS\
-Sunday, July 29, 1-4pm\
-El Cerrito, CA
-
 Please RSVP to phonebank\+owner@indivisibleberkeley.org, and we'll get back to you with more details.
