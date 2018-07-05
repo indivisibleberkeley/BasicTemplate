@@ -47,9 +47,9 @@ RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0107-0001
 ---
 
 ### Action
-[Submit  your comment by clicking here](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0107-0001) to oppose Pruitt’s attempt to understate benefits but emphasize costs when considering environmental safeguards.  
+[Submit your comment here by July 13](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0107-0001) to oppose Pruitt’s attempt to understate benefits but emphasize costs when considering environmental safeguards.  
 
-His ideas have far reaching consequences and would dangerously tie EPA’s hands in establishing scientifically-based health and environmental protections. EPA is required to publish responses to public comments. By raising specific issues in your comments you are requiring the Agency to address these issues and potentially providing support for a future suit against EPA. [Comment here](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0107-0001) by July 13.
+His ideas have far reaching consequences and would dangerously tie EPA’s hands in establishing scientifically-based health and environmental protections. EPA is required to publish responses to public comments. By raising specific issues in your comments you are requiring the Agency to address these issues and potentially providing support for a future suit against EPA.  
 
 ### Background
 Coupled with Pruitt’s efforts to reduce [EPA’s use of science](https://indivisibleberkeley.org/action/comment-to-save-science-at-epa) for regulatory decisions, and his pattern of rolling back environmental protections, this proposal would make implementing accurately analyzed, science-based environmental and health protections virtually impossible.  
