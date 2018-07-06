@@ -22,7 +22,7 @@ Bring a blanket and a picnic lunch
 
 Location: Civic Center Park, next to the Berkeley Farmer’s Market
 
-Time: 11am-2pm
+Time: 11am-1pm
 
 * Bring your flags & your red, white and blue!
 * Bill of Rights Reading
