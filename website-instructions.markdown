@@ -30,7 +30,7 @@ Most of the fields to fill out are self-explanatory, but some are a bit subtle:
 
 + `Embed-code` is how we get ActionNetwork RSVP forms embedded directly into the website (e.g. [our General Assembly event pages](https://www.indivisibleberkeley.org/event/assembly-sep10)). To find the code for this, go to the ActionNetwork "manage event" page and find the "Embed this event" box, containing a bunch of code. Just copy-paste the code into the box on Siteleaf and our website will take care of the rest!
 
-+ `is featured` controls whether the event shows up on the front page of our website. Please only feature one event at a time.
++ `is featured` controls whether the event shows up on the front page of our website. Please only feature up to two events at a time. We encourage you to feature your next team meeting!
 
 On the right sidebar of the new/edit post page, there are a few extra controls:
 
