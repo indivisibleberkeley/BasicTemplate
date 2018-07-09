@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Nevada Voters
+title: Phone Bank to Nevada Voters 7/29
 date: 2018-07-04 14:59:00 -07:00
 categories:
 - event
@@ -16,4 +16,4 @@ HELP FLIP THE NEVADA SENATE SEAT -- and more!  We're working with Nevada Democra
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP to phonebank\+owner@indivisibleberkeley.org, and we'll get back to you with more details.
+**Please RSVP** to phonebank\+owner@indivisibleberkeley.org! 
