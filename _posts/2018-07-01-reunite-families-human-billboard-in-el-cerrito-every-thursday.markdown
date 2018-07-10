@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - immigration
-event-start-date: 2018-07-05 18:00:00 -07:00
+event-start-date: 2018-07-12 18:00:00 -07:00
 event-end-date: 2018-07-26 19:00:00 -07:00
 Location: 7000 El Cerrito Plaza, El Cerrito, CA
 RSVP-link: https://www.facebook.com/events/485059088580999/
