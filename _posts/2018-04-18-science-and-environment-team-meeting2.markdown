@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - environment
+is featured: true
 event-start-date: 2018-07-15 19:00:00 -07:00
 event-end-date: 2018-07-15 20:30:00 -07:00
 ---
