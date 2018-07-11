@@ -20,7 +20,7 @@ PHONE BANK DETAILS
 Sunday, Aug 5, 1-4pm
 Location: Near Cedar & Martin Luther King, Berkeley
 
-Please RSVP below, and we'll get back to you with more details --  Thank you!
+**Please RSVP**, and we'll get back to you with more details --  Thank you!
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
