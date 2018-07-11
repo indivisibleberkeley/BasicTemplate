@@ -17,7 +17,7 @@ Help flip nearby CD-10!  Let's send Democrat Josh Harder  to Washington and turn
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-**DATE: **Sunday, Aug 5, 1-4pm
+**DATE:** Sunday, Aug 5, 1-4pm
 
 **Location:** Near Cedar & Martin Luther King, Berkeley
 
