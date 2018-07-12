@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 is featured: true
-main-image: "/uploads/canvassing_Tracy_summer.jpg"
+main-image: "/uploads/IMG_3655.JPG"
 event-end-date: 2018-11-06 00:00:00 -08:00
 ---
 
