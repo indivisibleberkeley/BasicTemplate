@@ -10,6 +10,8 @@ main-image: "/uploads/IMG_3655.JPG"
 event-end-date: 2018-11-06 00:00:00 -08:00
 ---
 
+## November 1 - November 6
+
 ### This is it.
 
 All that we've been working for for the last 20 months is up for grabs in this election. Commit today to a day (or more!) of making sure voters in our critical target races get to the polls!
