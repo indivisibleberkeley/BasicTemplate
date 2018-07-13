@@ -7,6 +7,7 @@ tags:
 - immigration
 event-start-date: 2018-08-12 11:00:00 -07:00
 event-end-date: 2018-08-12 12:30:00 -07:00
+Location: 5555 Giant Highway, Richmond, CA
 RSVP-link: https://www.facebook.com/events/200273594003806/
 ---
 
