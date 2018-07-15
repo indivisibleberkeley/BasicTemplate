@@ -1,5 +1,5 @@
 ---
-title: Vigil at West County Detention Facility - 8/4
+title: Vigil at West County Detention Facility - August 4
 date: 2018-07-15 08:57:00 -07:00
 categories:
 - event
