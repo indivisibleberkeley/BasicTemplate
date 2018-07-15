@@ -5,13 +5,13 @@ categories:
 - event
 tags:
 - economic-justice
-event-start-date: 2018-07-11 19:00:00 -07:00
-event-end-date: 2018-07-11 20:30:00 -07:00
+event-start-date: 2018-07-23 19:00:00 -07:00
+event-end-date: 2018-07-23 20:30:00 -07:00
 Location: 1618 Capistrano Avenue, Berkeley, CA 94707
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
 
-Meeting location has changed! 1618 Capistrano Avenue, Berkeley, CA 94707
+1618 Capistrano Avenue, Berkeley, CA 94707
 
 And be sure to check out the [Break Up with Your Bank Resources](https://groups.google.com/a/indivisibleberkeley.org/forum/#!forum/buwyb) page!
 
