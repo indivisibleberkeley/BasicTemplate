@@ -1,5 +1,5 @@
 ---
-title: Protest at West County Detention Facility - 8/12
+title: Protest at West County Detention Facility - August 12
 date: 2018-07-12 20:57:00 -07:00
 categories:
 - event
