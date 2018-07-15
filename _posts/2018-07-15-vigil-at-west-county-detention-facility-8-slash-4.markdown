@@ -11,7 +11,7 @@ event-end-date: 2018-08-04 12:30:00 -07:00
 Location: 5555 Giant Highway, Richmond, CA
 ---
 
-In July, Contra Costa County Sheriff Livingston announced that he is ending the contract with ICE to house immigration detainees at the West County Detention Facility in Richmond. This represents a major victory for advocates who have pushed for years to end the contract with ICE - but it will not be a real victory until those currently detained are released and reunited with their families, friends, and community, and those already transferred to other states are returned.
+In July, Contra Costa County Sheriff Livingston announced that he is ending the contract with ICE to hold immigration detainees at the West County Detention Facility in Richmond. This represents a major victory for advocates who have pushed for years to end the contract with ICE - but it will not be a real victory until those currently detained are released and reunited with their families, friends, and community, and those already transferred to other states are returned.
 
 Join the Interfaith Movement for Human Integrity for a vigil at WCDF, to call for detainees to be reunited with their families and for a complete end to cooperation between the Sheriff's office and ICE.
 
