@@ -4,8 +4,8 @@ date: 2018-02-10 13:47:00 -08:00
 categories:
 - event
 tags:
-- canvass
 - elections
+- canvassing
 main-image: "/uploads/yardsigns255.png"
 event-start-date: 2018-07-21 08:00:00 -07:00
 event-end-date: 2018-07-21 17:00:00 -07:00
