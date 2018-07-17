@@ -10,6 +10,11 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-08-12 19:30:00 -07:00
 event-end-date: 2018-08-12 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
+RSVP-link: http://indivisibleberkeley.org/event/assembly-oct8?source=direct_link&
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-august?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-general-assembly-august' style='width: 100%'><!--
+  this div is the target for our HTML insertion --></div>"
 ---
 
 Join us on August 12 for the next Indivisible Berkeley General Assembly! Agenda TBA.
