@@ -4,6 +4,21 @@ layout: default
 
 <h1>{{ page.tag }}</h1>
 
+<h5 class="mb-0">Upcoming Events</h5>
+
+<div class="post-list">
+
+  {% assign curDate = site.time | date: '%s' %}
+  {% assign sortedEvents = (site.tags[page.tag] | sort: 'event-start-date') %}
+    {% for post in sortedEvents %}
+    {% assign postStartDate = post.event-start-date | date: '%s' %}
+    {% if postStartDate >= curDate %}
+      {% include event-post-header.html %}
+    {% endif %}
+  {% endfor %}
+
+</div><!-- END UPCOMING EVENTS -->
+<!--
 <ul>
     {% for post in site.tags[page.tag] %}
     <li>
@@ -11,3 +26,4 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+-->
