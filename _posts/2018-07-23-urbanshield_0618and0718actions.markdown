@@ -1,6 +1,6 @@
 ---
 title: The Fate of Urban Shield is in Your Hands!
-date: 2018-06-16 11:10:00 -07:00
+date: 2018-07-23 11:10:00 -07:00
 categories:
 - action
 tags:
