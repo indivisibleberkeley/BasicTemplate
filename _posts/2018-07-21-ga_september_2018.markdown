@@ -1,0 +1,30 @@
+---
+title: IB General Assembly - September
+date: 2018-07-21 19:22:00 -07:00
+categories:
+- event
+tags:
+- general assembly
+main-image: "/uploads/IB-May2017-flags.jpg"
+event-start-date: 2018-09-16 19:30:00 -07:00
+event-end-date: 2018-09-16 21:00:00 -07:00
+Location: BFUU Fellowship Hall, 1924 Cedar Street
+---
+
+Join us on September 16 for the next Indivisible Berkeley General Assembly! 
+
+We'll be focused on Elections this time, preparing for the midterms!
+
+Come on down and bring a friend to the best way to get involved in making our city and country a better place!
+
+Doors open at 7. We start promptly at 7:30.
+
+Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
+
+ADA Accessibility: BFUU's Fellowship Hall has a ramp into the Hall via Bonita Street. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+
+### T-Shirt Distribution
+
+T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want.
+
+![tshirts2.jpg](/uploads/tshirts2.jpg)
