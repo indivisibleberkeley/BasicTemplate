@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - general assembly
+is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-09-16 19:30:00 -07:00
 event-end-date: 2018-09-16 21:00:00 -07:00
