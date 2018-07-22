@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - general assembly
+- elections
 is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-09-16 19:30:00 -07:00
