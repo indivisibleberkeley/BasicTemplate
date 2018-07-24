@@ -9,6 +9,7 @@ tags:
 - NV
 event-start-date: 2018-09-28 10:00:00 -07:00
 event-end-date: 2018-09-30 18:00:00 -07:00
+Location: Reno, Nevada
 RSVP-link: https://goo.gl/forms/n2R9rO8grFA79dIx2
 ---
 
