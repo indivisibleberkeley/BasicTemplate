@@ -6,8 +6,8 @@ categories:
 tags:
 - environment
 is featured: true
-event-start-date: 2018-08-05 00:00:00 -07:00
-event-end-date: 2018-08-05 00:00:00 -07:00
+event-start-date: 2018-08-05 19:00:00 -07:00
+event-end-date: 2018-08-05 20:45:00 -07:00
 RSVP-link: mailto:environment+owner@indivisibleberkeley.org
 ---
 
