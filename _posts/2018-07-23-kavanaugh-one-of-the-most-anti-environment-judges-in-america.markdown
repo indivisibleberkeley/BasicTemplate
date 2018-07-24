@@ -2,26 +2,11 @@
 title: 'Kavanaugh: One of the Most Anti-environment Judges in America'
 date: 2018-07-23 17:20:00 -07:00
 categories:
-- action
+- event
 tags:
 - environment
 is featured: true
-call-script-text: "Suggested Talking Points - These talking points may be modified
-  to reflect what is most important to the caller and influential to her or his senator.
-  \ A link in the “Background” section provides more information.\n \nPlease tell
-  me how Senator ___ plans to vote on the Brett Kavanaugh nomination.  Confirming
-  him to the Supreme Court would put the environment, climate action, a woman’s right
-  to choose, health care, and LGBTQ rights for thousands of people in our state at
-  risk.  His opinions on the power of the presidency show that he cannot be counted
-  on to hold president Trump accountable, and he will not put the public’s interests
-  above corporate interests. His record is clear: He’s considered one of the most
-  anti-environment judges in America, he’s ruled to dismantle net neutrality, sabotage
-  the Affordable Care Act, and block women from having abortions. Trump nominated
-  him because he was confident Kavanaugh would strike down the Affordable Care Act,
-  overturn a woman’s right to choose, harm LGBTQ rights and refrain from holding the
-  president accountable. Nothing in Judge Kavanaugh’s record demonstrates otherwise.
-  \ Please take my name and phone number so you can let me know how the senator will
-  vote.  It is very important to me that he/she opposes this extreme nominee. \n"
+call-script-text: "\n \n"
 event-start-date: 2018-07-23 00:00:00 -07:00
 event-end-date: 2018-08-31 00:00:00 -07:00
 ---
@@ -36,7 +21,7 @@ Along with the many other reasons for opposing his nomination to the Supreme Cou
 - North Dakota - Democrat [Heidi Heitkamp](https://www.numbersusa.com/content/my/congress/11588/contact) (her state voted for Trump)
 - West Virginia - Democrat [Joe Manchin](https://www.manchin.senate.gov/contact-joe/office-locations) (his state voted for Trump)
 
-**Suggested Talking Points - *These talking points may be modified to reflect what is most important to the caller and influential to her or his senator.  A link in the “Background” section provides more information.* **
+**Suggested Talking Points - *These talking points may be modified to reflect what is most important to the caller and influential to her or his senator.  A link in the “Background” section below provides more information.* **
  
 Please tell me how Senator ___ plans to vote on the Brett Kavanaugh nomination.  Confirming him to the Supreme Court would put the environment, climate action, a woman’s right to choose, health care, and LGBTQ rights for thousands of people in our state at risk.  His opinions on the power of the presidency show that he cannot be counted on to hold president Trump accountable, and he will not put the public’s interests above corporate interests. His record is clear: He’s considered one of the most anti-environment judges in America, he’s ruled to dismantle net neutrality, sabotage the Affordable Care Act, and block women from having abortions. Trump nominated him because he was confident Kavanaugh would strike down the Affordable Care Act, overturn a woman’s right to choose, harm LGBTQ rights and refrain from holding the president accountable. Nothing in Judge Kavanaugh’s record demonstrates otherwise.  Please take my name and phone number so you can let me know how the senator will vote.  It is very important to me that he/she opposes this extreme nominee. 
 
@@ -50,7 +35,7 @@ Before the next presidential election, the Supreme Court could rule on the EPA�
 
 In prior decisions or dissents he has weighed costs of protections over the health benefits, even when the authorizing law does not require it. 
 
-Since a 1984 Supreme Court decision, the Court has granted agencies like EPA “deference” to use their expertise to establish protections under certain conditions, including demonstrating the reasonableness of those protections.  Judge Kavanaugh would join Gorsuch and the other conservative judges to eliminate this deference to agency science experts.  A change in deference would have far-reaching effects on protections, putting the Court in charge of interpreting law in areas outside their expertise and tying up agency action with almost routine court cases to review those actions.    
+Since a 1984 Supreme Court decision, the Court has granted agencies like EPA “deference” to use their expertise to establish protections under certain conditions, including demonstrating the reasonableness of those protections.  Judge Kavanaugh would join Gorsuch and the other conservative judges to eliminate this deference to agency science experts.  A change in deference would have far-reaching effects on protections, putting the Court in charge of interpreting law in areas outside their expertise and tying up agency action with almost routine court cases to review, delay or stop those actions.    
 
 Kavanaugh won’t protect the environment, and he won’t protect the following (for more info click [here](https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/)):  
 
