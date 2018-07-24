@@ -1,6 +1,8 @@
 ---
 title: Science & Environment Team Meeting - August 5
 date: 2018-07-23 18:28:00 -07:00
+categories:
+- event
 tags:
 - environment
 is featured: true
