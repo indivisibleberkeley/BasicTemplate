@@ -13,9 +13,9 @@ Location: Reno, Nevada
 RSVP-link: https://goo.gl/forms/n2R9rO8grFA79dIx2
 ---
 
-[Road Trip! Come to Reno with IB!](https://goo.gl/forms/p6yk4mKbh915k7Nn1
+[Road Trip! Come to Reno with IB!](https://goo.gl/forms/p6yk4mKbh915k7Nn1)
 
-### Note: this is an overnight event, Friday, September 21st – Sunday, September 23rd
+### Note: this is an overnight event, Friday, September 28th – Sunday, September 30th
 
 Help turn Nevada blue by motivating voters! We’ll be knocking doors and doing a bunch of voter contact this weekend. 
 
