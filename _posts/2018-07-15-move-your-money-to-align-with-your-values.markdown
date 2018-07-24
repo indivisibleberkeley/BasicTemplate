@@ -14,6 +14,7 @@ RSVP-link: https://www.eventbrite.com/e/why-move-your-money-a-free-workshop-to-a
 
 ## A Free Workshop to Help People Align Their Money With Their values
 *limited seating*
+[You can also sign up for the webinar!](https://zoom.us/webinar/register/WN_t-jZ6sakQDKM4XcFg7dpcA)
 
 Are you financing dirty energy and fossil fuels, military weapons, private prisons and mass incarceration, the immigration crisis, poverty, gentrification, millionaire profiteers and income inequality? Would you like to find out how to stop supporting these and start supporting a life-giving economy instead? 
 
