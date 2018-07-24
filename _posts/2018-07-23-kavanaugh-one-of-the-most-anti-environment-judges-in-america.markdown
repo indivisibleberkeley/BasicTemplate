@@ -6,22 +6,7 @@ categories:
 tags:
 - environment
 is featured: true
-call-script-text: "Suggested Talking Points - These talking points may be modified
-  to reflect what is most important to the caller and influential to her or his senator.
-  \ A link in the “Background” section provides more information.\n \nPlease tell
-  me how Senator ___ plans to vote on the Brett Kavanaugh nomination.  Confirming
-  him to the Supreme Court would put the environment, climate action, a woman’s right
-  to choose, health care, and LGBTQ rights for thousands of people in our state at
-  risk.  His opinions on the power of the presidency show that he cannot be counted
-  on to hold president Trump accountable, and he will not put the public’s interests
-  above corporate interests. His record is clear: He’s considered one of the most
-  anti-environment judges in America, he’s ruled to dismantle net neutrality, sabotage
-  the Affordable Care Act, and block women from having abortions. Trump nominated
-  him because he was confident Kavanaugh would strike down the Affordable Care Act,
-  overturn a woman’s right to choose, harm LGBTQ rights and refrain from holding the
-  president accountable. Nothing in Judge Kavanaugh’s record demonstrates otherwise.
-  \ Please take my name and phone number so you can let me know how the senator will
-  vote.  It is very important to me that he/she opposes this extreme nominee. \n"
+call-script-text: See below.
 event-start-date: 2018-07-23 00:00:00 -07:00
 event-end-date: 2018-08-31 00:00:00 -07:00
 ---
