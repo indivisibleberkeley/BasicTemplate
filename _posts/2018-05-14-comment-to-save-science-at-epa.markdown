@@ -44,7 +44,7 @@ RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0259-0001
 ### Action
 
 #### (1) Send comments to EPA to oppose restrictions on the Agency’s use of science.  
-[Submit your comments at Regulations.gov using this link by May 30](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0259-0001). EPA is required to publish responses to public comments. By raising the issues in your comments you are requiring the Agency to address these issues and potentially providing support for a future suit against EPA.
+[Submit your comments at Regulations.gov using this link by August 16](https://www.regulations.gov/comment?D=EPA-HQ-OA-2018-0259-0001). EPA is required to publish responses to public comments. By raising the issues in your comments you are requiring the Agency to address these issues and potentially providing support for a future suit against EPA.
 
 #### (2) Share your comments with your members of congress
   * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
