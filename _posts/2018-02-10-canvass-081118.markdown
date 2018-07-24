@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
+is featured: true
 main-image: "/uploads/yardsigns255.png"
 event-start-date: 2018-08-11 09:30:00 -07:00
 event-end-date: 2018-08-11 16:30:00 -07:00
