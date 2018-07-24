@@ -2,7 +2,7 @@
 title: 'Kavanaugh: One of the Most Anti-environment Judges in America'
 date: 2018-07-23 17:20:00 -07:00
 categories:
-- event
+- action
 tags:
 - environment
 - call
