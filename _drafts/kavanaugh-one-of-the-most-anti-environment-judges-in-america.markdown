@@ -5,7 +5,6 @@ categories:
 - action
 tags:
 - environment
-- call
 is featured: true
 call-script-text: "Suggested Talking Points - These talking points may be modified
   to reflect what is most important to the caller and influential to her or his senator.
@@ -31,11 +30,11 @@ Along with the many other reasons for opposing his nomination to the Supreme Cou
 
 **Action:** Ask your friends, family and social media contacts in the following states to call their senators to oppose Kavanaugh’s nomination.  (Please DO NOT CALL SENATORS FROM OTHER STATES, yourself; it is counter-productive, as explained [here](https://www.indivisible.org/resource/not-call-members-arent/?link_id=1&can_id=06c9460b9153c981a6209546f87ff5a0&source=email-newsletter-717-call-only-your-members-of-congress&email_referrer=email_386130___subject_480498&email_subject=newsletter-717-call-only-your-members-of-congress).)  Callers can click on a senator’s name, below, to display a page with phone numbers.
 
-Alaska - Republican Lisa Murkowski  
-Indiana - Democrat Joe Donnelly (his state voted for Trump)
-Maine - Republican Susan Collins
-North Dakota - Democrat Heidi Heitkamp (her state voted for Trump)
-West Virginia - Democrat Joe Manchin (his state voted for Trump)
+- Alaska - Republican Lisa Murkowski  
+- Indiana - Democrat Joe Donnelly (his state voted for Trump)
+- Maine - Republican Susan Collins
+- North Dakota - Democrat Heidi Heitkamp (her state voted for Trump)
+- West Virginia - Democrat Joe Manchin (his state voted for Trump)
 
 
 
