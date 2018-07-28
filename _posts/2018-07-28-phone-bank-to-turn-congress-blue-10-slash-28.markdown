@@ -7,6 +7,10 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
+event-start-date: 2018-10-28 13:00:00 -07:00
+event-end-date: 2018-10-28 16:00:00 -07:00
+Location: Berkeley
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScQnEVoOzg6EoQxkG8SOc_SRS16hmyTBOyalA1HIyNM2TnNlw/viewform
 ---
 
 We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
