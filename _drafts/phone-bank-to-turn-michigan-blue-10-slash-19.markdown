@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Turn Michigan Blue 10/19
+title: Phone Bank to Turn Michigan Blue 8/19
 date: 2018-07-28 11:40:00 -07:00
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 ---
