@@ -13,7 +13,7 @@ Location: Montclair
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfTT5zt3nXA1MoffPCUPEPhWbrI8sQD7cBbkcZRaIHY5YwGaQ/viewform
 ---
 
-We're focusing our efforts on two targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
+We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
 
 Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto).
 
