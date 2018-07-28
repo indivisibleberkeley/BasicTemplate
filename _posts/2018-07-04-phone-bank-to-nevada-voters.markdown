@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-07-29 13:00:00 -07:00
 event-end-date: 2018-07-29 16:00:00 -07:00
-Location: Near Cedar & Martin Luther King Way in Berkeley
+Location: 'El Cerrito or West Berkeley '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdmVa2zeihWNc9qVDJ0XNojmPaDF4vPXrTqXPw6kOMb1CcimA/viewform
 ---
 
