@@ -25,6 +25,9 @@ Step-by-step guides to setting up a new account with a socially responsible bank
 * [Partial List of Credit Unions and Socially Responsible Banks (Berkeley)](https://drive.google.com/file/d/1ZybQpL4QQdDJbH-HK9WmIAsfQ-hXnL2Q/view) 
 Here are some of the credit unions and socially responsible banks in Berkeley (2 separate lists).
 
+* [Credit Card Information](https://drive.google.com/file/d/1ZybQpL4QQdDJbH-HK9WmIAsfQ-hXnL2Q/view) 
+Click here for a chart of the major credit cards, what banks are behind them, and where they invest their profits.
+
 * [Resources for Moving Your Bank (Fossil Free California)
 ](https://drive.google.com/open?id=1hNnyrR3kyOJJZpZQ4mCplJxLDfTi28I1) 
 Fossil Free California has been doing this work for a while, and they have their own list of great resources. Plus, at the bottom are some helpful links for making sure your investments reflect your values.
