@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-09-30 13:00:00 -07:00
 event-end-date: 2018-09-30 16:00:00 -07:00
-Location: Berkeley hills
+Location: Berkeley Hills
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeDLj3HvU9ePfC3xI_XNLARBWnFJRDunpe48rgEY3qJFqFY6Q/viewform
 ---
 
