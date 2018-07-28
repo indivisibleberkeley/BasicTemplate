@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Turn Congress Blue - 9/30
+title: Phone Bank to Turn Congress Blue, 9/30
 date: 2018-07-28 11:06:00 -07:00
 categories:
 - event
