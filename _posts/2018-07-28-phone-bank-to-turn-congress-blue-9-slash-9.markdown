@@ -13,7 +13,7 @@ Location: Albany
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdKZ_a6vjHrSgysXhA4uNjmeIAuVxUp-DeAVe6mYHT8v73x1Q/viewform
 ---
 
-We're focusing our efforts on two targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
+We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
 
 Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto).
 
@@ -22,7 +22,7 @@ Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Co
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
 PHONE BANK DETAILS
-Sunday, September 9, 3-6pm   -- Come and join us after the Solano Stroll! 
+Sunday, September 9, 3-6pm   -- Come and join us after the Solano Stroll!
 Location: Albany
 
 Please RSVP, and we'll get back to you with more details.
