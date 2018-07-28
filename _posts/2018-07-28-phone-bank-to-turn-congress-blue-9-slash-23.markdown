@@ -21,8 +21,4 @@ Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Co
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-PHONE BANK DETAILS
-Sunday, September 23, 1-4pm  
-Location: Montclair
-
 Please RSVP, and we'll get back to you with more details.
