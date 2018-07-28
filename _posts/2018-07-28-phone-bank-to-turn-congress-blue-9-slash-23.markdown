@@ -7,7 +7,7 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
-event-start-date: 2018-09-23 00:00:00 -07:00
+event-start-date: 2018-09-23 13:00:00 -07:00
 event-end-date: 2018-09-23 16:00:00 -07:00
 Location: Montclair
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfTT5zt3nXA1MoffPCUPEPhWbrI8sQD7cBbkcZRaIHY5YwGaQ/viewform
