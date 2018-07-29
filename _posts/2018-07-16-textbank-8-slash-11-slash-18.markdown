@@ -8,11 +8,16 @@ tags:
 - textbank
 event-start-date: 2018-08-11 14:00:00 -07:00
 event-end-date: 2018-08-11 16:00:00 -07:00
-Location: To Be Determined
+Location: RSVP for location
+RSVP-link: mailto:Steve Cohen cohensteve@att.net
 ---
 
-This is our regular textbanking effort with live support at Drake's Dealership in Oakland with Sister District Project CA-13 and Indivisible East Bay. 
+Who: New or experienced texters
 
-Textbanking can be done alone, furious and often done on the fly, but it's more fun and focused in groups where you can grab a beer or a snack, chat with other activists and get unstuck because experienced textbankers will be with you to pull you out of holes. We guarantee there will always be opportunities for you waiting in the queue! Work flows should be available two days before the textbank and we’ll help you get started before you arrive. 
+What: Once a month textbanking for critical candidates and causes through the midterms. We’ll help you get started before you arrive as needed. Opportunities will be waiting in the queue!
 
-For more information, contact IB Textbanking Captain Steve Cohen at cohensteve@att.net.
+When: Saturday, August 11, 2-4 PM
+
+Where: A beautiful Berkeley home with good wifi, food and refreshments, street parking and a conducive atmosphere. 
+
+RSVP:  To participate, email [Steve Cohen](mailto:cohensteve@att.net) for location and help.
