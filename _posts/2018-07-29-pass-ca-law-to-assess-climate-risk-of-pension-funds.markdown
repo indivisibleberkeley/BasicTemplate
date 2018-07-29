@@ -33,7 +33,7 @@ actionnetwork.org/petitions/support-ffcas-climate-bill-sb-964).
 
 **Background**
 
-SB 964 passed the Senate in May. The Assembly Appropriations Committee is the last hurdle before it can be voted on in the Assembly. Opponents are lobbying this committee so support letters are important.
+SB 964 passed the Senate in May. The Assembly Appropriations Committee is the last hurdle before it can be voted on in the Assembly. Opponents are lobbying this committee, so support letters are important.
 
 CALPERS (CA public employees) is the largest public pension plan in the country, and CALSTRS (CA teachers) is the second largest. Together their portfolios are worth $560 billion, giving them tremendous influence. Data is becoming available which makes it possible to link an individual fossil fuel company to its share  of climate change damage. Several law suits, including those of San Francisco, New York City and Boulder, have been filed against individual oil companies for damages from the climate change their products have caused. 
 
