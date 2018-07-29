@@ -25,6 +25,7 @@ event-end-date: 2018-08-06 23:59:00 -07:00
 **Action**
 Preferred:  Email or fax a support letter to the consultant preparing an analysis of SB 964 for the Assembly Appropriations Committee.
 Email: luke.reidenbach@asm.ca.gov
+
 or Committee fax: 916-319-2181
 
 Alternative:  If you are unable to send a support letter, you may sign the petition supporting this bill at Fossil Free California’s [website](
