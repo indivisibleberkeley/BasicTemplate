@@ -1,6 +1,7 @@
 ---
 title: "Pass Law to Assess Climate \nRisk of CA Pension Funds"
 date: 2018-07-29 15:23:00 -07:00
+published: false
 categories:
 - action
 tags:
@@ -28,8 +29,7 @@ Email: luke.reidenbach@asm.ca.gov
 
 or Committee fax: 916-319-2181
 
-Alternative:  If you are unable to send a support letter, you may sign the petition supporting this bill at Fossil Free California’s [website](
-actionnetwork.org/petitions/support-ffcas-climate-bill-sb-964).
+Alternative:  If you are unable to send a support letter, you may sign the petition supporting this bill at Fossil Free California’s [website]        (actionnetwork.org/petitions/support-ffcas-climate-bill-sb-964).
 
 **Background**
 
