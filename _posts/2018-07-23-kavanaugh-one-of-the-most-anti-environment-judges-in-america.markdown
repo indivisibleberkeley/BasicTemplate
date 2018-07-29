@@ -37,7 +37,7 @@ In prior decisions or dissents he has weighed costs of protections over the heal
 
 Since a 1984 Supreme Court decision, the Court has granted agencies like EPA “deference” to use their expertise to establish protections under certain conditions, including demonstrating the reasonableness of those protections.  Judge Kavanaugh would join Gorsuch and the other conservative judges to eliminate this deference to agency science experts.  A change in deference would have far-reaching effects on protections, putting the Court in charge of interpreting law in areas outside their expertise and tying up agency action with almost routine court cases to review those actions.    
 
-Kavanaugh won’t protect the environment, and he won’t protect the following (for more info click [here](https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/)):  
+Kavanaugh won’t protect the environment, and he won’t protect the following (for more info click [here](https://actionnetwork.org/petitions/support-ffcas-climate-bill-sb-964).  
 
 - Our democracy, by holding Trump accountable for threats posed to our electoral system
 - Consumers, by reigning in corporate and privacy abuse  
