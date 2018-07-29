@@ -10,13 +10,14 @@ call-script-text: "I live in(city and zip). I am very worried about the relation
   between climate change and extreme weather, especially the recent increases in drought,
   and the increasingly damaging fires  wild fires in the State. I urge the Assembly
   Appropriations Committee to move SB964 out of committee to the Assembly floor so
-  it can be voted on this August. \n\nBy requiring CALPERS and CALSTRS to consider
-  climate related financial risk for all the investments in their portfolios, SB 964
-  would prod all companies to calculate their financial risk from climate change.
-  Further, because SB964 requires that CALPERS and CALSTRS publicly report on the
-  climate related financial risk of all the companies in their portfolios it will
-  focus public attention on the economic damage fossil fuels are creating. This will
-  highlight the importance of transitioning away from fossil fuels as fast as is feasible. "
+  it can be voted on this August. \n\nRequiring CALPERS and CALSTRS to consider the
+  climate-related financial risks of the investments in their portfolios, SB 964 would
+  strengthen the portfolios and provide a model for other investment funds to assess
+  their risks.  Further, because SB964 requires that CALPERS and CALSTRS publicly
+  report on the climate-related financial risk of the companies in their portfolios,
+  it will focus public attention on the economic damage fossil fuels are creating.
+  This will highlight the importance of transitioning away from fossil fuels as fast
+  as is feasible. "
 event-start-date: 2018-07-29 00:00:00 -07:00
 event-end-date: 2018-08-06 23:59:00 -07:00
 ---
