@@ -1,7 +1,6 @@
 ---
 title: "Pass Law to Assess Climate \nRisk of CA Pension Funds"
 date: 2018-07-29 15:23:00 -07:00
-published: false
 categories:
 - action
 tags:
