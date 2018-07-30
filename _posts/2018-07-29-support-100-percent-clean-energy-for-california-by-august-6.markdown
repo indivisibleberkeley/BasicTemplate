@@ -9,7 +9,7 @@ is featured: true
 call-script-text: |+
   **Action(by August 7)**
 
-  Visit Fossil Free California [website](https://actionnetwork.org/petitions/support-sb-100-move-california-to-100-clean-electricity?nowrapper=true&referrer=&source=direct_link).
+  Sign the petition to support 100% Clean Electricity in California at the Action Network [website](https://actionnetwork.org/petitions/support-sb-100-move-california-to-100-clean-electricity?nowrapper=true&referrer=&source=direct_link).
 
 
 
