@@ -2,20 +2,22 @@
 title: Support 100% Clean Energy for California - by August 6
 date: 2018-07-29 19:37:00 -07:00
 categories:
-- action
+- event
 tags:
 - environment
 is featured: true
-call-script-text: |+
-  **Action(by August 7)**
+call-script-text: |2+
 
-  Visit Fossil Free California [website](https://actionnetwork.org/petitions/support-Sb-100-move-california-to-100-clean-electricity?) to sign petition supporting SB100.
 
 
 
 event-start-date: 2018-07-29 22:00:00 -07:00
 event-end-date: 2018-08-06 23:59:00 -07:00
 ---
+
+**Action(by August 7)**
+
+Visit Fossil Free California [website](https://actionnetwork.org/petitions/support-sb-100-move-california-to-100-clean-electricity?nowrapper=true&referrer=&source=direct_link).
 
 **Background**
 
