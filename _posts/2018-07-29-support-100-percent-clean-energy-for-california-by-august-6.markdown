@@ -11,7 +11,7 @@ call-script-text: |+
 
 
 
-event-start-date: 2018-07-29 00:00:00 -07:00
+event-start-date: 2018-07-29 22:00:00 -07:00
 event-end-date: 2018-08-07 23:59:00 -07:00
 ---
 
