@@ -3,6 +3,7 @@ title: Support 100% Clean Energy for California - by August 6
 date: 2018-07-29 19:37:00 -07:00
 categories:
 - action
+is featured: true
 call-script-text: |+
   **Action(by August 7)**
 
