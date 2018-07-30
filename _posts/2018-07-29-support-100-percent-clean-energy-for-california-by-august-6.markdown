@@ -6,8 +6,10 @@ categories:
 tags:
 - environment
 is featured: true
-call-script-text: |2+
+call-script-text: |+
+  **Action(by August 7)**
 
+  Visit Fossil Free California [website](https://actionnetwork.org/petitions/support-sb-100-move-california-to-100-clean-electricity?nowrapper=true&referrer=&source=direct_link).
 
 
 
@@ -15,9 +17,7 @@ event-start-date: 2018-07-29 22:00:00 -07:00
 event-end-date: 2018-08-06 23:59:00 -07:00
 ---
 
-**Action(by August 7)**
 
-Visit Fossil Free California [website](https://actionnetwork.org/petitions/support-sb-100-move-california-to-100-clean-electricity?nowrapper=true&referrer=&source=direct_link).
 
 **Background**
 
