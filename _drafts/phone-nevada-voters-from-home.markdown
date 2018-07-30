@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/Red_phone-b81221.jpg"
 event-start-date: 2018-05-20 09:00:00 -07:00
-event-end-date: 2018-07-15 12:00:00 -07:00
+event-end-date: 2018-08-30 12:00:00 -07:00
 RSVP-link:
 - 
 ---
