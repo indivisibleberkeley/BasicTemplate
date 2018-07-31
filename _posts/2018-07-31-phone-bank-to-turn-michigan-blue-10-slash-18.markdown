@@ -7,8 +7,8 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
-event-start-date: 2018-07-31 14:00:00 -07:00
-event-end-date: 2018-07-31 17:00:00 -07:00
+event-start-date: 2018-10-18 14:00:00 -07:00
+event-end-date: 2018-10-18 17:00:00 -07:00
 Location: 2030 Addison St, Suite 640A, Berkeley CA 94704
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfgh9NkgmzBpMluehB_48dZ2zN6r42J5v7aauU8FJEmCdXGIQ/viewform
 ---
