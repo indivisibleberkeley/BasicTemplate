@@ -19,6 +19,8 @@ Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tig
 
 Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.   
+
+2 LOCATIONS!  West Berkeley, 1-4pm    &  Albany, 5-8pm
 
 Please RSVP, and we'll get back to you with more details.
