@@ -14,7 +14,7 @@ RSVP-link: https://goo.gl/forms/mFyub37QjiBGuBRK2
 
 We'll join the monthly Let Our People Go! protest to call for the release of immigrants incarcerated at the West County Detention Facility in Richmond. There will be music, art, story sharing, and updates from activists.
 
-**[Link to Event Page](https://www.facebook.com/events/200273594003806/)
+**[Link to Event Page](https://www.facebook.com/events/200273594003806/); 
 [Link to RSVP](https://goo.gl/forms/SsVAAaPGaBH0uAoC2)**
 
 In July, Contra Costa County Sheriff Livingston announced that he is canceling his office's contract with ICE. Currently, hundreds of immigrants are being held at the West County Detention Facility (WCDF), the county jail in Richmond. Contra Costa County Supervisors have allocated an additional $3 million to Sheriff Livingston's budget, to make up for the $3 million per year his office had been receiving from ICE.
