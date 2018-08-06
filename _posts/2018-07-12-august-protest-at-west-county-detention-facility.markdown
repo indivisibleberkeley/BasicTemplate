@@ -11,13 +11,18 @@ Location: 5555 Giant Highway, Richmond, CA
 RSVP-link: https://www.facebook.com/events/200273594003806/
 ---
 
-We may have ICE and Sheriff Livingston on their heels in the Bay Area, but the work of mass resistance has just begun in earnest! Kidnapped migrant children are being interned alone, building sickeningly on the racist family separations of millions under mass incarceration in the U.S. Join the monthly Let Our People Go protest at Richmond's West County Detention Center (WCDF) as we fight back for our peoples!
+We'll join the monthly Let Our People Go! protest to call for the release of immigrants incarcerated at the West County Detention Facility in Richmond. There will be music, art, story sharing, and updates from activists.
 
-• HEAR samba band Sistah Boom
-• GET UPDATES from political organizers (TBA)
-• WRITE letters to individuals detained by ICE
-• CREATE at the children's art table
-• SHOUT with the Let Our People Go community circle
-• And more!
+**[Link to Event Page](https://www.facebook.com/events/200273594003806/)
+[Link to RSVP](https://goo.gl/forms/SsVAAaPGaBH0uAoC2)**
 
-PARKING/TRANSIT ALERT: If you're driving, please carpool if possible! Please try to only use the jail parking lot if you have accessibility issues, are visiting family there, or cannot afford the adjacent parking lot. Others, please pay $3 to park at the adjacent Point Pinole Regional Shoreline/Bay Trail parking lot at 5551 Giant Highway, and walk 0.4 miles (turn left) to West County Detention Facility (WCDF) next door. Another option: the 71 bus to WCDF leaves from Richmond BART every hour. 
+In July, Contra Costa County Sheriff Livingston announced that he is canceling his office's contract with ICE. Currently, hundreds of immigrants are being held at the West County Detention Facility (WCDF), the county jail in Richmond. Contra Costa County Supervisors have allocated an additional $3 million to Sheriff Livingston's budget, to make up for the $3 million per year his office had been receiving from ICE.
+
+Now that the contract is being canceled, it is more urgent than ever that the immigrants currently detained at WCDF are released, so that they can be reunited with their families and communities while they wait for their court dates. ICE will likely try to transfer detainees to other facilities, far away from their families and support networks.
+
+
+LOGISTICS UPDATE: The sheriff's office has fenced off the parking lot to prevent activists and volunteers from gathering at the entrance to WCDF. Actions planned for WCDF will likely take place across the street.
+
+If you are driving, please plan to park at Point Pinole Regional Shoreline/Bay Trail parking lot at 5551 Giant Highway, and walk 0.4 miles (turn left) to the detention facility. Please carpool if possible - [use this page to coordinate.](http://www.groupcarpool.com/t/hsep7m) 
+
+Another option: the #71 bus to WCDF leaves from Richmond BART every hour. 
