@@ -35,4 +35,7 @@ Fossil Free California has been doing this work for a while, and they have their
 * [Sample Letter to Banks (final step!)](https://drive.google.com/open?id=1d3uLwwsfQuNblZN6NK99GcN_Y748LuD2) 
 You've broken up with Wells Fargo or Chase! Congrats. Now comes the important and satisfying step of letting them know why you left them. Here's a sample to help you get started. 
 
+* [As You Sow's Invest Your Values screening tools](https://www.asyousow.org/invest-your-values) 
+Aligning investments with values requires that you know what you own—but it’s almost impossible to know what individual companies you own if you’re invested through mutual funds. As You Sow has created amazing tools that allow you to see what your investment funds are invested in: fossil fuels, weapons, tobacco, deforestation, etc. And they're adding more screens all the time!
+
 And . . . for fun! Here's a link to [Ry Cooder's "No Banker Left Behind"](https://youtu.be/ZXHckAFMzaw)
