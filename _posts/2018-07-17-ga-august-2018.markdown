@@ -17,7 +17,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
   this div is the target for our HTML insertion --></div>"
 ---
 
-Join us on August 12 for the next Indivisible Berkeley General Assembly! Agenda TBA.
+Join us on August 12 for the next Indivisible Berkeley General Assembly! Agenda is TBA.
 
 Come on down and bring a friend to the best way to get involved in making our city and country a better place!
 
