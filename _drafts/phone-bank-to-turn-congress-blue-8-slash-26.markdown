@@ -10,14 +10,16 @@ event-end-date: 2018-08-26 16:00:00 -07:00
 Location: Montclair
 ---
 
-Join us as we phone voters in a swing district or state! We're focusing our efforts on two targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
-
-Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). 
-
-Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices. 
+Help flip nearby California Congressional District 10!  Send  Democrat Josh Harder  to Washington and turn Congress Blue!  This won't be an easy fight -- Republicans are pouring money into the district to shore up the incumbent.   But Harder is a strong candidate, and we can win this  -- IF we all work together to make it happen!
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
+**DATE:** Sunday, Aug 5, 1-4pm
+
+**Location:** Near Cedar & Martin Luther King, Berkeley
+
+**Please RSVP**, and we'll get back to you with more details --  Thank you!
+
 PHONE BANK DETAILS\
 Sunday, August 26, 1-4pm\
-Location:  Montclair 
+Location:  Montclair
