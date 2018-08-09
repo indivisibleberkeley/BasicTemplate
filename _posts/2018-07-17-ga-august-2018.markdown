@@ -21,7 +21,7 @@ Join us on August 12 for the next Indivisible Berkeley General Assembly! Agenda 
 
 Come on down and bring a friend to the best way to get involved in making our city and country a better place!
 
-Doors open at 7. We start promptly at 7:30.
+Doors open at 7. We start promptly at 7:30. Please bring a laptop or tablet computer if you are able to. (If you can't, we would still love to have you!)
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
