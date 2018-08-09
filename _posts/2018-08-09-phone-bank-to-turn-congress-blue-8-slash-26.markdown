@@ -1,6 +1,8 @@
 ---
 title: Phone Bank to Turn Congress Blue! 8/26
 date: 2018-08-09 10:40:00 -07:00
+categories:
+- event
 tags:
 - elections
 - phonebank
