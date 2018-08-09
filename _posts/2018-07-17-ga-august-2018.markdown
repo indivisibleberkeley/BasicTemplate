@@ -17,11 +17,11 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
   this div is the target for our HTML insertion --></div>"
 ---
 
-Join us on August 12 for the next Indivisible Berkeley General Assembly! Agenda is TBA.
+Join us on August 12 for the next Indivisible Berkeley General Assembly! This month we will talk about our electoral strategy for the midterm elections and will spend some time contacting real-live voters to make sure they know about the upcoming election!
 
 Come on down and bring a friend to the best way to get involved in making our city and country a better place!
 
-Doors open at 7. We start promptly at 7:30. Please bring a laptop or tablet computer if you are able to. (If you can't, we would still love to have you!)
+Doors open at 7. We start promptly at 7:30. **Please bring a laptop or tablet computer if you are able to. If you can't, we would still love you to join us!**
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
