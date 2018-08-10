@@ -17,7 +17,7 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeo1_8d32XziskggOJy5wf-iqCbQ
 
 Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race against the incumbent in neighboring CD-10 (Tracy, Modesto).
 
-Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
+Jacky Rosen for the Nevada Senate seat. The Senate confirms Supreme Court nominee! We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you. 
 
