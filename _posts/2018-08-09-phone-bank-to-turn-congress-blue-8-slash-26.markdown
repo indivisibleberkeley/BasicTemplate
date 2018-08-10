@@ -1,5 +1,5 @@
 ---
-title: Phone Banks to CD-10 & Nevada Turn Congress Blue! 8/26
+title: Phone Banks to CD-10 & Nevada - Turn Congress Blue! 8/26
 date: 2018-08-09 10:40:00 -07:00
 categories:
 - event
