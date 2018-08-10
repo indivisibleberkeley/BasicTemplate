@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 is featured: true
-event-start-date: 2018-08-19 19:15:00 -07:00
+event-start-date: 2018-08-19 19:00:00 -07:00
 event-end-date: 2018-08-19 20:45:00 -07:00
 ---
 
