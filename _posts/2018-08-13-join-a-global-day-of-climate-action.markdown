@@ -12,8 +12,8 @@ On September 8 the San Francisco Bay Area is joining thousands of cities and tow
 
 Local organizations including 350 Bay Area, the Asian Pacific Environmental Network (APEN), California Environmental Justice Alliance (CEJA), PODER, Service Employees International 1021 (SEIU 1021), Idle No More, North Bay Organizing Project, Jobs With Justice and many others, are supporting this local action.  
 
-**When:** 10:00 am September 8
-**Where:** Embarcadero Plaza, San Francisco
+**When:** 10:00 am September 8  
+**Where:** Embarcadero Plaza, San Francisco  
 **RSVP:** [CA Rise for Climate](https://riseforclimate.org/)  
 
 We will send a reminder to our [e-mail list](mailto: environment+subscribe@indivisibleberkeley.org) and updates as the event draws near.  We hope you will participate!
