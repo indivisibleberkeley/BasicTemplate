@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - immigration
-is featured: true
+is featured: false
 event-start-date: 2018-08-12 11:00:00 -07:00
 event-end-date: 2018-08-12 12:30:00 -07:00
 Location: 5555 Giant Highway, Richmond, CA
