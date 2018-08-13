@@ -16,5 +16,5 @@ Local organizations including 350 Bay Area, the Asian Pacific Environmental Netw
 **Where:** Embarcadero Plaza, San Francisco
 **RSVP:** [CA Rise for Climate](https://riseforclimate.org/)  
 
-We will send a reminder to our [e-mail list](environment+subscribe@indivisibleberkeley.org) and updates as the event draws near.  We hope you will participate!
+We will send a reminder to our [e-mail list](mailto: environment+subscribe@indivisibleberkeley.org) and updates as the event draws near.  We hope you will participate!
 
