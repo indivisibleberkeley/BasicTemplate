@@ -43,6 +43,7 @@ call-script-text: "### Action\n**(1) Submit your comment by September 24th to th
   Thank you!  \n*[Include your comments to the Federal Register in your email to Members
   of Congress or express them verbally if you are phoning]*  "
 event-end-date: 2018-09-24 23:59:00 -07:00
+RSVP-link: https://www.regulations.gov/comment?D=FWS-HQ-ES-2018-0006-0001
 ---
 
 ### Contact Information for Members of Congress
