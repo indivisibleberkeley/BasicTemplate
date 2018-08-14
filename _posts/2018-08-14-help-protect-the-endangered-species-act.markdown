@@ -42,7 +42,7 @@ call-script-text: "### Action\n**(1) Submit your comment by September 24th to th
   please oppose upcoming proposed bills in the House and Senate that would greatly
   compromise the ESA protections. Thank you!  \n*[Include your comments to the Federal
   Register in your email to Members of Congress or express them verbally if you are
-  phoning]*  "
+  phoning.]*  "
 event-end-date: 2018-09-24 23:59:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=FWS-HQ-ES-2018-0006-0001
 ---
