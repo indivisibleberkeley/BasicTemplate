@@ -9,39 +9,40 @@ tags:
 call-script-text: "### Action\n**(1) Submit your comment by September 24th to the
   Federal Register.** [Click here](https://www.regulations.gov/comment?D=FWS-HQ-ES-2018-0006-0001)
   and modify the suggested comment script below to oppose gutting of key provisions
-  of the Endangered Species Act.\n**(2) Share your comments with your members of congress
-  using the suggested script and contact information below.**\n\n### Suggested Comment
-  Script for the Federal Register\nI strongly oppose any weakening of the Endangered
-  Species Act (ESA) as currently proposed by the US Fish and Wildlife Service and
-  the National Marine Fisheries Service. The ESA was adopted in 1973, with overwhelming
-  bipartisan support, and it has been very successful in preserving animal and plant
-  species in the US since then. It is also overwhelmingly supported by the American
-  people (4 out of 5), who want to see our environment protected and a natural heritage
-  left for our children and grandchildren.  \n\nAlthough the ESA and its implementing
-  regulations specifically state that species needs should be based on the best scientific
-  and commercial data independent of any economic or other impacts, the proposed changes
-  would limit the use of science and increase the influence of economic factors. Some
-  of the proposed changes include: 1) removing automatic protections for threatened
-  species, 2) adding economic factors to endangered species determinations, 3) removing
-  regulations requiring federal agencies to consult scientists before issuing resource
-  extraction permits, and 4) redefining “foreseeable future” - a criteria for assessing
-  threatened species - in a way that would make it difficult to assess the real climate
-  change impacts that could harm species.  These and other proposed changes would
-  completely undercut the effectiveness of the ESA, and will lead to certain extinction
-  of plant and animal species. These proposals would overwhelm already underfunded
-  federal agencies tasked with making conservation decisions and delay or negate sound
-  scientific determinations and recovery plans. The proposed changes would benefit
-  a small group of commercial interests (oil and gas extraction, mining, ranching)
-  to the detriment of our nation’s national heritage and the survival of the species
-  with which we share this land. The changes would destroy the effectiveness of this
-  highly successful act in meeting its intended goal of preserving species.  \n\n\n###
-  Suggested Script for Members of Congress\nI have sent the attached comments to the
-  US Fish and Wildlife Service and National Marine Fisheries Service regarding their
-  proposals to significantly weaken the Endangered Species Act (ESA). Please speak
-  up strongly to oppose this attack on the ESA and please oppose upcoming proposed
-  bills in the House and Senate that would greatly compromise the ESA protections.
-  Thank you!  \n*[Include your comments to the Federal Register in your email to Members
-  of Congress or express them verbally if you are phoning]*  "
+  of the Endangered Species Act.  \n\n**(2) Share your comments with your members
+  of congress using the suggested script and contact information below.**  \n\n###
+  Suggested Comment Script for the Federal Register\nI strongly oppose any weakening
+  of the Endangered Species Act (ESA) as currently proposed by the US Fish and Wildlife
+  Service and the National Marine Fisheries Service. The ESA was adopted in 1973,
+  with overwhelming bipartisan support, and it has been very successful in preserving
+  animal and plant species in the US since then. It is also overwhelmingly supported
+  by the American people (4 out of 5), who want to see our environment protected and
+  a natural heritage left for our children and grandchildren.  \n\nAlthough the ESA
+  and its implementing regulations specifically state that species needs should be
+  based on the best scientific and commercial data independent of any economic or
+  other impacts, the proposed changes would limit the use of science and increase
+  the influence of economic factors. Some of the proposed changes include: 1) removing
+  automatic protections for threatened species, 2) adding economic factors to endangered
+  species determinations, 3) removing regulations requiring federal agencies to consult
+  scientists before issuing resource extraction permits, and 4) redefining “foreseeable
+  future” - a criteria for assessing threatened species - in a way that would make
+  it difficult to assess the real climate change impacts that could harm species.
+  \ These and other proposed changes would completely undercut the effectiveness of
+  the ESA, and will lead to certain extinction of plant and animal species. These
+  proposals would overwhelm already underfunded federal agencies tasked with making
+  conservation decisions and delay or negate sound scientific determinations and recovery
+  plans. The proposed changes would benefit a small group of commercial interests
+  (oil and gas extraction, mining, ranching) to the detriment of our nation’s national
+  heritage and the survival of the species with which we share this land. The changes
+  would destroy the effectiveness of this highly successful act in meeting its intended
+  goal of preserving species.  \n\n\n### Suggested Script for Members of Congress\nI
+  have sent the attached comments to the US Fish and Wildlife Service and National
+  Marine Fisheries Service regarding their proposals to significantly weaken the Endangered
+  Species Act (ESA). Please speak up strongly to oppose this attack on the ESA and
+  please oppose upcoming proposed bills in the House and Senate that would greatly
+  compromise the ESA protections. Thank you!  \n*[Include your comments to the Federal
+  Register in your email to Members of Congress or express them verbally if you are
+  phoning]*  "
 event-end-date: 2018-09-24 23:59:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=FWS-HQ-ES-2018-0006-0001
 ---
