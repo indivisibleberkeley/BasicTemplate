@@ -17,3 +17,5 @@ Kavanaugh’s rulings and writings have been against women’s reproductive righ
 Local supporters include the Women’s March Bay Area Group, the San Francisco Democratic Party, and Now California. National supporters include the American Federation of Teachers, Working Families Party, Planned Parenthood Action Group, CREDO and Daily Kos.  
 
 Please help us support this important rally.
+
+Please also see our other [action to oppose Kavanaugh](https://indivisibleberkeley.org/action/kavanaugh-one-of-the-most-anti-environment-judges-in-america).
