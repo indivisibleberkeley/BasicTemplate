@@ -6,6 +6,7 @@ categories:
 tags:
 - comment
 - environment
+is featured: false
 call-script-text: "### Comment Script  \n*Note: It is best to personalize or modify
   the wording (without changing its meaning).  You do not need to be a scientist to
   submit your comments, but say so, if you are.*  \n\n(As someone trained in scientific
