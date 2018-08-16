@@ -15,7 +15,7 @@ RSVP-link: 'cohensteve@att.net '
 
 Second Saturday Textbank 
 
-This is for new or experienced texters! It’s our once a monthly textbanking for critical candidates and causes through the midterms. 
+This is for new or experienced texters! It’s our once a month textbanking for critical candidates and causes through the midterms. 
 
 We’ll help you get started before you arrive as needed and provide support during the meeting. 
 
