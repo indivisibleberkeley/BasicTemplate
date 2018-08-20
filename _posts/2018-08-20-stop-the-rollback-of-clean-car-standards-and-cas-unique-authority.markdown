@@ -9,25 +9,25 @@ call-script-text: "### Action\n**(1) Submit your comment by October 2nd to the E
   and the National Highway Traffic Safety Administration.** [Click here](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0001)**
   and modify the suggested comment script below to oppose the rollback of key federal
   clean car standards and the elimination of California's ability to set more stringent
-  standards.  \n\n**(2) Share your comments with your members of congress using the
-  suggested script and contact information below.**  \n\n### Suggested Comment Script\n*Note:
-  It is best to personalize or modify the wording (without changing its meaning).
-  \ You do not need to be a scientist or expert to submit your comments.*\n\nThe transportation
-  sector is the largest contributor of greenhouse gas (GHG) emissions in the United
-  States, and vehicles are the largest source of air pollution. EPA’s duty to protect
-  public health and welfare means taking urgent steps to reduce vehicle emissions,
-  including GHGs, to the greatest extent possible. The current proposal will increase
-  emissions. Failing to take the strongest possible action now will ensure escalated
-  global warming and major loss of life and health.  Maintaining the standards developed
-  and agreed to by the U.S. government, auto makers and the state of California in
-  2012 for model years 2021-2026 (“previously issued standards”) is justified by thorough
-  analysis and public input.  Global warming has already set in motion changes that
-  will further accelerate warming. Increasing emissions cannot be justified based
-  on science, cost or available technology.  \n\nThe agencies’ current proposal appears
-  to substitute assumptions about consumer behavior - that consumers will keep their
-  older, less safe cars longer - and manufacturers’ good faith - they will over-comply
-  with less stringent standards - for scientific and analytical rigor. It is not clear
-  that consumer behavior is a legally defensible criterion for determining health-based
+  standards.  \n\n**(2) Share your comments with your members of congress using contact
+  information below.**  \n\n### Suggested Script\n*Note: It is best to personalize
+  or modify the wording (without changing its meaning).  You do not need to be a scientist
+  or expert to submit your comments.*\n\nThe transportation sector is the largest
+  contributor of greenhouse gas (GHG) emissions in the United States, and vehicles
+  are the largest source of air pollution. EPA’s duty to protect public health and
+  welfare means taking urgent steps to reduce vehicle emissions, including GHGs, to
+  the greatest extent possible. The current proposal will increase emissions. Failing
+  to take the strongest possible action now will ensure escalated global warming and
+  major loss of life and health.  Maintaining the standards developed and agreed to
+  by the U.S. government, auto makers and the state of California in 2012 for model
+  years 2021-2026 (“previously issued standards”) is justified by thorough analysis
+  and public input.  Global warming has already set in motion changes that will further
+  accelerate warming. Increasing emissions cannot be justified based on science, cost
+  or available technology.  \n\nThe agencies’ current proposal appears to substitute
+  assumptions about consumer behavior - that consumers will keep their older, less
+  safe cars longer - and manufacturers’ good faith - they will over-comply with less
+  stringent standards - for scientific and analytical rigor. It is not clear that
+  consumer behavior is a legally defensible criterion for determining health-based
   pollution standards, and it is clear that manufacturers have never increased fuel
   efficiency or reduced pollutants without regulation. The proposal asserts that consumers
   want bigger cars, yet the government does not allow unrestricted sales of opioids
