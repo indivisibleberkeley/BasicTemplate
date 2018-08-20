@@ -6,9 +6,9 @@ categories:
 tags:
 - environment
 - comment
-call-script-text: "### Action\n**(1) Submit your comment by October 2nd to the EPA
-  and the National Highway Traffic Safety Administration. [Click here](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0001)**
-  and modify the suggested comment script below to oppose the rollback of key federal
+call-script-text: "### Action\n**(1) [Click here to submit your comment by October
+  2nd to the EPA and the National Highway Traffic Safety Administration](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0001).**
+  Modify the suggested comment script below to oppose the rollback of key federal
   clean car standards and the elimination of California's ability to set more stringent
   standards.  \n\n**(2) Share your comments with your members of congress using contact
   information below.**  \n\n### Suggested Script\n*Note: It is best to personalize
