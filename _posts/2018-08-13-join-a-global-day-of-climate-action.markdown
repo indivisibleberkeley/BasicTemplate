@@ -2,7 +2,7 @@
 title: Join a Global Day of Climate Action
 date: 2018-08-13 08:50:00 -07:00
 categories:
-- action
+- event
 tags:
 - environment
 event-end-date: 2018-09-08 23:59:00 -07:00
