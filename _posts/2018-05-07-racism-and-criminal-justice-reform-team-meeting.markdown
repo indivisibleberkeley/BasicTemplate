@@ -7,7 +7,7 @@ tags:
 - rcjr
 event-start-date: 2018-08-23 19:00:00 -07:00
 event-end-date: 2018-08-23 20:30:00 -07:00
-Location: TBD
+Location: Berkeley First Universalist Unitarian Church (upstairs)
 RSVP-link: rcjr+owner@indivisibleberkeley.org
 ---
 
