@@ -25,6 +25,6 @@ event-end-date: 2018-09-03 23:59:00 -07:00
 We have learned from Senator Feinstein’s state director that, although Feinstein opposes the appointment of Brett Kavanaugh to the Supreme Court, she is not receiving many calls in support of her position.  Please call both our senators as often as possible - every day if you can - to reinforce their opposition and their efforts to persuade wavering Democrats in Trump-aligned states.  
 
 ### Background
-Please see our previous posts:
+Please see our previous posts:  
 [Kavanaugh: One of the Most Anti Environment Judges in America](https://indivisibleberkeley.org/action/kavanaugh-one-of-the-most-anti-environment-judges-in-america)  
 [Unite for Justice! Rally to Stop Kavanaugh](https://indivisibleberkeley.org/event/unite-for-justice-rally-to-stop-kavanaugh)  
