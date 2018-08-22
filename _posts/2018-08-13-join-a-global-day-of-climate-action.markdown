@@ -5,7 +5,8 @@ categories:
 - event
 tags:
 - environment
-event-end-date: 2018-09-08 23:59:00 -07:00
+event-start-date: 2018-09-08 09:00:00 -07:00
+event-end-date: 2018-09-08 18:00:00 -07:00
 ---
 
 On September 8 the San Francisco Bay Area is joining thousands of cities and towns across the world to [Rise for Climate](https://riseforclimate.org/), a  global day of grassroots action to promote a just and fossil-free future.  The rallies and events are scheduled the week before Governor Jerry Brown’s Global Climate Summit, which will take place in San Francisco.  Our local event is slated to be the “largest climate march the West Coast has ever seen.”  
