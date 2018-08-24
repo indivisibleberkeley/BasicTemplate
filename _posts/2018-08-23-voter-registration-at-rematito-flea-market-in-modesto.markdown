@@ -2,7 +2,7 @@
 title: Voter registration at Rematito flea market in Modesto
 date: 2018-08-23 21:01:00 -07:00
 categories:
-- event
+- action
 tags:
 - elections
 - voter registration
