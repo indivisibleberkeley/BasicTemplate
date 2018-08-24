@@ -2,7 +2,7 @@
 title: Voter registration at Tracy Farmer’s Market
 date: 2018-08-23 21:03:00 -07:00
 categories:
-- event
+- action
 tags:
 - elections
 - voter registration
