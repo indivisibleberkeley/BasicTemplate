@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Turn Congress Blue 9/30
+title: Phone Bank to CD-10 Voters for Josh Harder 9/30
 date: 2018-07-28 11:06:00 -07:00
 categories:
 - event
@@ -9,16 +9,12 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-09-30 13:00:00 -07:00
 event-end-date: 2018-09-30 16:00:00 -07:00
-Location: Berkeley Hills
+Location: North Berkeley, near Cedar
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeDLj3HvU9ePfC3xI_XNLARBWnFJRDunpe48rgEY3qJFqFY6Q/viewform
 ---
 
-We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
+Help flip nearby CD-10! Let’s send Democrat Josh Harder to Washington and turn Congress Blue! This won’t be an easy fight – Republicans are pouring money into the district to shore up the incumbent. But Harder is a strong candidate, and we can win this if we all work together to make it happen!
 
-Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto).
+WHAT YOU'll NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
-
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
-
-Please RSVP, and we'll get back to you with more details.
+Please RSVP, and we'll get back to you with more details. 
