@@ -17,6 +17,6 @@ We're calling voters, supporting Josh Harder for Congress -- a strong, progressi
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-2 locations:   Oakland (Montclair), calling CD-10   &  West Berkeley, calling Nevada
+WHERE:  Oakland (Montclair)
 
 Please RSVP, and we'll get back to you with more details.
