@@ -6,6 +6,7 @@ categories:
 tags:
 - voter registration
 - elections
+is featured: true
 event-start-date: 2018-09-06 10:00:00 -07:00
 event-end-date: 2018-09-06 16:00:00 -07:00
 Location: Paramount Theater in Oakland
