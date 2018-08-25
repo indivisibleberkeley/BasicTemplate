@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-08-26 13:00:00 -07:00
 event-end-date: 2018-08-26 16:00:00 -07:00
-Location: Oakland (Montclair) & West Berkeley
+Location: 'Oakland (Montclair) '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeo1_8d32XziskggOJy5wf-iqCbQakQeBXQnzFWeQPCBZDYZA/viewform
 ---
 
