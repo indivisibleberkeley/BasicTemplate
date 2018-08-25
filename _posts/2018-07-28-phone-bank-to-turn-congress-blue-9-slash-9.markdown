@@ -24,7 +24,6 @@ WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earb
 PHONE BANK DETAILS
 Sunday, September 9, 3-6pm   -- Come and join us after the Solano Stroll!
 WHERE: Albany
-       West Berkeley location?  
-We'll add a West Berkeley option IF we have enough signups by Friday, September 7.
+       
 
 Please RSVP, and we'll get back to you with more details.
