@@ -1,5 +1,5 @@
 ---
-title: Phoning CD-10 Voters, Josh Harder for Congress,   8/26
+title: Phone Bank for Josh Harder FULL TO CAPACITY for  8/26
 date: 2018-08-09 10:40:00 -07:00
 categories:
 - event
