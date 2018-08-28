@@ -30,7 +30,7 @@ layout: default
                 {% for post in sortedActions %}
                   {% assign postEndDate = post.event-end-date | date: '%s' %}
                   {% if postEndDate >= curDate %}
-                    {% include event-post-header.html %}
+                    {% include action-post-header.html %}
                   {% endif %}
                 {% endfor %}
 
