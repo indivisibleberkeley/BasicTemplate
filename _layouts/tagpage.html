@@ -21,6 +21,19 @@ layout: default
                   {% endif %}
                 {% endfor %}
 
+            </div>
+
+            <h5 class="mb-0">Recurring or At-Home Actions</h5>
+
+            <div class="post-list">
+                {% assign sortedActions = (site.tags[page.tag] | sort: 'event-end-date') %}
+                {% for post in sortedActions %}
+                  {% assign postEndDate = post.event-end-date | date: '%s' %}
+                  {% if postEndDate >= curDate %}
+                    {% include event-post-header.html %}
+                  {% endif %}
+                {% endfor %}
+
             </div><!-- END UPCOMING EVENTS -->
         </div>
     </div>
