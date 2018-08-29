@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-09-16 19:30:00 -07:00
 event-end-date: 2018-09-16 21:00:00 -07:00
-Location: BFUU Fellowship Hall, 1924 Cedar Street
+Location: Finnish Hall, 1970 Chestnut St., Berkeley
 ---
 
 Join us on September 16 for the next Indivisible Berkeley General Assembly! 
@@ -23,7 +23,7 @@ Doors open at 7. We start promptly at 7:30.
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
-ADA Accessibility: BFUU's Fellowship Hall has a ramp into the Hall via Bonita Street. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
 
 ### T-Shirt Distribution
 
