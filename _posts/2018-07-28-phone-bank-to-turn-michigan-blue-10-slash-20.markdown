@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-09-20 14:00:00 -07:00
 event-end-date: 2018-09-20 17:00:00 -07:00
-Location: 2030 Addison, Suite 640A, Berkeley CA 94704
+Location: South Berkeley, near Sports Basement
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSe4-baoaBC6TId6QDXv6qZ9V-FpADclKbJvLLGfNWDjXlNUaQ/viewform
 ---
 
