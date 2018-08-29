@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-main-image: "/uploads/Nevada%20green%20sign%20against%20sky.jpeg"
+main-image: "/uploads/nevada.jpeg"
 event-start-date: 2018-09-09 13:00:00 -07:00
 event-end-date: 2018-09-09 16:00:00 -07:00
 Location: Central Berkeley near Sacramento
