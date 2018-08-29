@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-main-image: "/uploads/nevada.jpeg"
+main-image: "/uploads/3%20red%20phones%20copy.jpg"
 event-start-date: 2018-09-09 13:00:00 -07:00
 event-end-date: 2018-09-09 16:00:00 -07:00
 Location: Central Berkeley near Sacramento
