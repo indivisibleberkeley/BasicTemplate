@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to CD-10 Voters 9/9
+title: Phone Bank to Turn Congress Blue 9/9
 date: 2018-07-28 10:23:00 -07:00
 categories:
 - event
