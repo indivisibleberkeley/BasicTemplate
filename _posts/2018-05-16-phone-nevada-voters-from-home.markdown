@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/nevada.jpeg"
 event-start-date: 2018-05-20 09:00:00 -07:00
-event-end-date: 2018-08-30 12:00:00 -07:00
+event-end-date: 2018-09-30 12:00:00 -07:00
 RSVP-https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform: 
 ---
 
