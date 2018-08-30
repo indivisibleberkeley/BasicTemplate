@@ -1,5 +1,5 @@
 ---
-title: POSTPONED! Racism & Criminal Justice Reform team meeting
+title: Racism & Criminal Justice Reform team meeting
 date: 2018-05-07 19:21:00 -07:00
 categories:
 - event
@@ -7,7 +7,7 @@ tags:
 - rcjr
 event-start-date: 2018-08-30 19:00:00 -07:00
 event-end-date: 2018-08-30 20:30:00 -07:00
-Location: Berkeley First Universalist Unitarian Church (upstairs)
+Location: Albatross  Pub (1822 San Pablo Ave)
 RSVP-link: rcjr+owner@indivisibleberkeley.org
 ---
 
