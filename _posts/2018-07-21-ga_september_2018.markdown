@@ -11,6 +11,10 @@ main-image: "/uploads/IB-May2017-flags.jpg"
 event-start-date: 2018-09-16 19:30:00 -07:00
 event-end-date: 2018-09-16 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St., Berkeley
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-september?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-general-assembly-september' style='width:
+  100%'><!-- this div is the target for our HTML insertion --></div>"
 ---
 
 Join us on September 16 for the next Indivisible Berkeley General Assembly! 
