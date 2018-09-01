@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Turn the Senate Blue 9/16
+title: Phone Bank for Josh Harder 9/9
 date: 2018-07-28 10:23:00 -07:00
 categories:
 - event
@@ -7,14 +7,18 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
-event-start-date: 2018-09-09 15:00:00 -07:00
+event-start-date: 2018-09-09 13:00:00 -07:00
 event-end-date: 2018-09-09 18:00:00 -07:00
-Location: Central Berkeley, near Sacramento
+Location: Central Berkeley, near Sacramento & Albany
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdKZ_a6vjHrSgysXhA4uNjmeIAuVxUp-DeAVe6mYHT8v73x1Q/viewform
 ---
 
-We’ll be calling for Jacky Rosen, the Democrat running to take back a Nevada Senate Seat. This is a "must win" if Dems have any hope of winning control of the Senate -- a long shot, but possible. Let's do our best to get a Senate that will check Trump's court nominations! All hands on deck!
+Help us flip nearby CD-10 and send Democrat Josh Harder to Washington! This won’t be an easy fight – Republicans are pouring money into the district to shore up the incumbent. But Harder is a strong, progressive candidate, and we can win this – but it will take all hands on deck.
 
 WHAT YOU’ll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP, and we’ll get back to you with more details.
+DATE: Sunday, September 9, 1-4pm
+
+Locations: Central Berkeley, near Sacramento (1-4pm), & Albany (3-6pm, nearly full) 
+
+Please RSVP, and we’ll get back to you with more details – Thank you!
