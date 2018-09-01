@@ -17,8 +17,8 @@ Help us flip nearby CD-10 and send Democrat Josh Harder to Washington! This won�
 
 WHAT YOU’ll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
-DATE: Sunday, September 9, 1-4pm
+**DATE:** Sunday, September 9
 
-Locations: Central Berkeley, near Sacramento (1-4pm), & Albany (3-6pm, nearly full) 
+**Locations & Times:** Central Berkeley, near Sacramento (1-4pm), & Albany (3-6pm, nearly full)
 
 Please RSVP, and we’ll get back to you with more details – Thank you!
