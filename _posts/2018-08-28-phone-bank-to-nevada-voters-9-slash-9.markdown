@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy.jpg"
 event-start-date: 2018-09-09 13:00:00 -07:00
 event-end-date: 2018-09-09 16:00:00 -07:00
-Location: Central Berkeley near Sacramento
+Location: Central Berkeley, near Sacramento
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSev_EOmAqLGwcO8OOyFmOthxesfxXu3lFOLKDVn27hN4NKx_w/viewform
 ---
 
