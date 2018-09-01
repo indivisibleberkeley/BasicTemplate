@@ -1,6 +1,7 @@
 ---
 title: Phone Bank to Nevada Voters 9/9
 date: 2018-08-28 19:24:00 -07:00
+published: false
 categories:
 - event
 tags:
