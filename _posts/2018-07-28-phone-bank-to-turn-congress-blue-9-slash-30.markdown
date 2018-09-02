@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to CD-10 Voters for Josh Harder 9/30
+title: Phone Bank to Nevada Voters; Rosen for Senate  9/30
 date: 2018-07-28 11:06:00 -07:00
 categories:
 - event
@@ -13,8 +13,6 @@ Location: North Berkeley, near Cedar
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeDLj3HvU9ePfC3xI_XNLARBWnFJRDunpe48rgEY3qJFqFY6Q/viewform
 ---
 
-Help flip nearby CD-10! Let’s send Democrat Josh Harder to Washington and turn Congress Blue! This won’t be an easy fight – Republicans are pouring money into the district to shore up the incumbent. But Harder is a strong candidate, and we can win this if we all work together to make it happen!
+Help send Jacky Rosen to the Senate from Nevada! The Senate confirms Supreme Court nominees, enough said?  We’ll be supporting the Nevada State Democratic Party’s coordinated campaign for Jacky as well strong candidates for the House and state offices.WHAT YOU'll NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
-
-Please RSVP, and we'll get back to you with more details. 
+Please RSVP, and we'll get back to you with more details.
