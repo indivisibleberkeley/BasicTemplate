@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Turn Congress Blue 9/23
+title: Phone Voters for Josh Harder! 9/23
 date: 2018-07-28 10:54:00 -07:00
 categories:
 - event
