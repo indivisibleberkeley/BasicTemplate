@@ -19,7 +19,6 @@ WHAT YOU’ll NEED: a charged ipad, tablet or laptop and your cell phone with ea
 
 **DATE:** Sunday, September 9
 
-**Locations & Times:** Central Berkeley, near Sacramento (1-4pm)
-NOTE: Albany, 3-6pm, is closed to new signups
+**Locations & Times:** Central Berkeley, near Sacramento (1-4pm) -- NOTE:  Albany, 3-6pm, is closed to new signups
 
 Please RSVP, and we’ll get back to you with more details – Thank you!
