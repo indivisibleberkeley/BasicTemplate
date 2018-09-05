@@ -13,7 +13,7 @@ Location: 'Central Berkeley, near Sacramento '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdKZ_a6vjHrSgysXhA4uNjmeIAuVxUp-DeAVe6mYHT8v73x1Q/viewform
 ---
 
-Help us flip nearby CD-10 and send Democrat Josh Harder to Washington! This won’t be an easy fight – Republicans are pouring money into the district to shore up the incumbent. But Harder is a strong, progressive candidate, and we can win this – but it will take all hands on deck.
+Help us flip nearby CD-10 and send Democrat Josh Harder to Washington! This is a tough race – Republicans are pouring money into the district to shore up the incumbent. But Harder is a strong, progressive candidate, and we can win this – but it will take all hands on deck.
 
 WHAT YOU’ll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
