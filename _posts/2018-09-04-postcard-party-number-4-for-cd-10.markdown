@@ -1,6 +1,11 @@
 ---
 title: 'Postcard Party #4 for CD-10'
 date: 2018-09-04 18:21:00 -07:00
+categories:
+- event
+tags:
+- elections
+- postcard
 is featured: true
 main-image: "/uploads/Postcard%20Party-9b7371.jpg"
 event-start-date: 2018-09-23 10:00:00 -07:00
