@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
 event-start-date: 2018-09-09 13:00:00 -07:00
 event-end-date: 2018-09-09 18:00:00 -07:00
-Location: Central Berkeley, near Sacramento & Albany
+Location: 'Central Berkeley, near Sacramento '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdKZ_a6vjHrSgysXhA4uNjmeIAuVxUp-DeAVe6mYHT8v73x1Q/viewform
 ---
 
@@ -19,6 +19,7 @@ WHAT YOU’ll NEED: a charged ipad, tablet or laptop and your cell phone with ea
 
 **DATE:** Sunday, September 9
 
-**Locations & Times:** Central Berkeley, near Sacramento (1-4pm), & Albany (3-6pm, nearly full)
+**Locations & Times:** Central Berkeley, near Sacramento (1-4pm)
+ Albany (3-6pm, is closed to new signups, full to capacity)
 
 Please RSVP, and we’ll get back to you with more details – Thank you!
