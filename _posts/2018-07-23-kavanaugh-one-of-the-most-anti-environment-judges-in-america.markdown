@@ -7,7 +7,7 @@ tags:
 - environment
 is featured: true
 call-script-text: See below.
-event-end-date: 2018-09-07 23:59:00 -07:00
+event-end-date: 2018-09-30 23:59:00 -07:00
 ---
 
 Along with the many other reasons for opposing his nomination to the Supreme Court is Kavanaugh’s record on climate and the environment.  His nomination has the potential to lock the Supreme Court into a conservative majority on these issues for decades.  California’s senators are already on record opposing the nomination, but this is the fight of a generation, and **we need your help to do the following:**
