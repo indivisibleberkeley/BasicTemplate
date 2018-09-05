@@ -20,7 +20,7 @@ Call or write Governor Brown right away to urge him to sign SB 100 and SB 964.
 * Call -  (916) 445-2841  
 * Fax - (916) 558-3160
 * Write - Governor Jerry Brown, c/o State Capitol, Suite 1173, Sacramento, CA 95814  
-* Email his legislative staff - leg.unit@gov.ca.gov   
+* Email his legislative staff - [leg.unit@gov.ca.gov](mailto: leg.unit@gov.ca.gov)   
 
 ### Background
 The California legislature has passed these climate-related bills:
