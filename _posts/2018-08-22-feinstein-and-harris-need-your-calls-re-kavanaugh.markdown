@@ -18,7 +18,7 @@ call-script-text: "Hi, my name is [NAME] and I'm a constituent from [CITY].\n\nI
   waivering Democratic senators to oppose him as well.   \n\nThank you for your hard
   work answering the phones.\n\n[IF LEAVING A VOICEMAIL: please leave your full street
   address to ensure your call is tallied]"
-event-end-date: 2018-09-07 23:59:00 -07:00
+event-end-date: 2018-09-30 23:59:00 -07:00
 ---
 
 ### Action
