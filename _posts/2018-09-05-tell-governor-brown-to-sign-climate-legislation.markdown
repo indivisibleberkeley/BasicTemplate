@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-call-script-text: "*Note: it’s best to modify and personalize if possible  \n\nHi,
+call-script-text: "*Note: it’s best to modify and personalize if possible*  \n\nHi,
   my name is [NAME] and I’m a constituent from [CITY].  \n\nWe need strong and immediate
   climate action now more than ever.  Please continue yours and the state’s leadership
   by signing SB 100 and SB 964.   These bills will benefit all Californians and serve
