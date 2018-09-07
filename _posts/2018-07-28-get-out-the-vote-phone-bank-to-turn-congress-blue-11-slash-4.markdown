@@ -1,5 +1,5 @@
 ---
-title: Get Out the Vote! Phone Bank to Turn Congress Blue - 11/4
+title: Get Out the Vote! Phone for Josh Harder for  Congress!  11/4
 date: 2018-07-28 13:01:00 -07:00
 categories:
 - event
@@ -15,12 +15,10 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSes-1eOMjsOkWl6mjNy0fJy1RVKF
 
 Get  voters to the polls!  We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
 
-Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto).
+Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). This is a frighteningly tight race -- please help us out!
 
-Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
+WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.   
-
-2 LOCATIONS!  West Berkeley, 1-4pm    &  Albany, 5-8pm
+2 LOCATIONS!  Central Berkeley, 1-4pm    &  Albany, 5-8pm
 
 Please RSVP, and we'll get back to you with more details.
