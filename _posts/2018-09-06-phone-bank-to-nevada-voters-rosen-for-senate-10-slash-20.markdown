@@ -9,6 +9,8 @@ tags:
 main-image: "/uploads/nv-266-e-at-ca-line-1.jpg"
 event-start-date: 2018-10-20 13:00:00 -07:00
 event-end-date: 2018-10-20 16:00:00 -07:00
+Location: Central Berkeley, near Sacramento
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdeObvO-jxxbK30PcX2NyAuRKq3Vadse7_NwWW9RqkMr0s8wg/viewform
 ---
 
 Phone Nevada voters and help them send Democrat Jacky Rosen to the Senate.  Think Supreme Court!  We’ll also be supporting the Nevada State Democrats’ coordinated campaign for Jacky as well as strong candidates for the House and for state offices.
