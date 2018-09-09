@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Josh Harder 9/9
+title: FULL TO CAPACITY, CLOSED to new signups; Phone Bank for Josh Harder 9/9
 date: 2018-07-28 10:23:00 -07:00
 categories:
 - event
