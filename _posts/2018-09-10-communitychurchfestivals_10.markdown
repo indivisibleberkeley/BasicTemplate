@@ -15,8 +15,11 @@ RSVP-link: mailto:davidlmontgomery@gmail.com
 Register Latinos in Stanislaus & San Joaquin counties [CD-10] at several community church festivals from 10am to 5pm Saturdays and Sundays on the following dates:
 
 Sept. 15 and 16, St. Bernard Catholic Church, Tracy
+
 Sept. 22 and 23, St. Stanislaus Catholic Church, Modesto
+
 Sept. 30, St. Frances of Rome Catholic Church, Riverbank
+
 Oct. 6, Oct. 7, St. Jude's Catholic Church, Ceres
 
 Everyone's help is needed. 
