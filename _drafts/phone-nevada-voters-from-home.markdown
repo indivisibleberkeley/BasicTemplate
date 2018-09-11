@@ -17,4 +17,4 @@ HELP FLIP THE NEVADA SENATE SEAT!  We're working with Nevada Democrats to build 
 
 WHAT YOU'll NEED: your ipad, tablet or laptop and phone.
 
-To sign up and get started contacting voters, \[RSVP HERE!\]https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform)
+To sign up and get started contacting voters, \[RSVP HERE!\](https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform)
