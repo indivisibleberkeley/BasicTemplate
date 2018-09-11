@@ -17,4 +17,4 @@ HELP FLIP THE NEVADA SENATE SEAT!  We're working with Nevada Democrats to build 
 
 WHAT YOU'll NEED: your ipad, tablet or laptop and phone.  
 
-Please email phonebank+owner@indivisibleberkeley.org to sign up, and we'll help you get started!
+To sign up and get started contacting voters, email: phonebank+owner@indivisibleberkeley.org 
