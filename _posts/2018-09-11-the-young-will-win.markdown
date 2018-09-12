@@ -1,7 +1,16 @@
 ---
 title: "Students! Call, text or write to voters \U0001F5F3"
 date: 2018-09-11 23:13:00 -07:00
+categories:
+- event
+tags:
+- students
+- elections
 is featured: true
+main-image: "/uploads/Image.jpg"
+event-start-date: 2018-09-22 17:00:00 -07:00
+event-end-date: 2018-09-22 19:00:00 -07:00
+Location: Location TBD on campus
 ---
 
 Join Cal grads and undergrads at our voter contact party on campus! There will be food.
