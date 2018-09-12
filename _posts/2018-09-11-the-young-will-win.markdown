@@ -13,6 +13,8 @@ event-end-date: 2018-09-22 19:00:00 -07:00
 Location: Location TBD on campus
 ---
 
+**Save the date!**
+
 Join Cal grads and undergrads at our voter contact party on campus! There will be food.
 
 Indivisible Berkeley uses research-based methods to increase voter turnout and vote out Jeff Denham, a Republican in Congress who rubber-stamps Trump's agenda.
