@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - rcjr
-event-start-date: 2018-08-30 19:00:00 -07:00
-event-end-date: 2018-08-30 20:30:00 -07:00
+event-start-date: 2018-09-13 19:00:00 -07:00
+event-end-date: 2018-09-13 20:30:00 -07:00
 Location: Albatross  Pub (1822 San Pablo Ave)
 RSVP-link: rcjr+owner@indivisibleberkeley.org
 ---
