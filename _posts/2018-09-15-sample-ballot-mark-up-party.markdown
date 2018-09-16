@@ -1,6 +1,10 @@
 ---
 title: Sample Ballot Mark-Up Party
 date: 2018-09-15 20:51:00 -07:00
+categories:
+- event
+tags:
+- elections
 is featured: true
 event-start-date: 2018-10-10 19:00:00 -07:00
 event-end-date: 2018-10-10 21:00:00 -07:00
