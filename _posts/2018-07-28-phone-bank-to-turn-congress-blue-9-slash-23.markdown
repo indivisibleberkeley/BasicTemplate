@@ -1,5 +1,5 @@
 ---
-title: Phone Voters for Josh Harder! 9/23
+title: Phone Voters for Josh Harder! 9/23 - WAITLISTING!
 date: 2018-07-28 10:54:00 -07:00
 categories:
 - event
@@ -17,4 +17,4 @@ We'll be calling for Josh Harder for Congress,  Josh is a strong, progressive ca
 
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP, and we'll get back to you with more details.
+This event is full to capacity! But if you'd like to RSVP, we'll keep you on a waitlist and let you know if space becomes available.
