@@ -11,6 +11,7 @@ main-image: "/uploads/Image.jpg"
 event-start-date: 2018-09-22 17:00:00 -07:00
 event-end-date: 2018-09-22 19:00:00 -07:00
 Location: Location TBD on campus
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdhgFJoEgJwou9kUFk3rn5sKKMn5iGMPgDCCKn8GNK8VJRLkw/viewform
 ---
 
 Join Cal grads and undergrads at our voter contact party on campus! There will be food. Co-sponsored by the Cal Progressive Student Association (PSA).
