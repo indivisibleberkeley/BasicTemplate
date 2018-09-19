@@ -13,9 +13,7 @@ event-end-date: 2018-09-22 19:00:00 -07:00
 Location: Location TBD on campus
 ---
 
-**Save the date!**
-
-Join Cal grads and undergrads at our voter contact party on campus! There will be food.
+Join Cal grads and undergrads at our voter contact party on campus! There will be food. Co-sponsored by the Cal Progressive Student Association (PSA).
 
 Indivisible Berkeley uses research-based methods to increase voter turnout and vote out Jeff Denham, a Republican in Congress who rubber-stamps Trump's agenda.
 
@@ -23,4 +21,4 @@ Indivisible Berkeley uses research-based methods to increase voter turnout and v
 - Text voters to get their attention.
 - Write postcards to voters so they'll get an individualized letter in the mail reminding them to vote Democrat!
 
-Location TBD.
+Location TBD but likely Wheeler Hall
