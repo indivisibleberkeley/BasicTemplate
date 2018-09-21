@@ -24,4 +24,4 @@ Indivisible Berkeley uses research-based methods to increase voter turnout and v
 - Text voters to get their attention.
 - Write postcards to voters so they'll get an individualized letter in the mail reminding them to vote Democrat!
 
-Location TBD but likely Wheeler Hall
+### Location: C132 Cheit Hall (Haas business school), Cal campus
