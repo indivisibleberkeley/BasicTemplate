@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/Image.jpg"
 event-start-date: 2018-09-22 17:00:00 -07:00
 event-end-date: 2018-09-22 19:00:00 -07:00
-Location: Location TBD on campus
+Location: Cheit Hall, Room C132, Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdhgFJoEgJwou9kUFk3rn5sKKMn5iGMPgDCCKn8GNK8VJRLkw/viewform
 embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhgFJoEgJwou9kUFk3rn5sKKMn5iGMPgDCCKn8GNK8VJRLkw/viewform?embedded=true"
   width="640" height="1152" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
