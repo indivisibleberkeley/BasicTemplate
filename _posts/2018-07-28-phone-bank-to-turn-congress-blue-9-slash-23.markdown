@@ -15,6 +15,6 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfTT5zt3nXA1MoffPCUPEPhWbrI8
 
 We'll be calling for Josh Harder, a strong, progressive candidate for Congress in a very tight race in neighboring CD-10 (Tracy, Modesto). Republicans are pouring money into this district to keep this seat -- so we need all hands on deck!
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
 
