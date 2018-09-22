@@ -17,4 +17,6 @@ We'll be calling for Josh Harder, a strong, progressive candidate for Congress i
 
 WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
+Please RSVP, and we'll get back to you with more details.
+
 
