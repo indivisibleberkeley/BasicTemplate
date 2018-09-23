@@ -1,14 +1,16 @@
 ---
-title: Racism & Criminal Justice Reform team meeting
+title: Special Meeting of IB Racism & Criminal Justice Reform team
 date: 2018-05-07 19:21:00 -07:00
 categories:
 - event
 tags:
 - rcjr
-event-start-date: 2018-09-13 19:00:00 -07:00
-event-end-date: 2018-09-13 20:30:00 -07:00
-Location: Albatross  Pub (1822 San Pablo Ave)
+event-start-date: 2018-10-11 19:00:00 -07:00
+event-end-date: 2018-10-11 20:30:00 -07:00
+Location: 1256 Monterey Ave. (@ Hopkins), Berkeley
 RSVP-link: rcjr+owner@indivisibleberkeley.org
 ---
 
-Please join our team meeting, where we will discuss issues of national and local importance in racial justice and criminal justice, including police (de)militarization, criminal justice reform, homelessness, the Alameda County Sheriff, and native peoples’ rights (West Berkeley Shellmound).
+Come to a special joint meeting with the new Racial & Criminal Justice Committee of the Wellstone Democratic Renewal Club.
+
+IB members interested in checking out our team are very welcome!
