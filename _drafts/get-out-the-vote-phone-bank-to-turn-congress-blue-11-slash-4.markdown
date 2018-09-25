@@ -8,7 +8,7 @@ tags:
 - elections
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-11-04 13:00:00 -08:00
-event-end-date: 2018-11-04 16:00:00 -08:00
+event-end-date: 2018-11-04 20:00:00 -08:00
 Location: Central Berkeley (1-4pm) & Albany  (5-8pm)
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSes-1eOMjsOkWl6mjNy0fJy1RVKFa5g17sdgDwBKwwZfuo7JQ/viewform
 ---
