@@ -8,7 +8,7 @@ tags:
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202-e065de.jpg"
 event-start-date: 2018-11-05 13:00:00 -08:00
-event-end-date: 2018-09-25 19:00:00 -07:00
+event-end-date: 2018-11-05 19:00:00 -08:00
 Location: 1-4 pm - Berkeley Hills & Berkeley, near Telegraph & Russell;     4-7 pm
   - Berkeley, near Telegraph & Russell
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdR9CM6rPA3eSwasyft24Vdy54q5TGKEFVvjSC6fYKI4061cg/viewform
