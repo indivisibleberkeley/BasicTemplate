@@ -14,7 +14,7 @@ Location: 1-4 pm - Berkeley Hills & Berkeley, near Telegraph & Russell;     4-7 
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdR9CM6rPA3eSwasyft24Vdy54q5TGKEFVvjSC6fYKI4061cg/viewform
 ---
 
-ELECTION EVE!  We’ll be calling for one or both of our targeted races for Congress at each event.  Both are MUST WINS if we want to put a check on the Republican agenda. 
+ELECTION EVE!  We’ll be calling for our targeted races for Congress at each event.  Both are MUST WINS if we want to put a check on the Republican agenda.
 
 Josh Harder for Congress, Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto).
 
