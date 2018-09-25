@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
 event-start-date: 2018-11-03 13:00:00 -07:00
 event-end-date: 2018-11-03 16:00:00 -07:00
-Location: Berkeley, near Russel & Telegraph
+Location: Berkeley, near Russell & Telegraph
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfYO2Kqn62yeKh_X6xtWED6limj8ZlluA_jbqlottBX9AjHWA/viewform
 ---
 
