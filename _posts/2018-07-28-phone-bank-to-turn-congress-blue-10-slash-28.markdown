@@ -15,6 +15,8 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScQnEVoOzg6EoQxkG8SOc_SRS16h
 
 Crunch time!  Call voters  and drive them to the polls to vote for Josh Harder for Congress!  Josh is a strong, progressive candidate in a frighteningly tight race in neighboring CD-10 (Tracy, Modesto). Let's send him to Washington!
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP, and we'll get back to you with more details.
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
