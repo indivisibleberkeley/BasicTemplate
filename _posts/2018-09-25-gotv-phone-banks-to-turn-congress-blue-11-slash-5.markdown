@@ -26,5 +26,6 @@ WHEN: MONDAY, NOVEMBER 5 \
 1-4 pm:   NEVADA -- Berkeley Hills (north of Marin Ave.) & Berkeley (near Telegraph & Russell)\
 4-7 pm:   HARDER --  Berkeley (near Telegraph & Russell)
 
-Please sign up early so we can plan for space.  We'll respond within 2-3 days or sooner if possible.\
-RSVP below, and we'll get back to you with more details!
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
