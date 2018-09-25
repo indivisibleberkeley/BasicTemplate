@@ -13,7 +13,7 @@ Location: Berkeley, near Russell & Telegraph
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfYO2Kqn62yeKh_X6xtWED6limj8ZlluA_jbqlottBX9AjHWA/viewform
 ---
 
-Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. Phone Nevada voters and help them send Democrat Jacky Rosen to the Senate. Think Supreme Court -- and let's put a check on the Republican agenda!
+Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. Phone Nevada voters and help them send Democrat Jacky Rosen to the Senate. Think Supreme Court -- and let's put work to put a check on the Republican agenda!
 
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
