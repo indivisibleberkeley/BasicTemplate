@@ -19,4 +19,6 @@ WHAT YOU'LL NEED: a charged ipad, tablet or laptop AND your cell phone with earb
 
 WHERE:  Albany
 
-Please RSVP, and we'll get back to you with more details.
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
