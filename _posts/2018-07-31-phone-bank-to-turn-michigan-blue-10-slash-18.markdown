@@ -15,6 +15,8 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfgh9NkgmzBpMluehB_48dZ2zN6r
 
 Why Michigan?  Due to partisan gerrymandering and voters' rights restrictions, Republicans hold a drastically unfair advantage and are over-represented in the Michigan state legislature. It’s critical for Democrats to win seats in 2018 to make blue inroads in this presidential battleground state -- before 2020. So we're partnering with [Sister District](https://www.sisterdistrict.com/teams/california/ca13) and phoning for Democratic candidates Mallory McMorrow (for State Senate) or Padma Kuppa (for State House of Representatives).
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP, and we'll get back to you with more details!
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
