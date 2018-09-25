@@ -13,9 +13,9 @@ Location: Albany
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSf4XbS6MIlKG9-l1aN12OxT5K6jxX-nlETYEt4tkFeW6O3EaA/viewform
 ---
 
-We're calling voters, supporting Josh Harder for Congress -- a strong, progressive candidate in an agonizingly tight race against the incumbent in neighboring CD-10 (Tracy, Modesto). 
+We're calling voters, supporting Josh Harder for Congress -- a strong, progressive candidate in an agonizingly tight race against the incumbent in neighboring CD-10 (Tracy, Modesto).
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
 WHERE:  Albany
 
