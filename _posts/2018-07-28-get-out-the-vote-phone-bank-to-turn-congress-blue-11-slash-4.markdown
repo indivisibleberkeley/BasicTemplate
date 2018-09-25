@@ -15,10 +15,12 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSes-1eOMjsOkWl6mjNy0fJy1RVKF
 
 Get  voters to the polls!  We'll be calling for one of our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  Republican donors are pouring money into these races.  We need all hands on deck, starting NOW,  to push these candidates over the finish line:
 
-Josh Harder for Congress,  Josh is a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). This is a frighteningly tight race -- please help us out!
+Josh Harder for Congress -- a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). This is a frighteningly tight race -- please help us out!
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-2 LOCATIONS!  Central Berkeley, 1-4pm    &  Albany, 5-8pm
+2 LOCATIONS!  Central Berkeley, 1-4pm  &  Albany, 5-8pm.
 
-Please RSVP, and we'll get back to you with more details.
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
