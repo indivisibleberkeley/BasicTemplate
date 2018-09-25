@@ -18,4 +18,4 @@ Nevada is the only state in the midterm elections that has an incumbent Republic
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
 RSVP soon -- space may be limited, and this helps us plan if more space is needed.\
-\*\* Then look for an email with subject 'Indivisible Berkeley' in the next few days so you'll know where to go!
+\*\* Then look for an email with subject 'Indivisible Berkeley" in the next few days so you'll know where to go!
