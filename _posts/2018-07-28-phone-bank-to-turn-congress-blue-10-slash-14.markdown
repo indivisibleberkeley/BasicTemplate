@@ -13,8 +13,10 @@ Location: Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSf6EqIcRk8MJNv10PdduS9d_uN8ASewxBxhnfmWx-nIBvEEMw/viewform
 ---
 
-We'll be calling for Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices.
+We'll be calling for Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Court and other nominees. We'll be supporting the Nevada State Democratic Party's coordinated campaign for Jacky as well strong candidates for the House and state offices. We can flip this state and put a check on Trump!
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-Please RSVP, and we'll get back to you with more details.
+RSVP soon – space may be limited, and this helps us plan if more space is needed.
+
+Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
