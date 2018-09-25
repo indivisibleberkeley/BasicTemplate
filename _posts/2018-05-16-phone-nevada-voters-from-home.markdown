@@ -13,8 +13,10 @@ event-end-date: 2018-11-06 19:00:00 -08:00
 RSVP-https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform: 
 ---
 
-HELP FLIP THE NEVADA SENATE SEAT!  We're working with Nevada Democrats to build the foundations of a strong coordinated Democratic campaign for a US Senate seat, as well as seats in Congress and in state government.  The Nevada Senate seat is a MUST WIN if Democrats are to have any chance of taking back the Senate -- and potentially keeping Trump from filling yet another seat on the Supreme Court.
+HELP FLIP THE NEVADA SENATE SEAT!  Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. Phone Nevada voters and help them send Democrat Jacky Rosen to the Senate. Think Supreme Court! This is a tight race -- we really need your help!
 
-WHAT YOU'll NEED: your ipad, tablet or laptop and phone.
+WHAT YOU’LL NEED: a computer, ipad or table, and your phone (landline or cell).
+
+Please RSVP, and we’ll get back to you with more details.
 
 To sign up and get started contacting voters, [RSVP HERE.](https://docs.google.com/forms/d/e/1FAIpQLSd3OZ3o7h54gWSSr_9DsZmio8lQym1HYNhBnmySRUrJNCiVyQ/viewform)
