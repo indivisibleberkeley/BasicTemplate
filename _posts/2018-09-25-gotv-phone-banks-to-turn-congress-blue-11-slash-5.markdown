@@ -24,9 +24,8 @@ WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with ea
 
 MONDAY, NOVEMBER 5: 
 
-1-4pm, Phone Nevada voters, Berkeley Hills or Berkeley Elmwood area\
-4-7 pm, Phone for HARDER ,   Berkeley Elmwood area
+We're phoning Nevada voters from 1-4pm at homes in the Berkeley Hills or Berkeley Elmwood area.  From 4-7pm we'll be phoning for Harder for Congress at a home in the Berkeley Elmwood area.\
 
-RSVP soon – space may be limited, and this helps us plan if more space is needed.
+Please RSVP soon – space may be limited, and this helps us plan if more space is needed.
 
 Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
