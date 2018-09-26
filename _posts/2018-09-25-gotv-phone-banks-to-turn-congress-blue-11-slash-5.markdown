@@ -22,7 +22,7 @@ Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Co
 
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
-WHEN: MONDAY, NOVEMBER 5 \
+MONDAY, NOVEMBER 5 \
 1-4 pm:   NEVADA,    Berkeley Hills (north of Marin Ave) & Berkeley (near Telegraph & Russell)\
 4-7 pm:   HARDER ,   Berkeley (near Telegraph & Russell)
 
