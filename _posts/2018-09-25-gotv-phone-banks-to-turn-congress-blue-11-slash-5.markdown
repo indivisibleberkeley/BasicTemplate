@@ -22,10 +22,10 @@ Jacky Rosen for the Nevada Senate seat. Remember, the Senate confirms Supreme Co
 
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
-MONDAY, NOVEMBER 5: 
+MONDAY, NOVEMBER 5:
 
 We're phoning Nevada voters from 1-4pm at homes in the Berkeley Hills or Berkeley Elmwood area.  From 4-7pm we'll be phoning for Harder for Congress at a home in the Berkeley Elmwood area.
 
 Please RSVP soon – space may be limited, and this helps us plan if more space is needed.
 
-Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
+Then look for an email with subject "Indivisible Berkeley” in the next few days so you’ll know where to go!
