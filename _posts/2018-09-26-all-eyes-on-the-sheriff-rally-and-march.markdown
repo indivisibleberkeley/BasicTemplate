@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - rcjr
+is featured: true
 event-start-date: 2018-10-02 09:30:00 -07:00
 event-end-date: 2018-10-02 11:00:00 -07:00
 Location: Glen Dyer Detention Center, 550 6th st. Oakland CA
