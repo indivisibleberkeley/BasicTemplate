@@ -12,7 +12,7 @@ main-image: "/uploads/Paint%20Congress%20Blue.jpg"
 event-start-date: 2018-08-05 15:00:00 -07:00
 event-end-date: 2018-08-05 19:00:00 -07:00
 Location: 475 25th St, Oakland, CA
-RSVP-link: www.eventbrite.com/e/paint-congress-blue-art-action-festival-tickets-46700117308?aff=ebdssbdestsearch
+RSVP-link: https://www.eventbrite.com/e/paint-congress-blue-art-action-festival-tickets-46700117308?aff=ebdssbdestsearch
 ---
 
 Join IB and other resistance groups for a fun, free block party with art, food, music, inspiration & bubbles...Get active in the fight against Trump + the Republican agenda
