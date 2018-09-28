@@ -14,7 +14,7 @@ At the General Assembly last Sunday, we heard from IBer Dave Peattie about how e
 
 #### Berkeley Disaster Prep Neighborhood Network
 
-[www.BDPNNetwork.org](www.BDPNNetwork.org)
+[www.BDPNNetwork.org](https://www.BDPNNetwork.org)
 
 Our Mission is to assist Berkeley households and neighborhoods to respond effectively to disasters by further developing organizational skills, human and material resources, and responsiveness by sharing experiences, seeking expert advice, enhanced training and information sharing.
 
