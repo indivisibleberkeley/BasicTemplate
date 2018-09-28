@@ -101,7 +101,7 @@ One of the “selling points” of the new proposal is that weakening the standa
 
 
 ### References
-* [EPA-NHTSA Notice](https://www.epa.gov/sites/production/files/2018-08/documents/safe-my-2021-2026-cafe-ld-ghg-nhtsa-epa-nprm-2018-08-02.pdf)  
+* [EPA-NHTSA Notice](https://web.archive.org/web/20180802134924/https://www.epa.gov/sites/production/files/2018-08/documents/safe-my-2021-2026-cafe-ld-ghg-nhtsa-epa-nprm-2018-08-02.pdf)  
 * [New York Times](https://www.nytimes.com/2018/08/02/climate/trump-auto-emissions-california.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news)  
 * [Auto Safety (NYT)](https://www.nytimes.com/2018/08/02/climate/trump-fuel-economy.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news)  
 * [Washington Post](https://www.washingtonpost.com/national/health-science/2018/08/01/90c818ac-9125-11e8-8322-b5482bf5e0f5_story.html?utm_term=.7b5ebe79c7f4)  
