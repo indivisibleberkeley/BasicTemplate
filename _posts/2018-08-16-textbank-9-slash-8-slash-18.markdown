@@ -10,7 +10,7 @@ is featured: true
 event-start-date: 2018-09-08 14:00:00 -07:00
 event-end-date: 2018-09-08 16:00:00 -07:00
 Location: RSVP for location
-RSVP-link: 'cohensteve@att.net '
+RSVP-link: 'mailto:cohensteve@att.net '
 ---
 
 Second Saturday Textbank 
