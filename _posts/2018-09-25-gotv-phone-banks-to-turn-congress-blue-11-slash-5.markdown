@@ -24,7 +24,8 @@ WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with ea
 
 MONDAY, NOVEMBER 5:
 
-We're phoning Nevada voters from 1-4pm at homes in the Berkeley Hills or Berkeley Elmwood area.  From 4-7pm we'll be phoning for Harder for Congress at a home in the Berkeley Elmwood area.
+1-4pm, PHONE NEVADA VOTERS at homes in the Berkeley Hills and Berkeley Elmwood area.\
+4-7pm, PHONE FOR JOSH HARDER  at a home in the Berkeley Elmwood area.
 
 Please RSVP soon – space may be limited, and this helps us plan if more space is needed.
 
