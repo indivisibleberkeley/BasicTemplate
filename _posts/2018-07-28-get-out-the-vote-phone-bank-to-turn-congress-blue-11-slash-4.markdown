@@ -15,9 +15,9 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSes-1eOMjsOkWl6mjNy0fJy1RVKF
 
 Crunch time -- get  voters to the polls!  We'll be calling for our targeted races for Congress -- MUST WINS if we want to put a check on the Republican agenda.  
 
-From 2-4pm in Central Berkeley, we'll be calling for JOSH HARDER FOR CONGRESS -- a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). This is a frighteningly tight race -- please help us out!
+From 2-4pm in Central Berkeley, we'll be calling for JACKY ROSEN FOR SENATE in NEVADA!  Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. If we work hard! 
 
-From 5-8pm in Albany, we'll be calling for JACKY ROSEN FOR SENATE in NEVADA!  Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. If we work hard! 
+From 5-8pm in Albany, we'll be calling for HARDER FOR CONGRESS -- a strong, progressive candidate in a very tight race in neighboring CD-10 (Tracy, Modesto). This is a frighteningly tight race -- please help us out!
 
 WHAT YOU'LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
