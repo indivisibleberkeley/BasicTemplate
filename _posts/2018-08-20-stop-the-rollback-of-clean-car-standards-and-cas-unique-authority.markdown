@@ -7,7 +7,7 @@ tags:
 - environment
 - comment
 call-script-text: "### Action\n**(1) [Click here to submit your comment by October
-  2nd to the EPA and the National Highway Traffic Safety Administration](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0756).**
+  26th to the EPA and the National Highway Traffic Safety Administration](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0756).**
   Modify the suggested comment script below to oppose the rollback of key federal
   clean car standards and the elimination of California's ability to set more stringent
   standards.  \n\n**(2) Share your comments with your members of congress using contact
@@ -70,7 +70,7 @@ call-script-text: "### Action\n**(1) [Click here to submit your comment by Octob
   It is unfair for them to ask for regulatory relief now, when reducing pollutants
   including GHG is more urgent than ever. Science and technology both show that it
   is possible to comply with the previously issued standards."
-event-end-date: 2018-10-02 23:59:00 -07:00
+event-end-date: 2018-10-26 23:59:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OAR-2018-0283-0756
 ---
 
