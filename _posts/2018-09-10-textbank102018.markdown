@@ -1,5 +1,5 @@
 ---
-title: Second Saturday Textbank - October
+title: October Textbank
 date: 2018-09-10 20:44:00 -07:00
 categories:
 - event
