@@ -9,6 +9,7 @@ tags:
 is featured: true
 event-start-date: 2018-10-06 15:00:00 -07:00
 event-end-date: 2018-10-06 18:00:00 -07:00
+Location: 440 Chou Hall, UC Berkeley
 ---
 
 Join Cal grads and undergrads at our voter contact party on campus! There will be food.
@@ -19,4 +20,4 @@ Indivisible Berkeley uses research-based methods to increase voter turnout and v
 - Text voters to get their attention.
 - Write postcards to voters so they'll get an individualized letter in the mail reminding them to vote Democrat!
 
-### Location: TBD on Cal Campus (to be confirmed on Tuesday, 10/2)
+### Location: 440 Chou Hall (Haas business school on Cal campus)
