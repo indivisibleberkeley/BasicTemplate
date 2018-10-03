@@ -25,9 +25,9 @@ The proposal incorporates some worthwhile drinking water supply projects, but be
 
 The proposal risks raiding the state’s limited funds for reducing climate pollutants, building affordable housing and transit, and reducing wildfire risk in order to pay the debt service, which would account for over 50% of the CA Natural Resources Agency’s budget. In a downturn, it could encroach on other state funding for social, healthcare and education programs.  
 
-*Organizations/People Opposing Prop 3:* Sierra Club California, Friends of the River, League of Women Voters of California, Save The American River Association, Southern California Watershed Alliance, Speaker Anthony Rendon and the Editorial Boards of The East Bay Times, Mercury News, Orange County Register, Sacramento Bee, San Diego Union-Tribune, San Francisco Chronicle and Santa Cruz Sentinel.  
+**Organizations/People Opposing Prop 3:** Sierra Club California, Friends of the River, League of Women Voters of California, Save The American River Association, Southern California Watershed Alliance, Speaker Anthony Rendon and the Editorial Boards of The East Bay Times, Mercury News, Orange County Register, Sacramento Bee, San Diego Union-Tribune, San Francisco Chronicle and Santa Cruz Sentinel.  
 
-*Organizations Supporting Prop 3:* (Yes on 3)[https://waterbond.org/official-endorsement-list-for-the-water-supply-and-water-quality-act-of-2018/]
+**Organizations Supporting Prop 3:** (Yes on 3)[https://waterbond.org/official-endorsement-list-for-the-water-supply-and-water-quality-act-of-2018/]
 
 Additional Information: (Sierra Club et al)[https://www.noprop3ca.com/getthefacts/]  
 
@@ -49,6 +49,6 @@ The passage of Proposition 69 in June prevents the legislature from diverting th
 
 While they contribute to the taxes, lower income families will benefit substantially because they are more likely to use public transit for commuting and often have older vehicles that are more vulnerable to damage from poorly maintained roads.  
 
-*Organizations Opposed to Prop 6:* Sierra Club, NRDC, EDF, California League of Conservation Voters, the Nature Conservancy, the League of Women Voters, California Bicycle Coalition, California Chamber of Commerce, California NAACP, the Latin Business Association, BART, LA County MTA, California Alliance for Jobs, American Society of Civil Engineers, and California Firefighters, Highway Patrolmen and Engineers. 
+**Organizations Opposed to Prop 6:** Sierra Club, NRDC, EDF, California League of Conservation Voters, the Nature Conservancy, the League of Women Voters, California Bicycle Coalition, California Chamber of Commerce, California NAACP, the Latin Business Association, BART, LA County MTA, California Alliance for Jobs, American Society of Civil Engineers, and California Firefighters, Highway Patrolmen and Engineers. 
 
-*Organizations Supporting Prop 6:* California Republican Party and the National Federation of Independent Businesses.
+**Organizations Supporting Prop 6:** California Republican Party and the National Federation of Independent Businesses.
