@@ -10,6 +10,7 @@ is featured: true
 event-start-date: 2018-10-06 15:00:00 -07:00
 event-end-date: 2018-10-06 18:00:00 -07:00
 Location: 440 Chou Hall, UC Berkeley
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdjMPvMqAMJb6_N_tLVvVOrmBbE4S___QBRF2tplIf_2qVRrQ/viewform?usp=sf_link
 ---
 
 Join Cal grads and undergrads at our voter contact party on campus! There will be food.
