@@ -17,5 +17,5 @@ HELP FLIP THE NEVADA SENATE SEAT!  Nevada is the only state in the midterm elect
 
 WHAT YOU’LL NEED: a computer, ipad or tablet, and your phone (landline or cell).
 
-Please RSVP, and we’ll get back to you with more details. 
+Please email us at phonebank+owner@indivisibleberkeley.org, and we’ll get back to you with more details. 
 Then look for an email with subject "Indivisible Berkeley” in the next few days!
