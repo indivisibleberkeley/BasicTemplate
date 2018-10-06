@@ -1,5 +1,5 @@
 ---
-title: Special Meeting of IB Racism & Criminal Justice Reform team
+title: Special Meeting Hosted by IB Racism & Criminal Justice Reform Team
 date: 2018-05-07 19:21:00 -07:00
 categories:
 - event
