@@ -11,6 +11,4 @@ Location: 1256 Monterey Ave. (@ Hopkins), Berkeley
 RSVP-link: mailto:rcjr+owner@indivisibleberkeley.org
 ---
 
-Come to a special joint meeting with the new Racial & Criminal Justice Committee of the Wellstone Democratic Renewal Club.
-
-IB members interested in checking out our team are very welcome!
+Are you concerned about issues of Structural Racism and Unequal Justice, not only in America at large but in our own backyard? Be sure to come to a Special Meeting hosted by our RCJR team. We've also invited folks organizing similar teams in the Wellstone Democratic Renewal Club and in Democratic Socialists of America. We'll discuss ongoing issues and actions and brainstorm about future plans and the different ways people can plug in. Thursday, Oct. 11th, 7:00 p.m., 1256 Monterey Ave. (near Hopkins St.).
