@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - rcjr
+is featured: true
 event-start-date: 2018-10-11 19:00:00 -07:00
 event-end-date: 2018-10-11 20:30:00 -07:00
 Location: 1256 Monterey Ave. (@ Hopkins), Berkeley
