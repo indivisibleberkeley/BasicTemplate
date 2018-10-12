@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-10-27 13:00:00 -07:00
 event-end-date: 2018-10-27 16:00:00 -07:00
-Location: Albany
+Location: Finnish Hall Upstairs Meeting Room, 1970 Chestnut St, Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSf4XbS6MIlKG9-l1aN12OxT5K6jxX-nlETYEt4tkFeW6O3EaA/viewform
 ---
 
@@ -17,8 +17,8 @@ We're calling voters, supporting Josh Harder for Congress -- a strong, progressi
 
 WHAT YOU'LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-WHERE:  Albany
+WHERE:  Finnish Hall upstairs meeting room
 
-RSVP soon – space may be limited, and this helps us plan if more space is needed.
+RSVP soon!
 
-Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
+Any email updates from us will have “Indivisible Berkeley” in the subject line.
