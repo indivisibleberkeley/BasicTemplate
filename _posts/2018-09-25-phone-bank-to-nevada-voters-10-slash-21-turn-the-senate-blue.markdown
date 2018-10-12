@@ -7,8 +7,9 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
-event-start-date: 2018-10-21 13:00:00 -07:00
-event-end-date: 2018-10-21 16:00:00 -07:00
+event-start-date: 2018-10-21 12:30:00 -07:00
+event-end-date: 2018-10-21 15:30:00 -07:00
+Location: Finnish Hall Upstairs Meeting Room, 1970 Chestnut St, Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdpLycTQ5znasrtJMOQUQIDPlnDdhr0xKm4LLvsbWen5H7AHA/viewform
 ---
 
@@ -16,6 +17,6 @@ Nevada is the only state in the midterm elections that has an incumbent Republic
 
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
-RSVP soon – space may be limited, and this helps us plan if more space is needed.
+RSVP soon!
 
-Then look for an email with subject ‘Indivisible Berkeley” in the next few days so you’ll know where to go!
+Any email updates from us will have “Indivisible Berkeley” in the subject line.
