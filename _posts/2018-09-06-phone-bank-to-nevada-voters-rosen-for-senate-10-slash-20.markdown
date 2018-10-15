@@ -6,6 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
+is featured: true
 main-image: "/uploads/nv-266-e-at-ca-line-1.jpg"
 event-start-date: 2018-10-20 13:00:00 -07:00
 event-end-date: 2018-10-20 16:00:00 -07:00
