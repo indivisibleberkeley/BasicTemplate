@@ -7,6 +7,7 @@ tags:
 - elections
 - canvassing
 - canvass
+is featured: true
 event-start-date: 2018-10-20 08:30:00 -07:00
 event-end-date: 2018-10-20 16:30:00 -07:00
 Location: To be determined in CD10, likely be in Manteca or Modesto
