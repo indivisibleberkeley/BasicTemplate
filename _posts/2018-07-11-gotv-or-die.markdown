@@ -20,7 +20,7 @@ All that we've been working for for the last 20 months is up for grabs in this e
 
 - To commit to **knocking doors**, fill out the form below ([or here](https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform)) or email our canvassing captains at [canvassing+owner@indivisibleberkeley.org](mailto:canvassing+owner@indivisibleberkeley.org)
 
-- To commit to **calling voters**, email our phone bank captains at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org)
+- To commit to **calling voters**, sign up for our phone banks at these links ([11/5](https://docs.google.com/forms/d/e/1FAIpQLSdQPXXGRh2weQ3-7BV4uwMdqdbVnKTBa3EC8so_tD7qKqp5Fw/viewform), [11/6](https://docs.google.com/forms/d/e/1FAIpQLSevVKvLl-TirfEoXhPsyGgmHGnKFBFJ-6hhXcfWv2bw6YqppA/viewform)) or email our phone bank captains at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org)
 
 - To commit to **helping with office work in Tracy**, email the Elections Team at [elections+owner@indivisibleberkeley.org](mailto:elections+owner@indivisibleberkeley.org) and we will connect you with Roberta, our liaison to the Tracy office
 
