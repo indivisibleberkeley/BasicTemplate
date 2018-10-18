@@ -24,4 +24,4 @@ All that we've been working for for the last 20 months is up for grabs in this e
 
 - To commit to **helping with office work in Tracy**, email the Elections Team at [elections+owner@indivisibleberkeley.org](mailto:elections+owner@indivisibleberkeley.org) and we will connect you with Roberta, our liaison to the Tracy office
 
-*Fill out the form below or [click here](https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform) to help save our democracy*
+- To commit to **supporting our phone bankers in Berkeley** with food deliveries, or any other form of support or involvement, email the Elections Team at [elections+owner@indivisibleberkeley.org](mailto:elections+owner@indivisibleberkeley.org) with your availability between 11/1 and 11/6 and we will send you instructions
