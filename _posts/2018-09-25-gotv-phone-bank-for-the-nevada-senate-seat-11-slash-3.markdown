@@ -1,5 +1,5 @@
 ---
-title: GOTV Phone Bank for the Nevada Senate Seat 11/3
+title: 'GOTV Phone Bank: CA-10 and NV-Senate - 11/3'
 date: 2018-09-25 14:24:00 -07:00
 categories:
 - event
