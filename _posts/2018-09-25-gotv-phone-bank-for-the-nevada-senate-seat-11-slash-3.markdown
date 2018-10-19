@@ -7,8 +7,8 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
-event-start-date: 2018-11-03 13:00:00 -07:00
-event-end-date: 2018-11-03 16:00:00 -07:00
+event-start-date: 2018-11-03 10:00:00 -07:00
+event-end-date: 2018-11-03 20:00:00 -07:00
 Location: TBA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSexV1PM2vlgh2uU8XT4dpeLAsHgVXo6LDCODD0N_N-k2CIiqg/viewform
 ---
