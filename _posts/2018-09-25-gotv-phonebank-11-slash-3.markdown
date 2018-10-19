@@ -13,7 +13,7 @@ Location: TBA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSexV1PM2vlgh2uU8XT4dpeLAsHgVXo6LDCODD0N_N-k2CIiqg/viewform
 ---
 
-Nevada is the only state in the midterm elections that has an incumbent Republican Senator in a state that Hillary Clinton won in 2016. We can flip this state. Phone Nevada voters and help them send Democrat Jacky Rosen to the Senate. Think Supreme Court -- and let's put work to put a check on the Republican agenda!
+Join your Berkeley neighbors to Get Out The Vote in the Central Valley (CA-10) and in Nevada! These two races are some of the closest in the nation and we want to make sure everyone there is voting!!! Help us flip these seats to win a Democratic majority in the House and the Senate!
 
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
