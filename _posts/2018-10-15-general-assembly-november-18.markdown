@@ -1,5 +1,5 @@
 ---
-title: General Assembly - November '18
+title: IB General Assembly - November
 date: 2018-10-15 22:01:00 -07:00
 categories:
 - event
