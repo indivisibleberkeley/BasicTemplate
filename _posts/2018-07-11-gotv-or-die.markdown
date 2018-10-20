@@ -2,12 +2,13 @@
 title: Get Out the Vote for the Midterms!
 date: 2018-07-11 22:08:00 -07:00
 categories:
-- action
+- update
 tags:
 - elections
 is featured: true
 main-image: "/uploads/IMG_3655.JPG"
-event-end-date: 2018-11-06 00:00:00 -08:00
+event-start-date: 2018-10-01 00:00:00 -07:00
+event-end-date: 2018-11-07 00:00:00 -08:00
 embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform?embedded=true"
   width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---
