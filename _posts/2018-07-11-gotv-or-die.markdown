@@ -2,7 +2,7 @@
 title: Get Out the Vote for the Midterms!
 date: 2018-07-11 22:08:00 -07:00
 categories:
-- update
+- action
 tags:
 - elections
 is featured: true
