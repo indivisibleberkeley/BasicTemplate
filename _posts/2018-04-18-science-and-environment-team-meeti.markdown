@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - environment
+is featured: true
 event-start-date: 2018-11-18 19:00:00 -08:00
 event-end-date: 2018-11-18 20:45:00 -08:00
 ---
