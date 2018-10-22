@@ -11,5 +11,7 @@ event-end-date: 2018-11-18 20:45:00 -08:00
 
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
 
+Socialize and settle in beginning at 7:00pm.  Meeting begins promptly at 7:15.
+
 ATTENTION: NEW TEMPORARY MEETING LOCATION  
 [Click this link](mailto:bishoplm@gmail.com?subject=New%20Science%20and%20Environment%20Meeting%20Location) to e-mail bishoplm@gmail.com with the subject line "New Science and Environment Meeting Location" (without quotes) to receive details about the new meeting location.
