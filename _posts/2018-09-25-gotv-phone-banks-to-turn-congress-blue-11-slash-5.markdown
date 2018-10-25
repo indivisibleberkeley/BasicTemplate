@@ -4,7 +4,6 @@ date: 2018-09-25 11:55:00 -07:00
 categories:
 - event
 tags:
-- phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202-e065de.jpg"
 event-start-date: 2018-11-05 13:00:00 -08:00
