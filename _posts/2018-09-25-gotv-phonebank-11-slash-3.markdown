@@ -6,6 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
+is featured: true
 main-image: "/uploads/Nevada%20green%20sign%20against%20sky-034223.jpeg"
 event-start-date: 2018-11-03 12:00:00 -07:00
 event-end-date: 2018-11-03 16:00:00 -07:00
