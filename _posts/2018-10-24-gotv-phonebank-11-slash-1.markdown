@@ -1,5 +1,5 @@
 ---
-title: 'GOTV Phone Bank: CA-10 and NV-Senate - 11/4'
+title: 'GOTV Phone Bank: CA-10 and NV-Senate - 11/1'
 date: 2018-10-24 21:37:00 -07:00
 categories:
 - event
