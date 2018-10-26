@@ -19,6 +19,6 @@ Join your Berkeley neighbors to Get Out The Vote in the Central Valley (CA-10) a
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
 RSVP soon!
-Location TBA
+Ashkenaz, 1317 San Pablo Ave, Berkeley
 
 Emails from us will have "Indivisible Berkeley" in the subject line. We'll send an email with the location as soon as it's finalized.
