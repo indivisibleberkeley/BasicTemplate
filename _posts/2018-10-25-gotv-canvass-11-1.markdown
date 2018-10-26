@@ -1,0 +1,17 @@
+---
+title: Canvass for GOTV - 11/1
+date: 2018-10-25 20:55:00 -07:00
+categories:
+- event
+tags:
+- canvassing
+- elections
+is featured: true
+main-image: "/uploads/Indivisible%20Berkeley%20-%20Canvass%20photo%203%20(CA-10,%202017).JPG"
+event-start-date: 2018-11-01 09:00:00 -07:00
+event-end-date: 2018-11-01 21:00:00 -07:00
+Location: Tracy, CA
+embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform?embedded=true"
+  width="480" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+---
+
