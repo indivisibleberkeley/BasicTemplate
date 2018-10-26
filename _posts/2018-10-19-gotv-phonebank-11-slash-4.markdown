@@ -19,6 +19,6 @@ Join your Berkeley neighbors to Get Out The Vote in the Central Valley (CA-10) a
 WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
 RSVP soon!
-Location TBA.
+South Berkeley Senior Center, 2939 Ellis St, Berkeley
 
 Then look for an email with subject "Indivisible Berkeley" in the next few days so you'll know where to go!
