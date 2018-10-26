@@ -1,0 +1,17 @@
+---
+title: Canvass for GOTV - 11/3
+date: 2018-10-25 21:08:00 -07:00
+categories:
+- event
+tags:
+- elections
+- canvassing
+is featured: true
+main-image: "/uploads/IMG_3655.JPG"
+event-start-date: 2018-11-03 09:00:00 -07:00
+event-end-date: 2018-11-03 21:00:00 -07:00
+Location: Tracy, CA
+embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform?embedded=true"
+  width="480" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+---
+
