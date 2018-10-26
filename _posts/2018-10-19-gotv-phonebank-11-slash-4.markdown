@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-11-04 11:00:00 -08:00
 event-end-date: 2018-11-04 20:00:00 -08:00
-Location: TBA
+Location: South Berkeley Senior Center, 2939 Ellis St, Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSe2uQqzFW7M4su9EfVs81r_d6f2rUfSwGhW4679A-tnciyJQg/viewform
 ---
 
