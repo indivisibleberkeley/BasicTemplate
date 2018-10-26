@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2018-11-02 10:00:00 -07:00
 event-end-date: 2018-11-02 17:00:00 -07:00
-Location: TBA
+Location: Ashkenaz, 1317 San Pablo Ave, Berkeley
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSd9qwmKhLiAGE6E6V1fhF1qtxTBxMrWcur5rAZ9hTg2JO2R5Q/viewform
 ---
 
