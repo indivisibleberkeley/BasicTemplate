@@ -1,5 +1,5 @@
 ---
-title: Elections Team - October Meeting
+title: Elections Team - October Meeting - CANCELLED
 date: 2017-12-31 19:03:00 -08:00
 categories:
 - event
@@ -9,6 +9,8 @@ event-start-date: 2018-10-28 18:30:00 -07:00
 event-end-date: 2018-10-28 20:00:00 -07:00
 Location: Connie Barbour Room, BFUU, 1606 Bonita Ave, Berkeley, CA
 ---
+
+# This meeting is CANCELLED due to [GOTV for the election](https://indivisibleberkeley.org/update/gotv)
 
 The Elections Team focuses on flipping red districts through voter contact. We canvass, phonebank, write postcards, and register new voters. We work with and support local partners.
 
