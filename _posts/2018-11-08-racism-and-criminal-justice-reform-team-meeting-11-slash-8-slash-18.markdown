@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - rcjr
+is featured: true
 event-start-date: 2018-11-08 19:00:00 -08:00
 event-end-date: 2018-11-08 21:00:00 -08:00
 Location: 1256 Monterey Ave. Berkeley, CA
