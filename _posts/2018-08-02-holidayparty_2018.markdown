@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - social
+- party
+is featured: true
 event-start-date: 2018-12-06 19:00:00 -08:00
 event-end-date: 2018-12-06 21:00:00 -08:00
 Location: BFUU Fellowship Hall, 1924 Cedar St, Berkeley
