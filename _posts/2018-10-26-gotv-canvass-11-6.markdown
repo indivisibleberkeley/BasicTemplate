@@ -11,7 +11,6 @@ main-image: "/uploads/IMG_3655.JPG"
 event-start-date: 2018-11-06 09:00:00 -08:00
 event-end-date: 2018-11-06 21:00:00 -08:00
 Location: Tracy, CA
-embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform?embedded=true"
-  width="480" height="1286" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---
 
+### Sign up by emailing your availability to [canvassing+owner@indivisibleberkeley.org](mailto:canvassing+owner@indivisibleberkeley.org)
