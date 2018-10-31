@@ -9,8 +9,6 @@ is featured: true
 main-image: "/uploads/IMG_3655.JPG"
 event-start-date: 2018-10-01 00:00:00 -07:00
 event-end-date: 2018-11-07 00:00:00 -08:00
-embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform?embedded=true"
-  width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---
 
 ## November 1 - November 6
