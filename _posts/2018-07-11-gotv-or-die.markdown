@@ -19,7 +19,7 @@ embed-code: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-f
 
 All that we've been working for for the last 20 months is up for grabs in this election. Commit today to a day (or more!) of making sure voters in our critical target races get to the polls!
 
-- To commit to **knocking doors**, fill out the form below ([or here](https://docs.google.com/forms/d/e/1FAIpQLSfRpCQiXRmmM-fp57LYvnvOQSlfoedWDJLTBna5B14ovCAzyA/viewform)) or email our canvassing captains at [canvassing+owner@indivisibleberkeley.org](mailto:canvassing+owner@indivisibleberkeley.org)
+- To commit to **knocking doors**, email your availability to our canvassing captains at [canvassing+owner@indivisibleberkeley.org](mailto:canvassing+owner@indivisibleberkeley.org)
 
 - To commit to **calling voters**, sign up for our phone banks at these links ([11/1], [11/2], [11/3], [11/4], [11/5], [11/6]) or email our phone bank captains at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org)
 
