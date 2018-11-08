@@ -1,7 +1,14 @@
 ---
-title: Nobody is Above the Law - Mueller Firing Mobilization
+title: Nobody is Above the Law - Sessions Firing Mobilization
 date: 2017-12-31 17:00:00 -08:00
-is featured: true
+categories:
+- event
+tags:
+- tfs
+- trumprussia
+- national
+- rally
+is featured: false
 event-start-date: 2018-11-08 17:00:00 -08:00
 event-end-date: 2018-11-08 18:00:00 -08:00
 Location: MLK Civic Center Park, 2134 Martin Luther King Jr Way
