@@ -21,11 +21,12 @@ Trump putting himself above the law is a threat to our democracy, and we’ve go
 
 We're mobilizing immediately to demand accountability, because Trump is not above the law.
 
-Please make note of the date, time, and description below to confirm that the host is able to organize the event on such short notice! 
-
 Once you sign up, make sure to invite friends to join you at the event!
 
 Note: If you choose to attend an event, you agree to engage in nonviolent, peaceful action, to act lawfully, and to strive to de-escalate any potential confrontations with those who may disagree with our values.
 
-The host has marked that this event is wheelchair accessible.
-Join Indivisible Berkeley for a public outcry in protest of Donald Trump's firing of special counsel Robert Mueller. Nobody is above the law. Visit indivisibleberkeley.org for more information. *We recommend that you bring a flashlight, signs, and a cell phone.* 
+Join Indivisible Berkeley for a public outcry in protest of Donald Trump's firing of Attorney General Jeff Sessions. **Nobody is above the law.**
+
+Visit indivisibleberkeley.org for more information.
+
+### We recommend that you bring a flashlight, signs, and a cell phone. 
