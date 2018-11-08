@@ -33,3 +33,13 @@ Tell Congress to act. Every Member of Congress should be immediately and publicl
 - Congress must launch investigations into Trump’s obstruction of justice—and Democrats should be publicly committing to do so when they take control of the House in January.
 
 There is no longer “nothing we can do” about Trump’s antics. The Democrats will take over the House of Representatives in January and we will demand that they prioritize using their new powers to hold Trump accountable.
+
+NOTE: If you cannot get through and cannot leave a message, you can also email or fax your representatives. Here is the info:  
+
+Senator Dianne Feinstein email: https://www.feinstein.senate.gov/public/index.cfm/e-mail-me
+
+Senator Kamala Harris email: https://www.harris.senate.gov/contact/email
+
+Congresswoman Barbara Lee email: https://lee.house.gov/contact/email-me
+
+Free fax available via https://faxzero.com/, which also has fax numbers on file for every Congressperson, Senator, and Governor. You can send up to 3 free faxes per day.
