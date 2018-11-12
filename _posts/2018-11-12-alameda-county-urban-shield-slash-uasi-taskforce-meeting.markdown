@@ -1,0 +1,19 @@
+---
+title: Alameda County Urban Shield/UASI Taskforce meeting
+date: 2018-11-12 09:00:00 -08:00
+categories:
+- teams
+tags:
+- rcjr
+is featured: true
+event-start-date: 2018-11-12 09:00:00 -08:00
+event-end-date: 2018-11-12 11:00:00 -08:00
+Location: "Berkeley City Council Chambers - \n2134 Martin Luther King Jr. Way, Berkeley
+  \ 94704"
+---
+
+As many of you know, this year the Alameda County Board of Supervisors voted to reconstitute the Sheriff Ahern-created Urban Shield training.
+The task force charged with implementing the transition from the "last Urban Shield as we know it" to a different kind of emergency preparedness training, will be meeting in Berkeley in the City Council chambers on November 19th, at 9am.
+This meeting is open to the public. We encourage all interested Alameda County residents to attend and urge the taskforce to advance a non-militarized vision for emergency training.
+
+[](https://bit.ly/2JXOF01)
