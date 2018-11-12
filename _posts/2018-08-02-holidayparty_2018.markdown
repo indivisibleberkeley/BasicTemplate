@@ -2,7 +2,7 @@
 title: IB Holiday Party 2018
 date: 2018-08-02 16:50:00 -07:00
 categories:
-- update
+- event
 tags:
 - social
 - party
@@ -14,4 +14,10 @@ Location: BFUU Fellowship Hall, 1924 Cedar St, Berkeley
 
 Join us at the BFUU Fellowship Hall on Thursday, December 6th for the Indivisible Berkeley Holiday Party!
 
-(more details to come, but save the date!)
+**Indivisible Berkeley Holiday Party**
+
+Thursday, December 6, 7pm-9pm
+
+BFUU Fellowship Hall
+
+1924 Cedar St., Berkeley
