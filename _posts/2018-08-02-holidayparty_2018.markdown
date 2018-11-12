@@ -2,7 +2,7 @@
 title: IB Holiday Party 2018
 date: 2018-08-02 16:50:00 -07:00
 categories:
-- event
+- update
 tags:
 - social
 - party
