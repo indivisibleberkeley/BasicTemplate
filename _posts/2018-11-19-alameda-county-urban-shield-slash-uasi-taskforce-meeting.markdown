@@ -2,7 +2,7 @@
 title: Alameda County Urban Shield/UASI Taskforce meeting
 date: 2018-11-19 09:00:00 -08:00
 categories:
-- events
+- event
 tags:
 - rcjr
 is featured: true
