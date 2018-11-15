@@ -1,5 +1,5 @@
 ---
-title: Alameda County Ad Hoc Committee on UASI Meeting
+title: Reconfigure Urban Shield! - Ad Hoc Committee on UASI Meeting
 date: 2018-11-30 09:00:00 -08:00
 categories:
 - event
