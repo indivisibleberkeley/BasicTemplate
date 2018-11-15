@@ -7,7 +7,7 @@ tags:
 - rcjr
 is featured: true
 event-start-date: 2018-11-19 09:00:00 -08:00
-event-end-date: 2018-11-19 11:00:00 -08:00
+event-end-date: 2018-11-19 11:30:00 -08:00
 Location: "Berkeley City Council Chambers - \n2134 Martin Luther King Jr. Way, Berkeley
   \ 94704"
 ---
