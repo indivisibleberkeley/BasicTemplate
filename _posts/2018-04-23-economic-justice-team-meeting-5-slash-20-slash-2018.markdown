@@ -1,17 +1,15 @@
 ---
-title: POSTPONED! Economic Justice Team Meeting
+title: Economic Justice Team Meeting
 date: 2018-04-23 21:27:00 -07:00
 categories:
 - event
 tags:
 - economic-justice
-event-start-date: 2018-11-19 19:00:00 -08:00
-event-end-date: 2018-11-19 20:30:00 -08:00
+event-start-date: 2018-12-12 19:00:00 -08:00
+event-end-date: 2018-12-12 20:30:00 -08:00
 Location: 1618 Capistrano Avenue, Berkeley, CA 94707
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
-
-[New date TBA]
 
 1618 Capistrano Avenue, Berkeley, CA 94707
 
