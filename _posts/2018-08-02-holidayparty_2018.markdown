@@ -15,7 +15,7 @@ RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-holiday-party-2
 embed-code: |-
   <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-holiday-party-2018?format=js&source=widget'></script><div id='can-event-area-indivisible-berkeley-holiday-party-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
   <br>
-  ![holiday party 2018.png](/uploads/holiday%20party%202018.png)
+  <img src="/uploads/holiday%20party%202018.png" width="80%"></img>
 ---
 
 Join us at the BFUU Fellowship Hall on Thursday, December 6th for the Indivisible Berkeley Holiday Party!
