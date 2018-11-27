@@ -7,15 +7,15 @@ tags:
 - social
 - party
 is featured: true
-main-image: "/uploads/holiday%20party%202018.png"
+main-image: "/uploads/Corporate-Holiday-Parties.jpg"
 event-start-date: 2018-12-06 19:00:00 -08:00
 event-end-date: 2018-12-06 21:00:00 -08:00
 Location: BFUU Fellowship Hall, 1924 Cedar St, Berkeley
 RSVP-link: https://actionnetwork.org/events/indivisible-berkeley-holiday-party-2018?source=direct_link&
-embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
-  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-holiday-party-2018?format=js&source=widget'></script><div
-  id='can-event-area-indivisible-berkeley-holiday-party-2018' style='width: 100%'><!--
-  this div is the target for our HTML insertion --></div>"
+embed-code: |-
+  <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-holiday-party-2018?format=js&source=widget'></script><div id='can-event-area-indivisible-berkeley-holiday-party-2018' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+  <br>
+  ![holiday party 2018.png](/uploads/holiday%20party%202018.png)
 ---
 
 Join us at the BFUU Fellowship Hall on Thursday, December 6th for the Indivisible Berkeley Holiday Party!
@@ -27,4 +27,3 @@ Thursday, December 6, 7pm-9pm<br/>
 BFUU Fellowship Hall<br/>
 1924 Cedar St., Berkeley
 
-![holiday party 2018.png](/uploads/holiday%20party%202018.png)
