@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - rcjr
+is featured: true
 event-start-date: 2018-11-30 09:00:00 -08:00
 event-end-date: 2018-11-30 11:30:00 -08:00
 Location: Alameda County Bldg. 1221 Oak St., Oakland
