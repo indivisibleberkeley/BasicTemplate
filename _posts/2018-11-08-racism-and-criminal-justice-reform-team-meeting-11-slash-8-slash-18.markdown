@@ -1,7 +1,6 @@
 ---
 title: Racism and Criminal Justice Reform Team Meeting - 11/8/18
 date: 2018-11-08 19:00:00 -08:00
-published: false
 categories:
 - event
 tags:
