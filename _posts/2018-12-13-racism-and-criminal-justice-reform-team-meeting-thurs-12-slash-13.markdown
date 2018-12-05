@@ -1,6 +1,10 @@
 ---
 title: Racism and Criminal Justice Reform Team meeting Thurs. 12/13
-date: 2018-12-04 15:37:00 -08:00
+date: 2018-12-13 19:00:00 -08:00
+categories:
+- event
+tags:
+- rcjr
 is featured: true
 event-start-date: 2018-12-13 00:00:00 -08:00
 event-end-date: 2018-12-13 00:00:00 -08:00
