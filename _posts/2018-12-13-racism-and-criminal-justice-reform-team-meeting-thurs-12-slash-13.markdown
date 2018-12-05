@@ -6,8 +6,8 @@ categories:
 tags:
 - rcjr
 is featured: true
-event-start-date: 2018-12-13 00:00:00 -08:00
-event-end-date: 2018-12-13 00:00:00 -08:00
+event-start-date: 2018-12-13 19:00:00 -08:00
+event-end-date: 2018-12-13 21:00:00 -08:00
 1256 Monterey Ave. Berkeley: 
 ---
 
