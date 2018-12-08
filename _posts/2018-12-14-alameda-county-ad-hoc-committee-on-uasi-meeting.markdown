@@ -1,6 +1,6 @@
 ---
 title: Reconfigure Urban Shield! - Ad Hoc Committee on UASI Meeting
-date: 2018-12-07 09:00:00 -08:00
+date: 2018-12-14 09:00:00 -08:00
 categories:
 - event
 tags:
