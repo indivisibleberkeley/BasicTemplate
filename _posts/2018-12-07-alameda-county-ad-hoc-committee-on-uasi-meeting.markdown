@@ -6,8 +6,8 @@ categories:
 tags:
 - rcjr
 is featured: true
-event-start-date: 2018-12-07 09:00:00 -08:00
-event-end-date: 2018-11-07 11:30:00 -08:00
+event-start-date: 2018-12-14 09:00:00 -08:00
+event-end-date: 2018-12-14 11:30:00 -08:00
 Location: Board of Supervisors Chambers, Alameda County Bldg. 1221 Oak St., Oakland
 ---
 
