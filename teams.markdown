@@ -7,7 +7,7 @@ main-image:
 layout: allteams
 ---
 
-Indivisible Berkeley teams are organized around specific issues such as healthcare, elections, or criminal justice reform. Team members plan events and actions and bring in the entire Indivisible Berkeley community to participate. Any community member is welcome to attend a team event or action. All of the team's contact information is on the corresponding team page. (Note: not all teams have their own page yet. Our volunteers are busy but we're working on it!) To join a team, do one of these three things:
+Indivisible Berkeley teams are organized around specific issues such as healthcare, elections, or criminal justice reform. Team members plan events and actions and bring in the entire Indivisible Berkeley community to participate. Any community member is welcome to attend a team event or action. All of the team's contact information is on the corresponding team page. To join a team, do one of these three things:
 
 1. Subscribe to the team mailing list and/or Slack channel to see what the team is working on right now
 
