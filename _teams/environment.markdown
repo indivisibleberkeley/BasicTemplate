@@ -22,8 +22,13 @@ Our group focuses on actions. We meet, discuss, conduct research, and inform eac
 
 ### Team Information
  
-Our team usually meets on the FIRST and THIRD Sundays of the month, at 7pm. Newcomers are welcome. Please check the [calendar page](/calendar) to find the time and location of our next team meeting!
- 
+#### Meeting Date and Time
+Our team usually meets on the first and third Sundays of the month. Newcomers are welcome. We socialize and settle in beginning at 7:00pm, and the meetings begin promptly at 7:15. Please check the [calendar page](/calendar) to confirm upcoming meeting dates. 
+
+#### Meeting Locations
+We meet in Berkeley, but our locations vary. So please check the [calendar page](/calendar) for instructions on how to find the location of our next meeting.
+
+#### Email list
 Join our email list by sending a blank email to [environment+subscribe@indivisibleberkeley.org][mailtoenv] from the address you wish to subscribe.
  
 If you have questions about our team, email [environment+owner@indivisibleberkeley.org][mailtoenvowner].  You can find us in the [#science_environment channel][scienvchannel] in the [IB Slack][ibslack].
