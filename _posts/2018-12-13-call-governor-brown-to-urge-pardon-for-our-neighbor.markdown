@@ -6,6 +6,8 @@ categories:
 tags:
 - rcjr
 is featured: true
+event-start-date: 2018-12-13 00:00:00 -08:00
+event-end-date: 2018-12-21 00:00:00 -08:00
 ---
 
 Somdeng Danny Thongsy, who is an Oakland resident and cherished community leader, is currently facing deportation to Laos, a country he has never set foot in. Danny is a refugee whose family fled Laos during the Vietnam War era. He was born in a Thai refugee camp, resettling in the US when he was 2 years old. Due to a conviction from when he was 17, and from which he has matured and transformed his life, he is now facing deportation to Laos. Danny's family and community are all in the U.S., and he doesn’t know anyone in Laos. We need to keep him here with them, and where he can continue the work he has been doing around criminal justice reform, immigrant rights, and voter education. 
