@@ -54,10 +54,10 @@ The oil and gas industry petitioned the government to reconsider this 2016 NSPS 
 Justification for making changes to the 2016 NSPS Rule rests on faulty analysis in several areas: 1) The social cost of methane (estimate of its harmful effects on public health and the environment) was reduced from $1400 per ton of methane (used in 2016) to $53 per ton (used in 2018). The $1400 estimate was developed by an interagency working group of experts and was based on the best data and scientific methods available in 2016. This interagency group of experts was disbanded by the current EPA and instead the outdated estimate of $53 per ton used by the Bush administration was readopted. 2) Methane emissions from the oil and gas sector were assumed to be less substantial than outside experts have estimated them to be. 3) The assumption that the reduction in monitoring frequency and the doubling of time allowed for repairing leaks will not increase the rate of methane emissions in the industry is not supported by evidence.  
 
 ### References
-[Save EPA](http://saveepaalums.info/proposed+EPA+methane+standards)  
-[Environmental Defense Fund](https://www.edf.org/climate/methane-other-important-greenhouse-gas)  
-[Global Warming of 1.5 ºC, IPCC](https://www.ipcc.ch/sr15/)  
-[Fourth National Climate Assessment](https://www.globalchange.gov/nca4)  
-[National Academies of Science, Engineering, Medicine, Improving Characterization of Anthropogenic Methane Emissions in the United States, 2018.](https://www.nap.edu/catalog/24987/improving-characterization-of-anthropogenic-methane-emissions-in-the-united-states)  
-[United Nations Climate Change, Why Methane Matters, August 2014.](https://unfccc.int/news/new-methane-signs-underline-urgency-to-reverse-emissions)  
-[Environmental Defense Fund, The Business Case for Curbing Methane Emissions](http://business.edf.org/projects/featured/natural-gas/the-business-case-for-methane-mitigation)  
+* [Save EPA](http://saveepaalums.info/proposed+EPA+methane+standards)  
+* [Environmental Defense Fund](https://www.edf.org/climate/methane-other-important-greenhouse-gas)  
+* [Global Warming of 1.5 ºC, IPCC](https://www.ipcc.ch/sr15/)  
+* [Fourth National Climate Assessment](https://www.globalchange.gov/nca4)  
+* [National Academies of Science, Engineering, Medicine, Improving Characterization of Anthropogenic Methane Emissions in the United States, 2018.](https://www.nap.edu/catalog/24987/improving-characterization-of-anthropogenic-methane-emissions-in-the-united-states)  
+* [United Nations Climate Change, Why Methane Matters, August 2014.](https://unfccc.int/news/new-methane-signs-underline-urgency-to-reverse-emissions)  
+* [Environmental Defense Fund, The Business Case for Curbing Methane Emissions](http://business.edf.org/projects/featured/natural-gas/the-business-case-for-methane-mitigation)  
