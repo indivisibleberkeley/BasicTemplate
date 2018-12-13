@@ -26,6 +26,6 @@ See more on the facebook event: https://www.facebook.com/events/2271510493136882
 
 * Tweet at the Governor asking him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees using #Stand4Danny and #PardonRefugees
 
-* 3. Sign the #Stand4Danny petition and share with others: bit.ly/stand4danny
+* Sign the #Stand4Danny petition and share with others: bit.ly/stand4danny
 
 * Check out the #Stand4Danny facebook page (bit.ly/stand4dannyfb) for more information
