@@ -22,7 +22,7 @@ Sample script
 
 We also want to lift up Sear Un and Sina Khun who are on the deportation flight slated for Dec 17. Both will be deported for actions they committed decades ago, and could be permanently separated from their families and community. I believe refugees deserve equal rights and opportunities and these individuals need the Governor’s support. Will the Governor commit to pardoning Danny, Sear and Sina to keep them from being deported?"
 
-See more on the facebook event:https://www.facebook.com/events/2271510493136882
+See more on the facebook event: https://www.facebook.com/events/2271510493136882
 
 * Tweet at the Governor asking him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees using #Stand4Danny and #PardonRefugees
 
