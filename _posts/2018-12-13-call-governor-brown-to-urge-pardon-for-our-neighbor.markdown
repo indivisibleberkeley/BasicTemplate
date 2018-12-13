@@ -14,7 +14,7 @@ Somdeng Danny Thongsy, who is an Oakland resident and cherished community leader
 
 Help urge Governor Brown to take action to stop Danny’s deportation and deportations of other Southeast Asian refugees who fled war by issuing a pardon. While Trump recently sanctioned Laos to try and force them to take deportees, Gov. Brown can actually stop Danny’s and other refugees’ deportations via his pardon power. This is the only thing that will halt the risk of deportation. Here’s how you can take action:
 
-1. Call the Governor’s Office to urge him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees to stop their deportations (including 2 Cambodian Americans who are facing imminent deportation)
+* Call the Governor’s Office to urge him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees to stop their deportations (including 2 Cambodian Americans who are facing imminent deportation)
 
 Dial: 916-445-2841
 Sample script 
@@ -24,8 +24,8 @@ We also want to lift up Sear Un and Sina Khun who are on the deportation flight 
 
 See more on the facebook event:https://www.facebook.com/events/2271510493136882
 
-2. Tweet at the Governor asking him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees using #Stand4Danny and #PardonRefugees
+* Tweet at the Governor asking him to pardon Somdeng Danny Thongsy and other Southeast Asian refugees using #Stand4Danny and #PardonRefugees
 
-3. Sign the #Stand4Danny petition and share with others: bit.ly/stand4danny
+* 3. Sign the #Stand4Danny petition and share with others: bit.ly/stand4danny
 
-Check out the #Stand4Danny facebook page (bit.ly/stand4dannyfb) for more information
+* Check out the #Stand4Danny facebook page (bit.ly/stand4dannyfb) for more information
