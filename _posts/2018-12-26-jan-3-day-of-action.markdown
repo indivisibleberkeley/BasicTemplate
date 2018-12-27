@@ -13,6 +13,11 @@ main-image: "/uploads/womens-march-2017-small.jpeg"
 event-start-date: 2019-01-03 17:00:00 -08:00
 event-end-date: 2019-01-03 18:00:00 -08:00
 Location: 1301 Clay St., Oakland
+RSVP-link: https://actionnetwork.org/events/whose-house-our-house-with-indivisible-berkeley
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/whose-house-our-house-with-indivisible-berkeley?format=js&source=widget'></script><div
+  id='can-event-area-whose-house-our-house-with-indivisible-berkeley' style='width:
+  100%'><!-- this div is the target for our HTML insertion --></div>"
 ---
 
 Democrats take over the House of Representatives on January 3, 2018. Let's show them we mean business! [Whose House? Our House!](https://indivisible.org/resource/hr-1-strengthening-our-democracy)
