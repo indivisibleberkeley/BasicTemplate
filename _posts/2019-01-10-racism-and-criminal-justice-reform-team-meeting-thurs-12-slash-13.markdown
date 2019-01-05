@@ -1,5 +1,5 @@
 ---
-title: Racism and Criminal Justice Reform Team meeting
+title: Racism and Criminal Justice Reform Team Meeting
 date: 2019-01-10 19:00:00 -08:00
 categories:
 - event
