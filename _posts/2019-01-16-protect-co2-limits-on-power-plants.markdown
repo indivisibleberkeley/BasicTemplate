@@ -11,7 +11,7 @@ RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936
 ---
 
 ### Overview
-Carbon capture and sequestration (CCS) is a technology that stops large amounts of carbon dioxide from being released into the atmosphere by separating out this greenhouse gas from the emissions and injecting it into geological formations. The EPA is proposing the elimination of CCS requirements for new, modified and reconstructed fossil fuel-fired  power plants. The new rule would worsen climate and other public health impacts.  
+Carbon capture and sequestration (CCS) is a technology that stops large amounts of carbon dioxide from being released into the atmosphere by separating out this greenhouse gas from power plant emissions and injecting it into geological formations. The EPA is proposing the elimination of CCS requirements for new, modified and reconstructed fossil fuel-fired  power plants. The new rule would worsen climate and other public health impacts.  
 
 ### Take Action
 **(1) Submit your Comment to EPA.** By February 19th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936).  
