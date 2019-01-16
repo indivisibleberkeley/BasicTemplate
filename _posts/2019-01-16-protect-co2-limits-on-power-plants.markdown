@@ -1,5 +1,5 @@
 ---
-title: Protect CO2 Limits on Power Plants
+title: Protect Carbon Dioxide Emission Limits on Power Plants
 date: 2019-01-16 13:14:00 -08:00
 categories:
 - action
