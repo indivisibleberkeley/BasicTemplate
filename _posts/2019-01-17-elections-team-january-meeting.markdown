@@ -16,3 +16,5 @@ The Elections Team focuses on flipping red districts through voter contact. We c
 We also work on electoral reform issues.
 
 Come hang out with us at our monthly meeting!
+
+Potluck at 6:30pm, meeting begins at 7pm.
