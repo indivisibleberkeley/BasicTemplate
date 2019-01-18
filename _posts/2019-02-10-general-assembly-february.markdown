@@ -6,6 +6,7 @@ categories:
 tags:
 - general assembly
 is featured: true
+main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2019-02-10 19:30:00 -08:00
 event-end-date: 2019-02-10 21:00:00 -08:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
