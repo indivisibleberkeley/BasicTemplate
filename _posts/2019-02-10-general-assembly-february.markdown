@@ -7,8 +7,8 @@ tags:
 - general assembly
 is featured: true
 event-start-date: 2019-02-10 19:30:00 -08:00
-event-end-date: 2019-01-17 21:00:00 -08:00
-Location: Finnish Hall
+event-end-date: 2019-02-10 21:00:00 -08:00
+Location: Finnish Hall, 1970 Chestnut St, Berkeley
 ---
 
 Join us on January 13 for the first Indivisible Berkeley General Assembly of 2019! We will discuss IB's structure and strategy for 2019 and beyond.
