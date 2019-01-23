@@ -15,7 +15,7 @@ event-start-date: 2019-01-23 00:00:00 -08:00
 event-end-date: 2019-01-24 22:00:00 -08:00
 ---
 
-![why to call dem mocs.png](/uploads/why%20to%20call%20dem%20mocs.png) [Full thread @leahgreenb] (https://twitter.com/Leahgreenb/status/1087027543969071104)
+![why to call dem mocs.png](/uploads/why%20to%20call%20dem%20mocs.png) [Full thread @leahgreenb](https://twitter.com/Leahgreenb/status/1087027543969071104)
 
 **Trump and Mitch McConnell refuse to let their hostages go.** Trump and McConnell are losing. Out of desperation, McConnell is planning to bring two bills to the floor for a vote this week. The first is an extreme bill that reads like Stephen Miller’s wish list.
 
