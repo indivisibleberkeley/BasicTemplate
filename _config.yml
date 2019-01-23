@@ -78,7 +78,7 @@ url: https://www.indivisibleberkeley.org
 twitter_username: indivisibleberk
 facebook_username: berkeleyindivisible
 background-image: "/uploads/IB-May2017-flags.jpg"
-member-count: 3000+
+member-count: 2000+
 footer-title: Let's take action together.
 default-image: "/uploads/ib-logo-vert.png"
 markdown: kramdown
@@ -103,3 +103,4 @@ google_analytics: |-
 
   </script>
 permalink: "/:categories/:title"
+emptyArray: []
