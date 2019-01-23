@@ -2,7 +2,7 @@
 title: Call our Senators to stand firm against Trump's wall
 date: 2019-01-23 10:54:00 -08:00
 categories:
-- event
+- action
 tags:
 - call
 - shutdown
