@@ -6,7 +6,7 @@ categories:
 tags:
 - call
 - shutdown
-is featured: true
+is featured: false
 call-script-text: Hello, my name is (name) and I'm a constituent from Berkeley. I'm
   calling to let [the Senator/Representative Lee] know that I am glad she is standing
   firm against Trump's wall. I want her to vote to open the government with a clean
