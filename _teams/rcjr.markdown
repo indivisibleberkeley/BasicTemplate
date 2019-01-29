@@ -14,5 +14,5 @@ Our team is active in areas of racial and criminal justice, including:
 - Audit the Alameda County Sheriff
 - Native peoples' rights - West Berkeley Shellmound
 
-We meet every 2nd and 4th Thursday at 7pm - Locations vary
+We meet every 1st and 3rd Thursday at 7pm - Locations vary
 
