@@ -2,6 +2,10 @@
 title: Racism and Criminal Justice Reform Team Subgroup Meeting on Berkeley Policing
   Issues
 date: 2019-01-31 00:00:00 -08:00
+categories:
+- event
+tags:
+- rcjr
 event-start-date: 2019-01-31 00:00:00 -08:00
 event-end-date: 2019-01-31 00:00:00 -08:00
 Location: '1431 Spruce St. Berkeley '
