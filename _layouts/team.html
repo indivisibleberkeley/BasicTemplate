@@ -110,7 +110,7 @@ layout: default
 
         <div class="post-list"> <!-- PAST EVENTS -->
           {% assign curDate = site.time | date: '%s' %}
-          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') | reverse %}
           {% assign pastEvents = false %}
           {% for post in sortedEvents %}
             {% if post.tags contains page.teamtag %}
@@ -131,7 +131,7 @@ layout: default
         
         <div class="post-list"> <!-- PAST ACTIONS -->
           {% assign curDate = site.time | date: '%s' %}
-          {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
+          {% assign sortedActions = (site.categories.action | sort: 'event-end-date') | reverse %}
           {% assign pastActions = false %}
           {% for post in sortedActions %}
             {% if post.tags contains page.teamtag %}
