@@ -108,7 +108,7 @@ layout: default
         <div class="clearfix spacer"></div>
         <hr>
 
-        <div class="post-list"> <!-- PAST EVENTS -->
+        <div class="post-list" id="past-events"> <!-- PAST EVENTS -->
           {% assign curDate = site.time | date: '%s' %}
           {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') | reverse %}
           {% assign pastEvents = false %}
@@ -129,7 +129,7 @@ layout: default
 
         </div><!-- END PAST EVENTS -->
         
-        <div class="post-list"> <!-- PAST ACTIONS -->
+        <div class="post-list" id="past-actions"> <!-- PAST ACTIONS -->
           {% assign curDate = site.time | date: '%s' %}
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') | reverse %}
           {% assign pastActions = false %}
