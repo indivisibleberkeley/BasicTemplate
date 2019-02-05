@@ -6,6 +6,7 @@ categories:
 tags:
 - environment
 - call
+is featured: true
 call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].  \n\nPlease
   oppose Andrew Wheeler’s nomination to lead the EPA.  His past as a coal lobbyist
   and senior aide to Senator Inhofe -  a climate denier and strong critic of EPA -
