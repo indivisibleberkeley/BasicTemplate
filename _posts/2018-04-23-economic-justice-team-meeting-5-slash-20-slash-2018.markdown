@@ -12,6 +12,8 @@ Location: 1618 Capistrano Avenue, Berkeley, CA 94707
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
 
+Feb 6 meeting POSTPONED!!!
+
 1618 Capistrano Avenue, Berkeley, CA 94707
 
 And be sure to check out the [Break Up with Your Bank Resources](https://groups.google.com/a/indivisibleberkeley.org/forum/#!forum/buwyb) page!
