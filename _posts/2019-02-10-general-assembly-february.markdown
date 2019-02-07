@@ -10,6 +10,11 @@ main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2019-02-10 19:30:00 -08:00
 event-end-date: 2019-02-10 21:00:00 -08:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
+RSVP-link: http://indivisibleberkeley.org/event/ga-september-2018?source=direct_link&
+embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
+  type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-february-19?format=js&source=widget'></script><div
+  id='can-event-area-indivisible-berkeley-general-assembly-february-19' style='width:
+  100%'><!-- this div is the target for our HTML insertion --></div>"
 ---
 
 Doors open at 7. We start promptly at 7:30.
