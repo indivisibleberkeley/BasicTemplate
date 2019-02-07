@@ -10,7 +10,7 @@ main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2019-03-10 19:30:00 -07:00
 event-end-date: 2019-03-10 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
-RSVP-link: https://indivisibleberkeley.org/event/general-assembly-march?source=direct_link&
+RSVP-link: https://indivisibleberkeley.org/event/general-assembly-march#can_embed_form
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'
   type='text/css' /><script src='https://actionnetwork.org/widgets/v3/event/indivisible-berkeley-general-assembly-march-19?format=js&source=widget'></script><div
   id='can-event-area-indivisible-berkeley-general-assembly-march-19' style='width:
