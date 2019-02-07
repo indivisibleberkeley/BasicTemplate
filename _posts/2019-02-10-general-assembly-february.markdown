@@ -19,6 +19,14 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
 
 Doors open at 7. We start promptly at 7:30.
 
+Featuring:
+
+  -  John Lindsay Poland with an update on the Audit the Sheriff Campaign & the plan for a new Urban Shield
+  -  Ernest Brown with a rundown on the history of redlining in the East Bay
+  -  Daron Sharps on the new Indivisible Guide, Indivisible on Offense
+  -  Sam Kohn with the 2018 Indivisible Berkeley financial report
+
+
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
 ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
