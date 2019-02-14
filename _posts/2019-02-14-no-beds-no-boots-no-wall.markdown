@@ -26,5 +26,5 @@ At the same time, Congressional leaders have negotiated a Continuing Resolution 
 
 We think that Trump’s abuse of emergency powers should NOT be rewarded with more money for his racist policies. Please call Barbara Lee’s office NOW and ask her for a clean CR, without border funding, if Trump insists on declaring a fake state of emergency.
 
+DC office: (202) 225-2661 [Try DC first. If it's closed, call Oakland]
 Oakland office: (510) 763-0370
-DC office: (202) 225-2661
