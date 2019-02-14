@@ -19,7 +19,7 @@ embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='
 
 Doors open at 7. We start promptly at 7:30.
 
-Featuring:
+Featuring: 
 
   -  John Lindsay Poland with an update on the Audit the Sheriff Campaign & the plan for a new Urban Shield
   -  Ernest Brown with a rundown on the history of redlining in the East Bay
