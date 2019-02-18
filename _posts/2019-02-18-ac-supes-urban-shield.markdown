@@ -31,6 +31,4 @@ Since then, and into this year, an Alameda County Ad-Hoc Committee appointed by 
  -   Changing the name “Urban Shield” for exercises
  -   Dedicating $5 million of funding for the Health Care Services Agency and Social Services Agency to carry out emergency preparedness training and exercises
 
-As we anticipated, Sheriff Ahern is in denial about losing the fight for Urban Shield and is scrambling. This is business as usual for the Sheriff – to attempt to completely ignore decisions made by the Board of Supervisors that were the result of community organizing.
-
-Yet the Stop Urban Shield Coalition has built power, and the Sheriff will not succeed – when we act to protect these gains. As both common sense and evidence shows, the violence of policing will never create healthy and resilient communities, but is rather a public health threat. Let’s be ready to defend our tremendous victory this year, and build the demilitarized, community-centered alternative to Urban Shield!
+The Stop Urban Shield Coalition has built power, and the Sheriff will not succeed – when we act to protect these gains. As both common sense and evidence shows, the violence of policing will never create healthy and resilient communities, but is rather a public health threat. Let’s be ready to defend our tremendous victory this year, and build the demilitarized, community-centered alternative to Urban Shield!
