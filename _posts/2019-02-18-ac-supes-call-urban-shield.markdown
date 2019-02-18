@@ -32,8 +32,8 @@ Please make your call before February 26th. If you don’t know which Supervisor
 
 Contact info:
 
-District 1: Supervisor Haggerty – (510) 272-6691, ask for Josh Thurman
-District 2: Supervisor Valle – (510) 272-6692, ask for Chris Miley
-District 3: Supervisor Chan – (510) 272-6693, ask for Dave Brown
-District 4: Supervisor Miley –  (510) 670-3691, ask for Erin Armstrong
-**District 5 (Berkeley) **: Supervisor Carson  – (510) 272-6695, ask for Shahida Lacy
+- District 1: Supervisor Haggerty – (510) 272-6691, ask for Josh Thurman
+- District 2: Supervisor Valle – (510) 272-6692, ask for Chris Miley
+- District 3: Supervisor Chan – (510) 272-6693, ask for Dave Brown
+- District 4: Supervisor Miley –  (510) 670-3691, ask for Erin Armstrong
+- **District 5 (Berkeley) **: Supervisor Carson  – (510) 272-6695, ask for Shahida Lacy
