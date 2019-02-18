@@ -17,7 +17,7 @@ On February 26th, the Alameda County Board of Supervisors will be voting on reco
 
 **RSVP by email to [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)**
 
-**Info on calling our County Supervisor Keith Carson is here**
+**[Info on calling our County Supervisor Keith Carson is here](https://indivisibleberkeley.org/action/ac-supes-call-urban-shield)**
 
 ### How We Got Here
 
