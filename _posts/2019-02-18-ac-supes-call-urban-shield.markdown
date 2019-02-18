@@ -24,7 +24,7 @@ call-script-text: "Hello, my name is [name] and I'm a constituent calling from B
 event-end-date: 2019-02-25 23:59:00 -08:00
 ---
 
-On February 26th, the Alameda County Board of Supervisors will be voting on recommendations that call for community-centered, demilitarized emergency preparedness in the Bay Area. Come urge them to vote yes, and let them hear you before the 26th!
+On February 26th, the Alameda County Board of Supervisors will be voting on recommendations that call for community-centered, demilitarized emergency preparedness in the Bay Area. [Come urge them to vote yes](https://indivisibleberkeley.org/event/ac-supes-urban-shield), and **let them hear you before the 26th!**
 
 ### Take Action and Call Your Supervisor!
 
