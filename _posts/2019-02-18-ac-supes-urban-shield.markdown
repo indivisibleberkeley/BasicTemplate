@@ -13,7 +13,7 @@ Location: 1221 Oak St, Fifth Floor, Oakland, CA 94612
 
 Description taken from the [Stop Urban Shield coalition webpage](http://stopurbanshield.org/feb-26-urban-shield-is-gone-lets-keep-it-that-way/)
 
-On February 26th, the Alameda County Board of Supervisors will be voting on recommendations that call for community-centered, demilitarized emergency preparedness in the Bay Area. **Come urge them to vote yes**, and let them hear you before the 26th!
+On February 26th, the Alameda County Board of Supervisors will be voting on recommendations that call for community-centered, demilitarized emergency preparedness in the Bay Area. **Come urge them to vote yes**, and [let them hear you before the 26th](https://indivisibleberkeley.org/action/ac-supes-call-urban-shield)!
 
 **RSVP by email to [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)**
 
