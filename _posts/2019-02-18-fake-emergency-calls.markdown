@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - call
+- fake-emergency
 is featured: true
 call-script-text: |
   Hello, my name is [name] and I am a constituent from Berkeley. I am horrified that Trump just abused his power to declare a fake emergency. He is going around Congress and the will of the people to get his way. Congress must do everything in its authority to stop this antidemocratic power grab. Will [Member of Congress] commit publicly to supporting a resolution to terminate this false emergency? Will she also publicly call for investigations into this abuse of power?
