@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - national
+- fake-emergency
 is featured: true
 event-start-date: 2019-02-20 17:15:00 -08:00
 event-end-date: 2019-02-20 18:45:00 -08:00
