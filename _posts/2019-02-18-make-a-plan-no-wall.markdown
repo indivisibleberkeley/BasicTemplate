@@ -7,6 +7,7 @@ tags:
 - national
 - fake-emergency
 is featured: true
+main-image: "/uploads/albany%20national%20emergency%202019-02-18.jpg"
 event-start-date: 2019-02-20 17:15:00 -08:00
 event-end-date: 2019-02-20 18:45:00 -08:00
 Location: Finnish Hall downstairs cafe, 1970 Chestnut St., Berkeley, CA 94702
