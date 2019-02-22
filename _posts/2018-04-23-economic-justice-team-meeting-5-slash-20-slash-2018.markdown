@@ -14,7 +14,7 @@ RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 
 1618 Capistrano Avenue, Berkeley, CA 94707
 
-Green New Deal! Public Banks! Divestment! Come be a part of real progressive change!
+[Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal)! [Public Banks](https://californiapublicbankingalliance.org/)! [Divestment](https://gofossilfree.org/divestment/what-is-fossil-fuel-divestment/)! Come be a part of real progressive change!
 
 And be sure to check out the [Break Up with Your Bank Resources](https://groups.google.com/a/indivisibleberkeley.org/forum/#!forum/buwyb) page!
 
