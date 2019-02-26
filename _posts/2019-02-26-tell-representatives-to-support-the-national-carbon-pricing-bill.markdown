@@ -12,11 +12,11 @@ call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP
   and bipartisan.  Studies show it has the capacity to exceed the US’s Paris Climate
   Accord goals.  In California and globally, we are experiencing the increasingly
   devastating effects of climate change.  We can’t afford to wait.  Please do all
-  you can to support HR 763.  \n\nOptional:  As strong as the bill is, it could be
+  you can to support HR 763.  \n\n*Optional:  As strong as the bill is, it could be
   improved by not limiting EPA’s ability to regulate industrial emissions.  We need
   all the tools available to us.  And because fluorocarbons are super-polluting greenhouse
   gases, both emissions limits and higher fees should be imposed on this class of
-  chemicals.  \n\nThank you for your time and attention.  \n\n[If leaving a voicemail,
+  chemicals.*  \n\nThank you for your time and attention.  \n\n[If leaving a voicemail,
   leave your full street address to ensure your call is tallied]"
 event-end-date: 2019-03-15 23:59:00 -07:00
 ---
