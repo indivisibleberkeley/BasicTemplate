@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - environment
+is featured: true
 call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].  \n\nI
   urge you to support the Energy Innovation & Carbon Dividend Act, HR 763.  This important
   bill is a critical step in addressing the climate crisis.  It is fair, effective,
