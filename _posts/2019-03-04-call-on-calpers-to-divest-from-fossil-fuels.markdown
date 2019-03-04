@@ -7,6 +7,8 @@ tags:
 - environment
 is featured: true
 event-start-date: 2019-03-18 09:00:00 -07:00
+Location: CalPERS Auditorium Lincoln Plaza North, 400 P Street, Sacramento, CA
+RSVP-link: stheiss@fossilfreeca.org
 ---
 
 ### Action
