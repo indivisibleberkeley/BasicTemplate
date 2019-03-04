@@ -15,3 +15,5 @@ Items for discussion will include issues in Berkeley Policing, updates on re-con
 
 *Note - As a courtesy to the neighbors, please do not park on the Cul de Sac. Please park on Hillcrest Rd and walk down. It is close to a bus stop but steps are steep up to the house. The house is about a mile from the Rockridge BART.
 
+For more info/directions: rcjr+owner@indivisibleberkeley.org
+
