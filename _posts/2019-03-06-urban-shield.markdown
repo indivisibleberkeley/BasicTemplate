@@ -7,8 +7,8 @@ tags:
 - rcjr
 - urban shield
 is featured: true
-event-start-date: 2019-03-06 00:00:00 -08:00
-event-end-date: 2019-03-04 16:00:00 -08:00
+event-start-date: 2019-03-06 11:00:00 -08:00
+event-end-date: 2019-03-06 16:00:00 -08:00
 Location: 125 12th St. Oakland -  4th floor, Hayward Rm.
 ---
 
