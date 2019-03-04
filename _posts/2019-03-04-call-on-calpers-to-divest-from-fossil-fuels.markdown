@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - environment
+is featured: true
 event-start-date: 2019-03-18 09:00:00 -07:00
 ---
 
