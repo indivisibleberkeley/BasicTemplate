@@ -31,7 +31,7 @@ According to the UN Intergovernmental Panel on Climate Change, we must make “r
 In addition to the environmental and moral reasons for keeping fossil fuels in the ground, investment in the shrinking fossil fuel industry is increasingly risky and leaves portfolios vulnerable to volatility and losses.  Over the past three and five years, respectively, global stock indexes without fossil fuel holdings have outperformed otherwise identical indexes that include fossil fuel companies. Fiscal, political, regulatory and litigation risks are growing; while volatility and the downward trajectory of returns are expected to continue.  
 
 ### References
-[Fossil Free California’s CalPERS Watch}(https://fossilfreeca.org/2019/01/24/calpers-watch-campaign-updates/)  
+[Fossil Free California’s CalPERS Watch](https://fossilfreeca.org/2019/01/24/calpers-watch-campaign-updates/)  
 [Bill McKibbin: Why We Need to Keep 80% of Fossil Fuels in the Ground](https://www.yesmagazine.org/issues/life-after-oil/why-we-need-to-keep-80-percent-of-fossil-fuels-in-the-ground-20160215)  
 [IEEFA: The Financial Case for Fossil Fuel Divestment](http://ieefa.org/wp-content/uploads/2018/07/Divestment-from-Fossil-Fuels_The-Financial-Case_July-2018.pdf)  
 [The Guardian: A Beginner’s Guide to Fossil Fuel Divestment](https://www.theguardian.com/environment/2015/jun/23/a-beginners-guide-to-fossil-fuel-divestment)  
