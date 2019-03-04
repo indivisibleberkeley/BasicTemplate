@@ -1,5 +1,5 @@
 ---
-title: Alameda County Board of Supervisors Meeting
+title: Alameda County Board of Supervisors Meeting (Urban Shield)
 date: 2019-03-12 09:30:00 -07:00
 categories:
 - event
