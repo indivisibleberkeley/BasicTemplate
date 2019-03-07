@@ -18,7 +18,7 @@ Governor Newsom has indicated an interest in hearing from Californians about iss
 
 We encourage you to copy this letter and send it to your state senator and representative as well.  
 
-### Letter
+### Letter Text
 DATE (to be added when mailed)  
 
 Governor Gavin Newsom  
