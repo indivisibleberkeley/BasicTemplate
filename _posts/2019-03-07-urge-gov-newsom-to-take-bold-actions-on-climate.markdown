@@ -1,5 +1,5 @@
 ---
-title: Urge Gov. Newsom to Take Bold Actions on Climate
+title: Urge Gov. Newsom to Take Bold Climate Actions
 date: 2019-03-07 06:48:00 -08:00
 categories:
 - action
