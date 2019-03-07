@@ -9,7 +9,7 @@ event-end-date: 2019-03-19 23:59:00 -07:00
 ---
 
 ### Action
-Sign your name to this letter to Governor Newsom urging him to address a number of climate change actions and to support several proposed state and federal bills on climate-related measures.  
+Sign your name to this letter to Governor Newsom urging him to address a number of climate change actions and to support proposed state and federal bills on climate-related measures.  
 
 Read the letter pasted below and [sign your name using this form](https://goo.gl/forms/F2GE2098veQza31s2). We will add your information and send the letter on March 19.  
 
