@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 - comment
-event-end-date: 2019-02-19 20:59:00 -08:00
+event-end-date: 2019-03-18 20:59:00 -07:00
 RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936
 ---
 
@@ -14,7 +14,7 @@ RSVP-link: https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936
 Carbon capture and sequestration (CCS) is a technology that stops large amounts of carbon dioxide from being released into the atmosphere by separating out this greenhouse gas from power plant emissions and injecting it into geological formations. The EPA is proposing the elimination of CCS requirements for new, modified and reconstructed fossil fuel-fired  power plants. The new rule would worsen climate and other public health impacts.  
 
 ### Take Action
-**(1) Submit your Comment to EPA.** By February 19th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936).  
+**(1) Submit your Comment to EPA.** By March 18th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=EPA-HQ-OAR-2013-0495-11936). Note: this deadline was extended from February 19th to March 18th.  
 
 **(2) Share your comment with your members of congress.**
   * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
