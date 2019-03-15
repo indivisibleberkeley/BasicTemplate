@@ -6,8 +6,8 @@ categories:
 tags:
 - economic-justice
 is featured: true
-event-start-date: 2019-03-13 19:00:00 -07:00
-event-end-date: 2019-03-13 20:30:00 -07:00
+event-start-date: 2019-04-03 19:00:00 -07:00
+event-end-date: 2019-04-03 20:30:00 -07:00
 Location: 1618 Capistrano Avenue, Berkeley, CA 94707
 RSVP-link: mailto:economics+owner@indivisibleberkeley.org
 ---
