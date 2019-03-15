@@ -6,7 +6,6 @@ categories:
 - action
 tags:
 - environment
-- call
 call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].\n\nI
   urge you to oppose the confirmation of David Bernhardt, President Trump's nominee
   to replace Ryan Zinke as the head of the Department of the Interior (DOI). Bernhardt
