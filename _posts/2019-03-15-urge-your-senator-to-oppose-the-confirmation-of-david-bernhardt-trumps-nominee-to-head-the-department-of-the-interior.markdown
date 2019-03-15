@@ -29,7 +29,7 @@ event-end-date: 2019-03-29 23:59:00 -07:00
 ### California Senator Contact Info
 * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
 * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/contact).  
-
+  
 ### Background
 “Historically, the Interior Department’s concept has been multi-use,” says Raúl Grijalva, a congressman from Arizona and the incoming chair of the House Committee on Natural Resources. “Yes, there is extraction from our public lands, but that's become the only thing now. But there's also conservation, there’s preservation, there’s species protection, there's habitat protection, there are wilderness areas, and there are some areas you should just leave alone—and those have been blatantly ignored by this administration.” (National Geographic, December 19, 2018.)  
 
