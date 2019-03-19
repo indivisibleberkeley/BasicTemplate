@@ -9,7 +9,7 @@ event-end-date: 2019-04-15 23:59:00 -07:00
 ---
 
 ### Overview
-EPA is trying to eliminate protection for our streams, rivers, lakes, and wetlands. This Trump administration action is one of the very worst and will be enormously damaging. Submit a comment and share your thoughts with your representatives. 
+EPA is trying to eliminate protection for our streams, rivers, lakes, and wetlands. This Trump administration action is one of the very worst and could be enormously damaging. Help stop this by submitting a comment to EPA and sharing your thoughts with your representatives.  
 
 ### Take Action
 **(1) Submit your Comment to EPA.** By April 15th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=EPA-HQ-OW-2018-0149-0003).  
