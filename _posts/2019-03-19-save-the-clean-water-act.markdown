@@ -16,7 +16,7 @@ EPA is trying to eliminate protection for our streams, rivers, lakes, and wetlan
 
 *Note: Public comments are important! Federal agencies are required to publish responses to comments and justify their decisions with evidence-based information. If they do not, the comments provide fuel for suits against the agency. Suits in turn result in halting or delaying the rules (in this case their weakening) until a ruling.  Comments are also a way to show the public's support for strong environmental protection.*  
 
-**(2) Share your comment with your members of congress.**
+**(2) Share your comment with your members of congress.**  
 *Note: Sharing comments with members of congress is working! The new House and members of the Senate are listening to environmental concerns and seeking out environmental information/education almost every day. They are writing letters to EPA protesting its actions. We need to continue to reinforce our priorities and let them know we are behind them.*  
   * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
   * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/contact).  
