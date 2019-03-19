@@ -17,6 +17,7 @@ EPA is trying to eliminate protection for our streams, rivers, lakes, and wetlan
 *Note: Public comments are important! Federal agencies are required to publish responses to comments and justify their decisions with evidence-based information. If they do not, the comments provide fuel for suits against the agency. Suits in turn result in halting or delaying the rules (in this case their weakening) until a ruling.  Comments are also a way to show the public's support for strong environmental protection.*  
 
 **(2) Share your comment with your members of congress.**
+*Note: Sharing comments with members of congress is working! The new House and members of the Senate are listening to environmental concerns and seeking out environmental information/education almost every day. They are writing letters to EPA protesting its actions. We need to continue to reinforce our priorities and let them know we are behind them.*  
   * Senator Dianne Feinstein: (415) 393-0707, (310) 914-7300, (202) 224-3841, or [email](https://www.feinstein.senate.gov/public/index.cfm/e-mail-me).  
   * Senator Kamala Harris: (415) 355-9041, (213) 894-5000, (202) 224-3553, or [email](https://www.harris.senate.gov/contact).  
 
@@ -26,8 +27,6 @@ Find your Representative:
   * Rep. Barbara Lee - 13th district:  (510) 763-0370, (202) 225-2661, or [email](https://lee.house.gov/contact/email-me).  
   * Rep. Jackie Speier - 14th district: (650) 342-0300, (202) 225-3531, or [email](https://speier.house.gov/contact/email).  
   * Rep. Eric Swalwell - 15th district: 510-370-3322, 202-225-5065, or [email](https://swalwell.house.gov/contact).  
-
-*Note: Sharing comments with members of congress is working! The new House and members of the Senate are listening to environmental concerns and seeking out environmental information/education almost every day. They are writing letters to EPA protesting its actions. We need to continue to reinforce our priorities and let them know we are behind them.*  
 
 ### Suggested Comment
 *Note: Our suggested script is longer than usual, but this Trump administration action is one of the most damaging. You may use all or part of the script. The more issues raised, the better. As usual, it is best to personalize or modify the wording. You do not need to be a scientist or expert to submit your comments. Add any personal concerns or experiences you, your family or friends have had. You may also create your own comments using information from the references below.*  
