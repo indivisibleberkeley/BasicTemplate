@@ -52,10 +52,10 @@ For example, the cost of purchasing and operating equipment to comply with the M
 EPA’s current proposal is not adequately justified as necessary; it omits best and current science and cost information; and it deviates from standard accounting and procedural practices. For these reasons, EPA’s proposal to withdraw the appropriate and necessary finding, to state that it is not necessary to update the standards, and to request comment on rescinding the rule should be withdrawn in total.  
 
 ### Background 
-**Mercury is Highly Toxic**
+**Mercury is Highly Toxic**  
 Mercury causes neurological disorders, cardiovascular harm, endocrine disruption and weakened immune systems. Developing fetuses and children can suffer serious cognitive impairment. When it enters water bodies it accumulates in the food chain, leading to high concentrations in fish. When the fish are consumed by people or wildlife mercury can damage multiple organ systems.  
 
-**History of Regulation (Abridged)**
+**History of Regulation (Abridged)**  
 Coal fired power plants were the biggest emitters of man-made mercury before the MATS rule went into effect, yet they were among the last to be regulated after at least 21 years of delays due to lobbying and suits brought by industry.  
 
 In order to regulate air toxics like mercury under the Clean Air Act (CAA), EPA must make the case that it is “appropriate and necessary” to regulate them - an A&N Finding. In 2000 EPA made that determination.  
@@ -70,7 +70,7 @@ By 2016 power plants had installed pollution controls. Today the MATS rule has s
 
 The vast majority of utility companies have said the proposed changes are of little benefit to them, because they have already spent the money to install pollution controls. They have urged the Trump administration to leave the rule in place.  
  
-What’s So Important About EPA’s Current Action
+**What’s So Important About EPA’s Current Action**  
 According to Janet McCabe, former EPA Acting Assistant Administrator for Air, “There is a likelihood that this rule-making will be the administration’s flagship effort to permanently change the way the federal government considers health benefits.”  
 
 The stated purposes of EPA’s current action are (1) to undo the agency’s previous finding that it is appropriate and necessary to regulate mercury emissions; (2) to declare that it is not necessary to update the emissions limits with new science, as EPA is required to do; and (3) to ask for comment on whether the MATS rule should be rescinded.  
