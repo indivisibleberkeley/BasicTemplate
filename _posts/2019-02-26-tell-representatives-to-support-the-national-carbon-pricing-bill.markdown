@@ -6,22 +6,23 @@ categories:
 tags:
 - environment
 is featured: true
-call-script-text: "##### Have not yet co-sponsored - keep calling: \n  * Rep. Nancy
-  Pelosi - 12th district  \n  * Rep. Eric Swalwell - 15th district  \n  * Rep. Mike
-  Thompson - 5th district  \n\n##### Have co-sponsored - thank them:  \n  * Rep. Mark
-  DeSaulnier - 11th district  \n  * Rep. Barbara Lee - 13th district  \n  * Rep. Jackie
-  Speier - 14th district  \n\nHi, my name is [NAME] and I’m a constituent from [CITY,
-  ZIP].  \n\nI urge you to support the Energy Innovation & Carbon Dividend Act, HR
-  763.  This important bill is a critical step in addressing the climate crisis.  It
-  is fair, effective, and bipartisan.  Studies show it has the capacity to exceed
-  the US’s Paris Climate Accord goals.  In California and globally, we are experiencing
-  the increasingly devastating effects of climate change.  We can’t afford to wait.
-  \ Please do all you can to support HR 763.  \n\n*Optional:  As strong as the bill
-  is, it could be improved by not limiting EPA’s ability to regulate industrial emissions.
-  \ We need all the tools available to us.  And because fluorocarbons are super-polluting
-  greenhouse gases, both emissions limits and higher fees should be imposed on this
-  class of chemicals.*  \n\nThank you for your time and attention.  \n\n[If leaving
-  a voicemail, leave your full street address to ensure your call is tallied]"
+call-script-text: "##### UPDATE\n##### Have not yet co-sponsored - keep calling: \n
+  \ * Rep. Nancy Pelosi - 12th district  \n  * Rep. Eric Swalwell - 15th district
+  \ \n  * Rep. Mike Thompson - 5th district  \n\n##### Have co-sponsored - thank them:
+  \ \n  * Rep. Mark DeSaulnier - 11th district  \n  * Rep. Barbara Lee - 13th district
+  \ \n  * Rep. Jackie Speier - 14th district  \n\nHi, my name is [NAME] and I’m a
+  constituent from [CITY, ZIP].  \n\nI urge you to support the Energy Innovation &
+  Carbon Dividend Act, HR 763.  This important bill is a critical step in addressing
+  the climate crisis.  It is fair, effective, and bipartisan.  Studies show it has
+  the capacity to exceed the US’s Paris Climate Accord goals.  In California and globally,
+  we are experiencing the increasingly devastating effects of climate change.  We
+  can’t afford to wait.  Please do all you can to support HR 763.  \n\n*Optional:
+  \ As strong as the bill is, it could be improved by not limiting EPA’s ability to
+  regulate industrial emissions.  We need all the tools available to us.  And because
+  fluorocarbons are super-polluting greenhouse gases, both emissions limits and higher
+  fees should be imposed on this class of chemicals.*  \n\nThank you for your time
+  and attention.  \n\n[If leaving a voicemail, leave your full street address to ensure
+  your call is tallied]"
 event-end-date: 2019-04-19 23:59:00 -07:00
 ---
 
