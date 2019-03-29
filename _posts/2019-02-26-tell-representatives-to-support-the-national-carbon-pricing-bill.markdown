@@ -6,18 +6,22 @@ categories:
 tags:
 - environment
 is featured: true
-call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP].  \n\nI
-  urge you to support the Energy Innovation & Carbon Dividend Act, HR 763.  This important
-  bill is a critical step in addressing the climate crisis.  It is fair, effective,
-  and bipartisan.  Studies show it has the capacity to exceed the US’s Paris Climate
-  Accord goals.  In California and globally, we are experiencing the increasingly
-  devastating effects of climate change.  We can’t afford to wait.  Please do all
-  you can to support HR 763.  \n\n*Optional:  As strong as the bill is, it could be
-  improved by not limiting EPA’s ability to regulate industrial emissions.  We need
-  all the tools available to us.  And because fluorocarbons are super-polluting greenhouse
-  gases, both emissions limits and higher fees should be imposed on this class of
-  chemicals.*  \n\nThank you for your time and attention.  \n\n[If leaving a voicemail,
-  leave your full street address to ensure your call is tallied]"
+call-script-text: "#### NOT YET CO-SPONSORED THE BILL - KEEP CALLING: \n* Rep. Nancy
+  Pelosi - 12th district  \n* Rep. Eric Swalwell - 15th district  \n* Rep. Mike Thompson
+  - 5th district  \n\n#### HAVE CO-SPONSORED THE BILL - THANK THEM:  \n* Rep. Mark
+  DeSaulnier - 11th district  \n* Rep. Barbara Lee - 13th district  \n* Rep. Jackie
+  Speier - 14th district  \n\nHi, my name is [NAME] and I’m a constituent from [CITY,
+  ZIP].  \n\nI urge you to support the Energy Innovation & Carbon Dividend Act, HR
+  763.  This important bill is a critical step in addressing the climate crisis.  It
+  is fair, effective, and bipartisan.  Studies show it has the capacity to exceed
+  the US’s Paris Climate Accord goals.  In California and globally, we are experiencing
+  the increasingly devastating effects of climate change.  We can’t afford to wait.
+  \ Please do all you can to support HR 763.  \n\n*Optional:  As strong as the bill
+  is, it could be improved by not limiting EPA’s ability to regulate industrial emissions.
+  \ We need all the tools available to us.  And because fluorocarbons are super-polluting
+  greenhouse gases, both emissions limits and higher fees should be imposed on this
+  class of chemicals.*  \n\nThank you for your time and attention.  \n\n[If leaving
+  a voicemail, leave your full street address to ensure your call is tallied]"
 event-end-date: 2019-04-19 23:59:00 -07:00
 ---
 
@@ -30,6 +34,7 @@ Contact your representative to support HR 763, the [Energy Innovation and Carbon
   * Rep. Barbara Lee - 13th district:  (510) 763-0370, (202) 225-2661, or [email](https://lee.house.gov/contact/email-me).  
   * Rep. Jackie Speier - 14th district: (650) 342-0300, (202) 225-3531, or [email](https://speier.house.gov/contact/email).  
   * Rep. Eric Swalwell - 15th district: 510-370-3322, 202-225-5065, or [email](https://swalwell.house.gov/contact).  
+  * Rep. Mike Thompson - 5th district: (707) 645-1888 or [email](https://mikethompsonforms.house.gov/contact/)
 
 ### Background
 HR 763 is probably the strongest and most comprehensive climate bill ever introduced in congress, and it deserves strong support.  The bill sets fees on greenhouse gas (GHG) emissions from fossil fuels and other sources. The fees rapidly increase each year to levels that far exceed previous proposals and approach or exceed $100/ton of CO2 equivalent by 2030, according to the Columbia Center on Global Energy Policy (Columbia Center).  
