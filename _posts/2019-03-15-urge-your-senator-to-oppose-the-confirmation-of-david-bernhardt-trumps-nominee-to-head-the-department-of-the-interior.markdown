@@ -22,7 +22,7 @@ call-script-text: "Hi, my name is [NAME] and I’m a constituent from [CITY, ZIP
   before DOI.\n\nProtect our interests. Vote NO on Bernhardt's confirmation.  \n\nThank
   you for your time and attention.\n\n[If leaving a voicemail, leave your full street
   address to ensure your call is tallied]"
-event-end-date: 2019-03-29 23:59:00 -07:00
+event-end-date: 2019-04-05 23:59:00 -07:00
 ---
 
 ### California Senator Contact Info
