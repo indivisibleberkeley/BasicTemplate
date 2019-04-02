@@ -1,14 +1,16 @@
 ---
-title: Science & Environment Team Meeting
-date: 2018-04-18 14:04:00 -07:00
+title: Science & Environment Team Meeting - TENTATIVE
+date: 2019-04-02 11:17:00 -07:00
 categories:
 - event
 tags:
 - environment
 is featured: true
-event-start-date: 2019-03-31 19:00:00 -07:00
-event-end-date: 2019-03-31 20:45:00 -07:00
+event-start-date: 2019-04-14 19:00:00 -07:00
+event-end-date: 2019-04-14 20:45:00 -07:00
 ---
+
+NOTE: tentatively scheduled meeting pending quorum.
 
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
 
