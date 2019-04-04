@@ -9,6 +9,10 @@ team-slack: economic_justice
 
 Our team works on the following issues:
 
++ Green New Deal!
++ Public Bank
++ Affordable Housing
+
 + Success! City of Berkeley divestment from Wells Fargo because of WF's fraud, investment in the Keystone XL pipeline, and generally taking advantage of poor and marginalized communities
 + Helping the City of Berkeley find new financial institutions to do business with
 + Helping Berkeley residents find a new bank to do business with: "Break Up with Your Bank"!
