@@ -23,7 +23,7 @@ call-script-text: "##### UPDATE 3/29\n##### Have not yet co-sponsored - keep cal
   fees should be imposed on this class of chemicals.*  \n\nThank you for your time
   and attention.  \n\n[If leaving a voicemail, leave your full street address to ensure
   your call is tallied]"
-event-end-date: 2019-04-19 23:59:00 -07:00
+event-end-date: 2019-05-31 23:59:00 -07:00
 ---
 
 ### Action
