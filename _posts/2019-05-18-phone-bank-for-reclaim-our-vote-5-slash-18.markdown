@@ -24,3 +24,5 @@ If you are new to phone banking, there will be training available.
 WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
 
+
+
