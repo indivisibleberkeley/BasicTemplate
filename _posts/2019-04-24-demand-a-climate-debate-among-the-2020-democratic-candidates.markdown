@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-event-end-date: 2019-06-26 00:00:00 -07:00
+event-end-date: 2019-05-25 23:59:00 -07:00
 ---
 
 ### Action
