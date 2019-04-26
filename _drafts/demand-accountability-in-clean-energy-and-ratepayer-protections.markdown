@@ -19,5 +19,5 @@ Community Energy [EBCE] or Marin Clean Energy [MCE]) is providing you with elect
 ### Contact Info
 * **PHONE:** 916-445-2841. Someone from Constituent Affairs will note down your comments.  
 * **WRITE:** Governor Gavin Newsom, Office of the Governor, State Capitol, Sacramento, CA 95814  
-* **EMAIL:** [gov.ca.gov](https://www.gov.ca.gov/) then click on contact tab. You may also select Energy Issues to describe your comment.  
+* **EMAIL:** [Website contact form](https://govapps.gov.ca.gov/gov40mail/). Select Energy Issues to describe your comment.  
 
