@@ -12,7 +12,7 @@ event-end-date: 2019-05-15 23:59:00 -07:00
 ### Action
 Tell Governor Newsom to hold energy providers accountable for protecting the environment and ratepayers' interests.
 
-### Talking Points
+### Call or Write Governor Newsom
 * Tell him how happy you are that your local electricity provider (East Bay
 Community Energy [EBCE] or Marin Clean Energy [MCE]) is providing you with electricity that is cheaper and cleaner than that provided by PG&E.  
 * Ask him to urge the US Bankruptcy Court to appointment a Ratepayers Committee for PG&E’s bankruptcy case. This Committee could help PG&E reduce losses from past electricity procurements that we are still paying for even though we are no longer buying our electricity from PG&E.  
