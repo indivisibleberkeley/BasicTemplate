@@ -15,7 +15,7 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScVRI99-H6RCE5HYoLVgCWb-Wbfh
 
 Help combat voter suppression in heavily gerrymandered Virginia.
 
-We'll be calling “inactive” and “unregistered” voters in Virginia to make sure they are registered to vote in 2019, when voters choose members of the state legislature. In 2017, 1 vote decided control of the House of Delegates. Each voter really matters!
+We'll be calling “inactive” and “unregistered” voters in Virginia to make sure they are registered to vote in 2019, when voters choose members of the state legislature. In 2017, *1 vote* decided control of the House of Delegates. Each voter really matters!
 
 We’re partnering with local East Bay Activist Alliance friends to support the work of Reclaim Our Vote, a coalition of voter rights organizations.
 
