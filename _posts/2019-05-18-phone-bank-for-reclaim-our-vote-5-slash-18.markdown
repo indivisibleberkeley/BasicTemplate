@@ -13,15 +13,17 @@ Location: South Berkeley home near Sports Baselment
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScVRI99-H6RCE5HYoLVgCWb-WbfhiMsgNOr10K1jWTFOHNL-w/viewform
 ---
 
-2019 is an important election year in Virginia! Help make sure every eligible voter has an opportunity to participate. 
+Help combat voter suppression in heavily gerrymandered Virginia.
 
-In partnership with our local Sister District friends, we're helping the Reclaim Our Vote Campaign, calling "inactive" and "unregistered"votersto make sure they are registered to vote in 2019.  This is a nonpartisan effort to reach out to under-represented voters who may otherwise be removed from the voting rolls. 
+We'll be calling “inactive” and “unregistered” voters in Virginia to make sure they are registered to vote in 2019, when voters choose members of the state legislature. In 2017, 1 vote decided control of the House of Delegates. Each voter really matters!
 
-The Virginia primary is on June 11th. Voters must register by May 20th to participate. 
+We’re partnering with local East Bay Activist Alliance friends to support the work of Reclaim Our Vote, a coalition of voter rights organizations.
+
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
 
 If you are new to phone banking, there will be training available. 
 
-WHAT YOU'll NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+Please RSVP. You'll receive an automated acknowledgement, and we'll also get back to you closer to the date with more details so you'll know where to show up.
 
 
 
