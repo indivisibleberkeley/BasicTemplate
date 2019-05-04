@@ -7,7 +7,7 @@ team-email: economics
 team-slack: economic_justice
 ---
 
-# **O N   H I A T U S** 
+# **O N __  H I A T U S** 
 
 Our team works on the following issues:
 
