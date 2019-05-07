@@ -10,6 +10,7 @@ main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2019-05-12 19:30:00 -07:00
 event-end-date: 2019-05-12 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
+RSVP-link: https://indivisibleberkeley.nationbuilder.com/ga-may-2019-05-12
 ---
 
 Doors open at 7. We start promptly at 7:30.
