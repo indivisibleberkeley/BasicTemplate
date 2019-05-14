@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-is featured: true
+is featured: false
 call-script-text: "##### UPDATE 3/29\n##### Have not yet co-sponsored - keep calling:
   \n  * Rep. Nancy Pelosi - 12th district  \n  * Rep. Eric Swalwell - 15th district
   \ \n  * Rep. Mike Thompson - 5th district  \n\n##### Have co-sponsored - thank them:
