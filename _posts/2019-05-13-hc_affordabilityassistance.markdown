@@ -19,7 +19,7 @@ There are two bills in the California legislature right now that would increase 
 
 How to help: 
   
-1) Goto: [bit.ly/affordabilityCA](bit.ly/affordabilityCA)
+1) Go to: [bit.ly/affordabilityCA](https://secure.everyaction.com/XvZynz5pgESFv0JaYRRJPQ2)
 
 2) Fill out the form with your name and address 
 
