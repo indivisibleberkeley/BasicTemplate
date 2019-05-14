@@ -1,17 +1,22 @@
 ---
-title: General Assembly - June
+title: General Assembly - June - Movie Night
 date: 2019-01-17 23:05:00 -08:00
 categories:
 - event
 tags:
 - general assembly
+is featured: true
 main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2019-06-09 19:30:00 -07:00
 event-end-date: 2019-06-09 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
 ---
 
+MOVIE NIGHT - Knock Down The House
+
 Doors open at 7. We start promptly at 7:30.
+
+Description: [Watch the trailer.](https://www.youtube.com/watch?v=_wGZc8ZjFY4) “A young bartender in the Bronx, a coal miner's daughter in West Virginia, a grieving mother in Nevada, and a registered nurse in Missouri build a movement of insurgent candidates to challenge powerful incumbents in Congress. One of their races will become the most shocking political upset in recent American history.”
 
 Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
 
