@@ -11,7 +11,7 @@ is featured: true
 event-end-date: 2019-06-09 19:00:00 -07:00
 ---
 
-[Health Access, a consumer group in California, recently presented at the May IB General Assembly](https://drive.google.com/file/d/1Y8nEUhJsGhYCKXQgqMJqp13H6-tYHgg8/view?usp=sharing) -- 
+[Health Access, a consumer group in California, recently presented at the May IB General Assembly](https://drive.google.com/file/d/1Y8nEUhJsGhYCKXQgqMJqp13H6-tYHgg8/view?usp=sharing).  
 
 And there's a related potential action! 
 
@@ -19,8 +19,10 @@ There are two bills in the California legislature right now that would increase 
 
 How to help: 
   
-1) Goto: bit.ly/affordabilityCA
-2) Fill out the form with yournameandaddress 
+1) Goto: [bit.ly/affordabilityCA](bit.ly/affordabilityCA)
+
+2) Fill out the form with your name and address 
+
 3) Personalize the letters with your own story
 
 Text of letter:
