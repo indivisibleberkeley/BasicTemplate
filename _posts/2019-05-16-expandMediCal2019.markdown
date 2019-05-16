@@ -13,8 +13,11 @@ event-end-date: 2019-06-15 12:00:00 -07:00
 ---
 
 •	Lack of access to health coverage harms immigrant communities and our health care system
+
 •	Undocumented Californians are the largest single group of uninsured individuals in the state – to get to universal coverage we must expand eligibility to everyone
+
 •	Health care is a human right, and our health system is stronger when everyone is included
+
 •	Federal attacks makes ensuring access to health coverage for all more urgent than ever
 Two bills: SB 29 (Durazo) & AB 4 (Bonta, Chiu, Santiago) would expand Medi-Cal coverage to all income-eligible adults, regardless of immigration status
 
