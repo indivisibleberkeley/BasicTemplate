@@ -13,6 +13,6 @@ Location: Spats Berkeley, 1974 Shattuck Ave, Berkeley, CA 94704
 
 Work hard up to and including election day for the Virginia legislative elections and voter registration efforts.
 
-Then join your pals from Indivisible Berkeley, East Bay Activist Alliance, and Wellstone Democratic Renewal Club to watch the results. 
+Then join your pals from Indivisible Berkeley, East Bay Activist Alliance, SwingLeft East Bay and Wellstone Democratic Renewal Club to watch the results. 
 
 Drop in anytime after 6:30pm or when you are finished phone banking, text banking, or biting your nails alone.
