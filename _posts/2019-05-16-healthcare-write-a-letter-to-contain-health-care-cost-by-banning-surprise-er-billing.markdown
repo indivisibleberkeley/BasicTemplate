@@ -18,6 +18,7 @@ Here’s an action to ban surprise ER billing:
 A.B. 1611 will by preventing surprise bills for out-of-network hospital ER visits so consumers are only billed for their co-pay or deductible, and capping the rate that can be charged.
 
 How to help:
+
 1) To write to Assembly member, go to: [bit.ly/1611action](bit.ly/1611action). [Copy and paste that address into a new window if the link doesn't work.]
 
 2) Fill out the form with your name and address
