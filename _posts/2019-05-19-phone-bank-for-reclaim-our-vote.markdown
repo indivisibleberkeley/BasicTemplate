@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2019-06-15 13:00:00 -07:00
 event-end-date: 2019-06-15 16:00:00 -07:00
-Location: South Berkeley home near Sports Basement
+Location: 'South Berkeley home '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSc8K3I_w2WyxXdoDcu2sV-eguW2zZ7LDvME0_CGlZLDBTAvAA/viewform
 ---
 
