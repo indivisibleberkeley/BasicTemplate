@@ -35,6 +35,10 @@ Find your Representative:
 
 *Tax credits are a big incentive for potential buyers of plug in electric vehicles (PEVs). This bill (S1094 / HR 2256) would be especially advantageous for Californians because we lead the country in PEV purchases and they are becoming even more popular in our state.  Californians purchase almost as many EVs annually as all other states combined. It is important that California continues to lead in the battle against climate change. This bill would help to accelerate the movement away from fossil fuels in the transportation sector and allow  California to continue to serve as a model for change.*  
 
+*Thank you for your time and attention.*  
+
+*[If leaving a voicemail, leave your full street address to ensure your call is tallied]*  
+
 ### Background
 The Senate bill (S1094) titled Driving America Forward Act was introduced on 4/10/19 by  Democrat Debbie Stabenow (MI) with cosponsors: Democrat G. Peters (MI) and two Republicans, L. Alexander (TN) and S. Collins (ME). An identical House bill (HR 2256) was introduced by Democrat D. Kildee (MI) shortly after. The bipartisan sponsorship is important for garnering the support necessary for passing these bills.  
 
