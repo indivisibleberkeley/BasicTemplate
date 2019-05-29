@@ -1,0 +1,20 @@
+---
+title: Phone Bank for Reclaim Our Vote
+date: 2019-05-29 12:41:00 -07:00
+categories:
+- event
+tags:
+- phonebank
+- elections
+main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
+event-start-date: 2019-06-12 13:00:00 -07:00
+event-end-date: 2019-06-12 16:00:00 -07:00
+Location: Sports Basement, Berkeley, Community Room, 2727 Milvia, Berkeley CA
+RSVP-link: https://docs.google.com/forms/d/1qm35Wez8tC4SWdZ7ISwxIvPmmuG-xAmgJKjqHrUpnGc/edit
+---
+
+Help combat voter suppression in heavily gerrymandered Virginia.
+
+We’re supporting the work of Reclaim Our Vote, a coalition of voter rights organizations. We'll be calling “inactive” and “unregistered” voters in Virginia to make sure they are registered to vote in 2019, when voters choose members of the state legislature . In 2017, *1 vote* decided control of the House of Delegates. Each voter really matters!
+
+WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you.
