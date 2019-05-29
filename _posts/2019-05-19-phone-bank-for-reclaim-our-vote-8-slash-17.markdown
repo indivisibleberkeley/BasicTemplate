@@ -8,7 +8,7 @@ tags:
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202-e065de.jpg"
 event-start-date: 2019-08-17 13:00:00 -07:00
-event-end-date: 2019-05-19 16:00:00 -07:00
+event-end-date: 2019-08-17 16:00:00 -07:00
 Location: South Berkeley home
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfdMd2c4BMQipWk6RcL-0fOx3m5f3TyMlGMtnQ80fQCvlj2gw/viewform
 ---
