@@ -10,7 +10,7 @@ main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2019-07-10 13:00:00 -07:00
 event-end-date: 2019-07-10 13:00:00 -07:00
 Location: Sports Basement Community Room, 2727 Milvia, Berkeley CA
-RSVP-link: https://docs.google.com/forms/d/1fenjhonPHVZAx38Bw-ratRT-b91_4kHnIRZInl8lDW0/edit#responses
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfaEnozDKhmYzCiqPjJ1TMJUO-yV6GMmekcg6CY9fgJ8h2zGg/viewform
 ---
 
 Help combat voter suppression in heavily gerrymandered Virginia.
