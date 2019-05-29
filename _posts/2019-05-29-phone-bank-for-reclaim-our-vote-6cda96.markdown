@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Reclaim Our Vote
+title: Phone Bank for Reclaim Our Vote 7/6
 date: 2019-05-29 13:18:00 -07:00
 categories:
 - event
