@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Flip Virginia's State Legislature!
+title: Phone Bank to Flip Virginia's State Legislature 8/17
 date: 2019-06-01 14:16:00 -07:00
 categories:
 - event
