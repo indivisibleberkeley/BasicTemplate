@@ -1,5 +1,5 @@
 ---
-title: Phone Bank to Flip North Carolina's 9th - Dan McCready for Congress!
+title: "(DRAFT)Phone Bank to Flip North Carolina's 9th - Dan McCready for Congress!"
 date: 2019-06-01 15:15:00 -07:00
 ---
 
