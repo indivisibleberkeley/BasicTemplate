@@ -13,7 +13,7 @@ Location: Sports Basement's Community Room, 2727 Milvia St, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSc4Cv1RXhySUgw4uqvUUlwTE39LhzNrQAFGLbv3l8pK2HCyLA/viewform
 ---
 
-Join** I**ndivisible **B**erkeley in phoning Virginia voters.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
+Join Indivisible Berkeley in phoning Virginia voters.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
 
 WHY VIRGINIA?  In 2017, 1 vote decided control of the Virginia House of Delegates. Virginia State legislators elected in 2019  will draw up  Virginia’s US congressional district map and affect national elections.  Each vote really matters!
 
