@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - rcjr
+is featured: true
 event-start-date: 2019-06-20 19:00:00 -07:00
 event-end-date: 2019-06-20 21:00:00 -07:00
 Location: '1301 Walnut St., Berkeley '
