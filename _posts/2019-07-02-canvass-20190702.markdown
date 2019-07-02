@@ -7,7 +7,7 @@ tags:
 - canvass
 - elections
 is featured: true
-main-image: "/uploads/Indivisible%20Berkeley%20-%20Canvass%20photo%205%20(CA-10,%202018).JPG"
+main-image: "/uploads/canvassing_Tracy_summer.jpg"
 event-start-date: 2019-07-13 10:00:00 -07:00
 event-end-date: 2019-07-13 15:00:00 -07:00
 Location: Tracy, CA
