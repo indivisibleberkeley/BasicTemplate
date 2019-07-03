@@ -14,7 +14,7 @@ Contact Senator Skinner by July 9 and ask her to oppose AB 56 as currently writt
 ### Contact Info
 * Phone: 916-651-4009 or 510-286-1333
 * Email: <senator.skinner@sen.ca.gov>
-  * Copy your email to the other members of the Senate Utilities, Energy and Communications Committee: senator.hueso@sen.ca.gov, senator.moorlach@sen.ca.gov, senator.bradford@sen.ca.gov, senator.chang@sen.ca.gov, senator.dodd@sen.ca.gov, senator.hertzberg@sen.ca.gov, senator.hill@sen.ca.gov, senator.mcguire@sen.ca.gov, senator.rubio@sen.ca.gov, senator.stern@sen.ca.gov, senator.stone@sen.ca.gov, senator.wiener@sen.ca.gov  
+  * Copy your email to the other members of the Senate Utilities, Energy and Communications Committee:  senator.hueso@sen.ca.gov, senator.moorlach@sen.ca.gov, senator.bradford@sen.ca.gov, senator.chang@sen.ca.gov, senator.dodd@sen.ca.gov, senator.hertzberg@sen.ca.gov, senator.hill@sen.ca.gov, senator.mcguire@sen.ca.gov, senator.rubio@sen.ca.gov, senator.stern@sen.ca.gov, senator.stone@sen.ca.gov, senator.wiener@sen.ca.gov  
 
 ### Suggested Script
 *I am happy purchasing my electricity from a Community Choice Aggregator such as East Bay Community Energy (EBCE) [or Marin Clean Energy (MCE) if you live in Contra Costa] rather than PG&E. My electricity is both cheaper and cleaner than that offered by PG&E. I am concerned that this bill now before the Senate Energy, Utilities and Communications Committee will weaken Community Choice Aggregators (CCAs) by reducing their decision making powers over procurement and increase the prices we pay for electricity in the future. Please OPPOSE AB 56.*  
