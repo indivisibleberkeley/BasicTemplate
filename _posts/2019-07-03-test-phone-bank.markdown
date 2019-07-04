@@ -10,5 +10,6 @@ main-image: "/uploads/Crowd_PKing.jpeg"
 event-start-date: 2019-07-10 00:12:00 -07:00
 event-end-date: 2019-07-03 00:30:00 -07:00
 Location: 123 main st
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdvD3_KlMybjtNuJQAnMvnASVKdAfmkkZ2f48Bl_Z2oi4YYTg/viewform
 ---
 
