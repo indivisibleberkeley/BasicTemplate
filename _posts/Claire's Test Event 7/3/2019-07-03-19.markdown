@@ -1,0 +1,11 @@
+---
+title: Claire's Test Event
+date: 2019-07-03 18:30:00 -07:00
+main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
+event-start-date: 0003-01-07 19:07:02 -07:52
+event-end-date: 0003-01-07 19:07:02 -07:52
+Location: Philz Coffee
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeqC5ht_SnZ5JpMcMlfhYFdu14tqEGWjUKOHFYPuPYUHCzAbw/viewform
+---
+
+This is my test event
