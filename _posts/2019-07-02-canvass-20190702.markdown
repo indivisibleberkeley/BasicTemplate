@@ -4,8 +4,8 @@ date: 2019-07-02 10:39:00 -07:00
 categories:
 - event
 tags:
-- canvass
 - elections
+- canvassing
 is featured: true
 main-image: "/uploads/canvassing_Tracy_summer.jpg"
 event-start-date: 2019-07-13 10:00:00 -07:00
