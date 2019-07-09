@@ -6,8 +6,8 @@ categories:
 tags:
 - environment
 is featured: true
-event-start-date: 2019-07-07 19:00:00 -07:00
-event-end-date: 2019-07-07 20:45:00 -07:00
+event-start-date: 2019-07-21 19:00:00 -07:00
+event-end-date: 2019-07-21 20:45:00 -07:00
 ---
 
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
