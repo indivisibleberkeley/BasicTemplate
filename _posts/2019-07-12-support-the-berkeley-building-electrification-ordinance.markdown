@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - environment
-is featured: true
+is featured: false
 event-end-date: 2019-07-16 18:00:00 -07:00
 RSVP-link: https://act.sierraclub.org/events/details?id=7010Z000001abP7QAI&formcampaignid=7010Z000001aZBGQA2
 ---
