@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 event-start-date: 2019-07-28 18:30:00 -07:00
 event-end-date: 2019-01-17 20:00:00 -08:00
 Location: Connie Barbour Room, BFUU, 1606 Bonita Ave, Berkeley, CA
