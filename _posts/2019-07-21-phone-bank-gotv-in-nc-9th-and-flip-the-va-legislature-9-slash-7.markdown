@@ -1,5 +1,6 @@
 ---
-title: 'Phone Bank: GOTV in NC 9th & Flip the VA Legislature! 9/7'
+title: 'Phone Bank: Phone Voters in North Carolina 9th & Flip the VA State Legislature!
+  9/7'
 date: 2019-07-21 16:02:00 -07:00
 categories:
 - event
