@@ -1,5 +1,6 @@
 ---
-title: Phone Bank to Flip Virginia's State Legislature 8/17
+title: Phone Bank to North Carolina 9th Congressional District - Special Election
+  Sept 10! 8/17
 date: 2019-06-01 14:16:00 -07:00
 categories:
 - event
@@ -13,10 +14,6 @@ Location: South Berkeley home
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfdMd2c4BMQipWk6RcL-0fOx3m5f3TyMlGMtnQ80fQCvlj2gw/viewform
 ---
 
-Join Indivisible Berkeley and East Bay Activist Alliance in phoning Virginia voters.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
+Indivisible Berkeley & our friends at East Bay Activist Alliance are supporting the Center for Common Ground’s VOTER PROJECT by calling citizens who may have been dropped from the voter rolls or haven’t registered and need help to become voters – so that they can vote in the important NC9th Special Election on September 10! Registration closes September 3, so it's crunch time!
 
-WHY VIRGINIA?  In 2017, 1 vote decided control of the Virginia House of Delegates. Virginia State legislators elected in 2019  will draw up  Virginia’s US congressional district map and affect national elections.  Each vote really matters!
-
-Republicans spent decades working to control state legislatures and gerrymandering to create their majorities.  We can't cede state level races to them.
-
-AND our work carries more “bang for the buck” in these smaller races!
+Dan McCready, Democrat is running against Republican Dan Bishop to represent NC9. The district is currently unrepresented due to electoral fraud by the Republican campaign in 2018. Registration ends September 3rd. Help us get voters out!
