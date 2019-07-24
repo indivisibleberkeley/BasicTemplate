@@ -34,3 +34,5 @@ Can you be the one to reach out to them, explain this situation, and encourage t
 Your friends can [use this link to message state reps now to pass ACA 6](https://action.aclu.org/send-message/ca-asm-support-freethevote) - Free the Vote in California. They could also give their offices a call! Or both.
 
 Unfamiliar with voting laws / parole / felonies? [This writeup from the League of Women Voters](https://www.lwvbae.org/league-news/restoring-the-right-to-vote-for-people-on-parole/) has more background on the history of this kind of disenfranchisement.
+
+Note: that map at the top of this post? The states in blue let parolees vote. The states that are blank / gray don't. We think it's weird that California isn't in the blue. Help get it there.
