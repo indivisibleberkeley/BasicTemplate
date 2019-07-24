@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - voter rights
+is featured: true
 main-image: "/uploads/freethevoteca_votingrightsmap_0719.png"
 event-end-date: 2019-08-23 18:00:00 -07:00
 ---
