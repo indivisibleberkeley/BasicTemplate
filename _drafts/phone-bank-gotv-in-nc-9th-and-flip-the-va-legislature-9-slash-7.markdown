@@ -13,6 +13,6 @@ Location: Finnish Hall, 1970 Chestnut St, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScMlsmcugNesdAXJtDo6vqSZikkiYdk_DFUFwWDCPezFIzZ6w/viewform
 ---
 
-We'll be calling North Carolina 9th voters to get out the vote. The special congressional election, with Democrat Dan McCready running against Republican Dan Bishop is September 10! 
+September 10 is the North Carolina 9th Congressional District. Help us phone voters for GOTV. The special congressional election, with Democrat Dan McCready running against Republican Dan Bishop is September 10! 
 
 WHAT YOU"LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
