@@ -9,6 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2019-10-09 13:00:00 -07:00
 event-end-date: 2019-10-09 16:00:00 -07:00
+Location: Sports Basement's Community Room, 2727 Milvia St., Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfZ8_xdr5SslAv2j9XwsdK-7ezQKRLsGC5VgohV7qGJVPW9rA/viewform
 ---
 
