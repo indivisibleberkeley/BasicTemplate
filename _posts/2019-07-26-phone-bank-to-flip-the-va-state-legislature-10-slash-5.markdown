@@ -1,6 +1,8 @@
 ---
 title: Phone Bank to Flip the VA State Legislature 10/5
 date: 2019-07-26 10:30:00 -07:00
+categories:
+- event
 tags:
 - phonebank
 - elections
