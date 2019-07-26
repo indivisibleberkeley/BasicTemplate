@@ -12,7 +12,7 @@ event-end-date: 2019-10-19 16:00:00 -07:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfZ8_xdr5SslAv2j9XwsdK-7ezQKRLsGC5VgohV7qGJVPW9rA/viewform
 ---
 
-Join Indivisible Berkeley & East Bay Activist Alliance in phoning Virginia voters -- this is a "last chance" election before redistricting.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
+Join Indivisible Berkeley & East Bay Activist Alliance in phoning Virginians to get out the vote. This is a "last chance" election before redistricting.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
 
 WHY VIRGINIA?  In 2017, 1 vote decided control of the Virginia House of Delegates. Virginia State legislators elected in 2019  will draw up  Virginia’s US congressional district map and affect national elections.  Each vote really matters!
 
