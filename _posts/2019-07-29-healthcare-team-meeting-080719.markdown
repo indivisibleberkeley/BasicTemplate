@@ -1,6 +1,10 @@
 ---
 title: Healthcare Team Meeting
 date: 2019-07-29 22:21:00 -07:00
+categories:
+- event
+tags:
+- healthcare
 is featured: true
 event-start-date: 2019-08-07 19:00:00 -07:00
 event-end-date: 2019-08-07 21:00:00 -07:00
