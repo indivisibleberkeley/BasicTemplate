@@ -7,4 +7,4 @@ Indivisible Berkeley is supporting the Center for Common Ground's Voter Project 
 
 Background: Dan McCready, Democrat is running, this time against Republican Dan Bishop.  The district is currently unrepresented due to electoral fraud by the Republican campaign in 2018. 
 
-Registration ends September 3rd. Help us get voters out!
+Help us get voters out!
