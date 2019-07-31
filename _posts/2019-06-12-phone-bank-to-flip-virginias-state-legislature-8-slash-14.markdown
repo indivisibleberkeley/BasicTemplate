@@ -13,7 +13,7 @@ Location: Sports Basement's Community Room, 2727 Milvia St, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSc4Cv1RXhySUgw4uqvUUlwTE39LhzNrQAFGLbv3l8pK2HCyLA/viewform
 ---
 
-Indivisible Berkeley is supporting the Center for Common Ground's Voter Project by calling voters of color to encourage them to vote in North Carolina's special congressional election on September 10.  Early voting starts this month! If North Carolina hasn't published its polling places in time for this phone bank, we'll be working to register citizens who have been dropped from the voter rolls.
+Indivisible Berkeley is supporting the Center for Common Ground's Voter Project by calling voters of color to encourage them to vote in North Carolina's special congressional election on September 10.  Early voting starts this month!
 
 Background: Dan McCready, Democrat is running, this time against Republican Dan Bishop.  The district is currently unrepresented due to electoral fraud by the Republican campaign in 2018. 
 
