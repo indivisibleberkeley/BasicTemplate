@@ -12,7 +12,7 @@ main-image: "/uploads/IMG_3520%20-%20V2.jpg"
 event-start-date: 2019-08-10 10:00:00 -07:00
 event-end-date: 2019-08-10 15:00:00 -07:00
 Location: CA-10 ~ Tracy
-RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSd3g-_s0FzqZaQarwvEUUJq8eeZojCmt0vCIJe3TUh7aXtRTA/viewform?vc=0&c=0&w=1
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScOew2VSkhkPEqdZu_mHd6J0WCytJbisXwa5YMNtOqSswrXyw/viewform?usp=sf_link
 ---
 
 Join us to continue 2019 canvassing in CD-10: August 10, 10 am - 3 pm, in Tracy. Please RSVP here to keep the momentum going from last year. 
