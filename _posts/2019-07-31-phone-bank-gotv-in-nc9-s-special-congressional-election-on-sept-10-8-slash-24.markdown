@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-ea5d18.jpg"
 event-start-date: 2019-08-24 13:00:00 -07:00
 event-end-date: 2019-08-24 16:00:00 -07:00
-Location: TBD, in Berkeley
+Location: Finnish Hall, 1970 Chestnut St, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSeaitJiLY0JijXMq3z1LJJ0G7NcWOGICMDX8sV1cD5tYysDLw/viewform
 ---
 
