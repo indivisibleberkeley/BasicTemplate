@@ -24,6 +24,8 @@ To create either an action or an event, click on "posts" in the left sidebar on 
 
 Most of the fields to fill out are self-explanatory, but some are a bit subtle:
 
++ URL - find the URL just below the post title in faded gray text. The URL will start with `ib.siteleaf.net` rather than `indivisibleberkeley.org` - that's intended. The URL will automatically load at `indivisibleberkeley.org/whatever`. To change the URL, click the pencil icon, edit the link as desired, then click the check mark (that replaced the pencil icon). Lastly, save your post as usual.
+
 + `RSVP-link` is a link to the website where an activist can RSVP, e.g. ActionNetwork or EventBrite
 
 + `Location` is automatically turned into a link on Google Maps, using whatever text you put in the field as a search term. So if it's a business, park, plaza, etc., you can put the name, and if it's a house, then the address works well.
