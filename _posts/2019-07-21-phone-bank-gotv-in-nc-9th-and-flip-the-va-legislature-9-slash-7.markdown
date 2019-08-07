@@ -3,7 +3,6 @@ title: |-
   Phone Bank: Last Chance to GOTV in
   North Carolina 9th! 9/7
 date: 2019-07-21 16:02:00 -07:00
-published: false
 categories:
 - event
 tags:
