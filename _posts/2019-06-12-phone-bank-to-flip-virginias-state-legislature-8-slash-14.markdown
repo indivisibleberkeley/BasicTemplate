@@ -1,7 +1,6 @@
 ---
 title: Phone Bank to GOTV in North Carolina 9th CD 8/14!
 date: 2019-06-12 06:44:00 -07:00
-published: false
 categories:
 - event
 tags:
