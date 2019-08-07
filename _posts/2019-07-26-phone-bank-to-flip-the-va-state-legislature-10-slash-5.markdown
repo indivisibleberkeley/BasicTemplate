@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2019-10-05 13:00:00 -07:00
 event-end-date: 2019-10-05 16:00:00 -07:00
-Location: 'Finnish Hall,  Upstairs, 1970 Chestnut St., Berkeley CA '
+Location: 'Finnish Hall, 1970 Chestnut St., Berkeley CA '
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSf2GR1Vi8Vh5fkPLuV65CeY79j0Sc7WPfrIshnb3gdXz6rDTg/viewform
 ---
 
