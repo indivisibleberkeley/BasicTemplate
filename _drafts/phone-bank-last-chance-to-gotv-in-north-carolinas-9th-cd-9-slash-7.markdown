@@ -1,5 +1,5 @@
 ---
-title: 'Phone Bank: Last Chance to GOTV in North Carolina''s 9th CD! 9/7'
+title: 'Phone Bank: Last Chance to GOTV in North Carolina''s 9th CD! 9/7 [updated]'
 date: 2019-08-06 20:10:00 -07:00
 categories:
 - event
