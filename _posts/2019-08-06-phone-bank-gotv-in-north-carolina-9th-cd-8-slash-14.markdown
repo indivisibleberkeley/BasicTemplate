@@ -1,5 +1,5 @@
 ---
-title: 'Phone Bank: GOTV in North Carolina 9th CD!  8/14'
+title: 'Phone Bank: GOTV in North Carolina 9th CD!  8/14  [Updated]'
 date: 2019-08-06 20:03:00 -07:00
 categories:
 - event
