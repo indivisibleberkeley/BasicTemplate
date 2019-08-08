@@ -6,8 +6,8 @@ categories:
 tags:
 - environment
 is featured: true
-event-start-date: 2019-08-04 19:00:00 -07:00
-event-end-date: 2019-08-04 20:45:00 -07:00
+event-start-date: 2019-08-18 19:00:00 -07:00
+event-end-date: 2019-08-18 20:45:00 -07:00
 ---
 
 Come to our meeting! We will discuss and plan actions to resist the agenda of the Trump administration and promote an agenda that protects the environment and the role of science in society. New folks are always welcome!
@@ -16,4 +16,5 @@ Come to our meeting! We will discuss and plan actions to resist the agenda of th
 Socialize and settle in beginning at 7:00pm.  Meeting begins promptly at 7:15.
 
 *Meeting Location:*  
-[Click this link](mailto:bishoplm@gmail.com?subject=New%20Science%20and%20Environment%20Meeting%20Location) to e-mail bishoplm@gmail.com with the exact subject line "New Science and Environment Meeting Location" (without quotes) to receive details about the meeting location.
+Meeting locations are sent to our email list. Please join by sending an email to environment+subscribe@indivisibleberkeley.org. You can also email team leads at environment+owner 
+@indivisibleberkeley.org.
