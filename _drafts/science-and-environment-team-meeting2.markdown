@@ -16,4 +16,5 @@ Come to our meeting! We will discuss and plan actions to resist the agenda of th
 Socialize and settle in beginning at 7:00pm.  Meeting begins promptly at 7:15.
 
 *Meeting Location:*  
-[Click this link](mailto:bishoplm@gmail.com?subject=New%20Science%20and%20Environment%20Meeting%20Location) to e-mail bishoplm@gmail.com with the exact subject line "New Science and Environment Meeting Location" (without quotes) to receive details about the meeting location.
+Meeting locations are sent to our email list. Please join by sending an email to environment+subscribe@indivisibleberkeley.org. You can also email team leads at environment+owner 
+@indivisibleberkeley.org.
