@@ -11,10 +11,10 @@ RSVP-link: https://www.regulations.gov/comment?D=FS-2019-0010-0001
 ---
 
 ### Overview
-The US Forest Service is proposing harmful rule changes that would eliminate public input and environmental assessments for most projects in our national forests. Help stop this by submitting a comment to EPA   
+The US Forest Service is proposing harmful rule changes that would eliminate public input and environmental assessments for most projects in our national forests. Help stop this by submitting a comment to the Forest Service.   
 
 ### Take Action
-**Submit your Comment to EPA.** By August 12th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=FS-2019-0010-0001).  View the proposed rule change [here](https://www.regulations.gov/docket?D=FS-2019-0010).
+**Submit your Comment to the Forest Service.** By August 12th, [click here to submit your comment at regulations.gov](https://www.regulations.gov/comment?D=FS-2019-0010-0001). View the proposed rule change [here](https://www.regulations.gov/docket?D=FS-2019-0010).
 
 *Note: You do not need to be an expert to comment. By law the agency must provide a written response to the comments it receives. In addition your comments may provide material for organizations that will likely sue the US Forest Service if this proposed rule is adopted. Background information and possible comments follow but personalizing your remarks enhances them.*  
 
