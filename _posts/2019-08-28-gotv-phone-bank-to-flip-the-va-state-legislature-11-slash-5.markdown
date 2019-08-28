@@ -18,3 +18,5 @@ Join Indivisible Berkeley in phoning Virginia voters – the “last chance” e
 WHY VIRGINIA? In 2017, 1 vote decided control of the Virginia House of Delegates. Virginia State legislators elected in 2019 will draw up Virginia’s US congressional district map and affect national elections. Each vote really matters!
 
 Republicans spent decades working to control state legislatures and gerrymandering to create their majorities. We can’t cede state level races to them. Let's Get Out The Vote!
+
+RSVP to sign up for time slots.
