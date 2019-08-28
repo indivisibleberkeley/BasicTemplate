@@ -13,10 +13,10 @@ Location: Sports Basement's Community Room, 2727 Milvia St, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSc6wKSGSVgHcRslbMllUxZrleYmnHC6-c4OZ5br6Y00iiKwdA/viewform
 ---
 
-Join Indivisible Berkeley in phoning Virginia voters – “last chance” election before redistricting. We’re supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
+Join Indivisible Berkeley in phoning Virginia voters – the “last chance” election before redistricting. We’re supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
 
 WHY VIRGINIA? In 2017, 1 vote decided control of the Virginia House of Delegates. Virginia State legislators elected in 2019 will draw up Virginia’s US congressional district map and affect national elections. Each vote really matters!
 
 Republicans spent decades working to control state legislatures and gerrymandering to create their majorities. We can’t cede state level races to them. Let's Get Out The Vote!
 
-We're working from 9-2:30 -- and you can sign up for the whole time, or part of it. 
+We're working from 9-2:30 -- and you can sign up for the whole time, or part of it.
