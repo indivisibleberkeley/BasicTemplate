@@ -10,7 +10,7 @@ main-image: "/uploads/3%20red%20phones%20copy-14f9a0.jpg"
 event-start-date: 2019-09-21 13:00:00 -07:00
 event-end-date: 2019-09-21 16:00:00 -07:00
 Location: South Berkeley home
-RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdnUgv0uMmNj5qE6VUZItrVvUAdRI_qS_yHsbe0g5TKFquxNA/viewform
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScuXQeIiDOafOfyhLSO_KLP4Xz_Ow_cltYl0ovwd2AXWwDTAQ/viewform
 ---
 
 Join Indivisible Berkeley and East Bay Activist Alliance in phoning Virginia voters.  We're supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
