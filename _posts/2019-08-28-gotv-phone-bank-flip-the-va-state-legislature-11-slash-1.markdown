@@ -9,7 +9,8 @@ tags:
 main-image: "/uploads/3%20red%20phones%20copy%202-4db67c.jpg"
 event-start-date: 2019-11-01 13:00:00 -07:00
 event-end-date: 2019-11-01 16:00:00 -07:00
-Location: Sports Basement's Community Room, 2727 Milvia St, Berkeley CA
+Location: Sports Basement's Community Room (wheelchair accessible), 2727 Milvia St,
+  Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLScCv5R6Kwqp3tXDaqOTL5CA_V97Hoqa3KmTTjqdZQhjMYhlUg/viewform
 ---
 
