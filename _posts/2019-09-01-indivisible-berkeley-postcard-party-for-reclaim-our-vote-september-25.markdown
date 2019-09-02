@@ -12,3 +12,6 @@ Location: North Berkeley Home
 RSVP-link: https://docs.google.com/forms/d/1TglgpDXXodbnm4BtpuD11cjwzWRuHnzKtUZ6m-MrmIw/edit
 ---
 
+We're working with Reclaim Our Vote to reach voters of color in Virginia who may have been removed from the voter rolls. Join us in writing postcards to help register voters in time for their state legislature elections in November. 
+
+Help flip Virginia, help end gerrymandering. Help us contact voting eligible de-registered voters to help them re-register. Join us in the work, and the fun, to reclaim votes!
