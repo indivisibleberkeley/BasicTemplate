@@ -1,5 +1,5 @@
 ---
-title: General Assembly - September
+title: CANCELLED - General Assembly - September
 date: 2019-01-17 23:09:00 -08:00
 categories:
 - event
@@ -10,6 +10,8 @@ event-start-date: 2019-09-08 19:30:00 -07:00
 event-end-date: 2019-09-08 21:00:00 -07:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
 ---
+
+THIS MEETING HAS BEEN CANCELLED. PLEASE JOIN US AT THE OCTOBER GENERAL ASSEMBLY ON SUNDAY, OCTOBER 13TH.
 
 Doors open at 7. We start promptly at 7:30.
 
