@@ -19,4 +19,4 @@ September 10 is North Carolina's Special Election day! Help us phone voters in N
 
 WHAT YOU"LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
-FLASH ! - Depending on the path of Hurricane Dorian, we may switch to calling VA or may have to cancel at the last minute (unlikely). 
+FLASH ! - Depending on the path of Hurricane Dorian, we may switch to calling VA or may have to cancel at the last minute (unlikely).  NC9 is inland, and reports Thursday morning, 9/5, are encouraging.
