@@ -18,3 +18,5 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSct8p0D-MxR_Bk2xiQFDvVsfTYpQ
 September 10 is North Carolina's Special Election day! Help us phone voters in North Carolina's 9th Congressional District and get out the vote! Democrat Dan McCready is running against Republican Dan Bishop to represent this district, which has not been represented in Congress for a year due to voter fraud by the Republican campaign.
 
 WHAT YOU"LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
+
+FLASH ! - Depending on the path of Hurricane Dorian, we may switch to calling VA or may have to cancel at the last minute (unlikely). 
