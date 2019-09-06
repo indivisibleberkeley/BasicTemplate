@@ -1,6 +1,6 @@
 ---
 title: 'Phone Bank: Last Chance to GOTV in North Carolina''s 9th CD! 9/7 [update -
-  NC9 local organizers Fri say NC9 calling tomorrow is a Go!]'
+  NC9 local organizers say NC9 calling tomorrow is a Go!]'
 date: 2019-08-06 20:10:00 -07:00
 categories:
 - event
