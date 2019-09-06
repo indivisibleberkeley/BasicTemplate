@@ -16,7 +16,7 @@ RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSct8p0D-MxR_Bk2xiQFDvVsfTYpQ
 
 \*\*FLASH! Hurricane Dorian has not been as severe as feared in NC9 (and coastal areas with flooding have been removed from the phone bank temporarily). So let's call NC9 ! Larry Sabato's Crystal Ball just changed this race's rating to "toss-up" from "leans Republican" and it will be tight.
 
-September 10 is North Carolina's Special Election day! Help us phone voters of color in North Carolina's 9th Congressional District and get out the vote! We'll be calling for Democrat Dan McCready.  He's running against Republican Dan Bishop to represent this district, which has not been represented in Congress for a year due to voter fraud by the 2018 Republican campaign.
+September 10 is North Carolina's Special Election day! Help us  get out the vote for Democrat Dan McCready.  He's running against Republican Dan Bishop to represent this district, which has not been represented in Congress for a year due to voter fraud by the 2018 Republican campaign.
 
 WHAT YOU"LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds.  If possible, a power cord and a computer mouse might also be useful for you.
 
