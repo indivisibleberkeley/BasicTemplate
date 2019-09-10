@@ -10,7 +10,7 @@ event-end-date: 2019-09-13 23:59:00 -07:00
 
 **Help us pass SB 210 to require heavy-duty trucks to pass smog tests.** This is a priority climate bill as the California Legislature adjourns for the year on September 13. If SB 210 is adopted the California Air Resources Board (CARB) will develop and implement a heavy-duty truck inspection and maintenance program similar to the smog check program for cars and pick-up trucks.  
 
-*Call your Assemblymember Buffy Wicks in the next few days:* urge her to do everything possible to pass the heavy-duty truck smog check bill into law. Let the person answering the phone (call between 9am and 5pm if possible) know you are a constituent concerned about clean air in California.  
+**Call your Assemblymember Buffy Wicks in the next few days:** urge her to do everything possible to pass the heavy-duty truck smog check bill into law. Let the person answering the phone (call between 9am and 5pm if possible) know you are a constituent concerned about clean air in California.  
 
 Assemblymember: Buffy Wicks: (916) 319-2015  
 
