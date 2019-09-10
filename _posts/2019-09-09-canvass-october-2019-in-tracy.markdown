@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - canvassing
+- elections
 is featured: true
 main-image: "/uploads/IMG_3520%20-%20V2.jpg"
 event-start-date: 2019-10-12 10:00:00 -07:00
