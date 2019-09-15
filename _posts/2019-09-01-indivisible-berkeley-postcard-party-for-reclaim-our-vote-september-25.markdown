@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/Postcards%20Photo.jpg"
 event-start-date: 2019-09-25 19:00:00 -07:00
 event-end-date: 2019-09-25 21:00:00 -07:00
