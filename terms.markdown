@@ -27,4 +27,7 @@ layout: page
 
 8. **Contributions to Indivisible Berkeley are NOT tax deductible,** but will be used to further the goals identified above.
 
+9. Indivisible Berkeley members shall not constitute
+"members" within the meaning of Section 5056 of the California Nonprofit Corporation Law.
+
 [feedback]: mailto:feedback@indivisibleberkeley.org
