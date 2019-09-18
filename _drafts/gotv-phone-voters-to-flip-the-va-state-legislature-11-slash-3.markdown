@@ -7,8 +7,11 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202-15d5fc.jpg"
-event-start-date: 2019-11-03 09:00:00 -08:00
+event-start-date: 2019-11-03 10:00:00 -08:00
 event-end-date: 2019-11-03 16:00:00 -08:00
+Location: South Berkeley Senior Center Multipurpose Room, 2939 Ellis St, Berkeley
+  94703
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfDA2_Z2l3mEP2vH2-cXxEK2uiWVw8gugYcQ6nFYFpeE1q5qg/viewform
 ---
 
 Join Indivisible Berkeley in phoning Virginia voters – the “last chance” election before redistricting. We’re supporting 3 campaigns: Cheryl Turpin for VA Senate District 7; Alex Askew and Nancy Guy for House of Delegates.
