@@ -2,7 +2,7 @@
 title: Help Flip Virginia! IB's GOTV Phone Banks Need Support Volunteers!
 date: 2019-09-20 12:17:00 -07:00
 categories:
-- event
+- action
 tags:
 - phonebank
 - elections
