@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-main-image: "/uploads/download.png"
+main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
 event-start-date: 2019-10-26 13:00:00 -07:00
 event-end-date: 2019-11-05 15:00:00 -08:00
 Location: South Berkeley
