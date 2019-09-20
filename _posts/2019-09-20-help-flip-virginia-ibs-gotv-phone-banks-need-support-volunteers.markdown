@@ -13,7 +13,7 @@ Location: South Berkeley
 RSVP-link: https://www.signupgenius.com/go/8050e49aea72fa1fc1-gotv
 ---
 
-CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phone banks out! Our phone bankers are working hard to get out the vote and flip the Virginia State Legislature! Last chance before redistricting this gerrymandered state -- next opportunity is not until 2031! You can support this effort, even if you're not phoning! We need:
+CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phone banks out! Our phone bankers are working hard to get out the vote and flip the Virginia State Legislature. Last chance before redistricting this gerrymandered state -- next opportunity is not until 2031! You can support this effort! We need:
 
 * **Sign-in Volunteers** to sign in and orient phone volunteers, direct them to a table, give them printed instructions, and direct them to a trainer if needed. (And keep the hot water going! :)
 
