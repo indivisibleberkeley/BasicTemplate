@@ -20,6 +20,4 @@ CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phon
 
   * Possibilities: fruit that keeps well (like organic apples, clemantines), cheese, peanut butter and crackers, nuts, cookies, banana bread, etc. Fresh-baked is great, but not a must!!)
 
-RSVP [HERE](https://www.signupgenius.com/go/8050e49aea72fa1fc1-gotv) -- soon!
-
-And thank you -- you're fabulous!
+RSVP [HERE](https://www.signupgenius.com/go/8050e49aea72fa1fc1-gotv) -- soon! Thanks!
