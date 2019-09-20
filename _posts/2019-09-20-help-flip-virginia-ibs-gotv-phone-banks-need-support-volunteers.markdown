@@ -14,7 +14,7 @@ event-end-date: 2019-11-05 15:00:00 -08:00
 
 **Sign-In Volunteers:** to sign in and orient phone volunteers, direct them to a table, give them printed instructions, and direct them to a trainer if needed. (And keep the hot water going! :)
 
-**Supply Donors & Loaners:** to purchase from our wish list of coffee and supplies, and to loan us a hot pot to keep water warm!
+**Supply Donors & Loaners:** to purchase  or loan us items from our wish list of coffee and supplies!
 
 **Food Volunteers:** to bring simple finger foods to these events -- so our phoners stay fed, happy and motivated to keep calling!
 
