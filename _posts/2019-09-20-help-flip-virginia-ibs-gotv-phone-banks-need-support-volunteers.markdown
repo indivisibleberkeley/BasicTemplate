@@ -16,7 +16,7 @@ CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phon
 
 * **Food Volunteers** to bring food to these events -- so our phoners stay fed, happy and motivated to keep calling!
 
-  * Suggest finger foods that keep well at room temp and aren't messy (no frosting, dips, sauces -- we're using napkins only or maybe compostable small plates).
+  * Suggest finger foods that keep well at room temp.
 
   * Possibilities: fruit that keeps well (like organic apples, clemantines), cheese, peanut butter and crackers, nuts, cookies, banana bread, etc. Fresh-baked is great, but not a must!!)
 
