@@ -15,7 +15,7 @@ CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phon
 
 * **Sign-in Volunteers** to sign in and orient phone volunteers, direct them to a table, give them printed instructions, and direct them to a trainer if needed. (And keep the hot water going! :)
 
-* **Food Volunteers** to keep our callers happy and motivated!
+* **Food Volunteers** to bring food to event -- keeps our callers happy and motivated to keep calling!
 
   * Suggest finger foods that keep well at room temp and aren't messy (no frosting, dips, sauces -- we're using napkins only or maybe compostable small plates).
 
