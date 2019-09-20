@@ -7,6 +7,7 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
+event-end-date: 2019-11-05 15:00:00 -08:00
 ---
 
 CAN'T TRAVEL OR PHONE? YOU CAN STILL BE PART OF GOTV THIS YEAR! Help our IB phone banks out! Our phone bankers will be working long hours from October 26-November 5 to get out the vote and flip the Virginia State Legislature. Last chance before redistricting this gerrymandered state -- next opportunity is not until 2031! You can support this effort! We need:
