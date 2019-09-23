@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
 event-start-date: 2019-11-05 18:30:00 -08:00
 event-end-date: 2019-11-05 21:30:00 -08:00
