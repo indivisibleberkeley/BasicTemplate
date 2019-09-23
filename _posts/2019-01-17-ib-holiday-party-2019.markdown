@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - holiday
+is featured: true
 event-start-date: 2019-12-08 18:30:00 -08:00
 event-end-date: 2019-12-08 20:30:00 -08:00
 Location: BFUU Fellowship Hall, 1924 Cedar St., Berkeley
