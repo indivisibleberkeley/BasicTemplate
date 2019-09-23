@@ -6,6 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
+is featured: true
 main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
 event-end-date: 2019-11-05 15:00:00 -08:00
 ---
