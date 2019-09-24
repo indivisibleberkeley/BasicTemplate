@@ -6,7 +6,9 @@ nav: true
 
 Indivisible Berkeley brings the Trump Resistance to {{ site.member-count }} of our closest neighbors in Berkeley and surrounding communities.
 
-Our mission is to resist the Trump agenda by engaging our elected officials at all levels of government and promote progressive and democratic values. Read our entire mission statement [here](https://www.indivisibleberkeley.org/mission)
+Our mission is to resist the Trump agenda by engaging our elected officials at all levels of government and promote progressive and democratic values. Read our entire mission statement [here](https://indivisibleberkeley.org/mission).
+
+Participation in Indivisible Berkeley activities constitutes agreement with our [terms of participation](https://indivisibleberkeley.org/terms).
 
 ------------
 
