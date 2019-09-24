@@ -5,7 +5,7 @@ position: 3
 layout: page
 ---
 
-*Questions or comments?  Email [feedback@indivisibleberkeley.org][feedback].  Last updated 2017-04-10.*
+*Questions or comments?  Email [feedback@indivisibleberkeley.org][feedback].  Last updated 2019-09-23.*
 
 ### Who We Are and What We Do
 
