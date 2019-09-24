@@ -11,7 +11,7 @@ main-image: "/uploads/bigstock-red-white-and-blue-stars-120797930.jpg"
 event-end-date: 2019-11-05 15:00:00 -08:00
 ---
 
-**Can't travel or phone voters? You can still be part of GOTV and help flip Virginia!** Help our IB phone banks out! Our phone bankers will be working long hours from October 26-November 5 to Get Out The Vote and flip the Virginia State Legislature. This is a "last chance" election  before the party in control redistricts this gerrymandered state -- next opportunity is not until 2031! We need:
+**Can't travel or phone voters? You can still be part of GOTV and help flip Virginia!** Help our IB phone banks out! Our phone bankers will be working long hours from October 26 and November 1-5 to Get Out The Vote and flip the Virginia State Legislature. This is a "last chance" election  before the party in control redistricts this gerrymandered state -- next opportunity is not until 2031! We need:
 
 **Sign-In Volunteers:** to sign in and orient phone volunteers, direct them to a table, give them printed instructions, and direct them to a trainer if needed. (And keep the hot water going! :)
 
