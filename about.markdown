@@ -17,7 +17,6 @@ The Indivisible Berkeley Steering Team is composed of organizers, tech specialis
 + Brandon Curtis
 + Keavney Klein
 + Sam Kohn
-+ Eleanor Moses
 + Jaime Mulligan
 + Daron Sharps
 
