@@ -2,10 +2,8 @@
 title: Join Us
 date: 2017-08-01 17:56:00 -07:00
 position: 10
-mailchimp-form-embed: "<link href='https://actionnetwork.org/css/style-embed.css'
-  rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v2/form/indivisible-berkeley-email-sign-up?format=js&source=widget&style=full'></script><div
-  id='can-form-area-indivisible-berkeley-email-sign-up' style='width: 650px'><!--
-  this div is the target for our HTML insertion --></div>"
+mailchimp-form-embed: "<a href='https://join.indivisibleberkeley.org'
+  class='btn'>Member signup</a>"
 nav: true
 navbutton: true
 layout: join
