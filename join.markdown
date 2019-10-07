@@ -2,8 +2,8 @@
 title: Join Us
 date: 2017-08-01 17:56:00 -07:00
 position: 10
-mailchimp-form-embed: "<a href='https://join.indivisibleberkeley.org'
-  class='btn'>Member signup</a>"
+mailchimp-form-embed: "<a href='https://join.indivisibleberkeley.org' class='btn'>Member
+  signup</a>"
 nav: true
 navbutton: true
 layout: join
