@@ -1,6 +1,9 @@
 ---
 title: Texting to flip Virginia!
 date: 2019-10-26 10:00:00 -07:00
+tags:
+- text
+- textbank
 event-start-date: 2019-10-26 10:00:00 -07:00
 event-end-date: 2019-10-26 12:00:00 -07:00
 Location: Private home in Berkeley with street parking
@@ -23,4 +26,4 @@ What to Bring: A charged laptop!
 
 Thank you!
 
-Questions? Email ebaatexting@gmail.com
+Questions? Email ebaatexting@gmail.com![textbank0818.jpg](/uploads/textbank0818.jpg)
