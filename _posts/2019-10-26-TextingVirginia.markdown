@@ -10,7 +10,7 @@ main-image: "/uploads/textbank0818-2fc892.jpg"
 event-start-date: 2019-10-26 10:00:00 -07:00
 event-end-date: 2019-10-26 12:00:00 -07:00
 Location: Private home in Berkeley with street parking
-RSVP-link: ebaatexting@gmail.com
+RSVP-link: http://mailto:ebaatexting@gmail.com
 embed-code:
 - 
 ---
@@ -29,4 +29,4 @@ What to Bring: A charged laptop!
 
 Thank you!
 
-Questions? (http://mailto:ebaatexting@gmail.com)
+Questions? ebaatexting@gmail.com
