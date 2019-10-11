@@ -29,4 +29,4 @@ What to Bring: A charged laptop!
 
 Thank you!
 
-Questions? ebaatexting@gmail.com
+Questions? mailto:ebaatexting@gmail.com
