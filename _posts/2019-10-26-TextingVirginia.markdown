@@ -1,6 +1,8 @@
 ---
 title: Texting to flip Virginia!
 date: 2019-10-26 10:00:00 -07:00
+categories:
+- event
 tags:
 - text
 - textbank
