@@ -103,3 +103,4 @@ google_analytics: |-
 
   </script>
 permalink: "/:categories/:title"
+emptyArray: []
