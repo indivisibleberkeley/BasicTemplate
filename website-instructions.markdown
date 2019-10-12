@@ -20,6 +20,14 @@ The second is to provide updates for actions and events that your team is attend
 
 To create either an action or an event, click on "posts" in the left sidebar on Siteleaf and then click "+ New Post" on the top right. There you can fill in all of the event details. The only required field is `event-start-date` (used for Events) or `event-end-date` (used for Actions). You are welcome to fill out as many other fields as you like, including a start date for Actions or an end date for Events.
 
+#### Links
+
+The format is ``[text to display](link address)``. Use square brackets for the text and parentheses for the URL, with no space between the ] and (. So a website example would be ``[our homepage](https://indivisibleberkeley.org)``, and an email example would be ``[contact us](mailto:info@indivisibleberkeley.org)``. If you want the email address to display you can just put it in the square brackets to, like so: ``[info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org)``.
+
+#### Formatting
+
+Text formatting is accomplished using a type of code called Markdown. You can see basic Markdown examples (*bold*, _italic_, etc.) [here](https://guides.github.com/features/mastering-markdown/#what). To compose formatted text with a live preview, check out this website: [markdownlivepreview.com](https://markdownlivepreview.com/). Just delete the text on the left half of the screen and start typing.
+
 #### Detailed description for creating a new post
 
 Most of the fields to fill out are self-explanatory, but some are a bit subtle:
