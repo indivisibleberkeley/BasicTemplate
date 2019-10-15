@@ -16,5 +16,6 @@ Come to our meeting! We will discuss and plan actions to resist the agenda of th
 Socialize and settle in beginning at 7:00pm.  Meeting begins promptly at 7:15.
 
 *Meeting Location:*  
-Meeting locations are sent to our email list. Please join by sending an email to <environment+subscribe@indivisibleberkeley.org>. You can also email team leads at <environment+owner 
-@indivisibleberkeley.org>.
+Meeting locations are sent to our email list. Please join by sending an email to [environment+subscribe@indivisibleberkeley.org](mailto:environment+subscribe@indivisibleberkeley.org). You can also email team leads at [environment+owner 
+@indivisibleberkeley.org](mailto:environment+owner 
+@indivisibleberkeley.org).
