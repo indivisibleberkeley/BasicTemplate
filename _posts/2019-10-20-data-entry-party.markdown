@@ -1,6 +1,12 @@
 ---
 title: Data Entry Party!
 date: 2019-10-20 20:14:00 -07:00
+categories:
+- event
+tags:
+- pre-ga
+- training
+- recruitment
 is featured: true
 main-image: "/uploads/Computer%20cat.jpg"
 event-start-date: 2019-11-10 16:30:00 -08:00
