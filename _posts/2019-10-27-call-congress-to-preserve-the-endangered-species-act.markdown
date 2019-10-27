@@ -6,6 +6,8 @@ categories:
 - call
 tags:
 - environment
+is featured: true
+event-end-date: 2019-11-15 23:59:00 -08:00
 ---
 
 ### Action
