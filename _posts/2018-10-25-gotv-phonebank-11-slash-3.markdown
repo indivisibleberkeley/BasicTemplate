@@ -21,4 +21,4 @@ WHAT YOU’LL NEED: a charged ipad, tablet or laptop AND your cell phone with ea
 RSVP soon!
 Ashkenaz, 1317 San Pablo Ave, Berkeley
 
-Then look for an email with subject 'Indivisible Berkeley" in the next few days so you'll know where to go!
+Then look for an email with subject 'Indivisible Berkeley" in the next few days so you'll know where to go! Come when you can, and stay as long as you are able!
