@@ -20,4 +20,4 @@ WHY VIRGINIA? In 2017, 1 vote decided control of the Virginia House of Delegates
 
 Republicans spent decades working to control state legislatures and gerrymandering to create their majorities. We can’t cede state level races to them. Let's Get Out The Vote!
 
-Sign up for time slots when you RSVP -- thanks! Come when you can, and stay as long as you are able!
+Come when you can, and stay as long as you are able!
