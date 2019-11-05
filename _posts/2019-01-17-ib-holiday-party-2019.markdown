@@ -15,7 +15,7 @@ Join us at the BFUU Fellowship Hall on Sunday, December 8th for the Indivisible 
 
 Food and drink will be potluck-style. 
 
-**[Sign up for the potluck here. ]**(https://www.signupgenius.com/go/70a084ca9a82aa1fe3-third)(You can also sign up to help with set up, sign in and clean up.)
+**[Sign up for the potluck here.](https://www.signupgenius.com/go/70a084ca9a82aa1fe3-third)**(You can also sign up to help with set up, sign in and clean up.)
 
 Indivisible Berkeley Holiday Party
 Sunday, December 8th, 6:30pm-8:30pm
