@@ -22,4 +22,4 @@ We're looking forward to seeing you!
 
 Let’s ensure Josh Harder is reelected, inspire voters to vote, and strengthen the Democratic base in this district. Many potential Democratic voters do not realize Josh was elected and do not know his name. We have work to do! 
 
---IB Elections Canvassing Captains Cheryl, Jeff and Lynn
+--IB Elections Canvassing Captains Cheryl, Jeff, Lynn and Anna
