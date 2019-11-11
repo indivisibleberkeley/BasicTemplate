@@ -13,7 +13,7 @@ RSVP-link: https://www.regulations.gov/comment?D=FS-2019-0023-0001
 ### Action
 Ask the US Forest Service to continue to protect Alaska’s Tongass National Forest from clearcutting by not adopting its proposed exemption from the Roadless Rule.  
 
-Submit your comment to the Forest Service by December 16, 2019. Click [here to comment at regulations.gov](https://www.regulations.gov/comment?D=FS-2019-0023-0001).  
+*Submit your comment to the Forest Service by December 16, 2019. Click [here to comment at regulations.gov](https://www.regulations.gov/comment?D=FS-2019-0023-0001).* This proposed rule change to exempt the entire Tongass National Forest from Roadless Rule protection is based on the [Forests Service's Draft Environmental Impact Statement, Alternative 6, found here](https://www.fs.usda.gov/nfs/11558/www/nepa/109834_FSPLT3_4876629.pdf).   
 
 ### Suggested Comment
 The Tongass National Forest (TNF) is the largest intact temperate rainforest in the world. This forest is home to large and varied populations of wildlife and because of its cool wet forest floor stores more carbon per acre than any other forest on earth!  At a time when we are threatened by global warming and the extinction of many species this is the last forest that should be made exempt from the Roadless Rule.  
@@ -37,8 +37,6 @@ The Forest Service should be researching ways to reimburse Alaska for protecting
 The Forest Service needs to choose Alternative 1 from its DEIS since this would keep the Roadless Rule fully intact in the Tongass National Forest.  
 
 ### Background
-This proposed rule change to exempt the entire Tongass National Forest from Roadless Rule protection is based on the [Forests Service's Draft Environmental Impact Statement, Alternative 6, found here](https://www.fs.usda.gov/nfs/11558/www/nepa/109834_FSPLT3_4876629.pdf).  
-
 The mission of the US Forest Service (FS) is to sustain the health, diversity and productivity of the nation’s forests in order to meet the needs of present and future generations. Among the most pressing concerns listed on the FS website are the loss of ecosystem services provided by its forests and the adaption of forest management to climate change.  
  
 The Tongass National Forest (TNF) in Southeast Alaska at 16.7 million acres is not only the largest US National Forest, it is the largest “intact” temperate rainforest on earth. Almost 90% of the TNF is either designated as wilderness or protected by the Roadless Rule.  
