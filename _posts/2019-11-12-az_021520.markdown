@@ -8,8 +8,8 @@ tags:
 - canvassing
 - canvass
 is featured: true
-event-start-date: 2019-02-15 09:00:00 -08:00
-event-end-date: 2019-02-17 21:00:00 -08:00
+event-start-date: 2020-02-15 09:00:00 -08:00
+event-end-date: 2020-02-17 21:00:00 -08:00
 Location: Phoenix, AZ
 RSVP-link: https://swingleft.org/p/we-love-arizona-WOA-feb15
 ---
