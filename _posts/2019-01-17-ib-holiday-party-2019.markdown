@@ -9,6 +9,7 @@ is featured: true
 event-start-date: 2019-12-08 18:30:00 -08:00
 event-end-date: 2019-12-08 20:30:00 -08:00
 Location: BFUU Fellowship Hall, 1924 Cedar St., Berkeley
+RSVP-link: https://join.indivisibleberkeley.org/3rd-annual-holiday-party
 ---
 
 Join us at the BFUU Fellowship Hall on Sunday, December 8th for the Indivisible Berkeley Holiday Party!
