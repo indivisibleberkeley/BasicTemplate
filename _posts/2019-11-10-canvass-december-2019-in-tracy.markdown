@@ -1,5 +1,5 @@
 ---
-title: Canvass December 2019 in Tracy
+title: Canvass December 14, 2019 in Tracy
 date: 2019-11-10 18:10:00 -08:00
 categories:
 - event
