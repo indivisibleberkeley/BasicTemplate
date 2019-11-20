@@ -1,7 +1,6 @@
 ---
 title: Virginia Statehouse Flipped Blue!
 date: 2019-11-19 20:20:00 -08:00
-published: false
 tags:
 - elections
 is featured: true
