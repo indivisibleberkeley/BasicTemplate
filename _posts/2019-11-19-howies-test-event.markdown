@@ -13,3 +13,5 @@ Location: Sports Basement
 ---
 
 This is my event and you should totes come. =)
+
+[Barbara Lee speaks for me](https://ballotpedia.org/California%27s_13th_Congressional_District_election,_2018)
