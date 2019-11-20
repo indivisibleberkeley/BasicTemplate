@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+main-image: "/uploads/20190119_125320.jpg"
 event-start-date: 2020-11-15 00:00:00 -08:00
 event-end-date: 2020-11-15 00:00:00 -08:00
 Location: Sports basement berkeley
