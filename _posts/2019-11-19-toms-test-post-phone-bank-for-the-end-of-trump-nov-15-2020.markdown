@@ -14,4 +14,4 @@ RSVP-link: link pulled from NationBuilder
 ---
 
 Come call with us to end the **reign of terror**
-For more info contact Tom at [tom.d.lent@gmail.com](mailto:tom.d.lent@gmail.com subject=reign of terror)
+For more info contact Tom at [tom.d.lent@gmail.com](mailto:tom.d.lent@gmail.com?subject=reign of terror)
