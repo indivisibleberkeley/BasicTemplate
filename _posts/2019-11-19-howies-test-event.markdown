@@ -1,6 +1,8 @@
 ---
 title: Howie's Test Event
 date: 2019-11-19 19:42:00 -08:00
+categories:
+- event
 tags:
 - phonebank
 - elections
