@@ -3,6 +3,7 @@ title: Howie's Test Event
 date: 2019-11-19 19:42:00 -08:00
 tags:
 - phonebank
+- elections
 main-image: "/uploads/barbara-lee-speaks-for-me.png"
 event-start-date: 2019-11-21 00:00:00 -08:00
 event-end-date: 2019-11-21 14:00:00 -08:00
