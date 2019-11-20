@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/20190119_125320.jpg"
 event-start-date: 2020-11-15 13:00:00 -08:00
 event-end-date: 2020-11-15 16:00:00 -08:00
