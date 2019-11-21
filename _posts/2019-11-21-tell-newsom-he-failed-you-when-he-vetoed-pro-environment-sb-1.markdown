@@ -11,11 +11,11 @@ event-end-date: 2019-12-20 23:59:00 -08:00
 ### Action
 Write Governor Newsom to let him know how disappointed and angry you are at his veto of SB 1! Tell him not to betray California by standing with Trump on the environment.
 
-### Contact Info - options
-Mail: Governor Gavin Newsom, 1303 10th Street, Suite 1173, Sacramento, CA 95814  
-Fax: (916) 558-3160  
-Phone: (916) 445-2841  
-Online form: [https://govapps.gov.ca.gov/gov40mail/](https://govapps.gov.ca.gov/gov40mail/)  
+### Contact Info
+* Mail: Governor Gavin Newsom, 1303 10th Street, Suite 1173, Sacramento, CA 95814  
+* Fax: (916) 558-3160  
+* Phone: (916) 445-2841  
+* Online form: [https://govapps.gov.ca.gov/gov40mail/](https://govapps.gov.ca.gov/gov40mail/)  
 
 ### Suggested Script
 *-Note: Add personalized comments to make it more effective*  
