@@ -19,7 +19,7 @@ Write Governor Newsom to let him know how disappointed and angry you are at his 
 
 ### Suggested Script
 *-Note: Add personalized comments to make it more effective*  
-
+  
 Dear Governor Newsom  
 
 My name is [YOUR NAME] and I am a resident of California. I’m writing because your veto of SB 1 - The California Environmental, Public Health and Workers Defense Act - disappointed and alarmed me.  
