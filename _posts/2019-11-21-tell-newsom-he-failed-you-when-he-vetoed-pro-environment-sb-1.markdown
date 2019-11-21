@@ -19,6 +19,7 @@ Write Governor Newsom to let him know how disappointed and angry you are at his 
 
 ### Suggested Script
 *-Note: Add personalized comments to make it more effective*  
+
 Dear Governor Newsom  
 
 My name is [YOUR NAME] and I am a resident of California. I’m writing because your veto of SB 1 - The California Environmental, Public Health and Workers Defense Act - disappointed and alarmed me.  
@@ -35,6 +36,6 @@ The CA Environmental, Public Health and Workers Defense Act or SB 1 would have r
 Both houses passed SB 1 overwhelmingly. Major environmental groups supported it. But Governor Newsom vetoed it anyway, swayed by wealthy special interests which have long been eager to tap water resources beyond environmentally sound limits. In vetoing SB 1, Newsom sided with Trump on the environment and catered to the powerful but narrow agribusiness interests in central and southern California at the expense of endangered species and our health.  
 
 The threat to California isn't theoretical. Shortly after the Governor’s veto, a California Sierra Club press release noted the damaging effects of the Trump Administration’s use of opinion to challenge science:  
-“Trump Administration Releases Biological Opinion that Dooms Salmon and Other Fish in California. The U.S. Department of Interior today released a long-awaited biological opinion outlining the impacts that taking increasing amounts of water out of the San Francisco Bay Delta will have on its ecosystem. The opinion concludes that more water can be removed from the Delta without harming fish and wildlife than most scientists have independently concluded.”  
+**“Trump Administration Releases Biological Opinion that Dooms Salmon and Other Fish in California.** The U.S. Department of Interior today released a long-awaited biological opinion outlining the impacts that taking increasing amounts of water out of the San Francisco Bay Delta will have on its ecosystem. The opinion concludes that more water can be removed from the Delta without harming fish and wildlife than most scientists have independently concluded.”  
 
 SB 1 is based on the good science used by previous administrations to craft environmental protections not the opinion of the compromised Director of the Department of the Interior, David Bernhardt, a former lobbyist for the same agri-business interests that swayed Governor Newsom.  
