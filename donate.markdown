@@ -5,4 +5,6 @@ nav: true
 navbutton: true
 ---
 
-<script src='https://actionnetwork.org/widgets/v3/fundraising/become-a-friend-of-ib?format=js&source=widget'></script><div id='can-fundraising-area-become-a-friend-of-ib' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+Indivisible Berkeley is funded entirely by individual contributions.
+
+## [Click here](https://join.indivisibleberkeley.org/donate) to donate to IB
