@@ -5,6 +5,6 @@ nav: true
 navbutton: true
 ---
 
-Indivisible Berkeley is funded entirely by individual contributions.
+### [Click here](https://join.indivisibleberkeley.org/donate) to donate securely to IB
 
-## [Click here](https://join.indivisibleberkeley.org/donate) to donate securely to IB
+Indivisible Berkeley is funded entirely by individual contributions.
