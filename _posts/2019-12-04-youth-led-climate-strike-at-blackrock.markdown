@@ -24,6 +24,6 @@ Links for more information
 11am-12pm: Rally on Sproul Steps  
 12pm: March to California Hall, and optional continue on to BART to join SF contingent  
 
-Link for more information  
+Links for more information  
 * [Facebook event listing](https://www.facebook.com/events/547662066051233/)  
 * [Students for Climate Action page](https://www.facebook.com/StudentsForClimateAction2019/)  
