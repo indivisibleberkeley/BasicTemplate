@@ -43,7 +43,7 @@ The Tongass National Forest (TNF) in Southeast Alaska at 16.7 million acres is n
 
 The Roadless Rule protects 58 million acres of previously Inventoried Roadless Areas in US national forests.  
 
-Alaska petitioned the FS in 2018 to exempt the TNF from the Roadless Rule. The FS decided to support this petition and recently released a DEIS that evaluates 6 alternative exemptions. The FS is proposing that Alternative 6 be adopted. This would exempt all 9.4 acres of roadless areas in the TNF from  protection. Alternative 1 which would preserve Roadless Rule protection for the entire TNF is our preferred choice.  
+Alaska petitioned the FS in 2018 to exempt the TNF from the Roadless Rule. The FS decided to support this petition and recently released a DEIS that evaluates 6 alternative exemptions. The FS is proposing that Alternative 6 be adopted. This would exempt all 9.4 million acres of roadless areas in the TNF from  protection. Alternative 1 which would preserve Roadless Rule protection for the entire TNF is our preferred choice.  
 
 The Tongass was previously granted Roadless Rule exemption in 2003. This exemption was later rescinded in 2011 by the Alaska District Court and ultimately by the 9th Circuit Court of Appeals “because the FS had not justified its position”.  
 
