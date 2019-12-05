@@ -1,0 +1,27 @@
+---
+title: General Assembly - January 2020
+date: 2019-12-04 20:25:00 -08:00
+categories:
+- event
+tags:
+- general assembly
+is featured: true
+main-image: "/uploads/2018%20group%20photo.jpg"
+event-start-date: 2020-01-12 19:00:00 -08:00
+event-end-date: 2020-01-12 21:00:00 -08:00
+Location: Finnish Hall, 1970 Chestnut St, Berkeley, CA 94702
+---
+
+Join us on January 13 for the first Indivisible Berkeley General Assembly of 2019! We will discuss IB's structure and strategy for 2019 and beyond.
+
+Doors open at 7. We start promptly at 7:30.
+
+Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
+
+ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+
+### T-Shirt Distribution
+
+T-Shirts will be available for purchase between 7 and 7:30 PM, immediately before the GA, for $25 cash or $26 credit card. We have sizes ranging from small to 2XL and these shirts run large. We apologize in advance if we run out of the size you want.
+
+![tshirts2.jpg](/uploads/tshirts2.jpg)
