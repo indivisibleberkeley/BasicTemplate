@@ -58,8 +58,8 @@ NRDC and other environmental groups are calling for nationwide opposition and he
 
 ###Resources
 
-*[http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf](http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf)
+ *[http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf](http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf)
 
-* [http://policy.audubon.org/sites/default/files/documents/arctic2013.pdf](http://policy.audubon.org/sites/default/files/documents/arctic2013.pdf)
+ * [http://policy.audubon.org/sites/default/files/documents/arctic2013.pdf](http://policy.audubon.org/sites/default/files/documents/arctic2013.pdf)
 
-* [http://blogs.edf.org/climate411/2008/09/11/anwr_oil_drilling/?utm_campaign=edf_evergreenfy19_pd_acq&gclid=EAIaIQobChMImdyWqvKr5gIVwCCtBh1NCQwtEAAYAiAAEgLq8fD_BwE](http://blogs.edf.org/climate411/2008/09/11/anwr_oil_drilling/?utm_campaign=edf_evergreenfy19_pd_acq&gclid=EAIaIQobChMImdyWqvKr5gIVwCCtBh1NCQwtEAAYAiAAEgLq8fD_BwE)
+ * [http://blogs.edf.org/climate411/2008/09/11/anwr_oil_drilling/?utm_campaign=edf_evergreenfy19_pd_acq&gclid=EAIaIQobChMImdyWqvKr5gIVwCCtBh1NCQwtEAAYAiAAEgLq8fD_BwE](http://blogs.edf.org/climate411/2008/09/11/anwr_oil_drilling/?utm_campaign=edf_evergreenfy19_pd_acq&gclid=EAIaIQobChMImdyWqvKr5gIVwCCtBh1NCQwtEAAYAiAAEgLq8fD_BwE)
