@@ -38,7 +38,8 @@ As one of the last truly unspoiled wild places on earth, the ANWR is irreplaceab
 *[you might include something along these lines to make it more personal]*  
 Though I live in California, I feel deeply connected to areas like ANWR as I frequently walk along the San Francisco Bay and visit the Central Valley wildlife refuges, where I see many of the ducks, loons, geese and swans, who breed in the ANWR coastal plain. Any seismic testing or drilling affects the nature we enjoy here in California as well in Alaska and many other states.  Fellow birders in other states and other countries are equally concerned and angered by the proposal to sell oil and gas leases in the ANWR.  
 
-*[when contacting Senators Harris and Feinstein]*   Thank you for your sponsorship and support of Senate Bill 2461, the Arctic Refuge Protection Act, to designate permanent protection of ANWR from drilling.  And please take whatever steps you can to protect this last great place from being destroyed.  Thank you!  
+*[when contacting Senators Harris and Feinstein]*   
+Thank you for your sponsorship and support of Senate Bill 2461, the Arctic Refuge Protection Act, to designate permanent protection of ANWR from drilling.  And please take whatever steps you can to protect this last great place from being destroyed.  Thank you!  
 
 ### Background
 The Arctic National Wildlife Refuge (ANWR)’s 19.6 million acres are home to gray wolves, caribou, polar bears, and musk oxen.  Migratory birds come from all 50 states of the U.S. and six continents to feed and reproduce, taking advantage of the biological growth in the long days of the Arctic summer. Called "America's Serengeti" for its tremendous biodiversity, the coastal plain of ANWR on Alaska’s North Slope is one of the most intact and untouched ecosystems in America. The refuge is home to more than 200 species of birds, 42 species of fish, and 45 mammal species—including more than 120,000 head of caribou.  
