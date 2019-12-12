@@ -22,9 +22,9 @@ You can also write, call or email President Trump and Department of the Interior
 (202) 456-1111  
 [https://www.whitehouse.gov/contact/](https://www.whitehouse.gov/contact/)  
 
-**Department of the Interior**
+**Department of the Interior**  
 (202) 208-3100  
-feedback@ios.doi.gov  
+<feedback@ios.doi.gov>  
 
 **Alaska State Office of BLM**
 https://www.blm.gov/alaska  
