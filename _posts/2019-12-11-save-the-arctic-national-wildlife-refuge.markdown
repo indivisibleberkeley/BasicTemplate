@@ -26,8 +26,8 @@ You can also write, call or email President Trump and Department of the Interior
 (202) 208-3100  
 <feedback@ios.doi.gov>  
 
-**Alaska State Office of BLM**
-https://www.blm.gov/alaska  
+**Alaska State Office of BLM**  
+[https://www.blm.gov/alaska](https://www.blm.gov/alaska)  
 
 ### Suggested Script
 I am strongly opposed to the Trump administration’s plans to open the Arctic National Wildlife Refuge (ANWR) to oil and gas exploration and drilling. This natural treasure belongs to all Americans and should not for sale! We must not allow our Arctic heritage to be destroyed to enrich oil companies and produce more climate-wrecking pollution.  
