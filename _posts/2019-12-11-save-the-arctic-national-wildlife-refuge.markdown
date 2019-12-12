@@ -56,7 +56,7 @@ Deep national dissatisfaction with the damage that would result from drilling or
 
 NRDC and other environmental groups are calling for nationwide opposition and helping to lead the charge against this assault on the refuge, as well as other attempts to drill and destroy public lands and waters in the Arctic region. The Arctic National Wildlife Refuge is the last place that should be open for oil and gas drilling.  
 
-###Resources
+### Resources
 
  *[http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf](http://policy.audubon.org/sites/default/files/documents/Birds_and_Oil_Development.pdf)
 
