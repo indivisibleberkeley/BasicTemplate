@@ -7,6 +7,8 @@ tags:
 - neighborhood-knocks
 is featured: false
 main-image: "/uploads/IBNK.Header.Test2.300.png"
+event-start-date: 2020-01-01 00:00:00 -08:00
+event-end-date: 2020-02-10 00:00:00 -08:00
 ---
 
 - [Sunday, Jan. 19](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_1)
