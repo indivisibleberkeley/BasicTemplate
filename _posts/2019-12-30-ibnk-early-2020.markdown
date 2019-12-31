@@ -11,7 +11,7 @@ event-start-date: 2020-01-01 00:00:00 -08:00
 event-end-date: 2020-02-10 00:00:00 -08:00
 ---
 
-Join us on a round of canvassing right here at home in Berkeley!
+Join us on a round of canvassing right here at home in Berkeley. Click on a date to sign up for a shift!
 
 - [Sunday, Jan. 19, South Berkeley](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_1)
 - [Saturday, Feb. 1](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_2)
