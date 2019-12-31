@@ -1,5 +1,5 @@
 ---
-title: Neighborhood Knocks - South Berkeley
+title: Neighborhood Knocks
 date: 2019-12-30 20:54:00 -08:00
 categories:
 - update
