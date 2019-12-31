@@ -11,7 +11,9 @@ event-start-date: 2020-01-01 00:00:00 -08:00
 event-end-date: 2020-02-10 00:00:00 -08:00
 ---
 
-- [Sunday, Jan. 19](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_1)
+Join us on a round of canvassing right here at home in Berkeley!
+
+- [Sunday, Jan. 19, South Berkeley](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_1)
 - [Saturday, Feb. 1](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_2)
 - [Sunday, Feb. 2](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_3)
 - [Sunday, Feb. 9](https://join.indivisibleberkeley.org/ib_neighborhood_knocks_4)
