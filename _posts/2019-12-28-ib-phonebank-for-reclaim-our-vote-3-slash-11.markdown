@@ -1,6 +1,7 @@
 ---
 title: IB Phonebank Reclaim Our Vote 3/11
 date: 2019-12-28 17:54:00 -08:00
+published: false
 categories:
 - event
 tags:
@@ -13,7 +14,7 @@ Location: Sports Basement, 2727 Milvia, Berkeley CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSd3kLUxlILE7GqI-3bOMVvthcqahc-4LATwMnRVUShEnm4GeA/viewform
 ---
 
-# Call voters in Arizona and help them exercise their right to vote in 2020! 
+### Call voters in Arizona and help them exercise their right to vote in 2020! 
 
 People of color in Arizona, a key state in 2020 races for the Senate and White House, face barriers to voting. Working with Reclaim Our Vote, a coalition of voting rights and civil rights organizations, we'll be calling Arizona citizens to help them exercise their right to vote.
 
