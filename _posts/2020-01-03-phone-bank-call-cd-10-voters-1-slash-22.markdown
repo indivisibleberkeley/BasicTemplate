@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - phonebank
+- elections
 main-image: "/uploads/3%20red%20phones%20copy%202-4db67c.jpg"
 event-start-date: 2020-01-22 14:00:00 -08:00
 event-end-date: 2020-01-22 17:00:00 -08:00
