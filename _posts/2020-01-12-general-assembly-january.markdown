@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - general assembly
-is featured: true
+is featured: false
 main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2020-01-12 17:45:00 -08:00
 event-end-date: 2020-01-12 19:30:00 -08:00
