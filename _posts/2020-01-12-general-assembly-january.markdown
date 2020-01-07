@@ -15,6 +15,10 @@ RSVP-link: https://join.indivisibleberkeley.org/january_general_assembly_2020011
 
 ### Note the special location and time change for January
 
+Join us on Sunday, January 12 for the first Indivisible Berkeley General Assembly of 2020 featuring a **special guest, Congresswoman Barbara Lee!** Congresswoman Lee will share her experiences and thoughts on how folks like us can make a difference in the year ahead. (We heard there will be a group photo as well!)
+
+Note the different time and location: Sunday, January 12, 6:00-7:30PM, at BFUU Fellowship Hall, 1924 Cedar St., in North Berkeley. Doors open at 5:45; we suggest you plan to arrive at 5:45 since we will begin the program promptly at 6:00.
+
 Doors open at 5:45. We start promptly at 6.
 
 Questions? Email info@indivisibleberkeley.org.
