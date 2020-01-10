@@ -21,6 +21,7 @@ The Indivisible Berkeley Steering Team is composed of organizers, tech specialis
 + Sam Kohn
 + Jaime Mulligan
 + Daron Sharps
++ William Wright
 
 To contact the Steering Team, please email [info@indivisibleberkeley.org](mailto:info@indivisibleberkeley.org).
 
