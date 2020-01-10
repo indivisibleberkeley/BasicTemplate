@@ -13,7 +13,7 @@ Location: Sports Basement (wheelchair accessible), 2727 Milvia St, Berkeley CA 9
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_03_03
 ---
 
-**Re-elect Josh Harder! **
+### Re-elect Josh Harder! 
 
 We worked hard in 2018 to elect Josh Harder to the House of Representatives, representing  California's Congressional District 10 (Tracy/Modesto). Josh is now running for re-election, and the primary is March 3! Republicans are out in force to take this seat back. Some of his opponents in this "jungle primary" are Republicans with long tenures as local officials, and they have high name recognition. The top 2 in this primary -- regardless of party -- become the nominees in the general election. Help us call to get voters to the polls for Josh on March 3!
 
