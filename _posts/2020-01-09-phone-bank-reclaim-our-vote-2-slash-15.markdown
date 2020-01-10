@@ -1,6 +1,11 @@
 ---
 title: 'Phone Bank: Reclaim Our Vote, 2/15'
 date: 2020-01-09 21:34:00 -08:00
+categories:
+- event
+tags:
+- phonebank
+- elections
 event-start-date: 2020-02-15 13:00:00 -08:00
 event-end-date: 2020-02-15 16:00:00 -08:00
 Location: South Berkeley home
