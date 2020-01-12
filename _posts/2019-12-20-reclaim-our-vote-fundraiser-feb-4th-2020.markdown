@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/Why%20do%20we%20partner%20with%20ROV.docx"
 event-start-date: 2020-02-04 18:00:00 -08:00
 event-end-date: 2020-02-04 20:00:00 -08:00
-Location: Marsh Theater 2120 Allston Way, Berkeley, CA
+Location: Berkeley City College Auditorium 2050 Center St, Berkeley, CA
 RSVP-link: 'http://bit.ly/rovtix '
 ---
 
