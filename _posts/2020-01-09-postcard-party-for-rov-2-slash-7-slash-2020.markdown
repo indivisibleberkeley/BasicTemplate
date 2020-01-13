@@ -1,5 +1,5 @@
 ---
-title: Postcard Party For ROV 2/7/2020
+title: Postcard Party For Reclaim Our Vote 2/7/2020
 date: 2020-01-09 09:49:00 -08:00
 categories:
 - event
