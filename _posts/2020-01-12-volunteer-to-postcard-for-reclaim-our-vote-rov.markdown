@@ -5,8 +5,9 @@ categories:
 - event
 tags:
 - elections
-main-image: "/uploads/Short%20Blurb%20On%20ROV.docx"
+main-image: https://drive.google.com/drive/u/0/folders/1HzCcay8iQEmFAHJKD1fLBWGsil6dWkRa
 event-start-date: 2020-01-12 00:00:00 -08:00
 event-end-date: 2020-11-03 00:00:00 -08:00
+RSVP-link: https://drive.google.com/drive/u/0/folders/1HzCcay8iQEmFAHJKD1fLBWGsil6dWkRa
 ---
 
