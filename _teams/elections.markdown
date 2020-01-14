@@ -1,6 +1,9 @@
 ---
 title: Elections
 date: 2020-01-14 15:15:00 -08:00
+tags:
+- elections
+- teams
 position: 0
 teamtag: elections
 team-email: elections
