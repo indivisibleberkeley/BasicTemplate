@@ -11,6 +11,6 @@ The Elections Team focuses on flipping red districts through voter contact. We c
 
 We also work on electoral reform issues.
 
-In 2019, our targets are: CA Congressional District 10, Virginia (State Senate seat 7, House of Delegates seats 83 and 85), Special Congressional Elections, and Voter Rights. 
+In 2020, our targets are: CA Congressional District 10, Michigan Coordinated Campaign, Arizona Senate, and Voter Rights. 
 
 We have multiple volunteer asks for each of these! Send an email to elections+owner@indivisibleberkeley.org with your area of interest to learn more.
