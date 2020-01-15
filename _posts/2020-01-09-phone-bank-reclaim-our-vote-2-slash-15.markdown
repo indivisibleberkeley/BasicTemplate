@@ -1,5 +1,5 @@
 ---
-title: 'Phone Bank: Fight Voter Suppression with Reclaim Our Vote, 2/15'
+title: 'Phone Bank: Reclaim Our Vote, 2/15'
 date: 2020-01-09 21:34:00 -08:00
 categories:
 - event
