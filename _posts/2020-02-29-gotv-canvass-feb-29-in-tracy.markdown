@@ -1,5 +1,5 @@
 ---
-title: GOTV Canvass Feb. 29 in Tracy
+title: GOTV Canvass Sat. Feb. 29 in Tracy
 date: 2020-02-29 10:00:00 -08:00
 categories:
 - event
