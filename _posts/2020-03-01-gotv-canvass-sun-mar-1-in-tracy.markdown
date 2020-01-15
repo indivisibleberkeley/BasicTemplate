@@ -8,3 +8,4 @@ tags:
 - canvassing
 ---
 
+Join us GOTV ahead of the Primary: Sunday March 1:  11 am - 4 pm, in Tracy.  Please RSVP here to keep the momentum going from 2018. 
