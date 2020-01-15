@@ -1,5 +1,5 @@
 ---
-title: Postcard Party For Reclaim Our Vote Jan 22, 2020
+title: Postcard Party For Reclaim Our Vote Jan 22, 2020 - THIS EVENT IS FULL.
 date: 2019-12-22 11:16:00 -08:00
 categories:
 - event
