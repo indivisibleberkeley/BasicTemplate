@@ -7,7 +7,7 @@ tags:
 - elections
 - canvassing
 - canvass
-is featured: true
+is featured: false
 event-start-date: 2020-02-15 09:00:00 -08:00
 event-end-date: 2020-02-17 21:00:00 -08:00
 Location: Phoenix, AZ
