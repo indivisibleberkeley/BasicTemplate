@@ -7,7 +7,7 @@ tags:
 - elections
 - canvassing
 is featured: true
-main-image: "/uploads/IMG_3520%20-%20V2.jpg"
+main-image: "/uploads/IMG_4006%20-%20V2-15515b.jpeg"
 event-start-date: 2020-01-25 10:30:00 -08:00
 event-end-date: 2020-01-25 15:00:00 -08:00
 Location: Manteca, CA
