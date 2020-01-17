@@ -13,4 +13,4 @@ Location: Tracy, CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdEGdUiqMHVwV_Odt-DTBim_oqcnM76yVmDvtt9zxZIoIkkHg/viewform
 ---
 
-Join us for GOTV ahead of the Primary: Saturday, Feb. 29:  10 am - 3 pm, in Tracy.  Please RSVP here to keep the momentum going from 2018. 
+Join us 3 days before the Primary to Get Out The Vote (GOTV). Saturday Feb. 29: 10-3, in Tracy.  Please RSVP here to help re-elect Josh Harder and other down-ballot Dem candidates in CD-10. 
