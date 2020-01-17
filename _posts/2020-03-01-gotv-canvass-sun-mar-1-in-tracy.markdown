@@ -13,4 +13,4 @@ Location: Tracy, CA
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdiUaY3xQY8XAgw9giEftO_LYKtz2qZfjhiRzYnS6WS9RxuGQ/viewform
 ---
 
-Join us GOTV ahead of the Primary: Sunday March 1:  11 am - 4 pm, in Tracy.  Please RSVP here to keep the momentum going from 2018. 
+Join us for GOTV ahead of the Primary: Sunday March 1:  11 am - 4 pm, in Tracy.  Please RSVP here to keep the momentum going from 2018. 
