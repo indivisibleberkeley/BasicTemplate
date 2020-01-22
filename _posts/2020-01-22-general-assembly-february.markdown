@@ -1,6 +1,11 @@
 ---
 title: General Assembly - February
 date: 2020-01-22 08:27:00 -08:00
+categories:
+- event
+tags:
+- general assembly
+- training
 is featured: true
 main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2020-02-09 19:30:00 -08:00
