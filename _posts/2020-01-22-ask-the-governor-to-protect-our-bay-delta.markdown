@@ -1,6 +1,10 @@
 ---
 title: Ask the Governor to Protect our Bay-Delta
 date: 2020-01-22 11:49:00 -08:00
+categories:
+- action
+tags:
+- environment
 is featured: true
 event-end-date: 2020-01-31 23:59:00 -08:00
 ---
