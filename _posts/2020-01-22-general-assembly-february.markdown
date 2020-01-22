@@ -16,6 +16,6 @@ RSVP-link: https://join.indivisibleberkeley.org/february_ga
 
 Doors open at 7. We start promptly at 7:30.
 
-Questions? Email [{{ site.email }}](mailto:{{ site.email }}).
+Questions? Email info@indivisibleberkeley.org.
 
-ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at [{{ site.email }}](mailto:{{ site.email }}) with questions.
+ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at info@indivisibleberkeley.org with questions.
