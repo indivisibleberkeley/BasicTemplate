@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - healthcare
+is featured: true
+main-image: "/uploads/Healthcare%20Policy.jpg"
 event-start-date: 2020-02-22 15:30:00 -08:00
 event-end-date: 2020-02-22 17:30:00 -08:00
 Location: Berkeley Public Library Community Room, 2090 Kittredge Street (corner of
