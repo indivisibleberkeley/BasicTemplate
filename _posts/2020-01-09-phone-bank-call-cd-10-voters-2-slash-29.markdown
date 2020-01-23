@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-main-image: "/uploads/Blue%20Phone%20Receiver.jpeg"
+main-image: "/uploads/3%20red%20phones%20copy%202-4db67c.jpg"
 event-start-date: 2020-02-29 13:00:00 -08:00
 event-end-date: 2020-02-29 16:00:00 -08:00
 Location: Sports Basement, 2727 Milvia St, Berkeley CA 94703
