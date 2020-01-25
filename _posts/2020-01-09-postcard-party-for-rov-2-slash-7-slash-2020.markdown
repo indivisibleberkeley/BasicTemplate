@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - elections
-main-image: "/uploads/Postcards%20Photo.jpg"
+main-image: "/uploads/ROV%20Logo.png"
 event-start-date: 2020-02-07 18:30:00 -08:00
 event-end-date: 2020-02-07 08:30:00 -08:00
 Location: North Berkeley Home
