@@ -1,12 +1,13 @@
 ---
 title: Canvass Jan. 25 in Manteca
 date: 2019-12-20 20:02:00 -08:00
+published: false
 categories:
 - event
 tags:
 - elections
 - canvassing
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_4006%20-%20V2-15515b.jpeg"
 event-start-date: 2020-01-25 10:30:00 -08:00
 event-end-date: 2020-01-25 15:00:00 -08:00
