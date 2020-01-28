@@ -1,6 +1,11 @@
 ---
 title: Sample Ballot Markup Party - 2020 Primaries!
 date: 2020-01-28 11:37:00 -08:00
+categories:
+- event
+tags:
+- party
+- social
 is featured: true
 main-image: "/uploads/Ballot.png"
 event-start-date: 2020-02-05 18:00:00 -08:00
