@@ -14,6 +14,6 @@ Location: Spats, 1974 Shattuck Ave, Berkeley, CA 94704
 RSVP-link: https://join.indivisibleberkeley.org/sample_ballot_markup_party_2020_primaries
 ---
 
-For those of you considering how to fill in your March 3rd vote by mail ballots, consider joining our happy hour, where folks will be given the option of delivering a 1 minute toast to the item of their choice, helping to inform our decisions and -- equally importantly -- giving us a chance to hang out with each other!
+For those of you considering how to fill in your March 3rd vote by mail ballots, consider joining our happy hour and stay for dinner at Spats, where folks will be given the option of delivering a 1 minute toast to the item of their choice, helping to inform our decisions and -- equally importantly -- giving us a chance to hang out with each other!
 
 Bring your voter information guide or go to https://votersedge.org/ca to print out your ballot options!
