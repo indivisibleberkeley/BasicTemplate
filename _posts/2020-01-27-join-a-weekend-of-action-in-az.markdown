@@ -8,7 +8,7 @@ tags:
 - canvassing
 is featured: true
 event-start-date: 2028-03-01 00:00:00 -08:00
-event-end-date: 2020-03-29 00:00:00 -07:00
+event-end-date: 2029-03-01 00:00:00 -08:00
 Location: Phoenix, AZ
 RSVP-link: "\nhttps://swingleft.org/p/march-28-29-arizona-weekend-of-action-in-phoenix "
 ---
