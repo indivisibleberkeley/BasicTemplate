@@ -1,6 +1,9 @@
 ---
 title: Join a weekend of action for Arizona
 date: 2020-01-27 20:49:00 -08:00
+tags:
+- elections
+- canvassing
 is featured: true
 event-start-date: 2020-03-28 07:00:00 -07:00
 event-end-date: 2020-03-29 18:00:00 -07:00
