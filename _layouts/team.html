@@ -3,8 +3,7 @@ layout: default
 ---
 
 {% assign email-domain = "@indivisibleberkeley.org" %}
-{% assign base-domain = "join.indivisibleberkeley.org/" %}
-{% assign join-page = (base_domain | append: page.team-email) %}
+{% assign join-page = ("join.indivisibleberkeley.org/" | append: page.team-email) %}
 {% assign email-owner = (page.team-email | append: "+owner" | append: email-domain) %}
   <div class="container">
 
