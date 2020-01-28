@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% assign email-domain = "@indivisibleberkeley.org" %}
-{% assign email-subscribe = (page.team-email | append: "+subscribe" | append: email-domain) %}
+{% assign base-domain = "join.indivisibleberkeley.org/" %}
+{% assign join-page = (base_domain | append: page.team-email) %}
 {% assign email-owner = (page.team-email | append: "+owner" | append: email-domain) %}
-{% assign email-list = (page.team-email | append: email-domain) %}
   <div class="container">
 
     <div class="clearfix spacer"></div>
@@ -25,10 +25,9 @@ layout: default
           <ul class="list-group list-group-flush">
             {% if page.team-email %}
               <li class="list-group-item">
-              <small>SUBSCRIBE</small>
+              <small>JOIN</small>
               <br>
-              <a href="mailto:{{ email-subscribe }}">{{ page.team-email }}+subscribe
-                  <br><small>{{ email-domain }}</small></a>
+              <a href="{{ join-page }}">{{ join-page }}</a>
               </li>
               <li class="list-group-item">
               <small>TEAM LEADS</small>
@@ -36,21 +35,10 @@ layout: default
               <a href="mailto:{{ email-owner }}">{{ page.team-email }}+owner
                   <br><small>{{ email-domain }}</small></a>
               </li>
-              <li class="list-group-item">
-              <small>EMAIL LIST</small>
-              <br>
-              <a href="mailto:{{ email-list }}">{{ page.team-email }}
-                  <br><small>{{ email-domain }}</small></a>
-              </li>
             {% else %}
               <li class="list-group-item">
                   This team hasn't uploaded its email contact info yet. Check
                   out our <a href="/teams">teams page</a> instead.
-              </li>
-            {% endif %}
-            {% if page.team-slack %}
-              <li class="list-group-item">
-              <small>SLACK</small><br>#{{ page.team-slack }}
               </li>
             {% endif %}
           </ul>
