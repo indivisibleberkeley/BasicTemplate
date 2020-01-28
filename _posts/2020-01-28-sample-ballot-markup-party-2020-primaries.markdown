@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/Ballot.png"
 event-start-date: 2020-02-05 18:00:00 -08:00
-event-end-date: 2020-02-05 21:00:00 -08:00
+event-end-date: 2020-02-05 20:00:00 -08:00
 Location: Spats, 1974 Shattuck Ave, Berkeley, CA 94704
 RSVP-link: https://join.indivisibleberkeley.org/sample_ballot_markup_party_2020_primaries
 ---
