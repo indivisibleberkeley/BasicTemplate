@@ -1,6 +1,11 @@
 ---
 title: Canvass Feb. 22 in CD-10
 date: 2020-01-28 21:10:00 -08:00
+categories:
+- event
+tags:
+- elections
+- canvassing
 main-image: "/uploads/IMG_4006%20-%20V2-15515b.jpeg"
 event-start-date: 2020-02-22 10:00:00 -08:00
 event-end-date: 2020-02-22 15:00:00 -08:00
