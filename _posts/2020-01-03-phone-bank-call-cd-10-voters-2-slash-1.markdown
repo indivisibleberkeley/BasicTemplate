@@ -10,7 +10,7 @@ main-image: "/uploads/3%20red%20phones%20copy%202-4db67c.jpg"
 event-start-date: 2020-02-01 13:00:00 -08:00
 event-end-date: 2020-02-01 16:00:00 -08:00
 Location: Sports Basement, 2727 Milvia St, Berkeley CA
-RSVP-link: " https://join.indivisibleberkeley.org/phone_for_harder_2020-02-01 "
+RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_02_01
 ---
 
 **Re-elect Josh Harder! First step -- the March 3 Primary!**
