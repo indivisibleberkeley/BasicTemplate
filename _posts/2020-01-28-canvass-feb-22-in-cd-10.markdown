@@ -13,4 +13,4 @@ Location: CD-10
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfDz_jJQK_I1EOFFOQiw1sUHUwUO3f3CwZg3TiSECrsf-tvOg/viewform
 ---
 
-Join us for this canvassing trip in another part of CD-10: Saturday, Feb. 22nd:  10:00 am - 3 pm.  Please RSVP here to keep the momentum going from last year. 
+Join us for this canvassing trip in Modesto: Saturday, Feb. 22nd:  10:00 am - 3 pm.  Please RSVP here to keep the momentum going from last year. 
