@@ -1,5 +1,5 @@
 ---
-title: Textbank Party
+title: Textbank Party Feb. 22
 date: 2020-01-30 13:40:00 -08:00
 categories:
 - event
