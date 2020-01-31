@@ -1,5 +1,5 @@
 ---
-title: Canvass Feb. 22 in CD-10
+title: Canvass Feb. 22 in Modesto
 date: 2020-01-28 21:10:00 -08:00
 categories:
 - event
