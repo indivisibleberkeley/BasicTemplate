@@ -1,6 +1,7 @@
 ---
 title: GOTV Tracy Primary Day Mar. 3rd, 10 am-3 pm
 date: 2020-01-31 15:01:00 -08:00
+published: false
 categories:
 - events
 tags:
