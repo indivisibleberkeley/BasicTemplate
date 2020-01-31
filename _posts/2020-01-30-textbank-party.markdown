@@ -1,10 +1,13 @@
 ---
 title: Textbank Party
 date: 2020-01-30 13:40:00 -08:00
+categories:
+- event
 tags:
 - textbank
 - text
 - texting
+- elections
 event-start-date: 2020-02-22 10:00:00 -08:00
 event-end-date: 2020-02-22 12:00:00 -08:00
 Location: 'Private home in Berkeley '
