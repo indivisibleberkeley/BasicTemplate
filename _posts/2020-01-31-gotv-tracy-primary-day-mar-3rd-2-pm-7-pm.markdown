@@ -4,8 +4,8 @@ date: 2020-01-31 15:05:00 -08:00
 categories:
 - event
 tags:
-- Elections
 - canvassing
+- elections
 main-image: "/uploads/IMG_4006%20-%20V2-15515b.jpeg"
 event-start-date: 2020-03-03 14:00:00 -08:00
 event-end-date: 2020-03-03 19:00:00 -08:00
