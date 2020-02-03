@@ -1,7 +1,6 @@
 ---
-title: Join a Weekend of Action for Arizona - 2/15/20 to 2/17/20
+title: Join a Weekend of Action for Arizona - 2/15/20 to 2/17/20 [Full]
 date: 2019-11-12 11:35:00 -08:00
-published: false
 categories:
 - event
 tags:
@@ -12,8 +11,9 @@ is featured: false
 event-start-date: 2020-02-15 09:00:00 -08:00
 event-end-date: 2020-02-17 21:00:00 -08:00
 Location: Phoenix, AZ
-RSVP-link: https://swingleft.org/p/we-love-arizona-WOA-feb15
 ---
+
+**This Event is Full. Thanks to everyone who signed up.**
 
 Join a Weekend of Action for Arizona
 Saturday, February 15th - Monday, February 17, 2020 
