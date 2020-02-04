@@ -68,7 +68,7 @@ The proposal would give this anti-environment, anti-science administration free 
 ### Additional Resources
 The following are a few links to several articles on the importance of preserving NEPA: 
 
-* [Center for Biological Diversity}(https://biologicaldiversity.org/w/news/press-releases/trump-administration-attacks-national-environmental-policy-act-on-bedrock-laws-50th-anniversary-2020-01-06/)  
+* [Center for Biological Diversity](https://biologicaldiversity.org/w/news/press-releases/trump-administration-attacks-national-environmental-policy-act-on-bedrock-laws-50th-anniversary-2020-01-06/)  
 * [Protect NEPA](https://protectnepa.org/take-action/)  
 * [Pacific Standard Magazine](https://psmag.com/environment/how-trump-plans-to-gut-nepa-environment)  
 
