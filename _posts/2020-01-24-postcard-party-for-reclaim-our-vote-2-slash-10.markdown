@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/ROV%20Logo.png"
 event-start-date: 2020-02-10 19:00:00 -08:00
 event-end-date: 2020-02-10 21:00:00 -08:00
