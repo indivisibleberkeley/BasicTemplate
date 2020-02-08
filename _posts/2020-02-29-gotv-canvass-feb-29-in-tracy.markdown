@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
-main-image: "/uploads/IMG_0773.jpeg"
+main-image: "/uploads/IMG_0782.jpeg"
 event-start-date: 2020-02-29 10:00:00 -08:00
 event-end-date: 2020-02-29 15:00:00 -08:00
 Location: Tracy, CA
