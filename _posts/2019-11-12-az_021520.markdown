@@ -1,6 +1,7 @@
 ---
 title: Join a Weekend of Action for Arizona - 2/15/20 to 2/17/20 [Full]
 date: 2019-11-12 11:35:00 -08:00
+published: false
 categories:
 - event
 tags:
