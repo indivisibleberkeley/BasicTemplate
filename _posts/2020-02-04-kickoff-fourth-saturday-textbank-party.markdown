@@ -1,11 +1,12 @@
 ---
 title: Kickoff Fourth Saturday Textbank Party
 date: 2020-02-04 09:54:00 -08:00
+published: false
 categories:
 - event
 tags:
 - elections
-is featured: true
+is featured: false
 event-start-date: 2020-02-22 10:00:00 -08:00
 event-end-date: 2020-02-22 12:00:00 -08:00
 RSVP-link: https://actionnetwork.org/events/ebaa-february-texting-party
