@@ -15,7 +15,7 @@ RSVP-link: " https://join.indivisibleberkeley.org/phone_reclaim_vote_2020_02_15"
 
 
 
-### **### Help North Carolina People Vote in the March 3 Primary!**
+### **Help North Carolinians Vote in the March 3 Primary!**
 
 And fight voter suppression! Join us as we work with our friends at *East Bay Activist Alliance* and *Reclaim Our Vote*, a coalition of civil rights and voting rights groups.  We'll be calling to help register people of color who live in North Carolina, a key battleground state, but who are discouraged from voting by state restrictions and barriers.  Help empower citizens to participate in elections that affect their lives!
 
