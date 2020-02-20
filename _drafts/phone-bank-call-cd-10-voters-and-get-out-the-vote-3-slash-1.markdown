@@ -1,11 +1,6 @@
 ---
 title: 'Phone Bank: Call CD-10 Voters and get out the vote, 3/1!'
 date: 2020-02-16 22:26:00 -08:00
-categories:
-- event
-tags:
-- elections
-- phone bank
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-03-01 13:00:00 -08:00
 event-end-date: 2020-03-01 17:00:00 -08:00
