@@ -1,7 +1,6 @@
 ---
 title: 'Phone Bank: Call CD-10 Voters and get out the vote, 3/1!'
 date: 2020-02-16 22:26:00 -08:00
-main-image: "/uploads/3%20red%20phones%20(1).jpg"
 event-start-date: 2020-03-01 13:00:00 -08:00
 event-end-date: 2020-03-01 17:00:00 -08:00
 Location: 'South Berkeley Senior Center, 2939 Ellis St, Berkeley, CA 94703
