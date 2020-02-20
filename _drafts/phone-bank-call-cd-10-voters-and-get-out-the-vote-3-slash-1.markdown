@@ -4,9 +4,7 @@ date: 2020-02-16 22:26:00 -08:00
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-03-01 13:00:00 -08:00
 event-end-date: 2020-03-01 17:00:00 -08:00
-Location: 'South Berkeley Senior Center, 2939 Ellis St, Berkeley, CA 94703
-
-'
+Location: South Berkeley Senior Center, 2939 Ellis St, Berkeley, CA 94703
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_03_01
 ---
 
