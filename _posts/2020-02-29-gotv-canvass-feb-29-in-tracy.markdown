@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - canvassing
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_4006%20-%20V2-15515b.jpeg"
 event-start-date: 2020-02-29 10:00:00 -08:00
 event-end-date: 2020-02-29 15:00:00 -08:00
