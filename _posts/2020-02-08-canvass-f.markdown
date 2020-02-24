@@ -1,7 +1,6 @@
 ---
 title: Canvass Feb. 8 in Tracy
 date: 2020-02-08 10:00:00 -08:00
-published: false
 categories:
 - event
 tags:
