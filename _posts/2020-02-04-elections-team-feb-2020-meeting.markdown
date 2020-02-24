@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - elections
-is featured: true
+is featured: false
 event-start-date: 2020-02-23 18:30:00 -08:00
 event-end-date: 2020-02-23 20:00:00 -08:00
 Location: BFUU Connie Barbour Room, 1606 Bonita Ave, Berkeley
