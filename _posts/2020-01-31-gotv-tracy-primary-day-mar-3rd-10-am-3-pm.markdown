@@ -6,6 +6,7 @@ categories:
 tags:
 - canvassing
 - elections
+is featured: true
 main-image: "/uploads/IMG_0773.jpeg"
 event-start-date: 2020-03-03 10:00:00 -08:00
 event-end-date: 2020-03-03 15:00:00 -08:00
