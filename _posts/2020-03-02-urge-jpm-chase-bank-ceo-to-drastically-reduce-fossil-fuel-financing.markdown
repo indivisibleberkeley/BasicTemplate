@@ -21,7 +21,7 @@ DATE (to be added when mailed)
 Jamie Dimon, CEO  
 JPMorgan Chase & Co  
 383 Madison Avenue  
-NY, NY 10179  
+New York City, NY 10179  
 
 Dear Mr. Dimon,  
 
