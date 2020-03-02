@@ -13,7 +13,7 @@ Sign your name to this letter to JP Morgan Chase CEO Jamie Dimon, urging him to 
 
 Read the letter pasted below and [sign your name using this form](https://docs.google.com/forms/d/e/1FAIpQLSd5-DOrychUYcsgKr-rL2GfuQQ_T6IjlbOUXgU-uSMi4Y5XGQ/viewform?usp=sf_link). We will add your information and send the letter on March 16.  
 
-Please also copy and paste this letter and email it to Mr. Dimon at [jamie.dimon@jpmchase.com](mailto: jamie.dimon@jpmchase.com).  
+Please also copy and paste this letter and email it to Mr. Dimon at [jamie.dimon@jpmchase.com](mailto:jamie.dimon@jpmchase.com).  
 
 ### Letter Text
 DATE (to be added when mailed)  
