@@ -16,7 +16,7 @@ RSVP-link: https://join.indivisibleberkeley.org/march_ga_2020
 
 Doors open at 7. We start promptly at 7:30.
 
-**Guest speaker**: Aria Brock from the [International Rescue Committee](https://www.rescue.org/) will be speaking about immigration policy under Trump and how to fix it.
+**Guest speaker**: Aria Brock from the [International Rescue Committee](https://www.rescue.org/) will be speaking about immigration policy and related actions we can all take.
 
 We will also have team updates!
 
