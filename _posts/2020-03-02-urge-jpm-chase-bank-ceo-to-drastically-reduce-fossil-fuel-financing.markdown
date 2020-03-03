@@ -13,8 +13,6 @@ Sign your name to this letter to JP Morgan Chase CEO Jamie Dimon, urging him to 
 
 Read the letter pasted below and [sign your name using this form](https://docs.google.com/forms/d/e/1FAIpQLSd5-DOrychUYcsgKr-rL2GfuQQ_T6IjlbOUXgU-uSMi4Y5XGQ/viewform?usp=sf_link). We will add your information and send the letter on March 16.  
 
-Please also copy and paste this letter and email it to Mr. Dimon at [jamie.dimon@jpmchase.com](mailto:jamie.dimon@jpmchase.com).  
-
 ### Letter Text
 DATE (to be added when mailed)  
 
@@ -37,7 +35,7 @@ As a first step JP Morgan Chase should cease financing for the following unneces
 
 4) Commit now to **no new financing for coal power plants** as well as no new financing for coal mines.  
 
-To quote your bank’s recent climate report of 1/14/20: the “Earth is on an **&unsustainable trajectory**...We can not rule out catastrophic outcomes where human life as we know it is threatened.” This report relied on IPCC and IMF forecasts and yet warned that their estimates of the likely health and economic costs of climate change were substantially underestimated for several reasons. For one they didn’t take into account the possibility of an increase in the number of natural disasters, yet this number has been increasing for several years.  
+To quote your bank’s recent climate report of 1/14/20: the “Earth is on an unsustainable trajectory...We can not rule out catastrophic outcomes where human life as we know it is threatened.” This report relied on IPCC and IMF forecasts and yet warned that their estimates of the likely health and economic costs of climate change were substantially underestimated for several reasons. For one they didn’t take into account the possibility of an increase in the number of natural disasters, yet this number has been increasing for several years.  
 
 Our federal leaders are failing to protect us from climate change and to protect nature from overdevelopment. **Please provide the leadership** our country so sorely needs and develop and implement a policy to rapidly reduce financing for the fossil fuel industry. This would benefit your stockholders and customers as well as the nation.  
 
