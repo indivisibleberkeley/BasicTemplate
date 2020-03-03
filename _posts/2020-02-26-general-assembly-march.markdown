@@ -18,6 +18,8 @@ Doors open at 7. We start promptly at 7:30.
 
 **Guest speaker**: Aria Brock from the [International Rescue Committee](https://www.rescue.org/) will be speaking about immigration policy under Trump and how to fix it.
 
+We will also have team updates!
+
 Questions? Email info@indivisibleberkeley.org.
 
 ADA Accessibility: The Finnish Hall has stairs leading up to the entrance so is not ADA accessible. Please email us at info@indivisibleberkeley.org with questions.
