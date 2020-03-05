@@ -20,3 +20,5 @@ Working with *Reclaim Our Vote*, a coalition of voting rights and civil rights o
 New to phone banking? We'll help get you comfortable calling voters!
 
 WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you. If you can, be green and bring your own water bottle! We'll provide snacks.
+
+Questions? Contact: phonebank\+owner@indivisibleberkeley.org.
