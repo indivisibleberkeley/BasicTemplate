@@ -1,7 +1,6 @@
 ---
 title: 'Phone Bank: Reclaim Our Vote 3/11'
 date: 2020-01-09 17:03:00 -08:00
-published: false
 categories:
 - event
 tags:
