@@ -7,9 +7,9 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/3%20red%20phones%20copy%202-4db67c.jpg"
-event-start-date: 2020-03-25 14:00:00 -07:00
-event-end-date: 2020-03-21 16:30:00 -07:00
-Location: Sports Basement
+event-start-date: 2020-03-21 13:00:00 -07:00
+event-end-date: 2020-03-21 16:00:00 -07:00
+Location: South Berkeley home
 RSVP-link: https://join.indivisibleberkeley.org/phone_reclaim_vote_2020_03_21
 ---
 
