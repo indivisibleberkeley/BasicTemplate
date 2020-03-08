@@ -2,7 +2,7 @@
 title: 'Phonebank: Reclaim Our Vote, 3/25/20'
 date: 2020-03-08 13:05:00 -07:00
 categories:
-- events
+- event
 tags:
 - elections
 - phone bank
