@@ -20,3 +20,5 @@ That's what we'll be doing with our friends at *East Bay Activist Alliance* and 
 If you're new to phone banking, we'll help you get comfortable calling voters. We'll be calling people who don't often get political phone calls, and we'll be leaving messages.
 
 WHAT YOU'LL NEED: a charged ipad, tablet or laptop and your cell phone with earbuds. If possible, a power cord and a computer mouse might also be useful for you. If you can, be green and bring your own water bottle! We'll provide snacks.
+
+Questions? Please email us at: phonebank\+owner@indivisibleberkeley.org.
