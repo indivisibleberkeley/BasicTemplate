@@ -1,5 +1,5 @@
 ---
-title: Textbank Party Feb. 22
+title: Textbank Party March 28
 date: 2020-01-30 13:40:00 -08:00
 published: false
 categories:
@@ -16,9 +16,8 @@ RSVP-link: https://actionnetwork.org/events/ebaa-february-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
-What: Kickoff Fourth Saturday Textbank Party 
-Remind voters in CO and AZ to vote in advance of the CO and AZ March primaries
-When: Saturday, February 22,10 am to 12 pm
+What: Fourth Saturday Textbank Party 
+When: Saturday, March 28, 10 am to 12 pm
 Where: Private home in Berkeley with street parking
 Bring: A charged laptop or phone!
 RSVP: [Use this form!](https://actionnetwork.org/events/ebaa-february-texting-party) RSVPs are required so we can send you the location, and requested by Wed, Feb 19
