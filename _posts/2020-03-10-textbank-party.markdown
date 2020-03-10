@@ -26,5 +26,5 @@ Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
 
 If you plan to join us, we will send you training materials in advance.
 
-Please [RSVP here](https://actionnetwork.org/events/ebaa-february-texting-party) by Wed, Mar 25 to let us know if you can make it
+Please [RSVP here](https://actionnetwork.org/events/ebaa-march-texting-party) by Wed, Mar 25 to let us know if you can make it
 
