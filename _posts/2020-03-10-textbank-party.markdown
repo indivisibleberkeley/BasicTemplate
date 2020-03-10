@@ -1,6 +1,6 @@
 ---
 title: Textbank Party March 28
-date: 2020-01-30 13:40:00 -08:00
+date: 2020-03-10 13:40:00 -07:00
 published: false
 categories:
 - event
@@ -9,10 +9,10 @@ tags:
 - text
 - texting
 - elections
-event-start-date: 2020-02-22 10:00:00 -08:00
-event-end-date: 2020-02-22 12:00:00 -08:00
+event-start-date: 2020-03-28 10:00:00 -07:00
+event-end-date: 2020-03-28 12:00:00 -07:00
 Location: 'Private home in Berkeley '
-RSVP-link: https://actionnetwork.org/events/ebaa-february-texting-party
+RSVP-link: https://actionnetwork.org/events/ebaa-march-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
