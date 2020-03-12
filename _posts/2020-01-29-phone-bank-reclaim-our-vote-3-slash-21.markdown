@@ -22,7 +22,7 @@ That's what we'll be doing with our friends at *East Bay Activist Alliance* and 
 
 If you're new to phone banking or to Zoom, we'll help! We'll be using Zoom software, which we used for our last General Assembly.  We'll do a virtual group training together, and the trainers will be available to answer questions.  You can also chat with others or comment to the group as you're making your calls!
 
-Please RSVP by Friday, March 20 to participate.  And if you're not an IB member, please join when you sign up so we can keep you posted.
+Please RSVP by midnight Friday, March 20 to participate.  And if you're not an IB member, please join when you sign up so we can keep you posted.
 
 WHAT YOU'LL NEED: a charged ipad, tablet or computer and your cell phone (or landline).
 
