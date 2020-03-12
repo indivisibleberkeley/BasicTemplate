@@ -1,11 +1,11 @@
 ---
-title: 'Phonebank: Reclaim Our Vote, 3/25/20'
+title: 'Virtual Phonebank: Reclaim Our Vote, 3/25/20'
 date: 2020-03-08 13:05:00 -07:00
 categories:
 - event
 tags:
 - elections
-- phone bank
+- phonebank
 is featured: true
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-03-25 14:00:00 -07:00
@@ -13,8 +13,6 @@ event-end-date: 2020-03-25 16:30:00 -07:00
 Location: virtual phonebank on-line only
 RSVP-link: https://join.indivisibleberkeley.org/phone_reclaim_vote_2020_03_25
 ---
-
-**Help Fight Voter Suppression!**
 
 **Help Fight Voter Suppression!  Together as a group -- but virtually!**
 
