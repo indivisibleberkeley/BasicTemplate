@@ -19,7 +19,7 @@ What: Fourth Saturday Textbank Party
 When: Saturday, March 28, 10 am to 12 pm
 Where: TBD. May be a virtual party
 Have: A charged laptop or phone!
-RSVP: [Use this form!](https://actionnetwork.org/events/ebaa-march-texting-party) RSVPs are required so we can send you the location, and requested by Wed, Mar 25
+RSVP: [Use this form!]([https://actionnetwork.org/events/march-texting-party](https://actionnetwork.org/events/march-texting-party)) RSVPs are required so we can send you the location, and requested by Wed, Mar 25
 Thank you!
 Questions? email to: [contact us](mailto:ebaatexting@gmail.com) 
 
