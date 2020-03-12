@@ -17,8 +17,8 @@ RSVP-link: https://actionnetwork.org/events/ebaa-march-texting-party
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
 What: Fourth Saturday Textbank Party 
 When: Saturday, March 28, 10 am to 12 pm
-Where: Private home in Berkeley with street parking
-Bring: A charged laptop or phone!
+Where: TBD. May be a virtual party
+Have: A charged laptop or phone!
 RSVP: [Use this form!](https://actionnetwork.org/events/ebaa-march-texting-party) RSVPs are required so we can send you the location, and requested by Wed, Mar 25
 Thank you!
 Questions? email to: [contact us](mailto:ebaatexting@gmail.com) 
