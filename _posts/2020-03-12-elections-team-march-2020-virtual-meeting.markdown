@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 event-start-date: 2020-03-22 18:30:00 -07:00
 event-end-date: 2020-03-22 20:00:00 -07:00
 Location: Zoom virtual hangout - check back for details
