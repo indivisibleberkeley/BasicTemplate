@@ -11,7 +11,7 @@ tags:
 event-start-date: 2020-03-28 10:00:00 -07:00
 event-end-date: 2020-03-28 12:00:00 -07:00
 Location: 'Private home in Berkeley '
-RSVP-link: https://actionnetwork.org/events/ebaa-march-texting-party
+RSVP-link: https://actionnetwork.org/events/march-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
