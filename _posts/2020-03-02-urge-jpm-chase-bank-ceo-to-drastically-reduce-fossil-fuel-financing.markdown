@@ -1,5 +1,5 @@
 ---
-title: Urge Chase Bank CEO to Drastically Reduce Fossil Fuel Financing
+title: Urge Chase Bank to Drastically Reduce Fossil Fuel Financing
 date: 2020-03-02 11:33:00 -08:00
 categories:
 - action
@@ -9,7 +9,7 @@ event-end-date: 2020-03-16 23:59:00 -07:00
 ---
 
 ### Action
-Sign your name to this letter to JP Morgan Chase CEO Jamie Dimon, urging him to align the Bank’s financing plans for fossil fuels with the targets set by the IPPC for limiting global warming increase to 1.5°C.  
+Sign your name to this letter to JP Morgan Chase CEO Jamie Dimon and co-Presidents Daniel Pinto and Gordon Smith, urging them to align the Bank’s financing plans for fossil fuels with the targets set by the IPPC for limiting global warming increase to 1.5°C.  
 
 Read the letter pasted below and [sign your name using this form](https://docs.google.com/forms/d/e/1FAIpQLSd5-DOrychUYcsgKr-rL2GfuQQ_T6IjlbOUXgU-uSMi4Y5XGQ/viewform?usp=sf_link). We will add your information and send the letter on March 16.  
 
@@ -17,6 +17,8 @@ Read the letter pasted below and [sign your name using this form](https://docs.g
 DATE (to be added when mailed)  
 
 Jamie Dimon, CEO  
+Daniel Pinto, co-President  
+Gordon Smith, co-President  
 JPMorgan Chase & Co  
 383 Madison Avenue  
 New York City, NY 10179  
