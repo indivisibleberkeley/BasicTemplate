@@ -1,5 +1,5 @@
 ---
-title: Textbank Party
+title: Virtual Textbank Party
 date: 2020-03-10 13:40:00 -07:00
 categories:
 - event
@@ -17,7 +17,7 @@ RSVP-link: https://actionnetwork.org/events/march-texting-party
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
 What: Fourth Saturday Textbank Party 
 When: Saturday, March 28, 10 am to 12 pm
-Where: TBD. Making arrangements for a virtual party
+Where: Wherever you're comfortable. We're coming to you virtually speaking
 Have: A charged laptop or phone!
 RSVP: [Use this form!]([https://actionnetwork.org/events/march-texting-party](https://actionnetwork.org/events/march-texting-party)) RSVPs are required so we can send you the location, and requested by Wed, Mar 25
 Thank you!
