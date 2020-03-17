@@ -21,7 +21,7 @@ Where: Wherever you're comfortable. We're coming to you virtually speaking
 Have: A charged laptop or phone!
 RSVP: [Use this form!]([https://actionnetwork.org/events/march-texting-party](https://actionnetwork.org/events/march-texting-party)) RSVPs are required so we can send you the location, and requested by Wed, Mar 25
 Thank you!
-Questions? email to: [contact us](mailto:ebaatexting@gmail.com) 
+Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
 
 If you plan to join us, we will send you training materials in advance.
 
