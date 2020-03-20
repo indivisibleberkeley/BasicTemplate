@@ -7,8 +7,8 @@ tags:
 - elections
 is featured: true
 event-start-date: 2020-03-22 18:30:00 -07:00
-event-end-date: 2020-03-22 20:00:00 -07:00
-Location: Zoom virtual hangout - check back for details
+event-end-date: 2020-03-22 20:30:00 -07:00
+Location: 'Zoom virtual hangout - click this link at meeting start time: https://zoom.us/j/497524528'
 ---
 
 Save the date for the March elections team meeting - this meeting will be VIRTUAL!
