@@ -1,5 +1,5 @@
 ---
-title: 'REGISTRATION CLOSED: VIRTUAL Phone Bank: Reclaim Our Vote 3/21'
+title: 'REGISTRATION CLOSED: Virtual Phone Bank: Reclaim Our Vote 3/21'
 date: 2020-01-29 09:29:00 -08:00
 categories:
 - event
