@@ -5,13 +5,13 @@ categories:
 - action
 tags:
 - environment
-event-end-date: 2020-03-16 23:59:00 -07:00
+event-end-date: 2020-03-30 23:59:00 -07:00
 ---
 
 ### Action
 Sign your name to this letter to JP Morgan Chase CEO Jamie Dimon and co-Presidents Daniel Pinto and Gordon Smith, urging them to align the Bank’s financing plans for fossil fuels with the targets set by the IPPC for limiting global warming increase to 1.5°C.  
 
-Read the letter pasted below and [sign your name using this form](https://docs.google.com/forms/d/e/1FAIpQLSd5-DOrychUYcsgKr-rL2GfuQQ_T6IjlbOUXgU-uSMi4Y5XGQ/viewform?usp=sf_link). We will add your information and send the letter on March 16.  
+Read the letter pasted below and [sign your name using this form](https://docs.google.com/forms/d/e/1FAIpQLSd5-DOrychUYcsgKr-rL2GfuQQ_T6IjlbOUXgU-uSMi4Y5XGQ/viewform?usp=sf_link). We will add your information and send the letter on March 30.  
 
 ### Letter Text
 DATE (to be added when mailed)  
