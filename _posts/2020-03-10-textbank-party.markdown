@@ -10,7 +10,7 @@ tags:
 - elections
 event-start-date: 2020-03-28 10:00:00 -07:00
 event-end-date: 2020-03-28 12:00:00 -07:00
-Location: 'Private home in Berkeley '
+Location: Remote locations
 RSVP-link: https://actionnetwork.org/events/march-texting-party
 ---
 
