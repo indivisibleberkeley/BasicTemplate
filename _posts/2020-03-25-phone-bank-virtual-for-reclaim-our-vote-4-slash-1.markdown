@@ -14,7 +14,7 @@ Location: Online
 RSVP-link: https://join.indivisibleberkeley.org/phone_reclaimvote_2020_04_01
 ---
 
-### Help Fight Voter Suppression! 
+### Help Fight Voter Suppression!
 
 That's what we'll be doing for *Reclaim Our Vote*, a coalition of civil rights and voting rights groups. We'll be calling to help register people of color who live in key battleground states, but who are discouraged from voting by state restrictive barriers. We'll be calling people who don't often get political phone calls, and we'll be leaving messages.
 
@@ -22,7 +22,7 @@ VIRTUAL PHONE BANKING:  Out of concern for our fellow activists' health, IB is o
 
 We'll be using Zoom videoconferencing software for this event .  We'll do a quick  group training together, and trainers will be available to answer questions.  You can also ask for help  or comment to the group as you're making your calls!
 
-Please RSVP by midnight Tuesday, March 31 so we can mail you the login information the morning of the event.
+Please RSVP as soon as possible so we can mail you the login information the morning of the event.
 
 WHAT YOU'LL NEED: a charged ipad, tablet or computer and your cell phone (or landline).
 
