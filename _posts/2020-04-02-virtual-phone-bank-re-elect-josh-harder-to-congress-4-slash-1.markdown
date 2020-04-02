@@ -9,7 +9,7 @@ tags:
 is featured: true
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-04-11 13:00:00 -07:00
-event-end-date: 2020-04-02 16:00:00 -07:00
+event-end-date: 2020-04-11 16:00:00 -07:00
 Location: Online
 RSVP-link: " https://join.indivisibleberkeley.org/phone_for_harder_2020_04_11"
 ---
