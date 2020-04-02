@@ -1,6 +1,8 @@
 ---
 title: Virtual Phone Bank for Reclaim Our Vote, April 18
 date: 2020-04-02 15:41:00 -07:00
+categories:
+- event
 tags:
 - elections
 - phonebank
