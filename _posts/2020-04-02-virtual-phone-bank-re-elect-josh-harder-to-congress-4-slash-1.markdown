@@ -1,5 +1,5 @@
 ---
-title: 'Virtual Phone Bank: Re-elect Josh Harder to Congress, 4/1'
+title: 'Virtual Phone Bank: Re-elect Josh Harder to Congress, 4/11'
 date: 2020-04-02 13:56:00 -07:00
 categories:
 - event
