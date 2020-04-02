@@ -8,10 +8,10 @@ tags:
 - text
 - texting
 - elections
-event-start-date: 2020-03-28 10:00:00 -07:00
-event-end-date: 2020-03-28 12:00:00 -07:00
+event-start-date: 2020-04-25 10:00:00 -07:00
+event-end-date: 2020-04-25 12:00:00 -07:00
 Location: Remote locations
-RSVP-link: https://actionnetwork.org/events/march-texting-party
+RSVP-link: https://actionnetwork.org/events/april-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
