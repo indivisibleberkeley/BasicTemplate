@@ -3,6 +3,8 @@ title: Elections Team April 26th VIRTUAL meeting
 date: 2020-04-02 16:35:00 -07:00
 categories:
 - event
+tags:
+- elections
 event-start-date: 2020-04-26 00:00:00 -07:00
 event-end-date: 2020-04-26 00:00:00 -07:00
 ---
