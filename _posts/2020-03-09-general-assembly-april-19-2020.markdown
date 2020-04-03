@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2020-04-19 19:30:00 -07:00
 event-end-date: 2020-04-19 20:30:00 -07:00
-Location: Finnish Hall, 1970 Chestnut St., Berkeley
+Location: Online
 ---
 
 We start promptly at 7:30.
