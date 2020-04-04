@@ -14,7 +14,7 @@ RSVP-link: https://join.indivisibleberkeley.org/pb_rov_2020_04_18
 ---
 
 # Help Fight Voter Suppression!
-That’s what we’ll be doing for Reclaim Our Vote, a coalition of civil rights and voting rights groups. We’ll be calling people in underserved communities in Georgia to get out the vote for the May 19 primary -- where both US Senate races are in play. We’ll be calling people who don’t often get political phone calls, and we’ll be leaving messages.
+That’s what we’ll be doing for Reclaim Our Vote, a coalition of civil rights and voting rights groups. We’ll be calling people in underserved communities in Georgia to get out the vote for the May 19 primary -- where both US Senate races are in play. We’ll be calling people who don’t often get political phone calls, and we’ll be leaving messages.  We're collaborating with East Bay Action Alliance on this effort.
 
 VIRTUAL PHONE BANKING: Out of concern for our fellow activists’ health, IB is offering virtual activities only for awhile as we monitor the coronavirus situation. But our work is needed as much as ever, and it’s a lot more fun if we can work together during this difficult period.
 
