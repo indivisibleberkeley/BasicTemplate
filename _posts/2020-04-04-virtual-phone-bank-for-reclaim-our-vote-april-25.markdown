@@ -1,6 +1,11 @@
 ---
 title: Virtual Phone Bank for Reclaim Our Vote, April 25
 date: 2020-04-04 16:19:00 -07:00
+categories:
+- event
+tags:
+- Elections
+- phone bank
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 call-script-text: "# "
 event-start-date: 2020-04-25 13:00:00 -07:00
