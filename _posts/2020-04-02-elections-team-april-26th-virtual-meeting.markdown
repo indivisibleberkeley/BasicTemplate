@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - elections
-event-start-date: 2020-04-26 00:00:00 -07:00
-event-end-date: 2020-04-26 00:00:00 -07:00
+event-start-date: 2020-04-26 18:30:00 -07:00
+event-end-date: 2020-04-26 20:00:00 -07:00
 ---
 
 Save the date for the April elections team meeting - this meeting will be VIRTUAL!
