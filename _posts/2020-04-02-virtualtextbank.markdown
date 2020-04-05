@@ -7,8 +7,8 @@ tags:
 - elections
 - textbank
 is featured: true
-event-start-date: 2020-04-23 10:00:00 -07:00
-event-end-date: 2020-04-23 12:00:00 -07:00
+event-start-date: 2020-04-25 10:00:00 -07:00
+event-end-date: 2020-04-25 12:00:00 -07:00
 Location: Remote locations
 RSVP-link: https://actionnetwork.org/events/april-texting-party
 ---
