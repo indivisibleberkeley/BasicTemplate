@@ -14,7 +14,7 @@ RSVP-link: https://actionnetwork.org/events/april-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
-What: Introduction to Texting 
+What: Virtual Textbank 
 When: Saturday, April 25, 10 am to Noon
 Where: Wherever you're comfortable. We're coming to you virtually speaking
 Have: A charged laptop
