@@ -18,7 +18,7 @@ What: Introduction to Texting
 When: Thursday, April 23, 7 pm to 8:30 pm
 Where: Wherever you're comfortable. We're coming to you virtually speaking
 Have: A charged laptop
-RSVP: [Use this form!]([https://actionnetwork.org/events/march-texting-party](https://actionnetwork.org/events/april-texting-party)) RSVPs are required so we can send you the link, and requested by Wed, April 22.
+RSVP: [Use this form!]([https://actionnetwork.org/events/april-texting-party)] RSVPs are required so we can send you the link, and requested by Wed, April 22.
 Thank you!
 Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
 
