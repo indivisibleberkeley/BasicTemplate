@@ -22,5 +22,5 @@ RSVP: [Use this form!]([https://actionnetwork.org/events/march-texting-party](ht
 Thank you!
 Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
 
-Please [[RSVP here]](https://actionnetwork.org/events/march-texting-party)  by Wed, April 25 to let us know if you can make it
+Please [[RSVP here]](https://actionnetwork.org/events/march-texting-party)  by Wed, April 22 to let us know if you can make it
 
