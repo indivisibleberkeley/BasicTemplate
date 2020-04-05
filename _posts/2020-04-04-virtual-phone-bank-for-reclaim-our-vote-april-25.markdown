@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+- Elections
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-04-25 13:00:00 -07:00
 event-end-date: 2020-04-25 16:00:00 -07:00
