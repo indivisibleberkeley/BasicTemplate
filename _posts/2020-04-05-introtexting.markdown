@@ -18,4 +18,4 @@ Have: A charged laptop
 RSVP: [Use this form!]([https://actionnetwork.org/events/april-texting-party)] RSVPs are required so we can send you the link, and requested by Wed, April 22.
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
 Thank you!
-Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
+Questions? email to: [contact us](mailto:beccafreed@gmail.com)
