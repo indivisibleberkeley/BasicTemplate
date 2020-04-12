@@ -16,8 +16,8 @@ RSVP-link: mailto:rcjr+owner@indivisibleberkeley.org
 
 We thing City Council should take action X on this date and we're going to pack the meeting!
 
-Bring signs that say "We want X!"
+Bring signs that say **"We want X!"**
 
-RSVP to rcjr+owner@indivisibleberkeley.org to let us know to look out for you.
+RSVP to [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org) to let us know to look out for you.
 
-In advance, call or email your city councilmember using the script on this page.
+In advance, call or email your city councilmember using the script on this page. Visit the [city of Berkeley website](http://cityofberkeley.info) to see the map of council districts to find your councilmember.
