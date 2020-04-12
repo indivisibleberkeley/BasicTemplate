@@ -6,13 +6,19 @@ categories:
 tags:
 - rcjr
 is featured: true
+main-image: "/uploads/All%20eyes%20on%20the%20sheriff.jpg"
 call-script-text: "PLEASE EMAIL COUNCIL MEMBERS TO URGE THEM TO OPPOSE THE MONEY GRAB
-  FOR SANTA RITA JAIL. \n\nWrite to all Berkeley City Council members at: council@cityofberkeley.info\nOR
-  Council Members individually at:\nMayor Jesse Arreguin - mayor@CityofBerkeley.info\nD1
-  - Rashi Kesarwani - rkesarwani@CityofBerkeley.info\nD2 - Cheryl Davila - cdavila@CityofBerkeley.info\nD3
-  - Ben Bartlett - bbartlett@CityofBerkeley.info\nD4 - Kate Harrison - kharrison@CityofBerkeley.info\nD5
-  - Sophie Hahn - shahn@CityofBerkeley.info\nD6 - Susan Wengraf - swengraf@CityofBerkeley.info\nD7
-  - Rigel Robinson - rrobinson@CityofBerkeley.info\nD8 - Lori Droste -  ldroste@CityofBerkeley.info"
+  FOR SANTA RITA JAIL. \n\nWrite to all Berkeley City Council members at: \n\n[city
+  council email](mailto:council@cityofberkeley.info)\n\nOR Council Members individually
+  at:\n\nMayor Jesse Arreguin - [Mayor Jesse Arreguin email](mailto:mayor@CityofBerkeley.info)\n\nD1
+  - Rashi Kesarwani - [Rashi Kesarwani email](mailto:rkesarwani@CityofBerkeley.info)\n\nD2
+  - Cheryl Davila - [Cheryl Davila email](mailto:cdavila@CityofBerkeley.info)\n\nD3
+  - Ben Bartlett - [Ben Bartlett email](mailto:bbartlett@CityofBerkeley.info)\n\nD4
+  - Kate Harrison - [Kate Harrison email](mailto:kharrison@CityofBerkeley.info)\n\nD5
+  - Sophie Hahn - [Sophie Hahn email](mailto:shahn@CityofBerkeley.info)\n\nD6 - Susan
+  Wengraf - [Susan Wengraf email](mailto:swengraf@CityofBerkeley.info)\n\nD7 - Rigel
+  Robinson - [Rigel Robinson email](mailto:rrobinson@CityofBerkeley.info)\n\nD8 -
+  Lori Droste -  [Lori Droste email](mailto:ldroste@CityofBerkeley.info)"
 event-end-date: 2020-04-14 18:00:00 -07:00
 ---
 
