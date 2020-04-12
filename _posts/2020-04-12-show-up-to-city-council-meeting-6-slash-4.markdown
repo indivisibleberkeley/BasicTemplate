@@ -1,6 +1,10 @@
 ---
 title: Show up to city council meeting 6/4
 date: 2020-04-12 11:20:00 -07:00
+categories:
+- event
+tags:
+- rcjr
 is featured: true
 main-image: "/uploads/The%20White%20Orchestra.jpg"
 call-script-text: Hi, my name is (name) and I want you to vote yes on X.
