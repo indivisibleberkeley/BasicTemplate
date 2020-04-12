@@ -48,7 +48,7 @@ On the right sidebar of the new/edit post page, there are a few extra controls:
 
 + The Draft/Hidden/Visible buttons control visibility. Draft is for when you aren't ready to publish the post but want to save it. We don't use Hidden. And Visible is for when you are ready to publish your post.
 
-+ Generate item preview allows you to view a preview of your post before publishing it. I have trouble getting this one to work. If it works for you, great.
++ Generate item preview **does not work!** If you want to preview your post, just publish it live by making the post Visible and then clicking "Save"
 
 ### Tags and Categories
 
