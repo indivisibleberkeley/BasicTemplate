@@ -14,13 +14,19 @@ RSVP-link: https://actionnetwork.org/events/april-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
+
 What: Virtual Textbank 
+
 When: Saturday, April 25, 10 am to Noon
+
 Where: Wherever you're comfortable. We're coming to you virtually speaking
+
 Have: A charged laptop
+
 RSVP: [Use this form!](https://actionnetwork.org/events/april-texting-party) RSVPs are required so we can send you the link, and requested by Wed, April 22.
 Thank you!
-Questions? email to: [contact us](mailto:ebaatexting@gmail.com)
+
+Questions? email [ebaatexting@gmail.com](mailto:ebaatexting@gmail.com)
 
 Please [[RSVP here](https://actionnetwork.org/events/april-texting-party)]  by Wed, April 22 to let us know if you can make it
 
