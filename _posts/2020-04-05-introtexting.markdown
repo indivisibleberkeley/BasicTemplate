@@ -2,7 +2,7 @@
 title: Intro to Textbanking, 4/23
 date: 2020-04-05 10:33:00 -07:00
 categories:
-- events
+- event
 tags:
 - elections
 - textbank
