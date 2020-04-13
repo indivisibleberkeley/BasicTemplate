@@ -7,7 +7,7 @@ tags:
 - elections
 - textbank
 event-start-date: 2020-04-23 19:00:00 -07:00
-event-end-date: 2020-04-23 20:30:00 -07:00
+event-end-date: 2020-04-23 21:00:00 -07:00
 Location: Online
 RSVP-link: https://join.indivisibleberkeley.org/text_training_20200423
 ---
@@ -15,5 +15,3 @@ RSVP-link: https://join.indivisibleberkeley.org/text_training_20200423
 This is a specially designed training for people who have never textbanked before so that they can succeed as a textbanker.
 
 The training will take place online. RSVP to receive the meeting connection details.
-
-Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
