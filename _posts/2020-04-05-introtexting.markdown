@@ -13,3 +13,5 @@ RSVP-link: https://join.indivisibleberkeley.org/text_training_20200423
 ---
 
 This is a specially designed training for people who have never textbanked before so that they can succeed as a textbanker.
+
+Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
