@@ -10,6 +10,7 @@ main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2020-04-19 19:30:00 -07:00
 event-end-date: 2020-04-19 20:30:00 -07:00
 Location: Online,  the join link is in the description
+RSVP-link: https://join.indivisibleberkeley.org/april_2020_ga
 ---
 
 Join us for our monthly General Assembly as we hear from State Senator Nancy Skinner and Berkeley Mayor Jesse Arreguin about state and local efforts to fight the pandemic.
