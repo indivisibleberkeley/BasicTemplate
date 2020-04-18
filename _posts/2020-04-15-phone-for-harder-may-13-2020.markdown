@@ -1,6 +1,6 @@
 ---
 title: Phone for Harder  May 13, 2020
-date: 2020-04-15 19:21:33.696000000 -07:00
+date: 2020-04-15 19:21:33 -07:00
 categories:
 - event
 tags:
