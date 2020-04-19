@@ -11,7 +11,7 @@ event-end-date: 2020-04-26 20:00:00 -07:00
 
 Save the date for the April elections team meeting - this meeting will be VIRTUAL!
 
-Location: Zoom meeting (check the elections newsletter for details coming soon)
+Location: Zoom meeting https://zoom.us/j/91873965070
 Time: "Doors" at 6:30pm, meeting at 7pm
 
 Make sure to join the elections team!
