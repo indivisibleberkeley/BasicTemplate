@@ -1,6 +1,11 @@
 ---
 title: 'Virtual Phone Bank:  Re-elect Josh Harder to Congress, 5/2'
 date: 2020-04-19 21:23:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phonebank
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-05-02 13:00:00 -07:00
 event-end-date: 2020-05-02 16:00:00 -07:00
