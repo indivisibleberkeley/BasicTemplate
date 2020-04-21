@@ -19,7 +19,7 @@ call-script-text: "PLEASE EMAIL COUNCIL MEMBERS TO URGE THEM TO OPPOSE THE MONEY
   Wengraf - [Susan Wengraf email](mailto:swengraf@CityofBerkeley.info)\n\nD7 - Rigel
   Robinson - [Rigel Robinson email](mailto:rrobinson@CityofBerkeley.info)\n\nD8 -
   Lori Droste -  [Lori Droste email](mailto:ldroste@CityofBerkeley.info)"
-event-end-date: 2020-04-14 18:00:00 -07:00
+event-end-date: 2020-04-21 18:00:00 -07:00
 ---
 
 Email Berkeley City Council Members before this Tuesday's City Council Meeting to support a resolution to oppose $85 million a year of additional funding for the Alameda County Sheriff's department to expand their staff.  This is an unconscionable money grab in the midst of a pandemic.  Tell our council to approve the resolution calling on the Alameda County Board of Supervisors to reject Sheriff Ahern's funding request. Send the message that we need to support healthcare not additional detention that puts our community at risk!
