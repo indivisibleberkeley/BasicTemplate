@@ -7,12 +7,14 @@ team-email: rcjr
 team-slack: racism_justice
 ---
 
-Our team is active in areas of racial and criminal justice, including:
+Our team is active in areas of racial and criminal justice, in particular those affecting the Bay Area, including:
 
-- Police (de)militarization and Urban Shield
-- Criminal justice reform
+- Police (de)militarization
+- Civilian oversight of Law Enforcement
 - Audit the Alameda County Sheriff
 - Native peoples' rights - West Berkeley Shellmound
 
-We meet every 1st and 3rd Thursday at 7pm - Locations vary
+We are currently meeting via Zoom until further notice
+
+Email rcjr+owner@indivisibleberkeley.org for more info
 
