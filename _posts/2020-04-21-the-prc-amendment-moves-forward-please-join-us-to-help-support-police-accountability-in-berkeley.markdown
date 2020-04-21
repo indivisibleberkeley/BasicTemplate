@@ -4,6 +4,8 @@ title: The PRC Amendment moves forward! Please Join us to help support police ac
 date: 2020-04-21 00:54:00 -07:00
 categories:
 - action
+tags:
+- rcjr
 event-end-date: 2020-11-03 20:00:00 -08:00
 ---
 
