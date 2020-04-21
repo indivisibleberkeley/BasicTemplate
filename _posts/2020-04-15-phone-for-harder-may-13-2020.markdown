@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-05-13 13:00:00 -07:00
 event-end-date: 2020-05-13 16:00:00 -07:00
-Location: Virtually
+Location: Virtual at your home
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_05_13_2
 ---
 
