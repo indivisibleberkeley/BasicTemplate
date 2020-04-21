@@ -3,7 +3,6 @@ title: General Assembly - March
 date: 2020-02-26 10:12:00 -08:00
 categories:
 - event
-- events
 tags:
 - ga
 is featured: true
