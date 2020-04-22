@@ -1,5 +1,5 @@
 ---
-title: Reclaim Our Vote Virtual Postcard Party April 27th
+title: "Reclaim Our Vote Virtual Postcard Party April 27th \nFULL & CLOSED TO ENROLLMENT"
 date: 2020-03-31 23:00:00 -07:00
 categories:
 - event
