@@ -41,14 +41,9 @@ WHERE
 
 Online via Zoom from home
 
-Hi IB Phonebanks, will you come to our Phonebank for Harder on 5-13-20?
-
 By filling out my name and email  and  submitting the form, I agree to the IB Participation.
-
 
 \
 event/elections/phoneforharder/2020/05/13
-\
-Hi IB Phonebanks. View your account settings, or sign out.
 
 Created with NationBuilder
