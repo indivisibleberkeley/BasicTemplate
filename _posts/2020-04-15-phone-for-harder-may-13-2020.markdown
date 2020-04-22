@@ -15,7 +15,7 @@ RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_05_13_2
 
 # Get Out The Vote for Congressman Josh Harder
 
-POSTED BY IB PHONEBANKS ON APRIL 15, 2020
+# *POSTED BY IB PHONEBANKS ON APRIL 15, 2020*
 
 In 2018 we were successful helping to elect Josh Harder to the House of Representatives, representing Congressional District CA-10 (Tracy/Modesto). Now he is running for reelection and Republicans are highly motivated to regain that seat.
 
@@ -33,11 +33,11 @@ What You'll Need: A charged ipad, tablet, or computer and your cell phone or lan
 
 We're happy to answer questions at: phonebank\+owner@indivisibleberkeley.org.
 
-WHEN
+**WHEN**
 
 May 13, 2020 at 1pm - 4pm
 
-WHERE
+**WHERE**
 
 Online via Zoom from home
 
