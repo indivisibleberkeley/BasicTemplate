@@ -15,7 +15,7 @@ RSVP-link: https://join.indivisibleberkeley.org/pb_reclaim_vote_2020_05_09
 
 ### Help fight voter suppression!
 
-Join us -- we'll be calling voters of color in underserved communities in Georgia to urge them to vote in the upcoming Primary on June  -- an important one as both US Senate seats are on the ballot this year!
+Join us -- we'll be calling voters of color in underserved communities in Georgia to urge them to vote in the upcoming Primary in June  -- an important one as both US Senate seats are on the ballot this year!
 
 Early voting starts soon for the June 9 primary, and the state is now allowing absentee balloting, so we want to get that information to voters as well. They need to send in requests to obtain absentee ballots as early as possible.
 
