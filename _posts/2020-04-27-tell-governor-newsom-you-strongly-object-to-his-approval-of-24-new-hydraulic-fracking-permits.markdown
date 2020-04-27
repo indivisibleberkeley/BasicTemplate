@@ -11,7 +11,7 @@ event-start-date: 2020-04-27 00:00:00 -07:00
 event-end-date: 2020-05-11 00:00:00 -07:00
 ---
 
-**Take Action**\
+**Take Action**
 
 **Tell Governor Newsom you strongly object to his approval of 24 new hydraulic fracking permits, especially during the COVID-19 crisis. Tell him to restore the moratorium on new permits in California immediately.**
 
