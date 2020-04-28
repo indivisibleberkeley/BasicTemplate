@@ -9,6 +9,7 @@ is featured: true
 event-start-date: 2020-05-16 18:30:00 -07:00
 event-end-date: 2020-05-16 19:30:00 -07:00
 Location: Online (see description for the link)
+RSVP-link: https://join.indivisibleberkeley.org/general_assembly_20200516
 ---
 
 We start promptly at **6:30** -- note the new time!
