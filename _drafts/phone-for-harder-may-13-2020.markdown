@@ -9,11 +9,11 @@ tags:
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
 event-start-date: 2020-05-13 13:00:00 -07:00
 event-end-date: 2020-05-13 16:00:00 -07:00
-Location: Virtually. online
+Location: Virtually
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_05_13_2
 ---
 
-#                         Get Out The Vote for Congressman Josh Harder
+###                                Get Out The Vote for Congressman Josh Harder
 
 # 
 
@@ -32,3 +32,16 @@ If you are not currently an IB member, we encourage you to join when you sign up
 What You'll Need: A charged ipad, tablet, or computer and your cell phone or landline.
 
 We're happy to answer questions at: phonebank\+owner@indivisibleberkeley.org.
+
+**WHEN**
+
+May 13, 2020 at 1pm - 4pm
+
+**WHERE**
+
+Online via Zoom from home
+
+\
+event/elections/phoneforharder/2020/05/13
+
+Created with NationBuilder
