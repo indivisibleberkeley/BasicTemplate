@@ -13,9 +13,7 @@ Location: Virtually
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_05_13_2
 ---
 
-###                                Get Out The Vote for Congressman Josh Harder
-
-# 
+### Get Out The Vote for Congressman Josh Harder
 
 In 2018 we were successful helping to elect Josh Harder to the House of Representatives, representing Congressional District CA-10 (Tracy/Modesto). Now he is running for reelection and Republicans are highly motivated to regain that seat.
 
