@@ -1,6 +1,6 @@
 ---
 title: Tell the EPA not to rollback the 2015 Coal Ash Rule that is helping to clean
-  up our water.
+  up our water
 date: 2020-04-29 09:05:00 -07:00
 categories:
 - action
