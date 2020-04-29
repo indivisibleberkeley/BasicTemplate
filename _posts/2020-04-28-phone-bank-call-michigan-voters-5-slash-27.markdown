@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phonebank
-main-image: "/uploads/3%20red%20phones-455991.jpg"
+main-image: "/uploads/phone%20with%20lit%20up%20connections-4715570_960_720.jpg"
 event-start-date: 2020-05-27 13:00:00 -07:00
 event-end-date: 2020-05-27 16:00:00 -07:00
 Location: Virtual, online
