@@ -31,17 +31,4 @@ If you are not currently an IB member, we encourage you to join when you sign up
 
 What You'll Need: A charged ipad, tablet, or computer and your cell phone or landline.
 
-We're happy to answer questions at: phonebank\+owner@indivisibleberkeley.org.
-
-**WHEN**
-
-May 13, 2020 at 1pm - 4pm
-
-**WHERE**
-
-Online via Zoom from home
-
-\
-event/elections/phoneforharder/2020/05/13
-
-Created with NationBuilder
+We're happy to answer questions at: phonebank\+owner@indivisibleberkeley
