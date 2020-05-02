@@ -16,7 +16,7 @@ We feel that this proposal is an outrageous and cynical money grab for a variety
 (For more info click:) [Audit Ahern](mailto:https://ellabakercenter.org/get-involved/save-money-save-lives--audit-sheriff-ahern)
 
 Our friends at American Friends Service Committee have prepared a detailed explanation of 10 reasons to oppose new jail funding and invest in community-based mental health instead. 
-(For more info click:) [No New Jail Funding] (mailto:https://www.afsc.org/action/no-new-jail-funding)
+(For more info click:) [No New Jail Funding](mailto:https://www.afsc.org/action/no-new-jail-funding)
 
 Please contact your Supervisor to request they vote no on the Sheriff's latest money grab. In addition to the Supervisor of your district, also contact Supervisor Valle, the current Board President. contact info here: https://www.acgov.org/board/
 
