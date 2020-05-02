@@ -18,6 +18,6 @@ We feel that this proposal is an outrageous and cynical money grab for a variety
 Our friends at American Friends Service Committee have prepared a detailed explanation of 10 reasons to oppose new jail funding and invest in community-based mental health instead. 
 (For more info click:) [No New Jail Funding](https://www.afsc.org/action/no-new-jail-funding)
 
-Please contact your Supervisor to request they vote no on the Sheriff's latest money grab. In addition to the Supervisor of your district, please also contact Supervisor Valle, the current Board President. Contact info here: [Alco Supervisors] (https://www.acgov.org/board/)
+Please contact your Supervisor to request they vote no on the Sheriff's latest money grab. In addition to the Supervisor of your district, please also contact Supervisor Valle, the current Board President. Contact info here: [Alco Supervisors](https://www.acgov.org/board/)
 
 
