@@ -6,6 +6,7 @@ categories:
 - action
 tags:
 - rcjr
+is featured: true
 event-start-date: 2020-05-01 00:00:00 -07:00
 event-end-date: 2020-05-12 00:00:00 -07:00
 ---
