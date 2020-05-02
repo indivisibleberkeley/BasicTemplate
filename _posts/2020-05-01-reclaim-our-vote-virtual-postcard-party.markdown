@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - elections
-main-image: "/uploads/ROV%20Postcards%20Shot.jpeg"
+main-image: "/uploads/ROV%20Logo.png"
 event-start-date: 2020-05-20 18:00:00 -07:00
 event-end-date: 2020-05-20 20:00:00 -07:00
 Location: Virtual
