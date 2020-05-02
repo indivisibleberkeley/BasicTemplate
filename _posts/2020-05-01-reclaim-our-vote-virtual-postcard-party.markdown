@@ -1,5 +1,5 @@
 ---
-title: Reclaim Our Vote Virtual Postcard Party
+title: Reclaim Our Vote Virtual Postcard Party May 20th
 date: 2020-05-01 21:22:00 -07:00
 categories:
 - events
