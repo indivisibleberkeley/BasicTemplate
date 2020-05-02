@@ -2,6 +2,12 @@
 title: Ask Alameda County Supervisors to oppose Sheriff's outrageous $318 million
   Santa Rita Jail budget increase.
 date: 2020-05-01 11:28:00 -07:00
+categories:
+- action
+tags:
+- rcjr
+event-start-date: 2020-05-01 00:00:00 -07:00
+event-end-date: 2020-05-12 00:00:00 -07:00
 ---
 
 On March 20, the Alameda County Sheriff's Office (ACSO) and Health Services Agency submitted a surprise proposal to add $85 million a year for three years to hire hundreds of new sheriff deputies and other staff at Santa Rita Jail (SRJ). On April 24, the Sheriff increased the proposal to $106 million a year for 456 new staff for the jail - 349 for the Sheriff's Office and 107 for Behavioral Health staff. (ACSO currently has 615 funded jail staff positions.)
