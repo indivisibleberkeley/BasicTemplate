@@ -1,6 +1,6 @@
 ---
 title: Ask Alameda County Supervisors to oppose Sheriff's outrageous $318 million
-  Santa Rita Jail budget increase.
+  Santa Rita Jail budget increase
 date: 2020-05-01 11:28:00 -07:00
 categories:
 - action
