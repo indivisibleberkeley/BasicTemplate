@@ -1,6 +1,6 @@
 ---
 title: Virtual Textbank 5/30
-date: 2020-04-02 10:00:00 -07:00
+date: 2020-05-03 10:00:00 -07:00
 categories:
 - event
 tags:
