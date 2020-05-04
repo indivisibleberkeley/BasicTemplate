@@ -28,5 +28,5 @@ Thank you!
 
 Questions? email [ebaatexting@gmail.com](mailto:ebaatexting@gmail.com)
 
-Please [[RSVP here](https://actionnetwork.org/events/april-texting-party)]  by Wed, April 22 to let us know if you can make it
+Please [[RSVP here](https://actionnetwork.org/events/april-texting-party)]  by Wed, May 27 to let us know if you can make it
 
