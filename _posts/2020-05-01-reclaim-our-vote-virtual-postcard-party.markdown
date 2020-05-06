@@ -7,8 +7,8 @@ tags:
 - elections
 is featured: true
 main-image: "/uploads/ROV%20Logo.png"
-event-start-date: 2020-05-20 18:00:00 -07:00
-event-end-date: 2020-05-20 20:00:00 -07:00
+event-start-date: 2020-05-20 16:00:00 -07:00
+event-end-date: 2020-05-20 18:00:00 -07:00
 Location: Virtual
 RSVP-link: https://docs.google.com/forms/d/11QTIFafrg85vC16NTIai6wYm7ubILD_DHmq0vbpFFA4/edit
 Field name: 
