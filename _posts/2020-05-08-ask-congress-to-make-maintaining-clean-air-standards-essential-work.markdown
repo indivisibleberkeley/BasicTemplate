@@ -12,13 +12,17 @@ event-end-date: 2020-05-12 00:00:00 -07:00
 
 **ACTION**: Ask Congress to make enforcement of air and water pollution standards essential work. Make the EPA end its COVID-19 policy that suspends penalties for illegal increases in air and water pollution.
 
-**SUGGESTED SCRIPT ***(Note: It is always good to personalize your message or expand on a particular concern you have.)*\
+**SUGGESTED SCRIPT** *(Note: It is always good to personalize your message or expand on a particular concern you have.)*\
+\
 The EPA’s COVID-19 Policy relaxes enforcement of Clean Air Act standards at a time when we need greater enforcement. Its policy allows companies to release more hazardous emissions into the air with no fear of penalties. This policy should be cancelled. \
+\
 A recent study from Harvard’s School of Public Health indicates that cleaner air is associated with lower death rates from COVID-19. The EPA’s current relaxed enforcement policy increases the death risk of COVID19 for all of us. It especially increases the death risk for workers in polluting companies, first responders, and minorities who tend to live closest to these facilities. \
+\
 The next corona virus bill needs to make clear that the monitoring, testing, sampling and reporting of hazardous emissions is “essential work” that must continue during this pandemic. Extra funding for states to ensure there is no lapse in enforcing Clean Air and Clean Water Act standards needs to be included in the next corona virus bill.\
+\
 While we are enjoying clear skies now because economic activity is greatly reduced, the same pollution threats to our air and water will be present when economic activity increases as well as the threats of COVID-19 and global warming. Helping states expand clean energy alternatives could keep our air cleaner in the future.\
 \
-**BACKGROUND: **The EPA’s COVID-19 policy announced on March 26 allows regulated facilities to temporarily suspend (without penalty) compliance monitoring, testing, lab analysis and reporting of their emissions because of the pandemic. Should a facility decide to cease part or all of its compliance monitoring it need not inform the EPA or the public. It need show no evidence that such a decision was necessary because of COVID-19 constraints unless at some time in the future the EPA requests such information. The policy was made retroactive to March 13 (so unnecessary that it made it totally obvious that the purpose of the policy was to subsidize big polluters like the oil industry that had been lobbying for the policy change) and the policy has no expiration date. \
+**BACKGROUND:  **The EPA’s COVID-19 policy announced on March 26 allows regulated facilities to temporarily suspend (without penalty) compliance monitoring, testing, lab analysis and reporting of their emissions because of the pandemic. Should a facility decide to cease part or all of its compliance monitoring it need not inform the EPA or the public. It need show no evidence that such a decision was necessary because of COVID-19 constraints unless at some time in the future the EPA requests such information. The policy was made retroactive to March 13 (so unnecessary that it made it totally obvious that the purpose of the policy was to subsidize big polluters like the oil industry that had been lobbying for the policy change) and the policy has no expiration date. \
 In other words the EPA’s COVID-19 policy is an unlimited permit to pollute. A huge subsidy for fossil fuel companies and unless halted a grave threat to our health during the current respiratory pandemic.\
 \
 The present penalty for one violation by one facility under the Clean Air Act is more than $100,000 per day and under the Clean Water Act or Safe Drinking Water Act it is over $50,000 per day. As a result of the EPA’s COVID-19 policy polluting companies are now able to lower production costs significantly by forgoing scheduled correction of past pollution violations, by not maintaining their equipment and/or by increasing pollutants beyond legal limits without paying any penalties. The pandemic could last for 1-2 years. Clearly this discretionary enforcement policy has the potential to be a massive subsidy tor large polluters, like refineries, petrochemical plants and coal and gas fired utility plants. \
@@ -49,7 +53,7 @@ The following list includes some of the monitoring and testing or sampling requi
 
 1. Continuous emission monitoring system (CEMS) operations which ensure that a facility’s regulated emissions, including particulates, sulfur dioxides, oxides of nitrogen and carbon dioxide comply with legal limits. (The first three of these mentioned pollutants cause respiratory problems.)
 
-2. Stack testing which measures emissions also demonstrates whether a facility’s hazardous air pollutant emissions comply with legal limits and it also indicates whether a facility’s pollution control equipment is working properly. 
+2. Stack testing which measures emissions also demonstrates whether a facility’s hazardous air pollutant emissions comply with legal limits and it also indicates whether a facility’s pollution control equipment is working properly.
 
 3. Leak detection and repair monitoring (LDAR) which identifies leaks in equipment (e.g. valves, pumps, and connectors) which are the largest source of carbon dioxide emissions and hazardous air pollutant emissions from petroleum refineries and chemical manufacturing facilities. LDAR monitoring is essential for repairing minor leaks in equipment quickly enough to prevent large leaks in the future.
 
@@ -71,7 +75,7 @@ Incentives for the clean energy industry should include:
 
 * Introduction of a battery storage tax credit for energy companies
 
-* An extension of the production tax credit for wind energy for another 5 years 
+* An extension of the production tax credit for wind energy for another 5 years
 
 * A restoration of the solar tax credit for another 5 years
 
