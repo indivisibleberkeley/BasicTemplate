@@ -5,6 +5,9 @@ categories:
 - action
 tags:
 - environment
+is featured: true
+event-start-date: 2020-05-08 00:00:00 -07:00
+event-end-date: 2020-05-12 00:00:00 -07:00
 ---
 
 **ACTION**: Ask Congress to make enforcement of air and water pollution standards essential work. Make the EPA end its COVID-19 policy that suspends penalties for illegal increases in air and water pollution.
