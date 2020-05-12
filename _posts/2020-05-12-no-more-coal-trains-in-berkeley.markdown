@@ -1,6 +1,8 @@
 ---
 title: No more coal trains in Berkeley!
 date: 2020-05-12 16:13:00 -07:00
+categories:
+- action
 tags:
 - science
 - call
