@@ -10,3 +10,5 @@ event-end-date: 2020-05-20 00:00:00 -07:00
 ---
 
 Call your local representatives to tell them no more coal coming through Berkeley! 
+
+we
