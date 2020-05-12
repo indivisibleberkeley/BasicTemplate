@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phonebank
-main-image: "/uploads/donkey%20&%20elephant%20on%20flag-965ae5.jpeg"
+main-image: "/uploads/Arizona%20highway%20sign.jpeg"
 event-start-date: 2020-05-27 13:00:00 -07:00
 event-end-date: 2020-05-27 16:00:00 -07:00
 Location: Virtual, online
