@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phonebank
-main-image: "/uploads/Arizona%20highway%20sign.jpeg"
+main-image: "/uploads/AZ%20hiway%20sign,%20angled.jpeg"
 event-start-date: 2020-05-27 13:00:00 -07:00
 event-end-date: 2020-05-27 16:00:00 -07:00
 Location: Virtual, online
