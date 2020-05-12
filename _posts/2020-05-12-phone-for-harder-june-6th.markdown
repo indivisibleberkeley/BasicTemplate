@@ -2,7 +2,7 @@
 title: Phone for Harder, June 6th
 date: 2020-05-12 16:03:00 -07:00
 categories:
-- Event
+- event
 tags:
 - Elections
 - Phone Bank
