@@ -1,6 +1,11 @@
 ---
 title: Elections Team May 24 VIRTUAL meeting
 date: 2020-05-20 14:13:00 -07:00
+categories:
+- event
+tags:
+- elections
+is featured: true
 ---
 
 Save the date for the May elections team meeting - this meeting will be VIRTUAL!
