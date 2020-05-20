@@ -6,6 +6,8 @@ categories:
 tags:
 - elections
 is featured: true
+event-start-date: 2020-05-24 18:30:00 -07:00
+event-end-date: 2020-05-24 20:00:00 -07:00
 ---
 
 Save the date for the May elections team meeting - this meeting will be VIRTUAL!
