@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phonebank
+is featured: true
 main-image: "/uploads/3%20red%20phones-455991.jpg"
 event-start-date: 2020-06-06 13:00:00 -07:00
 event-end-date: 2020-06-06 16:00:00 -07:00
