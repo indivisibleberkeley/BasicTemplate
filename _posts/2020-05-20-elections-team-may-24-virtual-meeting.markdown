@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - elections
-is featured: true
+is featured: false
 event-start-date: 2020-05-24 18:30:00 -07:00
 event-end-date: 2020-05-24 20:00:00 -07:00
 ---
