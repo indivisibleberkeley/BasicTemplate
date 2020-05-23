@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 is featured: true
+main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM.png"
 event-start-date: 2020-05-23 00:00:00 -07:00
 event-end-date: 2020-06-24 00:00:00 -07:00
 ---
