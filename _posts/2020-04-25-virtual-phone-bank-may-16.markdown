@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - elections
-- Elections
 - phonebank
 main-image: "/uploads/3%20red%20phones-380fda-45213f.jpg"
 event-start-date: 2020-05-16 13:00:00 -07:00

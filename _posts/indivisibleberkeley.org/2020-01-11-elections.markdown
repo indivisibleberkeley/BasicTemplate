@@ -4,7 +4,7 @@ date: 2020-01-11 10:00:00 -08:00
 categories:
 - event
 tags:
-- Elections
+- elections
 - canvassing
 is featured: false
 main-image: "/uploads/IMG_4006%20-%20V2.JPG"

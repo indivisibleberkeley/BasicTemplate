@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - elections
-- Elections
 - phonebank
 is featured: true
 main-image: "/uploads/3%20red%20phones-380fda.jpg"
