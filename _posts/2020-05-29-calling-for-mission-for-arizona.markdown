@@ -15,6 +15,6 @@ Phone Arizonans to [recruit volunteers](https://docs.google.com/document/d/1PWHG
 
 Phone to [help register Arizonans for mail-in ballots](https://docs.google.com/document/d/13VB7HZLhCTNY9S7WcN6UGTcWfLyYQ96LYpz7VwMYFuM/edit)! (Open 7 days a week, 9am-9pm Pacific!)
 
-Saturday Spanish phonebanks! (Run by in-state staff!) 
+[Saturday Spanish phonebanks](https://www.mobilize.us/missionforaz/event/272889/)! (Run by in-state staff!) 
 
 Sign up for an Arizona phone bank training on zoom! Wednesdays at 2pm:  
