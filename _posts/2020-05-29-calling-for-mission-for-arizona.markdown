@@ -1,5 +1,5 @@
 ---
-title: Calling for "Mission for Arizona"
+title: Home phoning for "Mission for Arizona"
 date: 2020-05-29 14:29:00 -07:00
 categories:
 - action
