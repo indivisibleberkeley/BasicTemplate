@@ -3,7 +3,7 @@ title: Calling for "Mission for Arizona"
 date: 2020-05-29 14:29:00 -07:00
 ---
 
-In between our Indivisible Berkeley Arizona phone banks (listed on our Elections Team page), you can contact Arizona voters at home!  Call with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot! 
+In between our Indivisible Berkeley Arizona phone banks (listed on our [Elections Team ](https://indivisibleberkeley.org/team/elections)page), you can contact Arizona voters at home!  Call with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot! 
 
 Phone Arizonans to [recruit volunteers](https://docs.google.com/document/d/1PWHGb55jcbwTDUOuVVRVNnaiMaXu565XP4qPMtcxfuk/edit)! (Open 7 days a week, 9am-9pm Pacific!)
 
