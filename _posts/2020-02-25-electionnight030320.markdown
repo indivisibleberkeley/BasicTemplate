@@ -3,7 +3,6 @@ title: California & Super Tuesday Election Results Watch Party
 date: 2020-02-25 09:46:00 -08:00
 categories:
 - event
-- events
 tags:
 - elections
 is featured: true

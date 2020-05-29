@@ -3,7 +3,6 @@ title: GOTV Tracy Mon. Mar. 2nd, 2 pm-7 pm
 date: 2020-01-31 14:56:00 -08:00
 categories:
 - event
-- events
 tags:
 - elections
 - canvassing
