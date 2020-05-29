@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - canvassing
-- canvassing
 - elections
 is featured: true
 main-image: "/uploads/IMG_3655.JPG"

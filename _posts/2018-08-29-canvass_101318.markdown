@@ -6,7 +6,6 @@ categories:
 tags:
 - elections
 - canvassing
-- canvassing
 event-start-date: 2018-10-13 10:00:00 -07:00
 event-end-date: 2018-10-13 15:00:00 -07:00
 Location: Tracy
