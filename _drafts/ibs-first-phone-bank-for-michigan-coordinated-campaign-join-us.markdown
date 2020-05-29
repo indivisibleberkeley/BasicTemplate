@@ -1,6 +1,11 @@
 ---
 title: IB's first Phone Bank for Michigan Coordinated Campaign - Join us!
 date: 2020-05-29 11:16:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phonebank
 main-image: "/uploads/Michigan%20highway%20sign-d7d0c1.jpeg"
 event-start-date: 2020-06-27 13:00:00 -07:00
 event-end-date: 2020-06-27 16:00:00 -07:00
