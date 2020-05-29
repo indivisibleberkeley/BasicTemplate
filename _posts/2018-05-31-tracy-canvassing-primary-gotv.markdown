@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - elections
-- canvass
+- canvassing
 is featured: true
 main-image: "/uploads/IMG_3655.JPG"
 event-start-date: 2018-06-04 09:00:00 -07:00
