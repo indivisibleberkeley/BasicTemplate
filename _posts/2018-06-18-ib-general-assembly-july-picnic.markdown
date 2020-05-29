@@ -6,7 +6,7 @@ categories:
 tags:
 - general assembly
 - social
-- ga
+- general assembly
 - recruitment
 is featured: true
 main-image: "/uploads/Postcard-picnic-2018%20copy.jpg"

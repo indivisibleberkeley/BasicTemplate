@@ -4,7 +4,7 @@ date: 2018-02-20 19:00:00 -08:00
 categories:
 - event
 tags:
-- ga
+- general assembly
 - general assembly
 is featured: true
 main-image: "/uploads/IB-May2017-flags.jpg"

@@ -4,7 +4,7 @@ date: 2018-10-15 22:01:00 -07:00
 categories:
 - event
 tags:
-- ga
+- general assembly
 is featured: true
 event-start-date: 2018-11-11 19:00:00 -08:00
 event-end-date: 2018-11-11 21:00:00 -08:00

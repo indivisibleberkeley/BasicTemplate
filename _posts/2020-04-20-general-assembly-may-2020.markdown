@@ -4,7 +4,7 @@ date: 2020-04-20 20:04:00 -07:00
 categories:
 - event
 tags:
-- ga
+- general assembly
 is featured: true
 event-start-date: 2020-05-16 18:30:00 -07:00
 event-end-date: 2020-05-16 19:30:00 -07:00

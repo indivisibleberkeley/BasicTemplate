@@ -4,7 +4,7 @@ date: 2020-02-26 10:12:00 -08:00
 categories:
 - event
 tags:
-- ga
+- general assembly
 is featured: true
 main-image: "/uploads/2018%20group%20photo.jpg"
 event-start-date: 2020-03-08 19:30:00 -07:00

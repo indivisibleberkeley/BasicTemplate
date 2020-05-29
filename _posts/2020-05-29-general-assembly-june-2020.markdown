@@ -4,7 +4,7 @@ date: 2020-05-29 15:24:00 -07:00
 categories:
 - event
 tags:
-- ga
+- general assembly
 is featured: true
 main-image: "/uploads/massive%20phonebank.png"
 event-start-date: 2020-06-14 19:30:00 -07:00
