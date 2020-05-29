@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - elections
+is featured: true
 event-start-date: 2020-05-29 00:00:00 -07:00
 event-end-date: 2020-11-03 00:00:00 -08:00
 ---
