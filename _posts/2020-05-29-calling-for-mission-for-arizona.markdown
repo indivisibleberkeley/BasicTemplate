@@ -17,4 +17,4 @@ Phone to [help register Arizonans for mail-in ballots](https://docs.google.com/d
 
 [Saturday Spanish phonebanks](https://www.mobilize.us/missionforaz/event/272889/)! (Run by in-state staff!) 
 
-Sign up for an Arizona phone bank training on zoom! Wednesdays at 2pm:  
+Sign up for an [Arizona phone bank training](https://www.mobilize.us/missionforaz/event/264618/) on zoom! Wednesdays at 2pm:  
