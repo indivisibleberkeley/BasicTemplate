@@ -1,5 +1,5 @@
 ---
-title: IB's first Phone Bank for Michigan Coordinated Campaign - Join us!
+title: IB's first Phone Bank for Michigan Coordinated Campaign 6/27- Join us!
 date: 2020-05-29 11:16:00 -07:00
 categories:
 - event
