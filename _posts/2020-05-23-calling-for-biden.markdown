@@ -1,5 +1,5 @@
 ---
-title: June phone banks for Biden
+title: June Phone Banks for Biden
 date: 2020-05-23 12:02:00 -07:00
 categories:
 - action
