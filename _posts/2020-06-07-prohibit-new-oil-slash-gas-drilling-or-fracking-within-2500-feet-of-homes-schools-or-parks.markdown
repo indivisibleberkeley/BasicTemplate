@@ -2,6 +2,8 @@
 title: Prohibit new oil/gas drilling or fracking within 2500 feet of homes, schools
   or parks
 date: 2020-06-07 16:36:00 -07:00
+categories:
+- action
 tags:
 - environment
 is featured: true
