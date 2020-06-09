@@ -10,6 +10,7 @@ main-image: "/uploads/massive%20phonebank.png"
 event-start-date: 2020-06-14 19:30:00 -07:00
 event-end-date: 2020-06-14 20:30:00 -07:00
 Location: Online (Zoom link in description)
+RSVP-link: https://join.indivisibleberkeley.org/general_assembly_20200614
 ---
 
 We start promptly at **7:30**!
