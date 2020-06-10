@@ -2,6 +2,7 @@
 title: Anti-Racism Resources
 date: 2020-06-09 09:53:00 -07:00
 permalink: antiracism
+nav: true
 ---
 
 ## SUBJECT: Anti-racist resources
