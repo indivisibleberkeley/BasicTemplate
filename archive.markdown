@@ -1,8 +1,8 @@
 ---
-title: Archive
+title: All actions & meetings
 position: 9
+nav: true
 layout: default
-nav: false
 ---
 
 <div class="container">
