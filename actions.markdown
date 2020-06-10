@@ -2,7 +2,7 @@
 title: Take Action
 position: 6
 main-image: 
-nav: true
+nav: false
 layout: actions
 ---
 
