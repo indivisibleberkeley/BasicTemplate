@@ -1,5 +1,5 @@
 ---
-title: All actions & meetings
+title: Calendar
 position: 9
 nav: true
 layout: default
