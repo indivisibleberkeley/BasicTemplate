@@ -8,4 +8,4 @@ tags:
 main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM-f8e209.png"
 ---
 
-Join us calling Biden supporters in AZ! 
+Join us calling Biden supporters in AZ! We're meeting Virtually Sat. 6/13 from 1-4, click on the link to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScMZi69Gx2SNpSOaufNXkq6qG3UELt1i0Eqm55q08CzqMRzmQ/viewform) and receive information about the event.  For questions please contact Cheryl at clfippen@gmail.com
