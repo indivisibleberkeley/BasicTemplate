@@ -6,6 +6,8 @@ categories:
 tags:
 - elections
 is featured: true
+event-start-date: 2020-06-13 13:00:00 -07:00
+event-end-date: 2020-06-13 16:00:00 -07:00
 ---
 
 Join us to check in on Biden supporters in AZ! 
