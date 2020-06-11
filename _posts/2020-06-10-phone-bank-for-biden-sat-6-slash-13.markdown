@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM-f8e209.png"
 ---
 
 Join us calling Biden supporters in AZ! 
