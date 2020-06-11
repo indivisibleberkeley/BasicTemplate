@@ -1,6 +1,8 @@
 ---
 title: Phone bank for Biden Wed. 6/17
 date: 2020-06-10 20:57:00 -07:00
+event-start-date: 2020-06-17 13:00:00 -07:00
+event-end-date: 2020-06-17 16:00:00 -07:00
 ---
 
 Join us to check in on Biden supporters in MI! 
