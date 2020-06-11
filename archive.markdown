@@ -17,7 +17,7 @@ layout: default
     <div class="col-sm-10 col-lg-9">
     
     
-    {% assign sorted_posts = (site.posts | sort: 'date') | reverse %}
+    {% assign sorted_posts = (site.posts | sort: 'event-end-date') | reverse %}
 
       {% for post in sorted_posts %}
         <hr class="mt-0 mb-2">
