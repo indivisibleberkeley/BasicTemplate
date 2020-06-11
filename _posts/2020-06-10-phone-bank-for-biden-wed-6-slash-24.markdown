@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM-432616.png"
 ---
 
 Join us to check in on Biden supporters in MI! 
