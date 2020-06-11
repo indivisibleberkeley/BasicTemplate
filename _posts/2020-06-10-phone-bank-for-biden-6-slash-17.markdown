@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM-938222.png"
 event-start-date: 2020-06-17 13:00:00 -07:00
 event-end-date: 2020-06-17 16:00:00 -07:00
 ---
