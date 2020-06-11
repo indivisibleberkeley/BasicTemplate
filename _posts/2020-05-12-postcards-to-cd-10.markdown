@@ -6,7 +6,7 @@ categories:
 tags:
 - voter rights
 - elections
-is featured: true
+is featured: false
 event-start-date: 2020-05-13 00:00:00 -07:00
 event-end-date: 2020-06-13 00:00:00 -07:00
 ---
