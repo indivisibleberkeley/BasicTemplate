@@ -1,6 +1,7 @@
 ---
 title: Phone bank for Biden 6/13
 date: 2020-06-10 20:52:00 -07:00
+is featured: true
 ---
 
 Join us to check in on Biden supporters in AZ! 
