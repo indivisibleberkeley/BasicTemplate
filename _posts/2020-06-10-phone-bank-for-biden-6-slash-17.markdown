@@ -1,5 +1,5 @@
 ---
-title: Phone bank for Biden 6/17
+title: Phone bank for Biden Wed. 6/17
 date: 2020-06-10 20:57:00 -07:00
 ---
 
