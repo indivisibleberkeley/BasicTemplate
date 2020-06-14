@@ -8,14 +8,15 @@ tags:
 - environment
 is featured: true
 event-start-date: 2020-06-14 00:00:00 -07:00
-event-end-date: 2020-06-25 00:00:00 -07:00
+event-end-date: 2020-06-24 00:00:00 -07:00
 ---
 
 ACTION: Call your State Senator to support AB 3030 which sets goals for California to conserve 30% of its land and water by 2030 to help California combat climate change and preserve biodiversity. Thank your Assembly person if they voted for AB 3030.
 
 CALL by June 24th:
 
-Senator Nancy Skinner - (916) 651-4009\
+Senator Nancy Skinner - (916) 651-4009
+
 Assemblymember: Buffy Wicks - (916) 319-2015 (voted for bill)
 
 If outside this area, you can find your representatives at [http://findyourrep.legislature.ca.gov/](http://findyourrep.legislature.ca.gov/)
@@ -24,7 +25,7 @@ AB 3030 calls for “improving access to nature for all people in the state, wit
 
 ***Suggested Scrip*****t (shorten as you wish and personalize as in paragraph 2):**
 
-Please work to get AB 3030 passed in the Senate. Its goal of protecting 30% of California’s land and waters by 2030 will make us more resilient to the climate change that we can expect in the future and help keep the IPPC’s goal of limiting global warming to 1.5°C a possibility*.*
+Please work to get AB 3030 passed in the Senate. Its goal of protecting 30% of California’s land and waters by 2030 will make us more resilient to the climate change that we can expect in the future and help keep the IPPC’s goal of limiting global warming to 1.5°C a possibility\*.\*
 
 I am very concerned about the effects of climate change and the need to preserve biodiversity throughout the world and in California. I am an avid (.....e.g. hiker, birder, biker, sailor, nature lover) and appreciate California’s many wonderful natural resources.
 
