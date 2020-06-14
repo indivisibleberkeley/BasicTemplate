@@ -6,6 +6,9 @@ categories:
 - action
 tags:
 - environment
+is featured: true
+event-start-date: 2020-06-14 00:00:00 -07:00
+event-end-date: 2020-06-25 00:00:00 -07:00
 ---
 
 ACTION: Call your State Senator to support AB 3030 which sets goals for California to conserve 30% of its land and water by 2030 to help California combat climate change and preserve biodiversity. Thank your Assembly person if they voted for AB 3030.
