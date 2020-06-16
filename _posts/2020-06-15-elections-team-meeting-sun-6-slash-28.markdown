@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - elections
+event-start-date: 2020-06-28 18:30:00 -07:00
+event-end-date: 2020-06-28 20:00:00 -07:00
 ---
 
 Save the date for the June elections team meeting - this meeting will be VIRTUAL!
