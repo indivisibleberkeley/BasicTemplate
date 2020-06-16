@@ -1,6 +1,8 @@
 ---
 title: Phone to Re-elect Josh Harder to Congress, 7/22
 date: 2020-06-16 13:02:00 -07:00
+categories:
+- event
 tags:
 - phone bank
 - elections
