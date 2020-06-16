@@ -15,7 +15,7 @@ RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_08_08
 
 ### Help Mark Kelly and take back the Senate!
 
-Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats. Join us -- we’ll be calling Arizona Voters with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot!
+Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats at every level in Arizona. Join us -- we’ll be calling with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot!
 
 IB phone banks are now all virtual,  using Zoom.  We’ll do a quick group orientation and update together, and trainers will be available to answer questions before and during the event.
 
