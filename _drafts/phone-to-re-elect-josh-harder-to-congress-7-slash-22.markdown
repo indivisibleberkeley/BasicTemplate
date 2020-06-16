@@ -1,10 +1,14 @@
 ---
 title: Phone to Re-elect Josh Harder to Congress, 7/22
 date: 2020-06-16 13:02:00 -07:00
+tags:
+- phone bank
+- elections
 main-image: "/uploads/3%20red%20phones-455991.jpg"
 event-start-date: 2020-07-22 13:00:00 -07:00
 event-end-date: 2020-07-22 16:00:00 -07:00
 Location: Virtual, online
+RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_07_22
 ---
 
 **Get Out The Vote for Congressman Josh Harder**
