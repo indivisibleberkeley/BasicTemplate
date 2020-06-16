@@ -1,6 +1,7 @@
 ---
 title: Phone Michigan Voters! IB/EBAA Phone Bank, 6/20
 date: 2020-05-20 11:12:00 -07:00
+published: false
 categories:
 - event
 tags:
