@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 event-start-date: 2020-06-28 18:30:00 -07:00
 event-end-date: 2020-06-28 20:00:00 -07:00
 ---
