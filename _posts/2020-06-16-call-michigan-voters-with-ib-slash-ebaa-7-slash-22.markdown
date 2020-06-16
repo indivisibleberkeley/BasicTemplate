@@ -1,6 +1,7 @@
 ---
 title: Call Michigan Voters with IB/EBAA! 7/22
 date: 2020-06-16 12:34:00 -07:00
+published: false
 categories:
 - event
 tags:
