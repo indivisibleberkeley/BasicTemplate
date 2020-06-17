@@ -6,8 +6,8 @@ categories:
 tags:
 - rcjr
 is featured: true
-event-start-date: 2020-06-20 07:00:00 -07:00
-event-end-date: 2020-06-21 17:30:00 -07:00
+event-start-date: 2020-06-20 15:00:00 -07:00
+event-end-date: 2020-06-20 17:30:00 -07:00
 ---
 
 Please consider joining the Mass Poor People’s Assembly and Moral March on Washington. Originally conceived as an actual Mass March on Washington, in the spirit of Dr. King's 1963 March on Washington For Jobs and Freedom, the Covid-19 Pandemic has required the event to be re-imagined as a virtual event.
