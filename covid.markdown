@@ -3,7 +3,7 @@ title: COVID-19 Relief
 date: 2020-06-17 13:53:00 -07:00
 ---
 
-## COVID-19 INFO | City Relief Funds + Ways to Help in Our Community
+### COVID-19 INFO | City Relief Funds + Ways to Help in Our Community
 
 FYI: The City of Berkeley is coordinating 3 financial relief funds that you may be eligible for: 
 - [Tenants][relief-tenants] (join the waitlist)
