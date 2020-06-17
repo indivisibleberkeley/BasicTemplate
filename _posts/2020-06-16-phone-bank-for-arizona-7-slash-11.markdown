@@ -2,13 +2,10 @@
 title: Phone Bank for Arizona, 7/11!
 date: 2020-06-16 17:57:00 -07:00
 categories:
-- Event
 - event
 tags:
-- Event
 - phone bank
-- phonebank
-- Phone bank
+- elections
 main-image: "/uploads/AZ%20hiway%20sign,%20angled.jpeg"
 event-start-date: 2020-07-11 13:00:00 -07:00
 event-end-date: 2020-07-11 16:00:00 -07:00
