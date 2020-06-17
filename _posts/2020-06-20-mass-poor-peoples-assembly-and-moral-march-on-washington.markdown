@@ -15,5 +15,5 @@ The organizers behind the March, including Rev. William Barber, are on a mission
 
 Our RCJR team strongly encourages you to join any of three sessions (Saturday 7-9:30am, 3-5:30pm, or Sunday 3-5:30pm).
 
-Click here for more information: [june2020.org](june2020.org)
+Click here for more information:
 
