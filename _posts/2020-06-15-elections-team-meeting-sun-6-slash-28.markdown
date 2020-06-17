@@ -17,4 +17,4 @@ Location: Zoom meeting : [https://us02web.zoom.us/j/83331181321?pwd=TjNaZ1FjUGdX
 Time: "Doors" at 6:30pm, meeting at 7pm
 
 Make sure to join the elections team!
-https://join.indivisibleberkeley.org/elections
+[https://join.indivisibleberkeley.org/elections](https://join.indivisibleberkeley.org/elections)
