@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - rcjr
-is featured: true
+is featured: false
 event-start-date: 2020-06-20 15:00:00 -07:00
 event-end-date: 2020-06-20 17:30:00 -07:00
 ---
