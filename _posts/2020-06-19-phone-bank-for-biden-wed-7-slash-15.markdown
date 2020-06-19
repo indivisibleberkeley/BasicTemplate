@@ -10,3 +10,5 @@ event-start-date: 2020-07-15 13:00:00 -07:00
 event-end-date: 2020-07-15 16:00:00 -07:00
 ---
 
+Join us to check in on Biden supporters in Wisconsin! 
+We're meeting Virtually on Wednesday 7/15 from 1-4 to phone.  Click on the link to RSVP and receive information about the event. For questions please contact Cheryl at clfippen@gmail.com
