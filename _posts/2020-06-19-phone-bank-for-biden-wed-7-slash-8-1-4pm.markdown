@@ -10,5 +10,5 @@ event-start-date: 2020-07-08 13:00:00 -07:00
 event-end-date: 2020-07-08 16:00:00 -07:00
 ---
 
-Join us to check in on Biden supporters in MI! 
+Join us to check in on Biden supporters in Michigan! 
 We're meeting Virtually on Wednesday 7/8 from 1-4 to phone.  Click on the link to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeEZ1pyFg8uT51n_yjl7ViE3xjrkGtyUmMEQ1IxAGK-Zv5_kg/viewform) and receive information about the event. For questions please contact Cheryl at clfippen@gmail.com
