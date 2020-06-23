@@ -19,4 +19,6 @@ East Bay State Senator: Nancy Skinner - (916) 651-4009
 
 For other areas of the state, find your representatives at http://findyourrep.legislature.ca.gov/
 
+For an easy way to send your state senator a message in support of ACA 6 and learn more about the initiative, see https://www.freethevoteca.org.
+
 Stay tuned for more developments! 
