@@ -2,7 +2,7 @@
 title: Help people on parole vote! Contact your state senator to support ACA 6
 date: 2020-06-23 14:23:00 -07:00
 categories:
-- action
+- call
 tags:
 - elections
 - voter rights
