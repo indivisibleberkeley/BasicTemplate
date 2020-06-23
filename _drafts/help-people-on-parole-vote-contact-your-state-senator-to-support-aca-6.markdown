@@ -7,7 +7,7 @@ tags:
 - elections
 - voter rights
 - criminal justice
-event-start-date: 2020-06-23 00:00:00 -07:00
+event-start-date: 2020-06-23 14:00:00 -07:00
 event-end-date: 2020-06-26 00:00:00 -07:00
 ---
 
