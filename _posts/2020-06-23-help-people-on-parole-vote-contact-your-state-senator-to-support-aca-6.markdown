@@ -4,9 +4,9 @@ date: 2020-06-23 14:23:00 -07:00
 categories:
 - call
 tags:
-- elections
 - voter rights
 - criminal justice
+- elections
 is featured: true
 event-start-date: 2020-06-23 14:00:00 -07:00
 event-end-date: 2020-06-26 00:00:00 -07:00
