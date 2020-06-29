@@ -1,11 +1,12 @@
 ---
 title: Elections Team meeting Sun. 6/28
 date: 2020-06-15 16:34:00 -07:00
+published: false
 categories:
 - event
 tags:
 - elections
-is featured: true
+is featured: false
 event-start-date: 2020-06-28 19:00:00 -07:00
 event-end-date: 2020-06-28 20:00:00 -07:00
 Location: Online (link in description)
