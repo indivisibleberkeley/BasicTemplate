@@ -1,0 +1,14 @@
+---
+title: RJCR 101
+date: 2020-07-07 22:03:00 -07:00
+categories:
+- event
+tags:
+- rcjr
+is featured: true
+event-start-date: 2020-07-15 19:00:00 -07:00
+event-end-date: 2020-07-15 20:00:00 -07:00
+RSVP-link: https://join.indivisibleberkeley.org/rcjr_101_20200715
+---
+
+Interested in getting involved in IB's Racism & Criminal Justice Reform team? Join us to hear about the latest actions and where you can plug in.
