@@ -1,5 +1,5 @@
 ---
-title: Virtual Textbank 7/25
+title: Virtual Textbank  Sat. 7/25, noon-2
 date: 2020-07-25 16:30:00 -07:00
 categories:
 - event
@@ -7,8 +7,8 @@ tags:
 - elections
 - textbank
 is featured: true
-event-start-date: 2020-06-27 12:00:00 -07:00
-event-end-date: 2020-06-27 14:00:00 -07:00
+event-start-date: 2020-07-25 12:00:00 -07:00
+event-end-date: 2020-07-25 14:00:00 -07:00
 Location: Remote locations
 RSVP-link: https://actionnetwork.org/events/june-texting-party
 ---
