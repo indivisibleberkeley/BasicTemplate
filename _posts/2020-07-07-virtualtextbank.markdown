@@ -1,6 +1,6 @@
 ---
 title: Virtual Textbank  Sat. 7/25, noon-2
-date: 2020-07-25 16:30:00 -07:00
+date: 2020-07-07 16:30:00 -07:00
 categories:
 - event
 tags:
