@@ -7,10 +7,10 @@ tags:
 - elections
 - textbank
 is featured: false
-event-start-date: 2020-07-25 12:00:00 -07:00
-event-end-date: 2020-07-25 14:00:00 -07:00
+event-start-date: 2020-07-25 10:00:00 -07:00
+event-end-date: 2020-07-25 12:00:00 -07:00
 Location: Remote locations
-RSVP-link: https://actionnetwork.org/events/june-texting-party
+RSVP-link: https://actionnetwork.org/events/july-texting-party
 ---
 
 Co-hosted by: East Bay Activist Alliance, Indivisible Berkeley, Indivisible East Bay
