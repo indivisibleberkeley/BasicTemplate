@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - textbank
-is featured: true
+is featured: false
 event-start-date: 2020-07-25 12:00:00 -07:00
 event-end-date: 2020-07-25 14:00:00 -07:00
 Location: Remote locations
