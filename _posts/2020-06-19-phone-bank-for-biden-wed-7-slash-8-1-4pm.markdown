@@ -1,6 +1,7 @@
 ---
 title: Phone Bank for Biden Wed. 7/8
 date: 2020-06-19 13:20:00 -07:00
+published: false
 categories:
 - event
 tags:
