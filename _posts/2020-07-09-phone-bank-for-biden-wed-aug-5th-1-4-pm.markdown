@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Biden, Wed. Aug. 5th, 1-4 pm
+title: Phone Bank for Biden, Wed. Aug. 5th
 date: 2020-07-09 12:59:00 -07:00
 categories:
 - event
