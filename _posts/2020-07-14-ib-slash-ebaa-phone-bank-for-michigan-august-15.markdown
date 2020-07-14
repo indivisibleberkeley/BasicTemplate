@@ -1,6 +1,8 @@
 ---
 title: IB/EBAA Phone Bank for Michigan, August 15
 date: 2020-07-14 11:52:00 -07:00
+categories:
+- event
 tags:
 - elections
 - phone bank
