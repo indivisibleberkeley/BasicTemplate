@@ -21,4 +21,4 @@ event-end-date: 2020-11-03 00:00:00 -08:00
 
 **“100 Days Out”** phone bank, July 25-26 -- sign up **[here](http://https://www.mobilize.us/missionforaz/event/284815/)**!
 
-**GOTV phoning** for the August 4 primary for Mark Kelly and Dems down ballot, particularly candidates for the Arizona state legislature. (Let's flip it!) Sign up for  volunteer shifts  for this zoom event **[here](https://docs.google.com/forms/d/e/1FAIpQLSci7HgsCBgq8ZU6xiiRLmcBgSDtTzEcpQZUYXmeTtipFZP1mA/viewform)**!
+**GOTV phoning** for the August 4 primary for Mark Kelly and Dems down ballot, particularly candidates for the Arizona state legislature -- which we can flip! Sign up for  volunteer shifts  for this zoom event **[here](https://docs.google.com/forms/d/e/1FAIpQLSci7HgsCBgq8ZU6xiiRLmcBgSDtTzEcpQZUYXmeTtipFZP1mA/viewform)**!
