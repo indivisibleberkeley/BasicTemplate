@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - elections
+- phone bank
 is featured: false
 main-image: "/uploads/AZ%20hiway%20sign,%20angled-d0c3e7.jpeg"
 event-start-date: 2020-05-29 00:00:00 -07:00
