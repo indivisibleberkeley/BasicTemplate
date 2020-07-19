@@ -10,5 +10,5 @@ event-start-date: 2020-08-12 13:00:00 -07:00
 event-end-date: 2020-08-12 16:00:00 -07:00
 ---
 
-Join us to make calls for Biden in Wisconsin! 
+Join us to make calls for Biden in Michigan! 
 We're meeting Virtually on Wednesday Aug. 12th from 1-4.  Click on the link to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfu_AVU30j4V-Hrvt-ibSUpgK_KPhSRdFHCV-AwTV--ChoxaQ/viewform) and receive information about the event. For questions please contact Cheryl at clfippen@gmail.com
