@@ -1,6 +1,6 @@
 ---
 title: Fired Up! A Post-Screen Conversation of Slay the Dragon
-date: 2020-07-19 17:00:00 -07:00
+date: 2020-07-19 10:00:00 -07:00
 categories:
 - event
 tags:
