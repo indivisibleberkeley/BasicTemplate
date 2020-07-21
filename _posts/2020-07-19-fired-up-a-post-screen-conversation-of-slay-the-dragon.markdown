@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/SLAY%20THE%20DRAGON%20-%20LOW%20RES%20(1).jpg"
 event-start-date: 2020-08-16 17:00:00 -07:00
 event-end-date: 2020-08-16 18:00:00 -07:00
