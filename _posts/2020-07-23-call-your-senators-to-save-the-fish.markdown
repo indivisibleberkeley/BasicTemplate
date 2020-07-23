@@ -16,3 +16,5 @@ Call your representives to save our fish!
 [our homepage](https://indivisibleberkeley.org)
 
 Need help?  **\[contact us\](mailto:info@indivisibleberkeley.org)**
+
+`[info@indivisibleberkeley.org]`
