@@ -1,7 +1,6 @@
 ---
 title: Website contributor instructions
 date: 2017-09-03 22:22:00 -07:00
-published: false
 position: 5
 ---
 
