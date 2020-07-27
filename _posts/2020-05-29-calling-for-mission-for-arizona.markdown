@@ -12,7 +12,7 @@ event-start-date: 2020-05-29 00:00:00 -07:00
 event-end-date: 2020-11-03 00:00:00 -08:00
 ---
 
-**I**n between our Indivisible Berkeley Arizona phone banks (listed on our [Elections Team ](https://indivisibleberkeley.org/team/elections)page), you can contact Arizona voters at home! Call with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot! **[Sign up for events here!](http://www.mobilize.us/?country=US&event_type=2&is_virtual=true&org_ids=2374)**
+**I**n between our Indivisible Berkeley Arizona phone banks (listed on our [Elections Team ](https://indivisibleberkeley.org/team/elections)page), you can contact Arizona voters at home! Call with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot! **[Sign up for events here!](http://www.mobilize.us/?address=United%20States&country=US&is_virtual=true&org_ids=2374)**
 
 * Recruit local volunteers
 
