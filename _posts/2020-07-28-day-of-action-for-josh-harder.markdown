@@ -7,7 +7,7 @@ tags:
 - elections
 - text
 event-start-date: 2020-08-01 10:00:00 -07:00
-event-end-date: 2020-07-28 16:30:00 -07:00
+event-end-date: 2020-08-01 16:30:00 -07:00
 RSVP-link: https://www.mobilize.us/harderforcongress/event/291073/
 ---
 
