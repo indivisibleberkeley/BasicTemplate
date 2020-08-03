@@ -1,5 +1,5 @@
 ---
-title: Virtual Postcard Party For Reclaim Our Vote Aug. 5th
+title: Virtual Postcard Party For Reclaim Our Vote Aug. 5th - EVENT IS FULL!
 date: 2020-07-19 21:59:00 -07:00
 categories:
 - event
