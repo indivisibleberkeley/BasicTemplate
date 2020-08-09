@@ -13,7 +13,7 @@ Location: Virtual, online
 RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_10_06
 ---
 
-**Let's Flip this Swing State!  Early voting starts tomorrow! **
+### Let's Flip this Swing State!  Early voting starts tomorrow! 
 
 Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats at every level (including the state legislature) in Arizona. And we need to win by a wide margin, early, to forestall Republican challenges to the election results!  We'll be helping Arizonans to vote safely by mail -- and ASAP -- so their vote will be counted.   Join us!
 
