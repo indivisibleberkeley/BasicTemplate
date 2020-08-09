@@ -1,5 +1,5 @@
 ---
-title: 'Phone Bank: Phone Arizona Voters, 8/25'
+title: 'Phone Bank: Phone Arizona Voters, Tues, 8/25, 4-6pm'
 date: 2020-08-08 19:24:00 -07:00
 categories:
 - event
