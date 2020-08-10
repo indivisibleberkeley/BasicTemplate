@@ -17,6 +17,6 @@ RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_08_25
 
 Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats at every level in Arizona. We'll be calling voters to help them to apply for mail-in ballots SOON, so they get them in time to vote safely and actually have it count!  We’ll be calling with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot.   We can flip the white house, U.S. Senate and the Arizona state house if we push hard for the next few weeks! Join us!
 
-Please RSVP as soon as possible, but definitely by 1/2 hour before our start time or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
+Please RSVP as soon as possible, but we strongly recommend 1/2 hour before our start time at the latest -- or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
 
 Questions? Email: phonebank\+owner@indivisibleberkeley.org
