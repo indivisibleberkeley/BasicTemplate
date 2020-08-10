@@ -13,7 +13,7 @@ Location: Online
 RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_09_29
 ---
 
-**We've just got to flip this Swing State!**
+**Flip this swing state!**
 
 Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats at every level (including the state legislature) in Arizona. And we need to win by a wide margin, early, to forestall Republican challenges to the election results!  We'll be helping Arizonans to vote safely by mail -- and ASAP -- so their vote will be counted.   Join us!
 
