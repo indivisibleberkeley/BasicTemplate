@@ -4,8 +4,8 @@ date: 2020-08-10 14:24:00 -07:00
 categories:
 - event
 tags:
-- elections
-- phone bank
+- Elections
+- Phone Bank
 main-image: "/uploads/Arizona%20highway%20sign.jpeg"
 event-start-date: 2020-09-05 13:00:00 -07:00
 event-end-date: 2020-09-05 16:00:00 -07:00
