@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Biden/Kelly in AZ, Wed. 9/9
+title: Phone Bank for Biden & Kelly in AZ, Wed. 9/9
 date: 2020-08-19 17:34:00 -07:00
 categories:
 - event
