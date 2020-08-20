@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Biden & Peters, Wed. 9/16
+title: Phone Bank for Biden & Peters in MI, Wed. 9/16
 date: 2020-08-19 17:42:00 -07:00
 categories:
 - event
