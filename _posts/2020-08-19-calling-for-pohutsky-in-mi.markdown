@@ -1,5 +1,5 @@
 ---
-title: Calling for Pohutsky in MI, Wed. 9/2
+title: Phone Bank for Pohutsky in MI, Wed. 9/2
 date: 2020-08-19 17:16:00 -07:00
 categories:
 - event
