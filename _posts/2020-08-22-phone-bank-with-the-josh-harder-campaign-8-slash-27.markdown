@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-start-date: 2020-08-27 17:00:00 -07:00
 event-end-date: 2020-08-22 18:30:00 -07:00
 Location: Virtual, using Zoom
@@ -20,6 +21,6 @@ Please join the Josh Harder campaign for a phone banking session online, via Zoo
 
 Please RSVP on the campaign's Mobilize site for August 27th at 5 pm.   
 
-What you'll need: A charged ipad, tablet, or computer (for viewing voters' screens and recording their answers) and your cell phone or landline.
+What you’ll need: A charged iPad, tablet, or computer (to view the phonebank details) and your cell phone or landline.
 
-We’re happy to answer questions at: phonebank\+owner@indivisibleberkeley
+We’re happy to answer questions at phonebank+owner@indivisibleberkeley.
