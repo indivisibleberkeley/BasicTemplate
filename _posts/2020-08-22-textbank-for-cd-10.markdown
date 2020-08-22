@@ -11,7 +11,7 @@ Location: 'Virtual -- details emailed to RSVPs '
 RSVP-link: https://www.mobilize.us/harderforcongress/event/306317/
 ---
 
-Help build support for Josh Harder using an easy textbanking app or website called OutVote. 
+Help build support for Josh Harder using an easy textbanking app or website called [OutVote](http://outvote.io). 
 
 We'll be teaming up with Westside Dem HQ, an energetic, friendly activist group from Southern California and the Harder campaign folks. Sign up at [https://www.mobilize.us/harderforcongress/event/306317/](https://www.mobilize.us/harderforcongress/event/306317/). 
 
