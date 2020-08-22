@@ -17,11 +17,9 @@ RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_09_12
 
 In 2018 we successfully helped elect Josh Harder to the House of Representatives, representing Congressional District CA-10 (Tracy/Modesto). He's been a dynamic first-term Congress member! Now he is running for reelection and Republicans are highly motivated to regain his seat. Let's make sure that doesn't happen!
 
-We'll be using Zoom to work together online -- and it's been a really sociable and supportive experience for volunteers!  If you are new to phone banking or to Zoom, we are here to help. We start with an quick orientation, and trainers will be available throughout to answer questions. You’ll be able to request help in a private conversation at any time during the phone bank if you choose.  
+Join us on Zoom to phone bank together online. If you're new to phone banking or Zoom, we're here to help! Trainers are available before and during the phonebank to answer any questions and get you set-up.
 
-Please RSVP to participate so we can email you instructions for joining the event.
-
-If you are not currently an IB member, we encourage you to join when you sign up so we can keep you posted about upcoming IB electoral (partisan) events.
+Please RSVP as soon as possible, so we can email you the instructions in advance of the event.
 
 What you'll need: A charged ipad, tablet, or computer (for viewing voters' screens and recording their answers) and your cell phone or landline.
 
