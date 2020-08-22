@@ -1,6 +1,11 @@
 ---
 title: Phone Bank with the Josh Harder Campaign, 8/27!
 date: 2020-08-22 15:57:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phone bank
 event-start-date: 2020-08-27 17:00:00 -07:00
 event-end-date: 2020-08-22 18:30:00 -07:00
 Location: Virtual, using Zoom
