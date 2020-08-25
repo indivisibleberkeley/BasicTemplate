@@ -2,7 +2,7 @@
 title: Postcards for Harder
 date: 2020-08-25 10:18:00 -07:00
 categories:
-- event
+- action
 tags:
 - elections
 event-start-date: 2020-08-25 00:00:00 -07:00
