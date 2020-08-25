@@ -8,6 +8,7 @@ tags:
 main-image: "/uploads/massive%20phonebank.png"
 event-start-date: 2020-10-21 16:00:00 -07:00
 event-end-date: 2020-10-21 18:00:00 -07:00
+Location: Virtual
 ---
 
 Join us to make calls for Josh's reelection as Congressman in CD-10.  We'll meet Virtually on Zoom from 4-6 pm PST.
