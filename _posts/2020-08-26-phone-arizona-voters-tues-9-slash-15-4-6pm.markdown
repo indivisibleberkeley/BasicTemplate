@@ -18,8 +18,8 @@ Arizona is a key battleground state-- for the presidency and the senate. We need
 
 We'll be working together on zoom, and we'll provide training and support throughout the phone bank.
 
-**What you'll need:** a computer, tablet or ipad, and your phone.  
+**What you'll need:** a computer, tablet or ipad, and your phone.
 
-**RSVP as soon as possible**, but definitely by 1/2 hour before our start time or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
+**RSVP as soon as possible**, preferably before the hour preceding our start time or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
 
 Questions? Email: phonebank\+owner@indivisibleberkeley.org
