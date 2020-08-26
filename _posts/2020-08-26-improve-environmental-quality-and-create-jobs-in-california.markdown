@@ -3,6 +3,9 @@ title: Improve environmental quality and create jobs in California
 date: 2020-08-26 07:59:00 -07:00
 categories:
 - Action
+tags:
+- science
+- environment
 call-script-text: "CALL as soon as possible (before Monday, August 31, 2020)\nSenator
   Nancy Skinner - (916) 651-4009\nAssembly member: Buffy Wicks - (916) 319-2015\nIf
   outside this area, you can find your representatives at http://findyourrep.legislature.ca.gov/\n
@@ -61,6 +64,7 @@ call-script-text: "CALL as soon as possible (before Monday, August 31, 2020)\nSe
   in excess of 1,000 gallons of oil.\n"
 event-start-date: 2020-08-26 08:00:00 -07:00
 event-end-date: 2020-08-31 00:00:00 -07:00
+Location: Actions on your own
 ---
 
 ACTION: Please take action on 3 bills in the California legislature by phoning your representatives.   Assembly Bill 841 and Assembly Bill 326  both support the transition to a cleaner environment and support a robust economy with less reliance on fossil fuel.  The bills improve environmental quality by providing greener school buildings, adding electric vehicle charging stations, training installers and reducing the upfront costs to lease electric vehicles.  AB 3214  increases fines related to oil discharges or spills and fines for failure to clean up spills into California waters. 
