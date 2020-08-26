@@ -2,7 +2,7 @@
 title: Improve environmental quality and create jobs in California
 date: 2020-08-26 07:59:00 -07:00
 categories:
-- Action
+- action
 tags:
 - science
 - environment
