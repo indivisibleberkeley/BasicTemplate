@@ -7,10 +7,18 @@ tags:
 - science
 - environment
 is featured: true
-call-script-text: |-
-  Dear representative,
-  Please support AB 841 and AB 326 to improve the quality of our environment. AB 841 improves the energy efficiency and healthy spaces in our school buildings. This bill also adds good, clean jobs to install charging stations throughout the state.
-  AB 326 lowers the initial cost to lease electric cars and improves the car shopping experience by enabling leasing direct from the manufacturer on a month-to-month basis. Thank you!
+call-script-text: "Dear representative, \n\nPlease support AB 841 and AB 326 to improve
+  the quality of our environment. AB 841 improves the energy efficiency and healthy
+  spaces in our school buildings. This bill also adds good, clean jobs to install
+  charging stations throughout the state. AB 326 lowers the initial cost to lease
+  electric cars and improves the car shopping experience by enabling leasing direct
+  from the manufacturer on a month-to-month basis. \n\n—– The next paragraph is for
+  calls to CA Senators ONLY, since AB 3214 already passed in the Assembly.— \n\n***
+  Protecting the environment from the catastrophic impact of oil spills requires strong
+  deterrence. AB 3214 will double the current fines for spills and failure to clean
+  spills, creating stronger pressure on oil companies to invest in proper preventative
+  measures.***\n\n----Add a personal statement about how these issues affect you--\n\n***
+  Please support these bills and vote “YES”. Thank you.***"
 event-start-date: 2020-08-26 08:00:00 -07:00
 event-end-date: 2020-08-31 00:00:00 -07:00
 ---
