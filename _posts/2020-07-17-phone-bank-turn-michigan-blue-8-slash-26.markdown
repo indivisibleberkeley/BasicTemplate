@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+is featured: true
 main-image: "/uploads/donkey%20&%20elephant%20on%20flag-b77af8.jpeg"
 event-start-date: 2020-08-26 13:00:00 -07:00
 event-end-date: 2020-08-26 16:00:00 -07:00
