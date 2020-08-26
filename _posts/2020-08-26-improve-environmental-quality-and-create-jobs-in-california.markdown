@@ -19,8 +19,7 @@ Senator Nancy Skinner - (916) 651-4009
 Assembly member: Buffy Wicks - (916) 319-2015
 If outside this area, you can find your representatives at http://findyourrep.legislature.ca.gov/
 
-    The first two bills (AB 841 and AB 326)  have less than a week to get off of the senate floor, move to the assembly, get through committees, and pass the assembly floor.  Call your CA State Assembly member and CA Senator to urge support. 
-     AB 3214 was passed in the CA Assembly in June 2020 and is currently in the CA Senate. Call your Senator.
+The first two bills (AB 841 and AB 326)  have less than a week to get off of the senate floor, move to the assembly, get through committees, and pass the assembly floor.  Call your CA State Assembly member and CA Senator to urge support. AB 3214 was passed in the CA Assembly in June 2020 and is currently in the CA Senate. Call your Senator.
 
 SCRIPT suggested for phone call
 ***Dear representative,***
