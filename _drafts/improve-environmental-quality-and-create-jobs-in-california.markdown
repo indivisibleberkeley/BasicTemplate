@@ -6,44 +6,22 @@ categories:
 tags:
 - science
 - environment
-call-script-text: "\n      \n\n--Add a personal statement about how these issues affect
-  you--\n\n      Please support these bills and vote “YES”.  Thank you.\n\nKEY PROVISIONS\nHere
-  are **AB 841’s** key provisions.\n\n* Public schools will get some unused public
-  dollars that have been set aside for energy efficiency.  Funds must be used to fix
-  ancient plumbing problems and replace inefficient and polluting heating, ventilation
-  and air conditioning systems.\n\n* AB 841 will accelerate the process for utilities
-  to install electric vehicle charging stations around the state.  Also, good training
-  is required for the installers.\n\n* The bill’s result will be healthier schools,
-  less water waste, reduced electricity demand, less air pollution from power plants,
-  less tailpipe pollution from cars and trucks and good jobs.\n\nA second bill, **AB
-  326**,  will lower the up-front costs to lease electric cars, greatly easing the
-  transition from gasoline powered cars to electric vehicles.\n\n* The bill will allow
-  electric vehicle manufacturers to lease month-to-month directly to consumers.\n\n*
-  The bill is packed with consumer protections, including some that exceed protections
-  in current law.\n\n* AB 326 allows consumers to start driving an electric vehicle
-  without a big down-payment or long-term lease.\n\nAB 326 has the support of environmental
-  groups and major consumer groups.  The bill is sponsored by a California electric
-  vehicle manufacturer, Canoo.\n\nBecause the bill bypasses dealerships, consumers
-  will sidestep dealers who have been known to engage in predatory lending practices
-  or create obstacles for consumers.  The bill will accelerate electric vehicle use,
-  especially by people who want to try the vehicles before making a final decision.
-  People with modest incomes can make the switch to electric vehicles sooner.\n\nThe
-  third bill, **AB 3214**, imposes higher fines related to knowingly spilling or discharging
-  oil. Oil companies oppose higher penalties to avoid the consequences of lax precautions,
-  cheap equipment and lower standards of maintenance.  These bills set higher penalties
-  for failing to protect our environment and our people.\n\n* AB 3214 doubles the
-  financial penalty allowed for the knowing discharge or spill of oil into state waters.
-  \ Existing law makes it a felony punishable by a fine of not less than $5,000 or
-  more than $500,000 for each day a violation occurs.\n\n* This bill doubles the minimum
-  and maximum fines for the knowing failure to clean up spills and discharges, for
-  failure to notify the Office of Emergency Services or for failure to follow a spill
-  contingency plan.  Existing law makes it a felony punishable by a fine of not less
-  than $2,500 or more than $250,000 for each day a violation occurs for a first conviction,
-  and, for a 2nd conviction, by a fine of not less than $5,000 or more than $500,000
-  for each day a violation occurs.\n\n* Additional fines can be imposed based on the
-  quantity of oil spilled or left without cleanup or notification. Fines related to
-  quantity are allowed up to a maximum of $1,000 per gallon spilled in excess of 1,000
-  gallons of oil."
+call-script-text: "\n      \n\nThe third bill, **AB 3214**, imposes higher fines related
+  to knowingly spilling or discharging oil. Oil companies oppose higher penalties
+  to avoid the consequences of lax precautions, cheap equipment and lower standards
+  of maintenance.  These bills set higher penalties for failing to protect our environment
+  and our people.\n\n* AB 3214 doubles the financial penalty allowed for the knowing
+  discharge or spill of oil into state waters.  Existing law makes it a felony punishable
+  by a fine of not less than $5,000 or more than $500,000 for each day a violation
+  occurs.\n\n* This bill doubles the minimum and maximum fines for the knowing failure
+  to clean up spills and discharges, for failure to notify the Office of Emergency
+  Services or for failure to follow a spill contingency plan.  Existing law makes
+  it a felony punishable by a fine of not less than $2,500 or more than $250,000 for
+  each day a violation occurs for a first conviction, and, for a 2nd conviction, by
+  a fine of not less than $5,000 or more than $500,000 for each day a violation occurs.\n\n*
+  Additional fines can be imposed based on the quantity of oil spilled or left without
+  cleanup or notification. Fines related to quantity are allowed up to a maximum of
+  $1,000 per gallon spilled in excess of 1,000 gallons of oil."
 event-start-date: 2020-08-26 08:00:00 -07:00
 event-end-date: 2020-08-31 00:00:00 -07:00
 ---
@@ -67,3 +45,24 @@ SCRIPT suggested for phone call
     ----Add a personal statement about how these issues affect you--
 
 ***    Please support these bills and vote “YES”. Thank you.***
+
+KEY PROVISIONS
+Here are **AB 841’s** key provisions.
+
+* Public schools will get some unused public dollars that have been set aside for energy efficiency.  Funds must be used to fix ancient plumbing problems and replace inefficient and polluting heating, ventilation and air conditioning systems.
+
+* AB 841 will accelerate the process for utilities to install electric vehicle charging stations around the state.  Also, good training is required for the installers.
+
+  AB 326 has the support of environmental groups and major consumer groups.  The bill is sponsored by a California electric vehicle manufacturer, Canoo.
+
+  Because the bill bypasses dealerships, consumers will sidestep dealers who have been known to engage in predatory lending practices or create obstacles for consumers.  The bill will accelerate electric vehicle use, especially by people who want to try the vehicles before making a final decision. People with modest incomes can make the switch to electric vehicles sooner.
+
+* The bill’s result will be healthier schools, less water waste, reduced electricity demand, less air pollution from power plants, less tailpipe pollution from cars and trucks and good jobs.
+
+  A second bill, **AB 326**,  will lower the up-front costs to lease electric cars, greatly easing the transition from gasoline powered cars to electric vehicles.
+
+  * The bill will allow electric vehicle manufacturers to lease month-to-month directly to consumers.
+
+  * The bill is packed with consumer protections, including some that exceed protections in current law.
+
+  * AB 326 allows consumers to start driving an electric vehicle without a big down-payment or long-term lease.
