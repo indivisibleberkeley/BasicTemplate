@@ -8,7 +8,7 @@ tags:
 - phone bank
 main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-start-date: 2020-09-12 13:00:00 -07:00
-event-end-date: 2020-09-12 00:00:00 -07:00
+event-end-date: 2020-09-12 16:00:00 -07:00
 Location: Virtual, using Zoom
 RSVP-link: https://join.indivisibleberkeley.org/phone_for_harder_2020_09_12
 ---
