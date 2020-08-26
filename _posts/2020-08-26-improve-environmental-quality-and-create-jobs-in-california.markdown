@@ -7,7 +7,10 @@ tags:
 - science
 - environment
 is featured: true
-call-script-text: "\n      "
+call-script-text: |-
+  Dear representative,
+  Please support AB 841 and AB 326 to improve the quality of our environment. AB 841 improves the energy efficiency and healthy spaces in our school buildings. This bill also adds good, clean jobs to install charging stations throughout the state.
+  AB 326 lowers the initial cost to lease electric cars and improves the car shopping experience by enabling leasing direct from the manufacturer on a month-to-month basis. Thank you!
 event-start-date: 2020-08-26 08:00:00 -07:00
 event-end-date: 2020-08-31 00:00:00 -07:00
 ---
