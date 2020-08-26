@@ -1,6 +1,10 @@
 ---
 title: General Assembly - September 2020
 date: 2020-08-25 22:12:00 -07:00
+categories:
+- event
+tags:
+- general assembly
 is featured: true
 ---
 
