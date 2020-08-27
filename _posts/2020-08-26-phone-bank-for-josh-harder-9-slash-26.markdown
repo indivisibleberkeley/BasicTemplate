@@ -1,6 +1,11 @@
 ---
 title: Phone Bank for Josh Harder, 9/26!
 date: 2020-08-26 18:35:00 -07:00
+categories:
+- event
+tags:
+- phone bank
+- elections
 main-image: "/uploads/3%20red%20phones%20(1).jpg"
 event-start-date: 2020-09-26 13:00:00 -07:00
 event-end-date: 2020-09-26 16:00:00 -07:00
