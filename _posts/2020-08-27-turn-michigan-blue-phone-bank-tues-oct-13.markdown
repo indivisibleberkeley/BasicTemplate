@@ -10,6 +10,7 @@ main-image: "/uploads/donkey%20&%20elephant%20on%20flag-b77af8.jpeg"
 event-start-date: 2020-10-13 15:00:00 -07:00
 event-end-date: 2020-10-13 17:00:00 -07:00
 Location: Online, Virtual
+RSVP-link: 'https://join.indivisibleberkeley.org/phone_swing_states_2020_10_13 '
 ---
 
 Michigan is a key battleground state. We need your help! Join us – we’ll be calling Michigan voters with the state Democratic Party’s coordinated campaign, the “ONE Campaign for Michigan,” supporting Presidential nominee Joe Biden, incumbent Senator Gary Peters (who’s in a tight race), and Democratic candidates up and down the ballot!
