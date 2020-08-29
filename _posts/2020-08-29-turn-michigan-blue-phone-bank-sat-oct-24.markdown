@@ -1,6 +1,11 @@
 ---
 title: Turn Michigan Blue! Phone Bank Sat. Oct. 24
 date: 2020-08-29 14:23:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phone bank
 main-image: "/uploads/3%20red%20phones-455991.jpg"
 event-start-date: 2020-10-24 13:00:00 -07:00
 event-end-date: 2020-10-24 16:00:00 -07:00
