@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - elections
-main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
+main-image: "/uploads/Screen%20Shot%202020-05-23%20at%2012.30.23%20PM-c4f6be.png"
 event-start-date: 2020-09-02 14:00:00 -07:00
 event-end-date: 2020-09-02 16:30:00 -07:00
 Location: Virtual
