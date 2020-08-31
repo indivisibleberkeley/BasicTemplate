@@ -12,4 +12,4 @@ Location: Virtual
 ---
 
 Join us to make calls for Josh's reelection as Congressman in CD-10.  We'll meet Virtually on Zoom from 4-6 pm PST.
-Please [click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdbvW9-Uz5bqC8N669u41-uTTtc6fbIyIHcnhFr5x5pyxcOJA/viewform) and receive the event details the day before.  For questions please contact Cheryl at clfippen@gmail.com
+Please [**click here to RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSdbvW9-Uz5bqC8N669u41-uTTtc6fbIyIHcnhFr5x5pyxcOJA/viewform) and receive the event details the day before.  For questions please contact Cheryl at clfippen@gmail.com
