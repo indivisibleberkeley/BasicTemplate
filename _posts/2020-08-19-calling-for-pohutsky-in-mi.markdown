@@ -11,4 +11,4 @@ event-end-date: 2020-09-02 16:30:00 -07:00
 Location: Virtual
 ---
 
-Join us and EBAA for calls to Livonia, MI, where we'll campaign for Laurie Pohutsky in her State House reelection bid. We'll meet Virtually from 2-4:30 pm on Zoom.  Click on the [**RSVP here**](https://docs.google.com/forms/d/e/1FAIpQLScJ-KLPAszSyKwyRr5rEip0iwIPWcRS_cGV7a-VqtyBLB0QYg/viewform) to sign up for the event and receive more information.  For questions please contact Cheryl at clfippen@gmail.com
+Join us to call for Biden/Harris and Sen. Gary Peters in this crucial battleground state. We'll meet Virtually from 2-4:30 pm on Zoom.  Click on the [**RSVP here**](https://docs.google.com/forms/d/e/1FAIpQLScJ-KLPAszSyKwyRr5rEip0iwIPWcRS_cGV7a-VqtyBLB0QYg/viewform) to sign up for the event and receive more information.  For questions please contact Cheryl at clfippen@gmail.com
