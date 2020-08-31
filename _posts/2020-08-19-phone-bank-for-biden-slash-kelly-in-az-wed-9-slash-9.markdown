@@ -13,4 +13,4 @@ Location: Virtual
 
 Join us in calling for Joe Biden and Mark Kelly in AZ!
 We'll meet Virtually on Zoom from 4-6 pm.
-Please [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLScJ-KLPAszSyKwyRr5rEip0iwIPWcRS_cGV7a-VqtyBLB0QYg/viewform) to sign up and receive more information.  For questions please contact Cheryl at clfippen@gmail.com
+Please [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSeR1zPAQQPnxrL33L97hGaq7S8CsEG7cp6NTRfat5UeyWWQ2Q/viewform) to sign up and receive more information.  For questions please contact Cheryl at clfippen@gmail.com
