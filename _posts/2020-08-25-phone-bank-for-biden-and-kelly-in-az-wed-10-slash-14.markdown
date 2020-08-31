@@ -12,4 +12,4 @@ Location: Virtual
 ---
 
 Join us to call into the critical swing state of Arizona for Biden/Harris and Senate candidate Mark Kelly. We'll meet Virtually on Zoom from 4-6 pm PST.  
-[Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLScxj9ERy2O_gYekHCzJGzKjBbZ-cjSGL7GYv5y90kMBn6b8kQ/viewform) and receive details on the phone bank the day before.  For questions please contact Cheryl at clfippen@gmail.com
+[**Click here to RSVP**](https://docs.google.com/forms/d/e/1FAIpQLScxj9ERy2O_gYekHCzJGzKjBbZ-cjSGL7GYv5y90kMBn6b8kQ/viewform) and receive details on the phone bank the day before.  For questions please contact Cheryl at clfippen@gmail.com
