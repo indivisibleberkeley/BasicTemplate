@@ -11,4 +11,4 @@ event-end-date: 2020-09-23 18:00:00 -07:00
 Location: Virtual
 ---
 
-Join us to fight for the AZ electoral votes, and help flip the Senate with a win for Mark Kelly. We'll be meeting Virtually on Zoom from 4-6 pm.  Please [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLScQPBZkeZ8ProXoGuMu_uety56UMcoSLyu2C0hgnyc8LWQVcQ/viewform) to sign up and receive event information.  For questions please contact Cheryl at clfippen@gmail.com
+Join us to fight for the AZ electoral votes, and help flip the Senate with a win for Mark Kelly. We'll be meeting Virtually on Zoom from 4-6 pm.  Please [**RSVP here**](https://docs.google.com/forms/d/e/1FAIpQLScQPBZkeZ8ProXoGuMu_uety56UMcoSLyu2C0hgnyc8LWQVcQ/viewform) to sign up and receive event information.  For questions please contact Cheryl at clfippen@gmail.com
