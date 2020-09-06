@@ -8,6 +8,8 @@ tags:
 is featured: true
 event-start-date: 2020-09-13 19:30:00 -07:00
 event-end-date: 2020-09-13 20:30:00 -07:00
+Location: Zoom (see description for link)
+RSVP-link: https://join.indivisibleberkeley.org/ga_september_2020
 ---
 
 The September GA will be a virtual version of our sample ballot mark-up party. Bring a beverage of your choice to toast your favorite candidates and ballot initiatives!
