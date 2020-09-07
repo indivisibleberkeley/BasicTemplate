@@ -14,4 +14,4 @@ Please join for a focus on GOTV (Get Out The Vote), as some of our target states
 
 *Doors* at 6:30 pm, meeting 7-8, Virtually.
 
-Here's the Zoom link for joining
+Here's the Zoom link for joining: [https://us02web.zoom.us/j/89319906384?pwd=RmxXSC9tM0pPbmhWbWptaFA1RS9RUT09](https://us02web.zoom.us/j/89319906384?pwd=RmxXSC9tM0pPbmhWbWptaFA1RS9RUT09)
