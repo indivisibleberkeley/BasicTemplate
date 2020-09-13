@@ -1,5 +1,5 @@
 ---
-title: Phone Arizona Voters, Tues, 9/15, 4-6pm!
+title: Phone Arizona Voters! Tu, 9/15, 4-6pm
 date: 2020-08-09 07:24:00 -07:00
 categories:
 - event
