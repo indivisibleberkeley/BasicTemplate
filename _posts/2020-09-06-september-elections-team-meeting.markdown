@@ -1,5 +1,5 @@
 ---
-title: September Elections Team meeting
+title: October Elections Team meeting (Sept. CANCELLED)
 date: 2020-09-06 17:24:00 -07:00
 categories:
 - event
