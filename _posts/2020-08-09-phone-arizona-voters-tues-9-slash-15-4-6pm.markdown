@@ -14,7 +14,7 @@ Location: Online, virtual
 RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_09_15
 ---
 
-**Flip this swing state! (NOTE: Working on fixing the heading above -- but the date is 9/15  !!**
+**Flip this swing state! **
 
 Arizona is a key battleground state-- for the presidency and the senate. We need your help to flip red seats blue and re-elect Democrats at every level in Arizona. We'll be calling voters to help them to apply for mail-in ballots SOON, so they get them in time to vote safely and actually have it count!  We’ll be calling with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Senate candidate Mark Kelly and Democratic candidates up and down the ballot.   We can flip the white house, U.S. Senate and the Arizona state house if we push hard for the next few weeks! Join us!
 
