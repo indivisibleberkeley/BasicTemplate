@@ -6,6 +6,7 @@ categories:
 tags:
 - phone bank
 - elections
+is featured: true
 main-image: "/uploads/AZ%20red%20bluff-2d1300.jpeg"
 event-start-date: 2020-09-15 16:00:00 -07:00
 event-end-date: 2020-09-15 18:00:00 -07:00
