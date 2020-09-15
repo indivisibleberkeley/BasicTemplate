@@ -6,6 +6,9 @@ categories:
 tags:
 - elections
 - textbank
+event-end-date: 2020-11-03 21:00:00 -08:00
+Location: Your home
+RSVP-link: https://www.mobilize.us/onecampaignformichigan/event/309885/
 ---
 
 Michigan is a key battleground state – for the presidency, the Senate, the House, state legislature, EVERYTHING. We need your help to flip red seats blue and re-elect Democrats at every level in Michigan.
