@@ -6,7 +6,7 @@ categories:
 tags:
 - phonebank
 - elections
-is featured: true
+is featured: false
 main-image: "/uploads/Arizona%20highway%20sign.jpeg"
 event-start-date: 2020-09-13 16:00:00 -07:00
 event-end-date: 2020-09-30 00:00:00 -07:00
