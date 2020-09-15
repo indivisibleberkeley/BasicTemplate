@@ -1,5 +1,5 @@
 ---
-title: 'GOTV: Turn Out Arizona Voters! Sat, 10/17, 12-2pm'
+title: 'GOTV: Phone Arizona Voters! Sat, 10/17, 2-4pm'
 date: 2020-09-14 16:34:00 -07:00
 categories:
 - event
@@ -7,8 +7,8 @@ tags:
 - phone bank
 - elections
 main-image: "/uploads/AZ%20red%20bluff.jpeg"
-event-start-date: 2020-10-17 12:00:00 -07:00
-event-end-date: 2020-10-17 14:00:00 -07:00
+event-start-date: 2020-10-17 14:00:00 -07:00
+event-end-date: 2020-10-17 16:00:00 -07:00
 Location: Mission for Arizona's Central Phone Bank Zoom Hub -- see you there!
 ---
 
@@ -18,6 +18,6 @@ The Mission for Arizona campaign for Biden for POTUS, Mark Kelly for Senate, and
 
 You can sign up for one or more shifts, or If you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to)! Pick any shift! But If you'd like to (hopefully) see your IB friends there too.....
 
-**Join us Saturday, 10/17, 12-2pm:** **[OpenVPB: Weekend Zoom Hub Sign-Ups](https://www.mobilize.us/missionforaz/event/312751/)**
+**Join us Saturday, 10/17, 2-4pm:** **[OpenVPB: Weekend Zoom Hub Sign-Ups](https://www.mobilize.us/missionforaz/event/312751/)**
 
 **Questions?** You'll get great training materials from the campaign! But feel free to call us before event if you have questions: phonebank\+owner@indivisibleberkeley.org.
