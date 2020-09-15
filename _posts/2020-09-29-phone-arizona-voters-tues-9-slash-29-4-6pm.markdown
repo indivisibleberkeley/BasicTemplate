@@ -1,12 +1,11 @@
 ---
 title: Phone Arizona Voters! Tues, 9/29, 4-6pm
 date: 2020-09-29 16:00:00 -07:00
-published: false
 categories:
 - event
 tags:
-- phonebank
 - elections
+- phone bank
 main-image: "/uploads/AZ%20red%20bluff-2d1300.jpeg"
 event-start-date: 2020-09-29 16:00:00 -07:00
 event-end-date: 2020-09-29 18:00:00 -07:00
