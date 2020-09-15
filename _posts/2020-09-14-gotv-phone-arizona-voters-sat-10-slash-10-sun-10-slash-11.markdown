@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/AZ%20red%20bluff.jpeg"
 event-start-date: 2020-10-17 12:00:00 -07:00
 event-end-date: 2020-10-17 14:00:00 -07:00
-Location: Mission for Arizona's central phone bank zoom hub -- see you there!
+Location: Mission for Arizona's Central Phone Bank Zoom Hub -- see you there!
 ---
 
 **Time to Get Out The Vote time in Arizona!    Weekend calling on the central campaign zoom!**
