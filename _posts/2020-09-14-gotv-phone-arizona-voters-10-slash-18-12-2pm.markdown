@@ -1,5 +1,5 @@
 ---
-title: 'GOTV: PHONE ARIZONA VOTERS! Sun, 10/18, 2-4pm'
+title: 'GOTV: Phone Arizona Voters! Sun, 10/18, 2-4pm'
 date: 2020-09-14 17:35:00 -07:00
 categories:
 - event
