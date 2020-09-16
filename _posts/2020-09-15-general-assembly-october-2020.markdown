@@ -1,6 +1,10 @@
 ---
 title: General Assembly - October 2020
 date: 2020-09-15 23:16:00 -07:00
+categories:
+- event
+tags:
+- general assembly
 is featured: true
 event-start-date: 2020-10-11 19:30:00 -07:00
 event-end-date: 2020-10-11 20:30:00 -07:00
