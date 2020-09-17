@@ -19,8 +19,8 @@ In 2018 we successfully helped elect Josh Harder to the House of Representatives
 
 Join us on Zoom to phone bank together online. If you're new to phone banking or Zoom, we're here to help! Trainers are available before and during the phonebank to answer any questions and get you set-up.
 
-Please RSVP as soon as possible, so we can email you the instructions in advance of the event.
+**Please RSVP as soon as possible, so we can email you the instructions in advance of the event.**
 
-What you'll need: A charged ipad, tablet, or computer (for viewing voters' screens and recording their answers) and your cell phone or landline.
+What you'll need: Your computer, laptop, or iPad (for viewing voters' screens and recording their answers) and your cell phone or landline.
 
 We’re happy to answer questions at: phonebank\+owner@indivisibleberkeley.org
