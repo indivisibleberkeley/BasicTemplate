@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-start-date: 2020-09-24 00:00:00 -07:00
 event-end-date: 2020-09-17 18:30:00 -07:00
 RSVP-link: https://www.mobilize.us/harderforcongress/event/283963/
