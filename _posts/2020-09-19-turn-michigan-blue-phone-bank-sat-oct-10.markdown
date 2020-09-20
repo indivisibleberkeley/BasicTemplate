@@ -1,5 +1,5 @@
 ---
-title: Turn Michigan Blue! Phone Bank Sat. Oct. 10!
+title: Turn Michigan Blue - Oct. 10th Phone Bank!
 date: 2020-09-19 21:04:00 -07:00
 categories:
 - event
