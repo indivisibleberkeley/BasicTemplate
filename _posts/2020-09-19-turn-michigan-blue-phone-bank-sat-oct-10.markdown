@@ -9,6 +9,7 @@ tags:
 main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-start-date: 2020-10-10 13:00:00 -07:00
 event-end-date: 2020-10-10 16:00:00 -07:00
+RSVP-link: https://join.indivisibleberkeley.org/phone_mi_20201010
 ---
 
 Michigan is a key battleground state. We need your help! Join us – we’ll be calling Michigan voters with the state Democratic Party’s coordinated campaign, the “ONE Campaign for Michigan,” supporting Presidential nominee Joe Biden, incumbent Senator Gary Peters (who’s in a tight race), and Democratic candidates up and down the ballot!
