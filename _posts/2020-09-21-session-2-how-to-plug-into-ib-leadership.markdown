@@ -15,7 +15,7 @@ The Steering Committee has realized the need for fresh voices and ideas to guide
 
 We strongly encourage you to attend, whether you are just curious about leadership or plan to step up and take on a new role.  
 
-We will start promptly at 7:30!
+We will start promptly at 11:30! 
 
 We will be using the Zoom video conferencing system for this meeting. You can download the software to your computer, laptop, smartphone or tablet by visiting https://zoom.us/download. For very detailed instructions, visit the IB Zoom Tips & Tricks page.
 
