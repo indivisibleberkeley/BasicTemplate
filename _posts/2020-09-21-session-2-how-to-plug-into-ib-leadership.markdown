@@ -9,9 +9,9 @@ event-end-date: 2020-10-03 12:30:00 -07:00
 Location: 'Zoom (see  description for link) '
 ---
 
-Are you interested in taking a leadership role in IB? Are you invested in IB's future?
+Are you invested in IB's future? Are you interested in taking on a leadership role in IB? 
 
-The Steering Committee has realized the need for fresh voices and ideas to guide IB and its teams forward into 2021 and beyond. If you're interested in being part of this and plugging into leadership, please join us for an info session on leadership opportunities in IB. We'll discuss different levels of leadership and how you can get involved.
+The Steering Committee has realized the need for fresh voices and ideas to guide IB and its teams forward into 2021 and beyond. If you're interested in being part of IB's future and plugging into leadership, please join us for an info session on leadership opportunities in IB. We'll discuss different levels of leadership and how you can get involved.
 
 We strongly encourage you to attend, whether you are just curious about leadership or plan to step up and take on a new role.
 
