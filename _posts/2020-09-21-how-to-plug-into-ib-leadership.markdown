@@ -19,6 +19,6 @@ We will start promptly at 7:30!
 
 We will be using the Zoom video conferencing system for this meeting. You can download the software to your computer, laptop, smartphone or tablet by visiting https://zoom.us/download. For very detailed instructions, visit the IB Zoom Tips & Tricks page.
 
-The link to click on to join this info session is  https://us02web.zoom.us/j/88233729030?pwd=WVNPejFLQUpLTjlFVkc3czVubTRZdz09. 
+The link to click on to join this info session is 	https://us02web.zoom.us/j/88233729030?pwd=WVNPejFLQUpLTjlFVkc3czVubTRZdz09. 
 
 Questions? Email info@indivisibleberkeley.org.
