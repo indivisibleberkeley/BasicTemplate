@@ -17,7 +17,6 @@ We will start promptly at 7:30!
 
 We will be using the Zoom video conferencing system for this meeting. You can download the software to your computer, laptop, smartphone or tablet by visiting https://zoom.us/download. For very detailed instructions, visit the IB Zoom Tips & Tricks page.
 
-The link to click on to join the General Assembly (doors open at 7 to give you a chance to try out your connection) is https://us02web.zoom.us/j/89164995098?pwd=OGx2MHUwTHI3Y3B6ajhjTEpNK1Vydz09. 
+The link to click on to join this info session is https://us02web.zoom.us/j/89164995098?pwd=OGx2MHUwTHI3Y3B6ajhjTEpNK1Vydz09. 
 
 Questions? Email info@indivisibleberkeley.org.
-
