@@ -1,5 +1,5 @@
 ---
-title: 'Session 2: How to Plug Into IB Leadership'
+title: Session 2 - How to Plug Into IB Leadership
 date: 2020-09-21 20:26:00 -07:00
 categories:
 - event
@@ -9,11 +9,11 @@ event-end-date: 2020-10-03 12:30:00 -07:00
 Location: 'Zoom (see  description for link) '
 ---
 
-The October GA will be a time to discuss self-care and resourcing for the days leading up to and following the November election.
+We see the need for fresh voices and ideas to guide IB and its teams forward into 2021 and beyond. And so, we’re inviting you to a Leadership Information Session, with Daron, who will discuss the various leadership opportunities available in IB. 
 
-We start promptly at 7:30!
+We strongly encourage you to attend, whether you are just curious about leadership or plan to step up and take on a new role. 
 
-“Doors open” at 7 for socializing and tech troubleshooting. If you have never used Zoom before, we recommend you try connecting at 7 so if there is an issue one of our tech gurus can help you out before the meeting begins.
+We will start promptly at 7:30!
 
 We will be using the Zoom video conferencing system for this meeting. You can download the software to your computer, laptop, smartphone or tablet by visiting https://zoom.us/download. For very detailed instructions, visit the IB Zoom Tips & Tricks page.
 
