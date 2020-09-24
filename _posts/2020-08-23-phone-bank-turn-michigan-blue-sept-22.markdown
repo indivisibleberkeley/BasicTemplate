@@ -1,6 +1,7 @@
 ---
 title: 'Phone Bank:  Turn Michigan Blue!  Sept. 22'
 date: 2020-08-23 16:20:00 -07:00
+published: false
 categories:
 - event
 tags:
