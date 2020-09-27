@@ -16,7 +16,7 @@ RSVP-link: https://www.mobilize.us/harderforcongress/event/326788/
 
 In 2018 we successfully helped get Josh Harder elected to the House of Representatives, representing Congressional District CA-10 (Tracy/Modesto). Now, he's running a competitive campaign for re-election, and he needs our help to win!
 
-Please join the Josh Harder campaign for a phone banking session online, via Zoom. The campaign will provide a training and be available to answer any questions. Also, Barbara Montano, one of our IB Phonebank Captains will be on the call to provide additional support.
+Please join the Josh Harder campaign for a phone banking session online, via Zoom. Starting in October, we'll be using an auto-dialer to reach even more voters! The campaign will provide a training and be available to answer any questions. Also, Barbara Montano, one of our IB Phonebank Captains will be on the call to provide additional support.
 
 Please [RSVP on the campaign's Mobilize site](https://www.mobilize.us/harderforcongress/event/326788/) for **October 8th at 6 pm**. The campaign will send an email with the Zoom link to join the phone bank at least an hour before it starts.
 
