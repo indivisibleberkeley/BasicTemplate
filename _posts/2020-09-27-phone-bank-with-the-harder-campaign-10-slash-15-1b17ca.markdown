@@ -1,5 +1,5 @@
 ---
-title: Phone Bank with the Harder Campaign, 10/15!
+title: Phone Bank with the Harder Campaign, 10/22!
 date: 2020-09-27 16:18:00 -07:00
 categories:
 - event
