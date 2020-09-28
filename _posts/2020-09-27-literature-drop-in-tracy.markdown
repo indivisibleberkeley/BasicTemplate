@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - elections
-main-image: "/uploads/IMG_7754%20(1).jpeg"
+main-image: "/uploads/IMG_4006%20-%20V2-66c83f.jpeg"
 event-start-date: 2020-10-03 09:00:00 -07:00
 event-end-date: 2020-10-11 12:00:00 -07:00
 ---
