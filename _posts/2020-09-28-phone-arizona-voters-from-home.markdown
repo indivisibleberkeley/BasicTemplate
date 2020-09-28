@@ -7,7 +7,7 @@ tags:
 - phonebank
 - elections
 main-image: "/uploads/AZ%20red%20bluff.jpeg"
-event-end-date: 2020-10-13 23:59:00 -07:00
+event-end-date: 2020-10-09 23:59:00 -07:00
 ---
 
 ### Phone voters in this critical swing state and help flip it blue!
