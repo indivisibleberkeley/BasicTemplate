@@ -20,4 +20,6 @@ You can sign up for one or more shifts, or If you're on a roll, you can just sta
 
 **Join us Saturday, 10/17, 2-4pm:** **[OpenVPB: Weekend Zoom Hub Sign-Ups](https://www.mobilize.us/missionforaz/event/312751/)**
 
-**Questions?** You'll get great training materials from the campaign! But feel free to call us before event if you have questions: phonebank\+owner@indivisibleberkeley.org.
+**Questions?** You'll get great training materials from the campaign! But feel free to email us up to the hour before the event if you have questions!
+
+phonebank\+owner@indivisibleberkeley.org.
