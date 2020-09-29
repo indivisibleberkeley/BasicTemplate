@@ -16,7 +16,7 @@ Location: Mission for Arizona's Central Phone Bank Zoom Hub
 
 The Mission for Arizona campaign, to elect Biden as POTUS, Mark Kelly to the Senate, and Dems down the ballot, is now asking us to join them in their central zoom phone bank hub where we'll work with phone volunteers from all over the country! Campaign staff will offer a quick training and support throughout the event on the chat.
 
-You can sign up for one or more shifts, or If you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too.
+You can sign up for one or more shifts, or if you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too.
 
 If you'd like to call using the familiar **OpenVPB dialer**, sign up[ ](https://mblz.io/0ic1oG)**[HERE](https://mblz.io/0ic1oG)**[ ](https://mblz.io/0ic1oG)and join us on Tuesday, Oct 20, 4-6pm on the Arizona campaign's zoom! Be prompt, as training starts right away!
 
