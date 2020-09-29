@@ -22,4 +22,6 @@ We'll be working together on zoom, and we'll provide training and support throug
 
 **RSVP as soon as possible**, preferably before the hour preceding  our start time or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
 
+One more thing -- this is our LAST locally-run phone bank for Arizona -- after this we're inviting you to join us on the campaign's central phone bank zoom and work with people from all over the country!  Check **[HERE](https://indivisibleberkeley.org/team/elections)** for more dates when we'll be calling Arizona, and for more of Indivisible Berkeley's election team events!
+
 Questions? Email: phonebank\+owner@indivisibleberkeley.org
