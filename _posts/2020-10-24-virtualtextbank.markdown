@@ -1,14 +1,14 @@
 ---
 title: Virtual Textbank  Sat. 10/24, 10-noon
-date: 2020-09-26 16:30:00 -07:00
+date: 2020-10-24 10:00:00 -07:00
 categories:
 - event
 tags:
 - elections
 - textbank
 is featured: false
-event-start-date: 2020-09-26 10:00:00 -07:00
-event-end-date: 2020-09-26 12:00:00 -07:00
+event-start-date: 2020-10-24 10:00:00 -07:00
+event-end-date: 2020-10-24 12:00:00 -07:00
 Location: Remote locations
 RSVP-link: https://actionnetwork.org/events/october-texting-party
 ---
