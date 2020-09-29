@@ -9,18 +9,17 @@ tags:
 main-image: "/uploads/AZ%20red%20bluff-2d1300.jpeg"
 event-start-date: 2020-10-20 16:00:00 -07:00
 event-end-date: 2020-10-20 18:00:00 -07:00
-Location: Viritual, online
-RSVP-link: https://join.indivisibleberkeley.org/phone_swing_states_2020_10_20
+Location: Mission for Arizona's Central Phone Bank Zoom Hub
 ---
 
-**Get Out The Vote -- and flip this swing state!**
+**Get out the vote and flip this critical swing state!**
 
-Early voting started October 7, and the race is tight! Arizona is a key battleground state-- for the presidency and the senate.  So we're calling  Arizona voters to help and encourage them to vote SOON, so they can be sure their votes will be counted!  We’ll be calling with the Arizona Democratic Party’s coordinated campaign, “Mission for Arizona,” supporting Joe Biden for POTUS, Mark Kelly for Senate, ,Senate candidate Mark Kelly and all Democratic candidates on the ballot.   We can flip the white house, U.S. Senate and the Arizona state house if we push hard! Join us!
+The Mission for Arizona campaign, to elect Biden as POTUS, Mark Kelly to the Senate, and Dems down the ballot, is now asking us to join them in their central zoom phone bank hub where we'll work with phone volunteers from all over the country! Campaign staff will offer a quick training and support throughout the event on the chat.
 
-We'll be working together on zoom, and we'll provide training and support throughout the phone bank.
+You can sign up for one or more shifts, or If you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too.
 
-**What you'll need:** a computer, tablet or ipad, and your phone.
+If you'd like to call using the familiar **OpenVPB dialer**, sign up[ ](https://mblz.io/0ic1oG)**[HERE](https://mblz.io/0ic1oG)**[ ](https://mblz.io/0ic1oG)and join us on Tuesday, Oct 20, 4-6pm on the Arizona campaign's zoom! Be prompt, as training starts right away!
 
-**RSVP as soon as possible**, preferably before the hour preceding our start time or we may miss you! Earlier is better, so that we can send you info you'll want to read, and can answer questions or offer tech support. by phone before the event.
+Or sign up **[HERE](https://mblz.io/4PVM8G)** if you’d like to join those of us who will be using  the **ThruTalk dialer**! Give it a try! It's an automated dialer -- faster, with a higher contact rate. It also masks your personal phone number. Here are some useful tips (from the Michigan campaign) about the[ ThruTalk dialer](https://docs.google.com/document/d/1__CXZqtaw2n4nGXnLRR9AYnvVxAbSx0Jc8fnOKwd5dA/edit?usp=sharing).
 
-Questions? Email: phonebank\+owner@indivisibleberkeley.org
+**Questions?** You'll get great training materials from the campaign!  But feel free to call us if you have questions: [phonebank\+owner@indivisibleberkeley.org](mailto:phonebank\+owner@indivisibleberkeley.org).
