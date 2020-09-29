@@ -12,7 +12,7 @@ event-end-date: 2020-10-17 16:00:00 -07:00
 Location: Mission for Arizona's Central Phone Bank Zoom Hub -- see you there!
 ---
 
-**Time to Get Out The Vote time in Arizona!    Weekend calling on the central campaign zoom!**
+**Time to Get Out The Vote in Arizona!    Weekend calling on the central campaign zoom!**
 
 The Mission for Arizona campaign,  for Biden for POTUS, Mark Kelly for Senate, and Dems down-ballot,  is now asking all volunteer phone bankers to join them in their central zoom phone bank hub.  This helps campaign staff react quickly to issues that come up, particularly around voter protection.   Campaign staff will offer a quick training and support throughout the event on the chat.
 
