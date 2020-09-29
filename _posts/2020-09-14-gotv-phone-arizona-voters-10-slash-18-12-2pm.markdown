@@ -16,7 +16,7 @@ Location: Mission for Arizona's Central Phone Bank Zoom Hub
 
 The Mission for Arizona campaign,  for Biden for POTUS, Mark Kelly for Senate, and Dems down the ballot, is now asking us to join them in their central zoom phone bank hub where we'll work with phone volunteers from all over the country!  Centralizing phone banking during GOTV helps campaign staff react quickly to issues that come up  --  particularly around voter protection.  Campaign staff will offer a quick training and support throughout the event on the chat.
 
-You can sign up for one or more shifts, or If you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too.....
+You can sign up for one or more shifts, or if you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too.....
 
 Sign up **[HERE](https://www.mobilize.us/missionforaz/event/321035/?share_medium=native_share&share_context=event_detail_page&force_banner=true)** and join us on **Sunday, Oct 18, 2-4pm** on the Arizona campaign's zoom, where we'll be using the ThruTalk automated dialer.
 
