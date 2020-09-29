@@ -14,13 +14,13 @@ Location: Mission for Arizona's Central Phone Bank Zoom Hub -- see you there!
 
 **Time to Get Out The Vote time in Arizona!    Weekend calling on the central campaign zoom!**
 
-The Mission for Arizona campaign,  for Biden for POTUS, Mark Kelly for Senate, and Dems down-ballot,  is asking all weekend callers to join them in their central zoom phone bank hub.  Centralizing phone banking during GOTV helps campaign staff react quickly to issues that come up, particularly around voter protection.   Campaign staff will offer a quick training and support throughout the event on the chat.
+The Mission for Arizona campaign,  for Biden for POTUS, Mark Kelly for Senate, and Dems down-ballot,  is now asking all volunteer phone bankers to join them in their central zoom phone bank hub.  This helps campaign staff react quickly to issues that come up, particularly around voter protection.   Campaign staff will offer a quick training and support throughout the event on the chat.
 
 You can sign up for one or more shifts, or If you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to)! Pick any shift -- they start at 10am! But If you'd like to (hopefully) see your IB friends there too.....
 
-**Sign up[ HERE ](https://www.mobilize.us/missionforaz/event/312751/)and join us Saturday, 10/17, 2-4pm, on the Arizona campaign's zoom.  **We'll   be using the **OpenVPB dialer, **which many phone volunteers are used to using.
+\*\*Sign up[ HERE ](https://www.mobilize.us/missionforaz/event/312751/)and join us Saturday, 10/17, 2-4pm, on the Arizona campaign's zoom.  \*\*We'll   be using the \*\*OpenVPB dialer, \*\*which many phone volunteers are used to using.
 
-Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4,  **[HERE](https://www.mobilize.us/missionforaz/event/312513/)**. 
+Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4,  **[HERE](https://www.mobilize.us/missionforaz/event/312513/)**.
 
 **Questions?** You'll get great training materials from the campaign! But feel free to email us, preferably before the event date,  if you have questions!
 
