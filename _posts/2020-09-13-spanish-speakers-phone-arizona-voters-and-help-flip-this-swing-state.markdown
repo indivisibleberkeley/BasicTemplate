@@ -15,7 +15,7 @@ Location: Virtual, online
 
 **Help Spanish-speaking Arizonans exercise their right to vote!**
 
-Speak Spanish fluently? Join Spanish language phone banks to help turn out Arizona voters so we can win this hard-fought race  in a critical swing state! Help flip the White House, a Senate seat, and help Democrats down ballot! These events are led by local Latinx organizers. You'll have your choice of calling using the automated dialer, which has a higher contact rate and also masks your personal phone number, or you can opt for using OpenVPB.
+Speak Spanish fluently? Join Spanish language phone banks to help turn out Arizona voters so we can win this hard-fought race  in a critical swing state! Help flip the White House, a Senate seat, and help Democrats down ballot! These events are led by local Arizona Latinx organizers . You'll have your choice of calling using the automated dialer, which has a higher contact rate and also masks your personal phone number, or you can opt for using OpenVPB.
 
 * **[Spanish OpenVPB Phonebank](https://www.mobilize.us/missionforaz/event/278082/) (operated by the Latinx Organizing Team)**
 
