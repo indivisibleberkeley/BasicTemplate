@@ -18,9 +18,9 @@ Flip this critical swing state! The Mission for Arizona campaign,  for Biden for
 
 You can sign up for one or more shifts, or if you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to)! Pick any shift -- they start at 10am! But If you'd like to (hopefully) see your IB friends there too.....
 
-Sign up \*\*[HERE](https://www.mobilize.us/missionforaz/event/321029/?share_medium=native_share&share_context=event_detail_page&force_banner=true) \*\*and join us **Saturday, 10/17,** **2-4pm**, on the Arizona campaign's zoom.  We'll   be using the OpenVPB dialer, which many phone volunteers are used to using.
+Sign up** [HERE](https://www.mobilize.us/missionforaz/event/321029/?share_medium=native_share&share_context=event_detail_page&force_banner=true)** and join us **Saturday, 10/17,** **2-4pm**, on the Arizona campaign's zoom.  We'll   be using the OpenVPB dialer, which many phone volunteers are used to using.
 
-Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4pm,  **[HERE](https://www.mobilize.us/missionforaz/event/312513/)**.
+Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4pm,  **[HERE](https://www.mobilize.us/missionforaz/event/321035/?share_medium=native_share&share_context=event_detail_page&force_banner=true)**.
 
 **Questions?** You'll get great training materials shortly before the event from the campaign. But feel free to email us, preferably before the event date,  if you have questions!
 
