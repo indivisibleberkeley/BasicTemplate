@@ -1,5 +1,5 @@
 ---
-title: Phone Bank for Josh Harder, Wed. 10/21
+title: Phone Bank for Biden & Peters in MI, Wed. 10/21
 date: 2020-08-25 11:10:00 -07:00
 categories:
 - event
