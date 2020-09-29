@@ -20,7 +20,7 @@ You can sign up for one or more shifts, or If you're on a roll, you can just sta
 
 Sign up[ ](https://www.mobilize.us/missionforaz/event/312751/)**[HERE](https://www.mobilize.us/missionforaz/event/312751/)**[ ](https://www.mobilize.us/missionforaz/event/312751/)and join us Saturday, 10/17, 2-4pm, on the Arizona campaign's zoom.  We'll   be using the OpenVPB dialer, which many phone volunteers are used to using.
 
-Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4,  **[HERE](https://www.mobilize.us/missionforaz/event/312513/)**.
+Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday and join us from 2-4pm,  **[HERE](https://www.mobilize.us/missionforaz/event/312513/)**.
 
 **Questions?** You'll get great training materials from the campaign! But feel free to email us, preferably before the event date,  if you have questions!
 
