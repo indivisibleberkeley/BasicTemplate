@@ -17,7 +17,7 @@ If you answered yes to any of these questions, please join the Indivisible Berke
 
 Please share this event with your friends and family - anyone you know who might be interested in getting involved. 
 
-Here's the Zoom link for joining: https://us02web.zoom.us/j/83829794914?pwd=eEJTNEhjbTZ5aTQyeEc1UkpQbEJNUT09
+Here's the Zoom link for joining: [https://us02web.zoom.us/j/83829794914?pwd=eEJTNEhjbTZ5aTQyeEc1UkpQbEJNUT09](https://us02web.zoom.us/j/83829794914?pwd=eEJTNEhjbTZ5aTQyeEc1UkpQbEJNUT09)
 
 Meeting ID: 838 2979 4914
 Passcode: 758252
