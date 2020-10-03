@@ -1,5 +1,5 @@
 ---
-title: No Contact Lit drop in Tracy!
+title: No Contact Lit drops in Tracy!
 date: 2020-09-27 18:00:00 -07:00
 categories:
 - action
