@@ -21,4 +21,3 @@ Here's the Zoom link for joining: https://us02web.zoom.us/j/83829794914?pwd=eEJT
 
 Meeting ID: 838 2979 4914
 Passcode: 758252
-
