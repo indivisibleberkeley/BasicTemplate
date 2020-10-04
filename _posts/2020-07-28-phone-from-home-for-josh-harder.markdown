@@ -8,7 +8,7 @@ tags:
 - phone bank
 event-start-date: 2020-07-27 00:00:00 -07:00
 event-end-date: 2020-11-03 00:00:00 -08:00
-RSVP-link: https://www.mobilize.us/harderforcongress/event/283963/
+RSVP-link: https://www.mobilize.us/harderforcongress/event/326788/
 ---
 
 Help Re-Elect Josh Harder by Phoning from Home!
