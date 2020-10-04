@@ -10,7 +10,7 @@ event-end-date: 2020-10-04 20:00:00 -07:00
 Location: Virtually on Zoom
 ---
 
-Please join us for our final Team meeting before the Nov. 3rd election.  We'll focus on GOTV (Get Out The Vote), as some of our target states will have already started voting!
+We're 30 days out from the election, and some states are already voting!  Join us for Team reports, an update on the MI Voter Protection Hotline, and a look ahead to Get Out The Vote.  It's GO time!
 
 *Doors* at 6:30 pm, meeting 7-8, Virtually.
 
