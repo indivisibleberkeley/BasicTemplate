@@ -20,9 +20,9 @@ You can sign up for one or more shifts, or if you're on a roll, you can just sta
 
 **Join us on Tuesday, Oct 20, 4-6pm on the Arizona campaign's zoom!**
 
-* If you'd like to call using the updated VPB Connect dialer\*\* **(similar to what we've been using), sign up[ ](https://mblz.io/0ic1oG)**[HERE ](https://mblz.io/0ic1oG)!
+* If you'd like to call using the updated VPB Connect dialer\*\* **(similar to what we've been using), sign up[ HERE ](https://mblz.io/0ic1oG)!**
 
 
 * Or sign up **[HERE](https://mblz.io/4PVM8G)** if you’d like to join those of us who will be using  the ThruTalk  automated dialer! Give it a try! It's faster, with a higher contact rate.
 
-**Questions?** You'll get great training materials from the campaign!  But feel free to call us if you have questions: [phonebank\+owner@indivisibleberkeley.org](mailto:phonebank\+owner@indivisibleberkeley.org).
+**Questions?** You'll get great training materials from the campaign!  But feel free to email us if you have questions: **[phonebank\+owner@indivisibleberkeley.org](mailto:phonebank\+owner@indivisibleberkeley.org)**.
