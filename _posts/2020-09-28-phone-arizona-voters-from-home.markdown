@@ -16,4 +16,4 @@ The Mission for Arizona campaign, supporting Joe Biden for POTUS, and Mark Kelly
 
 **Sign up now -- for as many shifts as you can!**
 
-https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175
+**https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175**
