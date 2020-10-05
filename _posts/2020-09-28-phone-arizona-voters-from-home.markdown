@@ -12,6 +12,6 @@ event-end-date: 2020-10-09 23:59:00 -07:00
 
 ### Phone voters in this critical swing state and help flip it blue!
 
-The Mission for Arizona campaign, supporting Joe Biden for POTUS, and Mark Kelly for Senate, and Democrats down the ballot, needs YOUR help to win this hard-fought election! Choose 2 hour shifts at times good for you! Each shift includes training and support throughout the time you're on the zoom.  You can choose to call using the automated dialer or VPB Connect, which is similar to what many IB phone volunteers are used to.  Please -- sign up for as many events as you can! Let's bring this home!
+The Mission for Arizona campaign, supporting Joe Biden for POTUS, and Mark Kelly for Senate, and Democrats down the ballot, needs YOUR help to win this hard-fought election! Choose 2 hour shifts at times good for you! Each shift includes training and support throughout the time you're on the zoom.  You can choose to call using the automated dialer or VPB Connect, an improved version of what many IB phone volunteers are used to using.  Please -- sign up for as many shifts as you can! Let's bring this home!
 
 **Sign up now to call, **starting Saturday, October 10! **[https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175](https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175)**
