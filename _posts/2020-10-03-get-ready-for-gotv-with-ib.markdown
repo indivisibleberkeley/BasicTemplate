@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - elections
+is featured: true
 main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-start-date: 2020-10-25 19:00:00 -07:00
 event-end-date: 2020-10-25 20:00:00 -07:00
