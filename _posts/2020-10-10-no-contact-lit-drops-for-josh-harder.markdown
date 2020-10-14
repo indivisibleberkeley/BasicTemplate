@@ -10,7 +10,7 @@ event-end-date: 2020-11-03 16:00:00 -08:00
 RSVP-link: https://www.mobilize.us/harderforcongress/event/330356/
 ---
 
-Join the Josh Harder campaign to safely drop lit to voters in Turlock, Modesto, and Tracy! We can't canvass this year, but we can still help support Josh Harder and other down-ballot candidates by sharing this important information with voters. 
+Join the Josh Harder campaign from Oct. 31-Nov.3 to safely drop lit to voters in Turlock, Modesto, and Tracy! We can't canvass this year, but we can still help support Josh Harder and other down-ballot candidates by sharing this important information with voters. 
 
 * Saturday, October 31st, 10:00 am - 1:00 pm; 1:00 - 4:00 pm 
 
