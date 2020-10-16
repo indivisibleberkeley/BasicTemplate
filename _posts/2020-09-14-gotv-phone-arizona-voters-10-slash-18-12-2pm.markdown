@@ -20,5 +20,8 @@ You can sign up for one or more shifts, or if you're on a roll, you can just sta
 
 Sign up **[HERE](https://www.mobilize.us/missionforaz/event/321035/?share_medium=native_share&share_context=event_detail_page&force_banner=true)** and join us on **Sunday, Oct 18, 2-4pm** on the Arizona campaign's zoom, where we'll be using the **ThruTalk automated dialer**.
 
-**Note:**  We recommend the ThruTalk automated dialer for experienced phone bankers, but give it a try! It's an automated dialer -- faster, and has a higher contact rate.  It also masks your personal phone number.\
+**Note:**  We recommend the ThruTalk automated dialer for experienced phone bankers, but give it a try! It's an automated dialer -- faster, and has a higher contact rate.  It also masks your personal phone number.
+
+**Tally for IB!** We'd love to know that our IB heroes are out there phoning, and we'd love to tally up our successes! So we have an ask -- can you fill out this **[TALLY FORM](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)** after your phone bank shift? Thanks! 
+
 **Questions?** You'll get great training materials from the campaign! But feel free to call us, preferably  before the event day, if you have questions: phonebank\+owner@indivisibleberkeley.org.
