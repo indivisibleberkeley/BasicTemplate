@@ -18,11 +18,12 @@ The Mission for Arizona campaign, to elect Biden as POTUS, Mark Kelly to the Sen
 
 You can sign up for one or more shifts, or if you're on a roll, you can just stay for an extra shift without repeating the training (unless you want to). Pick any shift! But If you'd like to (hopefully) see your IB friends there too --
 
-**Join us on Tuesday, Oct 20, 4-6pm on the Arizona campaign's zoom!**
+**Join us on Tuesday, Oct 20, 4-6pm on the Arizona campaign's zoom! **
 
-* If you'd like to call using the familiar OpenVPB**, sign up[ HERE ](https://mblz.io/0ic1oG)!**
+**You can choose to use the familiar VPB or the ThruTalk automated dialer.**
 
+* Sign up **[HERE](https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175)**!
 
-* Or sign up **[HERE](https://mblz.io/4PVM8G)** if you’d like to join those of us who will be using  the ThruTalk  automated dialer! Give it a try! It's faster, with a higher contact rate.
+* ** Tally for IB!** We'd love to know that our IB heroes are out there phoning, and we'd love to tally up our successes! The campaign won't ask you to tally your calls, but we have an ask -- can you fill out this **[TALLY FORM](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)** after your phone bank shift? Thanks!
 
-**Questions?** You'll get great training materials from the campaign!  But feel free to email us if you have questions: **[phonebank\+owner@indivisibleberkeley.org](mailto:phonebank\+owner@indivisibleberkeley.org)**.
+* **Questions?** You'll get great training materials from the campaign!  But feel free to email us if you have questions: **[phonebank\+owner@indivisibleberkeley.org](mailto:phonebank\+owner@indivisibleberkeley.org)**.
