@@ -22,7 +22,7 @@ You can sign up for one or more shifts, or if you're on a roll, you can just sta
 
 **You can choose to use the familiar VPB or the ThruTalk automated dialer.**
 
-* Sign up **[HERE](https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175)**!
+* Sign up in advance with the campaign **[HERE](https://www.mobilize.us/missionforaz/?is_virtual=true&tag_ids=175)**!
 
 * ** Tally for IB!** We'd love to know that our IB heroes are out there phoning, and we'd love to tally up our successes! The campaign won't ask you to tally your calls, but we have an ask -- can you fill out this **[TALLY FORM](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)** after your phone bank shift? Thanks!
 
