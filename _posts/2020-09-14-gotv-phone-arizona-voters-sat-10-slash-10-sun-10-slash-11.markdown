@@ -22,4 +22,6 @@ Sign up **[HERE](https://www.mobilize.us/missionforaz/event/321029/?share_medium
 
 Note: If you'd like to use ThruTalk, the campaign's automated dialer, sign up for Sunday, 10/18,  and join us from 2-4pm,  **[HERE](https://www.mobilize.us/missionforaz/event/321035/?share_medium=native_share&share_context=event_detail_page&force_banner=true)**.
 
+**Tally for IB!** We'd love to know that our IB heroes are out there phoning, and we'd love to tally up our successes! So we have an ask -- can you fill out this **[TALLY FORM](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)** after your phone bank shift? Thanks! 
+
 **Questions?** You'll get great training materials shortly before the event from the campaign. But feel free to email us, preferably before the event date,  if you have questions. at **phonebank\+owner@indivisibleberkeley.org**.
