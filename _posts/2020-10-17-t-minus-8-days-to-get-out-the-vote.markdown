@@ -33,7 +33,7 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 * RSVP [here](https://www.mobilize.us/onecampaignformichigan/event/332707/)
 * 7:00am - 10:00am
 * 10:00am - 1:00pm
-* 1:00pm - 4:00pm
+* 1:00pm - 3:00pm
 * 3:00pm - 5:00pm
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
