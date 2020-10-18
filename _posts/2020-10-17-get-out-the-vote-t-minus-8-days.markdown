@@ -1,6 +1,11 @@
 ---
 title: 'Get Out the Vote: T-Minus 8 Days!'
 date: 2020-10-17 21:34:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phone bank
 ---
 
 We're in the final stretch. Just eight days are between us and Election Day. What will **you** do today to elect Joe Biden, Kamala Harris, and Democrats downballot?
