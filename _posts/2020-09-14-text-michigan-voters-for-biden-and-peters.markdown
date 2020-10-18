@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - textbank
+main-image: "/uploads/5e4e17238711d248d53b9d76%20(1).jpeg"
 event-end-date: 2020-11-03 21:00:00 -08:00
 Location: Your home
 RSVP-link: https://www.mobilize.us/onecampaignformichigan/event/334287/
