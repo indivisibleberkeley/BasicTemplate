@@ -6,6 +6,8 @@ categories:
 tags:
 - elections
 - phone bank
+event-start-date: 2020-10-26 05:00:00 -07:00
+event-end-date: 2020-10-26 22:00:00 -07:00
 ---
 
 We're in the final stretch. Just eight days are between us and Election Day. What will **you** do today to elect Joe Biden, Kamala Harris, and Democrats downballot?
