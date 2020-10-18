@@ -8,13 +8,13 @@ tags:
 - textbank
 event-end-date: 2020-11-03 21:00:00 -08:00
 Location: Your home
-RSVP-link: https://www.mobilize.us/onecampaignformichigan/event/309885/
+RSVP-link: https://www.mobilize.us/onecampaignformichigan/event/334287/
 ---
 
-Michigan is a key battleground state – for the presidency, the Senate, the House, state legislature, EVERYTHING. We need your help to flip red seats blue and re-elect Democrats at every level in Michigan.
+Michigan is a key battleground state – for the presidency, the Senate, the House, state legislature, EVERYTHING. We need your help to flip Republican-held seats blue and re-elect Democrats at every level in Michigan.
 
-Join the Michigan Democratic Party's coordinated campaign to text voters in Michigan in support of Joe Biden for President, Gary Peters for Senate, and Democrats down-ballot! They are hosting events on Tuesdays, Thursdays, Saturdays, and Sundays. Each of the text bank shifts will kick-off with a quick training to make sure you know everything you need to know about texting Michigan voters. These events are organized by the party (not by IB), but we encourage you to join them if you can.
+Join the Michigan Democratic Party's coordinated campaign to text voters in support of Joe Biden for President and Gary Peters for Senate! They are hosting virtual text banks on weekends and the final days of the campaign. The campaign uses a software called ThruText, but if you're not familiar with it, don't worry! Each of the text bank shifts will kick off with a quick training to make sure you know everything necessary. These events are organized by the party (not by IB), but we encourage you to join them if you can.
 
-Full details are at the link below!
+Full details are at the link below, including how to RSVP!
 
-[https://www.mobilize.us/onecampaignformichigan/event/309885/](https://www.mobilize.us/onecampaignformichigan/event/309885/)
+[https://www.mobilize.us/onecampaignformichigan/event/334287/](https://www.mobilize.us/onecampaignformichigan/event/334287/)
