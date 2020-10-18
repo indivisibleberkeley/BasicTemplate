@@ -18,7 +18,7 @@ To keep a sense of community alive, though, we are offering a few features for I
 1. We will be hosting Office Hours, where you can ask for help from one of our expert phonebanking leaders. This is an opportunity to get assistance on how to use Zoom, working with dialers like ThruTalk, general phonebanking tips, and anything else we can help you with!
 2. Later in the week, we'll start a Social Hour at the end of the day to de-stress with fellow IB'ers.
 3. We know that you might not be sure which campaigns to call for, so we've created a sample schedule [here](www.indivisibleberkeley.org) for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
-4. Please keep track of your calls and conversations [**here**](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
+4. Please keep track of your calls and conversations [here](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
 
 If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
 
