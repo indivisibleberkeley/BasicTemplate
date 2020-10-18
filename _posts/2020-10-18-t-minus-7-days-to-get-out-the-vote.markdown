@@ -1,6 +1,11 @@
 ---
 title: T-Minus 7 Days to Get Out the Vote!
 date: 2020-10-18 13:50:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phone bank
 main-image: "/uploads/gettyimages-1042680620-1.jpg"
 ---
 
