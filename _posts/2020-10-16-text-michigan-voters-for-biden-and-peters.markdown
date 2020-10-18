@@ -1,6 +1,6 @@
 ---
 title: Text Michigan Voters for Biden and Peters!
-date: 2020-09-14 18:50:00 -07:00
+date: 2020-10-16 18:50:00 -07:00
 categories:
 - action
 tags:
