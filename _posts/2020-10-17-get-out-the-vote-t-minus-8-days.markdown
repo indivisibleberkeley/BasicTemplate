@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+main-image: "/uploads/gettyimages-620156040.jpg"
 event-start-date: 2020-10-26 05:00:00 -07:00
 event-end-date: 2020-10-26 22:00:00 -07:00
 ---
