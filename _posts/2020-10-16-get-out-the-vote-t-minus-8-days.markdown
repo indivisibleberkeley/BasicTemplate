@@ -1,6 +1,6 @@
 ---
 title: 'Get Out the Vote: T-Minus 8 Days!'
-date: 2020-10-17 21:34:00 -07:00
+date: 2020-10-16 21:34:00 -07:00
 categories:
 - event
 tags:
