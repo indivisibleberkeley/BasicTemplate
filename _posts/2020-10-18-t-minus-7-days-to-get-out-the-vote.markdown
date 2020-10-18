@@ -7,6 +7,8 @@ tags:
 - elections
 - phone bank
 main-image: "/uploads/gettyimages-1042680620-1.jpg"
+event-start-date: 2020-10-27 05:00:00 -07:00
+event-end-date: 2020-10-27 22:00:00 -07:00
 ---
 
 We're in the final stretch. Just seven days are between us and Election Day. What will **you** do today to elect Joe Biden, Kamala Harris, and Democrats downballot?
@@ -35,8 +37,11 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 * 3:00pm - 5:00pm
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
-* No phone banks today
+* RSVP [here](https://www.mobilize.us/missionforaz/event/320932/)
+* 2:00pm - 4:00pm
+* 4:00pm - 6:00pm
+* 6:00pm - 8:00pm
 
 **Indivisible Berkeley Office Hours**
-* 1:00pm - 2:00pm
+* 5:00pm - 6:00pm
 * The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at phonebank+owner@indivisibleberkeley.org!
