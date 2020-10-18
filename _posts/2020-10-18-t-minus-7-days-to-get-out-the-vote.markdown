@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
-main-image: "/uploads/GOTV%20Siteleaf%20Graphics.svg"
+main-image: "/uploads/MichelleObama.svg"
 event-start-date: 2020-10-27 05:00:00 -07:00
 event-end-date: 2020-10-27 22:00:00 -07:00
 ---
