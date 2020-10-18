@@ -6,7 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
-main-image: "/uploads/gettyimages-620156040-ba94fb.jpg"
+main-image: "/uploads/GOTV%20Siteleaf%20Graphics.png"
 event-start-date: 2020-10-26 05:00:00 -07:00
 event-end-date: 2020-10-26 22:00:00 -07:00
 ---
