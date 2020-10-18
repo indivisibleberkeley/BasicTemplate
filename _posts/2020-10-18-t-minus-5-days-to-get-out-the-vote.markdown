@@ -1,6 +1,14 @@
 ---
 title: T-Minus 5 Days to Get Out the Vote!
 date: 2020-10-18 16:37:00 -07:00
+categories:
+- event
+tags:
+- elections
+- phone bank
+main-image: "/uploads/GretchenWhitmer.svg"
+event-start-date: 2020-10-29 05:00:00 -07:00
+event-end-date: 2020-10-29 22:00:00 -07:00
 ---
 
 We're in the final stretch. Just five days are between us and Election Day. What will **you** do today to elect Joe Biden, Kamala Harris, and Democrats downballot?
