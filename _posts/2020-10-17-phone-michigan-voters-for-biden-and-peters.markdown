@@ -19,5 +19,6 @@ Join the Michigan Democratic Party's coordinated campaign to call voters in supp
 
 Full details are at the links below, including how to RSVP!
 
-[Weekdays in October](https://www.mobilize.us/onecampaignformichigan/event/332707/)
-[November and Weekends in October](https://www.mobilize.us/onecampaignformichigan/event/331854/)
+Weekdays in October: [https://www.mobilize.us/onecampaignformichigan/event/332707/](https://www.mobilize.us/onecampaignformichigan/event/332707/)
+
+November and Weekends in October: [https://www.mobilize.us/onecampaignformichigan/event/331854/](https://www.mobilize.us/onecampaignformichigan/event/331854/)
