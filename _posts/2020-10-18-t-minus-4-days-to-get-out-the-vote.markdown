@@ -37,9 +37,6 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * No phone banks today
-* 2:00pm - 4:00pm
-* 4:00pm - 6:00pm
-* 6:00pm - 8:00pm
 
 **Indivisible Berkeley Office Hours**
 * 1:00pm - 2:00pm
