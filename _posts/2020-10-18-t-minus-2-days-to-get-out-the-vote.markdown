@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - phone bank
+main-image: "/uploads/JoshHarder.svg"
 event-start-date: 2020-11-01 05:00:00 -08:00
 event-end-date: 2020-11-01 22:00:00 -08:00
 ---
