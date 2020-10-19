@@ -27,6 +27,7 @@ If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org
 
 California's 10th Congressional District (Re-Elect Josh Harder)
 * RSVP [**here**](https://www.mobilize.us/harderforcongress/event/326786/)
+* 9:00am - 12:00pm
 * 12:00pm - 3:00pm
 * 3:00pm - 6:00pm
 * 6:00pm - 9:00pm
