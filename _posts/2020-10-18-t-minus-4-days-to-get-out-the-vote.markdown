@@ -41,6 +41,7 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 **Indivisible Berkeley Office Hours**
 * 1:00pm - 2:00pm
 * The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at phonebank+owner@indivisibleberkeley.org!
+* If you need help but are unable to attend the Office Hours, please email us, and we will do our best to help you.
 
 **Indivisible Berkeley Social Hour**
 * 8:00pm - 9:00pm
