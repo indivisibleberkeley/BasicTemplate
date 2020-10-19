@@ -8,7 +8,7 @@ tags:
 - reclaim our vote
 is featured: true
 event-start-date: 2020-05-14 00:00:00 -07:00
-event-end-date: 2020-10-31 00:00:00 -07:00
+event-end-date: 2020-10-19 00:00:00 -07:00
 ---
 
 Write at home to support our work for Reclaim our Vote. 
