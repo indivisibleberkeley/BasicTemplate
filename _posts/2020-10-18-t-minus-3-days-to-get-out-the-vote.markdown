@@ -33,13 +33,18 @@ California's 10th Congressional District (Re-Elect Josh Harder)
 * 6:00pm - 9:00pm
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
-* RSVP [**here**](https://www.mobilize.us/onecampaignformichigan/event/332707/)
+* RSVP [**here**](https://www.mobilize.us/onecampaignformichigan/event/331854/)
+* 7:00am - 10:00am
 * 10:00am - 1:00pm
 * 1:00pm - 3:00pm
-* 3:00pm - 5:00pm
+* 3:00pm - 6:00pm
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
-* No phone banks today
+* RSVP [**here**](https://www.mobilize.us/missionforaz/event/320964/)
+* 10:00am - 12:00pm
+* 12:00am - 2:00pm
+* 2:00pm - 4:00pm
+* 4:00pm - 6:00pm
 
 **Indivisible Berkeley Office Hours**
 * 1:00pm - 2:00pm
