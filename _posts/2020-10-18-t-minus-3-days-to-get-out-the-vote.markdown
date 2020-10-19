@@ -26,8 +26,10 @@ If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org
 **Phone Banks (all times in Pacific)**
 
 California's 10th Congressional District (Re-Elect Josh Harder)
-* RSVP [**here**](https://www.mobilize.us/harderforcongress/event/326788/)
-* 6:00pm - 8:00pm
+* RSVP [**here**](https://www.mobilize.us/harderforcongress/event/326786/)
+* 12:00pm - 3:00pm
+* 3:00pm - 6:00pm
+* 6:00pm - 9:00pm
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 * RSVP [**here**](https://www.mobilize.us/onecampaignformichigan/event/332707/)
