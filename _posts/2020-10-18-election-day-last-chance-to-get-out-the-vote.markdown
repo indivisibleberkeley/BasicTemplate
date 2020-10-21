@@ -17,7 +17,7 @@ Indivisible Berkeley is thrilled to be working with three fantastic campaigns du
 
 **Please keep track of your calls and conversations [here](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)**. We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
 
-If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
+If you have any questions, contact us at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org). Let's win this thing.
 
 **Phone Banks (all times in Pacific)**
 
