@@ -15,6 +15,6 @@ Location: Virtual, online
 
 **Help Spanish-speaking Arizonans exercise their right to vote! **
 
-Speak Spanish fluently? Join Spanish language phone banks supporting Joe Biden for President, Mark Kelly for the Senate and Democrats down ballot! These events are led by local Arizona Latinx organizers. You'll have great training and support! Sign up as often as you can! You can make the difference!
+Join Spanish language phone banks supporting Joe Biden for President, Mark Kelly for the Senate and Democrats down ballot! These events are led by local Arizona Latinx organizers. You'll have great training and support! Sign up as often as you can! You can make the difference!
 
 * **Spanish language phone banks, sign up [HERE](https://www.mobilize.us/?org_ids=2374&tag_ids=1&tag_ids=2)!**
