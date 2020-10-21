@@ -47,11 +47,8 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 
 ### **Indivisible Berkeley Office Hours**
-
 * 10:00am - 11:00am
-
-* The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at phonebank\+owner@indivisibleberkeley.org!
-
+* The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org)!
 * If you need help but are unable to attend the Office Hours, please email us, and we will do our best to help you.
 
 **Indivisible Berkeley Social Hour** 🍷🍻
