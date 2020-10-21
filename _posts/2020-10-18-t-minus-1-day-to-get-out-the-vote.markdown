@@ -15,7 +15,6 @@ We're in the final stretch. Tomorrow is Election Day. What will **you** do today
 
 Indivisible Berkeley is thrilled to be working with three fantastic campaigns during the final days of the election: re-electing Josh Harder to Congress, working to elect Democrats in Michigan, and flipping Arizona blue. We won't be hosting our own phone banks during this time--instead, you should sign up with the campaigns directly! Below, we have listed the shifts for each campaign. Sign up for as many as you can!
 
-We know that you might not be sure which campaigns to call for, so we've created a sample schedule [**here**](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit) for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 4. Please keep track of your calls and conversations [**here**](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
 
 If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
@@ -43,6 +42,8 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * 1:00pm - 3:00pm
 * 3:00pm - 5:00pm
 * 5:00pm - 7:00pm
+
+We know that you might not be sure which campaigns to call for, so we've created a sample schedule [**here**](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit) for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 
 **Indivisible Berkeley Office Hours**
 * 1:00pm - 2:00pm
