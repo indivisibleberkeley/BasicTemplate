@@ -19,7 +19,7 @@ Indivisible Berkeley is thrilled to be working with three fantastic campaigns du
 
 If you have any questions, contact us at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org). Let's win this thing.
 
-**Phone Banks (all times in Pacific)**
+### **Phone Banks (all times in Pacific)**
 
 California's 10th Congressional District (Re-Elect Josh Harder)
 
