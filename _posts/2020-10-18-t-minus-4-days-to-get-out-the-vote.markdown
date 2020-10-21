@@ -28,6 +28,7 @@ California's 10th Congressional District (Re-Elect Josh Harder)
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 * RSVP **[here](https://www.mobilize.us/onecampaignformichigan/event/332707/)**
+* ThruTalk (auto-dialer)
 * 10:00am - 1:00pm
 * 1:00pm - 3:00pm
 * 3:00pm - 5:00pm
