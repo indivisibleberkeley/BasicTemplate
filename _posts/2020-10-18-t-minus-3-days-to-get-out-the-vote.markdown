@@ -15,7 +15,7 @@ We're in the final stretch. Just three days are between us and Election Day. Wha
 
 Indivisible Berkeley is thrilled to be working with three fantastic campaigns during the final days of the election: re-electing Josh Harder to Congress, working to elect Democrats in Michigan, and flipping Arizona blue. We won't be hosting our own phone banks during this time--instead, you should sign up with the campaigns directly! Below, we have listed the shifts for each campaign. Sign up for as many as you can!
 
-4. Please keep track of your calls and conversations [**here**](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
+**Please keep track of your calls and conversations [here](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)**. We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
 
 If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
 
