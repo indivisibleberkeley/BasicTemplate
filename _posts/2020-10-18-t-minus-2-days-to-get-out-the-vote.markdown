@@ -29,9 +29,8 @@ California's 10th Congressional District (Re-Elect Josh Harder)
 * 6:00pm - 9:00pm \*Josh Harder will be joining this phone bank at 6 pm! 
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
-
 * RSVP **[here](https://www.mobilize.us/onecampaignformichigan/event/331854/)**
-
+* ThruTalk (auto-dialer)
 * 7:00am - 10:00am
 
 * 10:00am - 1:00pm
