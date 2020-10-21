@@ -39,13 +39,9 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * RSVP [**here**](https://www.mobilize.us/missionforaz/event/320964/) for ThruTalk (auto-dialer)
 * RSVP [**here**](https://www.mobilize.us/missionforaz/event/320957/) for OpenVPB (manual dialer)
-
 * 11:00am - 1:00pm
-
 * 1:00pm - 3:00pm
-
 * 3:00pm - 5:00pm
-
 * 5:00pm - 7:00pm
 
 We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
