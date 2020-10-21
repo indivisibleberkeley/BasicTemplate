@@ -27,10 +27,12 @@ If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org
 
 California's 10th Congressional District (Re-Elect Josh Harder)
 * RSVP [**here**](https://www.mobilize.us/harderforcongress/event/326788/)
+* PDI (manual dialer)
 * 6:00pm - 8:00pm
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 * RSVP [**here**](https://www.mobilize.us/onecampaignformichigan/event/332707/)
+* ThruTalk (auto-dialer)
 * 7:00am - 10:00am
 * 10:00am - 1:00pm
 * 1:00pm - 3:00pm
@@ -38,6 +40,7 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * RSVP [**here**](https://www.mobilize.us/missionforaz/event/268317/)
+* OpenVPB (manual dialer)
 * 10:00am - 12:00pm
 * 12:00pm - 2:00pm
 * 2:00pm - 4:00pm
