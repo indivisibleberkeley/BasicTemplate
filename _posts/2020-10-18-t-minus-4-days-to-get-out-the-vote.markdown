@@ -17,16 +17,6 @@ Indivisible Berkeley is thrilled to be working with three fantastic campaigns du
 
 **Please keep track of your calls and conversations [here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit)**. We’d love to know the amazing work our volunteers are doing, so we’d like to tally up our successes!
 
-To keep a sense of community alive, though, we are offering a few features for IB!
-
-1. We are hosting Office Hours, where you can ask for help from one of our expert phonebanking leaders. This is an opportunity to get assistance on how to use Zoom, working with dialers like ThruTalk, general phonebanking tips, and anything else we can help you with!
-
-2. We are hosting a daily Social Hour to de-stress with fellow IB'ers, share phonebanking stories, and hang out with the IB community!
-
-3. We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
-
-4. Please keep track of your calls and conversations **[here](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform)**. We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
-
 If you have any questions, contact us at phonebank\+owner@indivisibleberkeley.org. Let's win this thing.
 
 ### **Phone Banks (all times in Pacific)**
@@ -60,6 +50,8 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * 4:00pm - 6:00pm
 
 * 6:00pm - 8:00pm
+
+We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 
 ### **Indivisible Berkeley Office Hours**
 
