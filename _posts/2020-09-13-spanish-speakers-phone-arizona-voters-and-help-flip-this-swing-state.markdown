@@ -13,7 +13,7 @@ event-end-date: 2020-11-03 20:00:00 -08:00
 Location: Virtual, online
 ---
 
-\*\*Help Spanish-speaking Arizonans exercise their right to vote! \*\*
+### Help Spanish-speaking Arizonans exercise their right to vote! 
 
 Join Spanish language phone banks supporting Joe Biden for President, Mark Kelly for the Senate and Democrats down ballot! These events are led by local Arizona Latinx organizers, and you'll have great training and support. Sign up as often as you can! You can make the difference! Sign up and call voters as often as you can! 
 
