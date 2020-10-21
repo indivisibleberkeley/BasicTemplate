@@ -44,9 +44,9 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * 3:00pm - 5:00pm
 * 5:00pm - 7:00pm
 
-We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
+We know that you might not be sure which campaigns to call for, so we've created a sample schedule **[here](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit)** for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 
-**Indivisible Berkeley Office Hours**
+### **Indivisible Berkeley Office Hours**
 
 * 10:00am - 11:00am
 
