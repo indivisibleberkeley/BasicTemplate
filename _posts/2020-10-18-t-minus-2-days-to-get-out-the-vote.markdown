@@ -71,7 +71,7 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 
 * If you need help but are unable to attend the Office Hours, please email us, and we will do our best to help you.
 
-**Indivisible Berkeley Social Hour**
+**Indivisible Berkeley Social Hour** 🍷🍻
 
 * 6:00pm - 7:00pm
 
