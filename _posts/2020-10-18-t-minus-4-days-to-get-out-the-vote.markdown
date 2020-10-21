@@ -51,4 +51,4 @@ We know that you might not be sure which campaigns to call for, so we've created
 
 ### **Indivisible Berkeley Social Hour 🍷🍻**
 * 8:00pm - 9:00pm
-* The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at phonebank\+owner@indivisibleberkeley.org!
+* The Zoom link can be found in your Daily GOTV email from IB this morning. If you can't find it or aren't signed up for Daily GOTV emails, email us at [phonebank+owner@indivisibleberkeley.org](mailto:phonebank+owner@indivisibleberkeley.org)!
