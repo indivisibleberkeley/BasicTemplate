@@ -23,7 +23,7 @@ To keep a sense of community alive, though, we are offering a few features for I
 
 If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
 
-# **Phone Banks (all times in Pacific)**
+**Phone Banks (all times in Pacific)**
 
 California's 10th Congressional District (Re-Elect Josh Harder)
 * RSVP [**here**](https://www.mobilize.us/harderforcongress/event/326788/)
