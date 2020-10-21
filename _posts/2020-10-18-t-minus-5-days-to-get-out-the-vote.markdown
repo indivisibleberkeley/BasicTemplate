@@ -15,11 +15,7 @@ We're in the final stretch. Just five days are between us and Election Day. What
 
 Indivisible Berkeley is thrilled to be working with three fantastic campaigns during the final days of the election: re-electing Josh Harder to Congress, working to elect Democrats in Michigan, and flipping Arizona blue. We won't be hosting our own phone banks during this time--instead, you should sign up with the campaigns directly! Below, we have listed the shifts for each campaign. Sign up for as many as you can!
 
-To keep a sense of community alive, though, we are offering a few features for IB!
-1. We are hosting Office Hours, where you can ask for help from one of our expert phonebanking leaders. This is an opportunity to get assistance on how to use Zoom, working with dialers like ThruTalk, general phonebanking tips, and anything else we can help you with!
-2. Later in the week, we'll start a Social Hour at the end of the day to de-stress with fellow IB'ers.
-3. We know that you might not be sure which campaigns to call for, so we've created a sample schedule [**here**](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing) for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
-4. Please keep track of your calls and conversations [**here**](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
+Please keep track of your calls and conversations [**here**](https://docs.google.com/forms/d/e/1FAIpQLSciXaJbyMpPyk1Vc50wSdJlR0YiCBxo8zmrSXgzPqPeI-DwoQ/viewform). We'd love to know the amazing work our volunteers are doing, so we'd like to tally up our successes!
 
 If you have any questions, contact us at phonebank+owner@indivisibleberkeley.org. Let's win this thing.
 
@@ -41,6 +37,8 @@ Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * 2:00pm - 4:00pm
 * 4:00pm - 6:00pm
 * 6:00pm - 8:00pm
+
+We know that you might not be sure which campaigns to call for, so we've created a sample schedule [**here**](https://docs.google.com/document/d/1wvNNIJYZ9EQVh3nw6ALxjls-0jvzGCmAb45IJqdi3tQ/edit?usp=sharing) for you to use. You are not at all obligated to use it, but we're just offering it as a template to guide you!
 
 **Indivisible Berkeley Office Hours**
 * 5:00pm - 6:00pm
