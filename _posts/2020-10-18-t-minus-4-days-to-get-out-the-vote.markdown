@@ -23,6 +23,7 @@ If you have any questions, contact us at [phonebank+owner@indivisibleberkeley.or
 
 California's 10th Congressional District (Re-Elect Josh Harder)
 * RSVP **[here](https://www.mobilize.us/harderforcongress/event/326788/)**
+* PDI (manual dialer)
 * 6:00pm - 8:00pm
 
 Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
