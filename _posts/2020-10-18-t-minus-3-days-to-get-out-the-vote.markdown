@@ -39,6 +39,7 @@ Michigan Statewide Campaign (Elect Biden/Harris, Re-Elect Gary Peters)
 
 Arizona Statewide Campaign (Elect Biden/Harris, Elect Mark Kelly)
 * RSVP [**here**](https://www.mobilize.us/missionforaz/event/320964/) for ThruTalk (auto-dialer)
+* RSVP [**here**](https://www.mobilize.us/missionforaz/event/320957/) for OpenVPB (manual dialer)
 * 10:00am - 12:00pm
 * 12:00am - 2:00pm
 * 2:00pm - 4:00pm
