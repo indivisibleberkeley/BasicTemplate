@@ -1,6 +1,11 @@
 ---
 title: 'Vote YES on HH: Our Climate Equity Fund!'
 date: 2020-10-23 16:53:00 -07:00
+categories:
+- action
+tags:
+- science
+- environment
 is featured: true
 event-end-date: 2020-11-03 20:00:00 -08:00
 ---
