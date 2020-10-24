@@ -7,6 +7,7 @@ tags:
 - science
 - environment
 is featured: true
+main-image: "/uploads/unnamed%20(2).jpg"
 event-end-date: 2020-11-03 20:00:00 -08:00
 ---
 
