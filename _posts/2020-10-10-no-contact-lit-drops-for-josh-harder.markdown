@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - elections
-main-image: "/uploads/IMG_4006%20-%20V2-66c83f.jpeg"
+main-image: "/uploads/IMG_0879.jpeg"
 event-end-date: 2020-11-03 16:00:00 -08:00
 RSVP-link: https://www.mobilize.us/harderforcongress/event/330356/
 ---
